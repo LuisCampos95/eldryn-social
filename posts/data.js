@@ -5,6 +5,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "2026-07-15-hype-capitulo1-sexta",
+    "rodada": "2026-07-15 18:45",
+    "emoji": "🚨",
+    "titulo": "HYPE pré-blog do Capítulo 1 (postar quinta/sexta cedo pra criar expectativa) — ver PLANO_CAPITULO1.md",
+    "fonte": "https://x.com/Simon_Hypixel/status/2076441442843566149",
+    "fonteData": "12/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Post de HYPE pra postar antes do blog de sexta (quinta à noite ou sexta de manhã), criando expectativa. Quando o blog sair sexta 12h, seguir o PLANO_CAPITULO1.md e gerar a leva completa (breaking, thread, lore, o que muda, reação).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/e8d5c18c-c477-48f8-a409-26fcca2683d0.png",
+      "nota": "Ideal: imagem editada sua de contagem regressiva. Sem ela, arte oficial do Hytale."
+    },
+    "twitter": "🚨 SEXTA PODE SER O DIA MAIS IMPORTANTE DO HYTALE EM ANOS\n\nO Simon vai soltar um blog abrindo os bastidores do Capítulo 1, mostrando o que vem antes e depois dele e as grandes mudanças que tão chegando no jogo\n\nE tem mais, ele avisou que dessa vez vão spoilar bem mais do que o normal, então prepara o coração\n\nFaz tempo que a gente não tinha uma prévia desse tamanho. Marca aí, sexta ao meio-dia (horário de Brasília) 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🚨 Sexta pode ser o dia mais importante do Hytale em anos\n\nO Simon vai soltar um blog abrindo os bastidores do Capítulo 1. Ele prometeu mostrar o que vem antes e depois dele e as grandes mudanças que tão chegando no jogo.\n\nE ainda avisou que dessa vez vão spoilar bem mais do que o costume, então já prepara a ansiedade.\n\nFaz muito tempo que a gente não tinha uma prévia desse tamanho vindo direto do estúdio. Anota na agenda, é sexta ao meio-dia no horário de Brasília 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "2026-07-15-calculadora-3d-hexcode",
     "rodada": "2026-07-15 17:18",
     "emoji": "🤯",

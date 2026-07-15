@@ -55,6 +55,9 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 
 Emojis de abertura por tipo: 🚨 notícia quente/saiu agora · 🤩 confirmação boa · ⚙️ feature/técnico · ⏰ data/horário · 🔥 hype · 🧵 thread · 👀 rumor/teaser · 🎮 gameplay · 🤯 surpreendente
 
+## ⭐ EVENTO ESPECIAL — Blog do Capítulo 1 (sexta 17/07, 12h Brasília)
+O blog mais importante da história do jogo. Quando detectar que saiu (post novo no /news sexta, ou tweet do @Hytale/@Simon), SEGUIR O ARQUIVO `PLANO_CAPITULO1.md` — ler o blog inteiro e gerar VÁRIOS posts (breaking + thread + lore + o que muda + hype + pós), não um só. Caprichar muito mais que o normal, é o post do ano. O Luis vai ter imagens editadas próprias pra isso.
+
 ## Barra de relevância
 - **CAPÍTULOS E LORE = PRIORIDADE MÁXIMA.** Qualquer informação sobre os Capítulos do Hytale (Capítulo 1, 2...), a história/lore, o arco Cursebreaker, o que vem em cada capítulo — isso gera MUITO engajamento e conta a história do jogo. Nunca deixar passar. Notícia de capítulo sempre vira post.
 - Fontes oficiais top: Simon (posts, reposts E RESPOSTAS dele — solta MUITA notícia respondendo jogador, é ouro), conta @Hytale, blog do site.
