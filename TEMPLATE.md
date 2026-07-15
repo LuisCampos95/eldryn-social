@@ -21,8 +21,9 @@ Ninguém pode perceber que os posts foram criados por IA. Isso é inegociável.
 - Variar a construção entre posts. Dois posts seguidos não podem ter o mesmo esqueleto.
 
 ## Quantos posts por varredura
-- SEM limite fixo. Traz TODOS os itens que passam nas réguas de qualidade (recência, veracidade, upvotes do reddit, relevância). Pode ser 0, pode ser 5.
-- Qualidade acima de quantidade: melhor 1 post forte que 4 fracos. Item duvidoso (comunidade fraca, upvotes baixos) só entra com aviso no resumo pro Luis decidir. Nunca inventa notícia pra "encher".
+- SEM LIMITE. NUNCA cortar a quantidade. Se tiver 8 coisas boas, gera 8 posts. Se tiver 2, gera 2. Nunca parar em 3 por parar.
+- Traz TODOS os itens que passam nas réguas (recência, veracidade, upvotes do reddit ≥50, relevância). Fontes distintas contam separado: cada resposta/assunto do Simon, cada post de reddit forte, cada página nova do site, cada patch = um card.
+- Único freio é qualidade real: não inventar notícia pra encher, e item fraco entra com aviso no resumo (o Luis decide). Fora isso, quanto mais conteúdo bom, mais posts.
 
 ## Profundidade do texto — NÃO ser raso
 O Luis reclamou de post curto/simples demais ("muito simples e ruim"). Todo post (menos tweet de 1 linha muito óbvio) deve CONTAR A HISTÓRIA com contexto e desdobramento, não só anunciar o fato:
@@ -88,7 +89,7 @@ O Simon publica um post e responde MUITOS comentários dele, sobre assuntos vari
 
 ## Reddit — régua de upvotes (conteúdo precisa de aceitação comprovada)
 - Fonte: top da SEMANA do r/hytale (não do dia). Conteúdo alguns dias mais velho é BOM, prova que a galera gostou.
-- **Mínimo 100 upvotes** pra virar rascunho. Entre 50 e 99 só se o dia estiver sem notícia, avisando no resumo. Abaixo de 50, ignora.
+- **Mínimo 50 upvotes** pra virar rascunho (r/hytale é sub pequeno, 100 barrava quase tudo). Entre 25 e 49 só se o dia estiver sem notícia, avisando no resumo. Abaixo de 25, ignora.
 - Como pegar o score: baixar a página do post em old.reddit.com e pegar o primeiro `class="score unvoted" title="N"` do HTML (é o score do post; os seguintes são de comentários). Esperar ~10s entre downloads de página (rate limit).
 - **Ninguém deve saber que a fonte foi o reddit.** O corpo conta a história como fato ("Um jogador...", "Um criador..."); só a linha de crédito no fim, com emoji + user.
 - Sempre anotar o score no resumo do card ("145 upvotes ✓").
