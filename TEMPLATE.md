@@ -24,6 +24,27 @@ Ninguém pode perceber que os posts foram criados por IA. Isso é inegociável.
 - SEM limite fixo. Traz TODOS os itens que passam nas réguas de qualidade (recência, veracidade, upvotes do reddit, relevância). Pode ser 0, pode ser 5.
 - Qualidade acima de quantidade: melhor 1 post forte que 4 fracos. Item duvidoso (comunidade fraca, upvotes baixos) só entra com aviso no resumo pro Luis decidir. Nunca inventa notícia pra "encher".
 
+## Profundidade do texto — NÃO ser raso
+O Luis reclamou de post curto/simples demais ("muito simples e ruim"). Todo post (menos tweet de 1 linha muito óbvio) deve CONTAR A HISTÓRIA com contexto e desdobramento, não só anunciar o fato:
+- Fato principal + o que isso significa + o que vem depois + detalhe extra que a fonte deu.
+- Usar a estrutura de blocos: manchete forte, 1 parágrafo de contexto, e quando fizer sentido uma lista com emoji por linha dos pontos.
+- Modelo aprovado pelo Luis (estilo alvo):
+  "🚨 SIMON ABRIU O JOGO SOBRE OS PRÓXIMOS PASSOS
+  
+  O blog com os bastidores do Capítulo 1 já tem data, sai nessa SEXTA (17/07) às 12h no horário de Brasília
+  
+  Depois disso o Simon vai tirar o primeiro fim de semana de folga desde que recomprou o Hytale, e já na semana que vem começa o planejamento do Capítulo 2 enquanto a equipe segue no Capítulo 1
+  
+  E o time vai crescer, eles vão atrás de designers de combate e de mundo pra reforçar o estúdio 👀"
+
+## Fuso horário
+Simon/estúdio escrevem em "EST". Converter tomando ao pé da letra o que escreveram: 10h EST = 12h de Brasília (2h de diferença). Não assumir horário de verão americano.
+
+## Código de criador — SEMPRE no fim de todo post
+Última linha de TODO post (twitter e meta), depois das hashtags no Meta:
+`⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale`
+Coloca sempre, em todos os posts, sem exceção.
+
 ## Título e gancho — o mais importante
 O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação concreta E o gancho.
 - Ruim: "🔥 - A COMUNIDADE NÃO PARA!" (genérico, não diz nada)
