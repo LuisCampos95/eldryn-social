@@ -5,6 +5,29 @@
 // Crédito de terceiro: última linha, só emoji + user (🎥 vídeo / 📷 foto), sem a palavra "Créditos".
 window.ELDRYN_POSTS = [
   {
+    id: "2026-07-15-blog-capitulo1-17jul",
+    rodada: "2026-07-15 16:41",
+    emoji: "🚨",
+    titulo: "Simon confirma blog gigante do Capítulo 1 pra sexta (17/07) e avisa que vai spoilar mais que o normal",
+    fonte: "https://x.com/Simon_Hypixel/status/2076441442843566149",
+    fonteData: "12/07/2026",
+    confiabilidade: "oficial",
+    resumo: "Notícia âncora da semana. O Simon marcou um blog pra 17/07 (sexta), 10h EST, cobrindo o Early Access Capítulo I, o que sai antes/depois dele e grandes mudanças no jogo — e prometeu spoilar mais que o costume. Reforçado por várias respostas dele hoje (15/07): 'See you Friday 10AM', 'prometo um bom futuro'. O post do reddit sobre o mesmo anúncio bateu 720 upvotes.",
+    midia: {
+      tipo: "tweet",
+      url: "https://x.com/Simon_Hypixel/status/2076441442843566149",
+      tweetId: "2076441442843566149",
+      tweetTexto: "Hytale blog post coming July 17th, 10AM EST\n\nWe'll go over Early Access Chapter I, what's shipping before and after it, and some major changes coming to the game!\n\nWorth marking the calendar for this one. Fair warning: we're going to spoil more than we normally would.",
+      tweetTextoPt: "Blog do Hytale chegando dia 17 de julho, 10h EST\n\nVamos falar sobre o Early Access Capítulo I, o que sai antes e depois dele, e algumas grandes mudanças que vêm por aí no jogo!\n\nVale marcar no calendário. Aviso justo, dessa vez a gente vai spoilar mais do que costuma.",
+      tweetAutor: "Simon · @Simon_Hypixel",
+      tweetAvatar: "avatars/simon_hypixel.png",
+      tweetData: "12 de jul de 2026",
+      nota: "Tweet oficial do anúncio. A imagem estilo tweet já carrega a marca via @OrbisHytale, sem precisar de crédito de terceiro."
+    },
+    twitter: "🚨 SEXTA TEM BLOG NOVO DO HYTALE E O SIMON JÁ AVISOU QUE VAI SPOILAR PESADO\n\nDia 17 de julho, 10h da manhã no horário de Nova York (perto do meio-dia aqui no Brasil), o estúdio solta um blogão sobre o futuro do jogo\n\nO que o Simon prometeu que vem 👇\n📖 tudo sobre o Early Access Capítulo I\n📦 o que sai antes e o que sai depois dele\n⚙️ grandes mudanças que tão chegando no jogo\n\nEle pediu pra marcar no calendário e falou que dessa vez vão revelar bem mais coisa que o normal. Vídeo do conteúdo grande ainda não, mas spoiler vem 👀\n\nMarca aí, sexta é dia",
+    meta: "🚨 Sexta tem blog novo do Hytale e o Simon já avisou que vai spoilar mais que o de costume\n\nO anúncio saiu no perfil dele. No dia 17 de julho, 10h da manhã no horário de Nova York (perto do meio-dia aqui no Brasil), o estúdio publica um blog grande sobre o futuro do jogo.\n\nO que o Simon prometeu que vem 👇\n📖 tudo sobre o Early Access Capítulo I\n📦 o que sai antes e o que sai depois dele\n⚙️ grandes mudanças que tão chegando pro jogo\n\nEle mesmo pediu pra galera marcar no calendário e disse que dessa vez vão revelar bem mais coisa que o normal. Vídeo do conteúdo grande ainda não vem, mas spoiler vai ter de sobra.\n\nNos comentários dessa semana ele ainda garantiu que promete um bom futuro pro jogo. Agora é esperar sexta.\n\n#Hytale #HytaleBrasil"
+  },
+  {
     id: "2026-07-15-machinima-tools",
     rodada: "2026-07-15 13:52",
     emoji: "🎮",
