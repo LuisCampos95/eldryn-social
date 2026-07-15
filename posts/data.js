@@ -4,6 +4,23 @@
 // twitter (X), meta (UM texto só, publicado via Meta Business Suite na página do FB + Insta + grupo).
 window.ELDRYN_POSTS = [
   {
+    id: "2026-07-15-machinima-tools",
+    rodada: "2026-07-15 13:52",
+    emoji: "🎮",
+    titulo: "Reddit mostra as ferramentas de machinima nativas do Hytale (cinemática dentro do jogo)",
+    fonte: "https://www.reddit.com/r/hytale/comments/1uxalzf/try_out_the_hytale_machinima_tools_in_hytale/",
+    fonteData: "15/07/2026",
+    confiabilidade: "comunidade",
+    resumo: "Post do reddit (u/Only_Passenger_6839, de hoje) mostrando as ferramentas de machinima nativas do Hytale, que deixam montar câmera, trajetória e cena inteira dentro do jogo. Conteúdo de comunidade e meio fraco, vale mais pra dia sem notícia forte. O autor avisa que ainda tá cheio de bug.",
+    midia: {
+      tipo: "imagem",
+      url: "https://i.redd.it/iuaq31w85fdh1.png",
+      nota: "Preview do post no reddit. Baixar e anexar no X e no Meta."
+    },
+    twitter: "🎮 DÁ PRA GRAVAR CINEMÁTICA DENTRO DO HYTALE SEM PROGRAMA DE FORA\n\nO u/Only_Passenger_6839 testou as ferramentas de machinima do próprio jogo e mostrou que dá pra controlar câmera, trajetória e montar uma cena inteira ali dentro\n\nAinda tá cru mas o potencial pra fazer trailer é grande 👀",
+    meta: "🎮 Você sabia que dá pra gravar cinemática dentro do Hytale sem usar nenhum programa de fora?\n\nO u/Only_Passenger_6839 testou as ferramentas de machinima nativas do jogo e mostrou como dá pra controlar câmera, trajetória, velocidade e montar uma cena inteira ali dentro.\n\nAinda tá bem cru e cheio de bug, mas já dá pra montar trailer e vídeo sem sair do jogo. Créditos ao u/Only_Passenger_6839 🎥\n\n#Hytale #HytaleBrasil"
+  },
+  {
     id: "2026-07-15-update6-giroscopio",
     rodada: "2026-07-15 12:31",
     emoji: "🎮",
