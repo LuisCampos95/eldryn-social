@@ -172,88 +172,113 @@ window.__initEldryn = function () {
     return texto.replace(/https?:\/\/\S+/g, "x".repeat(23)).length;
   }
 
-  // gera imagem estilo print de tweet (pro Meta, que exige imagem)
+  // gera imagem estilo tweet de verdade, em PORTUGUÊS, com o avatar real (pro Face/Insta)
   function baixarImagemTweet(midia) {
     const W = 1080, H = 1080;
     const c = document.createElement("canvas");
     c.width = W; c.height = H;
     const ctx = c.getContext("2d");
+    const FF = "'Segoe UI', 'Helvetica Neue', Arial, system-ui, sans-serif";
 
-    ctx.fillStyle = "#15202b";
-    ctx.fillRect(0, 0, W, H);
-
-    const pad = 90;
-    const texto = midia.tweetTexto || "";
+    // texto: prioriza a tradução em PT; cai pro original se não tiver
+    const texto = midia.tweetTextoPt || midia.tweetTexto || "";
     const autor = midia.tweetAutor || "";
-    const nome = autor.split("·")[0].trim() || "X";
+    const nome = (autor.split("·")[0] || "X").trim();
     const handle = (autor.split("·")[1] || "").trim();
+    const data = midia.tweetData || "";
 
-    // quebra o texto em linhas
-    const tamFonte = texto.length > 420 ? 38 : texto.length > 240 ? 44 : 50;
-    const altLinha = Math.round(tamFonte * 1.45);
-    ctx.font = tamFonte + "px 'Segoe UI', system-ui, sans-serif";
-    const larguraMax = W - pad * 2;
-    const linhas = [];
-    for (const paragrafo of texto.split("\n")) {
-      let linha = "";
-      for (const palavra of paragrafo.split(" ")) {
-        const teste = linha ? linha + " " + palavra : palavra;
-        if (ctx.measureText(teste).width > larguraMax && linha) {
-          linhas.push(linha);
-          linha = palavra;
-        } else linha = teste;
+    function desenhar(avatarImg) {
+      // fundo preto (tema do X)
+      ctx.fillStyle = "#000000";
+      ctx.fillRect(0, 0, W, H);
+
+      const pad = 80;
+      const avSize = 130;
+      const cx = pad + avSize / 2, cy = pad + avSize / 2;
+
+      // avatar (recortado em círculo) ou fallback cinza
+      ctx.save();
+      ctx.beginPath(); ctx.arc(cx, cy, avSize / 2, 0, Math.PI * 2); ctx.closePath(); ctx.clip();
+      if (avatarImg) {
+        ctx.drawImage(avatarImg, pad, pad, avSize, avSize);
+      } else {
+        ctx.fillStyle = "#333639"; ctx.fillRect(pad, pad, avSize, avSize);
       }
-      linhas.push(linha);
+      ctx.restore();
+
+      // nome + selo azul de verificado
+      ctx.textBaseline = "alphabetic";
+      ctx.fillStyle = "#e7e9ea";
+      ctx.font = "bold 48px " + FF;
+      const nomeX = pad + avSize + 28;
+      ctx.fillText(nome, nomeX, pad + 52);
+      const larguraNome = ctx.measureText(nome).width;
+      const bx = nomeX + larguraNome + 34, by = pad + 40;
+      ctx.fillStyle = "#1d9bf0";
+      ctx.beginPath(); ctx.arc(bx, by, 22, 0, Math.PI * 2); ctx.fill();
+      ctx.strokeStyle = "#000000"; ctx.lineWidth = 6;
+      ctx.beginPath();
+      ctx.moveTo(bx - 10, by); ctx.lineTo(bx - 3, by + 8); ctx.lineTo(bx + 11, by - 9);
+      ctx.stroke();
+
+      // handle
+      ctx.fillStyle = "#71767b";
+      ctx.font = "38px " + FF;
+      ctx.fillText(handle, nomeX, pad + 104);
+
+      // logo X no canto superior direito
+      ctx.fillStyle = "#e7e9ea";
+      ctx.font = "bold 72px " + FF;
+      ctx.textAlign = "right";
+      ctx.fillText("𝕏", W - pad, pad + 72);
+      ctx.textAlign = "left";
+
+      // texto do tweet (quebra automática, tamanho conforme volume)
+      const tamFonte = texto.length > 460 ? 42 : texto.length > 260 ? 48 : 54;
+      const altLinha = Math.round(tamFonte * 1.42);
+      ctx.font = tamFonte + "px " + FF;
+      const larguraMax = W - pad * 2;
+      const linhas = [];
+      for (const paragrafo of texto.split("\n")) {
+        if (paragrafo === "") { linhas.push(""); continue; }
+        let linha = "";
+        for (const palavra of paragrafo.split(" ")) {
+          const teste = linha ? linha + " " + palavra : palavra;
+          if (ctx.measureText(teste).width > larguraMax && linha) {
+            linhas.push(linha); linha = palavra;
+          } else linha = teste;
+        }
+        linhas.push(linha);
+      }
+      let y = pad + avSize + 70;
+      ctx.fillStyle = "#e7e9ea";
+      ctx.font = tamFonte + "px " + FF;
+      for (const l of linhas) { ctx.fillText(l, pad, y); y += altLinha; }
+
+      // rodapé: data + marca discreta da página (protege contra acusação de plágio)
+      ctx.fillStyle = "#71767b";
+      ctx.font = "32px " + FF;
+      const rodape = (data ? data + "  ·  " : "") + "via @OrbisHytale";
+      ctx.fillText(rodape, pad, H - pad + 6);
+
+      c.toBlob((blob) => {
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "tweet_" + (handle || "x").replace(/[^a-z0-9]/gi, "") + ".png";
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 3000);
+      }, "image/png");
     }
 
-    // bloco centralizado verticalmente
-    const altAvatar = 110;
-    const altTexto = linhas.length * altLinha;
-    const altTotal = altAvatar + 60 + altTexto + 80;
-    let y = Math.max(pad, (H - altTotal) / 2);
-
-    // avatar (círculo dourado com inicial)
-    const cx = pad + 55, cy = y + 55;
-    ctx.fillStyle = "#d4a94f";
-    ctx.beginPath(); ctx.arc(cx, cy, 55, 0, Math.PI * 2); ctx.fill();
-    ctx.fillStyle = "#15202b";
-    ctx.font = "bold 56px 'Segoe UI', system-ui, sans-serif";
-    ctx.textAlign = "center"; ctx.textBaseline = "middle";
-    ctx.fillText(nome[0].toUpperCase(), cx, cy + 4);
-    ctx.textAlign = "left"; ctx.textBaseline = "alphabetic";
-
-    // nome + handle
-    ctx.fillStyle = "#ffffff";
-    ctx.font = "bold 44px 'Segoe UI', system-ui, sans-serif";
-    ctx.fillText(nome, pad + 130, y + 45);
-    ctx.fillStyle = "#8b98a5";
-    ctx.font = "36px 'Segoe UI', system-ui, sans-serif";
-    ctx.fillText(handle, pad + 130, y + 95);
-
-    // logo X no canto
-    ctx.fillStyle = "#ffffff";
-    ctx.font = "bold 64px 'Segoe UI', system-ui, sans-serif";
-    ctx.fillText("𝕏", W - pad - 50, y + 70);
-
-    // texto do tweet
-    y += altAvatar + 60;
-    ctx.fillStyle = "#ffffff";
-    ctx.font = tamFonte + "px 'Segoe UI', system-ui, sans-serif";
-    for (const l of linhas) { ctx.fillText(l, pad, y); y += altLinha; }
-
-    // rodapé
-    ctx.fillStyle = "#8b98a5";
-    ctx.font = "32px 'Segoe UI', system-ui, sans-serif";
-    ctx.fillText("Tradução no post 👆 Tweet original no X", pad, H - pad + 10);
-
-    c.toBlob((blob) => {
-      const a = document.createElement("a");
-      a.href = URL.createObjectURL(blob);
-      a.download = "tweet.png";
-      document.body.appendChild(a);
-      a.click();
-      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 3000);
-    }, "image/png");
+    if (midia.tweetAvatar) {
+      const img = new Image();
+      img.onload = () => desenhar(img);
+      img.onerror = () => desenhar(null);
+      img.src = midia.tweetAvatar; // mesmo domínio do painel = sem problema de CORS
+    } else {
+      desenhar(null);
+    }
   }
 
   function render() {
