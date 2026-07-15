@@ -5,6 +5,57 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "2026-07-15-calculadora-3d-hexcode",
+    "rodada": "2026-07-15 17:18",
+    "emoji": "🤯",
+    "titulo": "Jogador cria calculadora gráfica 3D funcional dentro do Hytale, 100% no survival (245 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uu6502/3d_graphing_calculator_with_hexcode_lol/",
+    "fonteData": "12/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Comunidade, 245 upvotes ✓. u/RiprodStudios montou uma calculadora que plota gráficos em 3D usando só o sistema de hexcode do Hytale, tudo no modo sobrevivência e sem nenhum comando especial. Vídeo. Build técnico bem forte, tende a viralizar.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uu6502/3d_graphing_calculator_with_hexcode_lol/",
+      "nota": "Post do reddit com vídeo. Abre o post pra baixar o vídeo e anexa no X e no Meta."
+    },
+    "twitter": "🤯 TEM UMA CALCULADORA GRÁFICA 3D FUNCIONANDO DENTRO DO HYTALE\n\nUm jogador montou uma calculadora que desenha gráficos em três dimensões usando só o sistema de hexcode do jogo. E fez tudo no modo sobrevivência, sem nenhum comando especial\n\no tipo de engenharia que dá pra fazer com os circuitos do Hytale tá em outro nível\n\n🎥 u/RiprodStudios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🤯 Calculadora gráfica 3D funcionando dentro do Hytale\n\nUm jogador construiu uma calculadora que plota gráficos em três dimensões usando só o sistema de hexcode do jogo. O mais impressionante é que fez tudo no modo sobrevivência, sem usar nenhum comando especial\n\nEsse tipo de engenharia com os circuitos do Hytale dá uma noção do tamanho do que dá pra criar dentro do jogo\n\n🎥 u/RiprodStudios\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-15-mod-jujutsu-kaisen",
+    "rodada": "2026-07-15 17:18",
+    "emoji": "⚙️",
+    "titulo": "Saiu a primeira beta pública de Jujutsu Cursed Energy, mod gratuito de Jujutsu Kaisen pro Hytale (175 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uugryy/i_released_the_first_public_beta_of_my_jujutsu/",
+    "fonteData": "12/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Comunidade, 175 upvotes ✓. u/DigPale5349 lançou a primeira beta pública do Jujutsu Cursed Energy, mod gratuito feito por fã que traz a energia amaldiçoada do anime Jujutsu Kaisen pro Hytale. Vídeo de showcase.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uugryy/i_released_the_first_public_beta_of_my_jujutsu/",
+      "nota": "Post do reddit com vídeo de showcase do mod. Abre o post pra baixar e anexa no X e no Meta."
+    },
+    "twitter": "⚙️ SAIU A PRIMEIRA BETA DE UM MOD DE JUJUTSU KAISEN NO HYTALE\n\nChama Jujutsu Cursed Energy, é gratuito e feito por fã, e traz a energia amaldiçoada do anime pra dentro do jogo\n\nessa é a primeira versão pública, já dá pra baixar e testar\n\n🎥 u/DigPale5349\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "⚙️ Mod de Jujutsu Kaisen chegou no Hytale\n\nSaiu a primeira beta pública do Jujutsu Cursed Energy, um mod gratuito feito por fã que traz a energia amaldiçoada de Jujutsu Kaisen pra dentro do Hytale\n\nQuem curte o anime já pode baixar e testar essa primeira versão\n\n🎥 u/DigPale5349\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-15-mapa-npcs-interativos",
+    "rodada": "2026-07-15 17:18",
+    "emoji": "🎮",
+    "titulo": "Criador mostra mapa de Hytale com NPCs interativos (140 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1usnj4i/im_building_a_hytale_map_with_interactive_npcs/",
+    "fonteData": "10/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Comunidade, 140 upvotes ✓. u/Arketetor tá construindo um mapa de Hytale com NPCs interativos que reagem e conversam com o jogador, e postou o progresso em vídeo. Item mais leve, bom pra completar a fornada.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1usnj4i/im_building_a_hytale_map_with_interactive_npcs/",
+      "nota": "Post do reddit com vídeo do mapa. Abre o post pra baixar e anexa no X e no Meta."
+    },
+    "twitter": "🎮 ESSE MAPA DE HYTALE TÁ CHEIO DE NPCs INTERATIVOS\n\nUm criador tá desenvolvendo um mapa com NPCs que reagem e conversam com o jogador, e mostrou como tá ficando. o capricho no ambiente chama atenção\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎮 Mapa de Hytale com NPCs interativos\n\nUm criador está desenvolvendo um mapa recheado de NPCs que reagem e conversam com quem joga. O projeto ainda tá em andamento e já dá pra sentir o capricho no clima do lugar\n\n🎥 u/Arketetor\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "2026-07-15-blog-capitulo1-17jul",
     "rodada": "2026-07-15 16:41",
     "emoji": "🚨",
