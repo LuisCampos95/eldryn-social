@@ -124,14 +124,12 @@
 
   const REDES = [
     { key: "twitter", nome: "🐦 Twitter / X" },
-    { key: "meta", nome: "📱 Facebook + Instagram (Meta Business Suite)" },
-    { key: "grupo", nome: "👥 Grupo do Facebook" },
+    { key: "meta", nome: "📱 Facebook + Instagram + Grupo (Meta Business Suite)" },
   ];
 
-  // compatibilidade com itens antigos que tinham instagram/facebook separados
+  // compatibilidade com itens antigos que tinham instagram/facebook/grupo separados
   function textoDaRede(p, key) {
-    if (key === "meta") return p.meta || p.instagram || "";
-    if (key === "grupo") return p.grupo || p.facebook || "";
+    if (key === "meta") return p.meta || p.instagram || p.facebook || "";
     return p[key] || "";
   }
 
@@ -334,22 +332,16 @@
           abrir.target = "_blank"; abrir.rel = "noopener";
           abrir.textContent = "abrir Meta Business Suite";
           acoes.appendChild(abrir);
-        } else {
-          const btnCopiar = document.createElement("button");
-          btnCopiar.className = "btn-primario";
-          btnCopiar.textContent = "📋 Copiar texto";
-          btnCopiar.addEventListener("click", () => copiar(ta.value));
-          acoes.appendChild(btnCopiar);
-          const abrir = document.createElement("a");
-          abrir.className = "btn";
-          abrir.href = GRUPO_URL || "https://www.facebook.com/groups/feed/";
-          abrir.target = "_blank"; abrir.rel = "noopener";
-          abrir.textContent = GRUPO_URL ? "abrir o grupo" : "abrir grupos do Facebook";
-          acoes.appendChild(abrir);
+          const abrirGrupo = document.createElement("a");
+          abrirGrupo.className = "btn btn-mini";
+          abrirGrupo.href = GRUPO_URL;
+          abrirGrupo.target = "_blank"; abrirGrupo.rel = "noopener";
+          abrirGrupo.textContent = "ver o grupo";
+          acoes.appendChild(abrirGrupo);
           const lembrete = document.createElement("span");
           lembrete.className = "btn btn-mini";
           lembrete.style.cursor = "default";
-          lembrete.textContent = "⚠ postar como Hytale Brasil, não como perfil pessoal";
+          lembrete.textContent = "⚠ um post só pros 3 · postar como Hytale Brasil";
           acoes.appendChild(lembrete);
         }
 
