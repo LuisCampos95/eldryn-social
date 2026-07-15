@@ -56,9 +56,12 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 Emojis de abertura por tipo: 🚨 notícia quente/saiu agora · 🤩 confirmação boa · ⚙️ feature/técnico · ⏰ data/horário · 🔥 hype · 🧵 thread · 👀 rumor/teaser · 🎮 gameplay · 🤯 surpreendente
 
 ## Barra de relevância
-- Prioridade máxima: Simon (posts, reposts E RESPOSTAS dele — o Simon solta MUITA notícia respondendo tweet de jogador, essas respostas são ouro e não podem ser ignoradas), conta oficial @Hytale, blog do site.
-- Funcionários do estúdio (fontes boas de bastidores, olhar posts E respostas deles também): @slikey, @zeroerrors, @devslashnulled, @itsbuddhacat (BuddhaCat é da equipe de comunidade, posta coisas de comunidade).
-- Como caçar respostas na busca web (que indexa mal reply): buscar "Simon_Hypixel" replies, o texto do assunto + Simon, e o with_replies do perfil. Extensão do Chrome logada no X (instalada 2026-07-15): ler x.com/Simon_Hypixel/with_replies direto e cobrir 100%.
+- **CAPÍTULOS E LORE = PRIORIDADE MÁXIMA.** Qualquer informação sobre os Capítulos do Hytale (Capítulo 1, 2...), a história/lore, o arco Cursebreaker, o que vem em cada capítulo — isso gera MUITO engajamento e conta a história do jogo. Nunca deixar passar. Notícia de capítulo sempre vira post.
+- Fontes oficiais top: Simon (posts, reposts E RESPOSTAS dele — solta MUITA notícia respondendo jogador, é ouro), conta @Hytale, blog do site.
+- Funcionários do estúdio (bastidores, olhar posts E respostas): @slikey, @zeroerrors, @devslashnulled, @itsbuddhacat (BuddhaCat = comunidade).
+- **Twitter da comunidade (NOVO): qualquer post BOM sobre Hytale de QUALQUER pessoa serve** — não só funcionários. Fan art impressionante, build, descoberta, teoria de lore, clipe viral, mod, reação relevante. Se é bom e sobre Hytale, pode virar post (com crédito ao @autor no fim). Caçar via WebSearch "Hytale" no X, hashtag #Hytale, e o que aparece nas respostas/quotes dos posts oficiais.
+- **NÃO COPIAR (concorrentes que também postam notícia):** @CentralHytaleBR, Comunidade Hytale Brasil, @HytaleAlerts. Pode usar como TERMÔMETRO (ver o que tá repercutindo) mas NUNCA copiar texto, estrutura, tradução ou ângulo deles. Sempre ir na fonte primária e escrever do zero. Se a única fonte de algo for um desses, buscar o tweet/post original que eles citaram e usar esse.
+- Como caçar respostas na busca web (que indexa mal reply): "Simon_Hypixel" replies, o assunto + Simon, with_replies do perfil. Extensão do Chrome (instalada 2026-07-15): ler x.com/Simon_Hypixel/with_replies direto.
 
 ## Respostas do Simon/funcionários — como transformar em post
 Ler pela extensão do Chrome (mcp__claude-in-chrome): navegar em x.com/Simon_Hypixel/with_replies (e o with_replies dos funcionários), rolar a página e clicar "Show more" pra expandir tweets cortados. O Chrome do Luis fica logado como @eldrynhub. Fallback: WebSearch, que indexa mal reply.
