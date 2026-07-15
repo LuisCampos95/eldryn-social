@@ -367,7 +367,7 @@ window.__initEldryn = function () {
         rh.appendChild(nome);
 
         let contador = null;
-        if (rede.key === "twitter") {
+        if (rede.key === "twitter" || rede.key === "meta") {
           contador = document.createElement("span");
           contador.className = "contador";
           rh.appendChild(contador);
@@ -379,11 +379,18 @@ window.__initEldryn = function () {
         ta.value = lsGet(lsKey, original);
         function atualizarContador() {
           if (!contador) return;
-          let n = contarX(ta.value);
-          if (p.midia && p.midia.tipo === "tweet") n += 24; // URL do quote
-          // conta Premium: sem limite prático, acima de 280 o X mostra "Mostrar mais"
-          contador.textContent = n <= 280 ? "~" + n + "/280" : "~" + n + " · Premium, aparece com Mostrar mais";
-          contador.classList.toggle("estourou", n > 25000);
+          if (rede.key === "twitter") {
+            // X Premium: limite 25 mil; acima de 280 o feed corta com "Mostrar mais"
+            let n = contarX(ta.value);
+            if (p.midia && p.midia.tipo === "tweet") n += 24; // URL do quote
+            contador.textContent = "~" + n + "/25000" + (n > 280 ? " · corta com Mostrar mais no feed" : "");
+            contador.classList.toggle("estourou", n > 25000);
+          } else {
+            // Meta: o mesmo texto vai pro Instagram, que aceita no máximo 2.200
+            const n = ta.value.length;
+            contador.textContent = n + "/2200";
+            contador.classList.toggle("estourou", n > 2200);
+          }
         }
         ta.addEventListener("input", () => {
           lsSet(lsKey, ta.value);

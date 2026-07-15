@@ -51,16 +51,16 @@ O Luis NUNCA posta só texto. Todo item precisa de mídia concreta:
 - **print**: instrução concreta de qual print tirar (último recurso).
 
 ## Os 2 destinos (campos do data.js)
-- **twitter**: o Luis tem X PREMIUM (limite ~25 mil caracteres). Post normal continua CURTO (até ~280, é questão de estilo e alcance, não de limite). Notícia longa (patch notes) vira UM post único longo com tudo, sem thread — o X mostra "Mostrar mais" e tá ótimo, é assim que a página dele faz.
-- **meta**: UM texto só que o Luis cola no Meta Business Suite e publica de uma vez na página do Facebook, no Instagram E no grupo do Facebook (os 3 recebem o MESMO texto — nunca criar versões separadas). Um pouco mais completo que o do X, tom de página, 2 hashtags no fim.
+- **twitter**: o Luis tem X PREMIUM, limite de 25.000 caracteres. Post normal continua CURTO (até ~280, é questão de estilo e alcance, não de limite). Notícia longa (patch notes) vira UM post único longo com tudo, sem thread — pode chegar PERTO dos 25 mil se tiver informação de verdade pra isso; o X mostra "Mostrar mais" e tá ótimo, é assim que a página dele faz.
+- **meta**: UM texto só que o Luis cola no Meta Business Suite e publica de uma vez na página do Facebook, no Instagram E no grupo do Facebook (os 3 recebem o MESMO texto — nunca criar versões separadas). Um pouco mais completo que o do X, tom de página, 2 hashtags no fim. **Limite duro de 2.200 caracteres** (teto do Instagram; o Facebook aguenta mais, mas o texto é um só) — nunca passar disso.
 - **Meta EXIGE imagem**: quando a mídia é um tweet (RT/quote não existe no Face/Insta), preencher midia.tweetTexto (texto EXATO do tweet, em inglês mesmo, pode truncar com …) e midia.tweetAutor (ex: "Simon · @Simon_Hypixel") — o painel gera uma imagem estilo print do tweet pro Luis baixar e anexar no Meta.
 
 ## CASO ESPECIAL — post de atualização de versão (patch notes, update novo)
 Único caso de texto LONGO. Atualização de versão é muita informação e a página do Luis publica TUDO.
 - Listar o MÁXIMO de mudanças possível, uma por linha, com emoji temático no começo de cada linha (⛏️ mineração, 🦕 mobs, 🔧 correções, 🎮 controles, 🌍 mundo...).
 - Abertura com manchete forte + linha tipo "O que mudou 👇" (sem dois pontos), aí a lista.
-- **twitter**: post ÚNICO com a lista completa (ele tem Premium, sem limite prático). Nada de thread.
-- **meta**: lista completa de tudo que a fonte diz, sem cortar. Pode passar de 1000 caracteres tranquilo.
+- **twitter**: post ÚNICO com a lista COMPLETA de mudanças, o máximo de informação possível — com muita info pode chegar perto do limite de 25.000 do Premium. Nada de thread, nada de resumir por preguiça.
+- **meta**: o máximo de informação que couber em 2.200 caracteres (teto do Instagram). Se a lista completa não couber, priorizar as mudanças maiores e fechar com "notas completas no site" + link.
 - Continua valendo tudo do resto do guia (sem travessão, sem dois pontos, só informação da fonte).
 
 ## Formato de saída — posts/data.js (painel.html lê daqui)
