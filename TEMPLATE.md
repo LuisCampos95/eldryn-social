@@ -90,13 +90,10 @@ O Luis NUNCA posta só texto. Todo item precisa de mídia concreta:
 ## Os 2 destinos (campos do data.js)
 - **twitter**: o Luis tem X PREMIUM, limite de 25.000 caracteres. Post normal continua CURTO (até ~280, é questão de estilo e alcance, não de limite). Notícia longa (patch notes) vira UM post único longo com tudo, sem thread — pode chegar PERTO dos 25 mil se tiver informação de verdade pra isso; o X mostra "Mostrar mais" e tá ótimo, é assim que a página dele faz.
 - **meta**: UM texto só que o Luis cola no Meta Business Suite e publica de uma vez na página do Facebook, no Instagram E no grupo do Facebook (os 3 recebem o MESMO texto — nunca criar versões separadas). Um pouco mais completo que o do X, tom de página, 2 hashtags no fim. **Limite duro de 2.200 caracteres** (teto do Instagram; o Facebook aguenta mais, mas o texto é um só) — nunca passar disso.
-- **Meta EXIGE imagem**: quando a mídia é um tweet (RT/quote não existe no Face/Insta), o painel gera uma imagem estilo tweet de verdade EM PORTUGUÊS com o avatar real do autor. Pra isso preencher na midia:
-  - tweetTexto: texto EXATO original do tweet (inglês).
-  - tweetTextoPt: TRADUÇÃO fiel do tweet pro português (é o que aparece na imagem). Traduzir bem, natural, sem cortar.
-  - tweetAutor: "Nome · @handle" (ex: "Simon · @Simon_Hypixel").
-  - tweetAvatar: caminho relativo do avatar salvo no repo, "avatars/<handle_minusculo>.png". BAIXAR o avatar do autor (via Bash curl da foto de perfil dele em pbs.twimg.com, versão _400x400) pra pasta avatars/ e commitar junto. Mesma origem do painel = sem erro de CORS na hora de gerar. Avatares já salvos são reusados.
-  - tweetData: data do tweet estilo X ("15 de jul de 2026").
-  A imagem sai com rodapé "via @OrbisHytale" (marca da página, protege contra acusação de plágio).
+- **Meta EXIGE imagem, e RT/quote não existe no Face/Insta.** A imagem é um PRINT REAL do tweet (NÃO inventar/desenhar card falso — o Luis rejeitou isso). Se o tweet estiver em inglês, no X é só tocar em "Traduzir post"/"Mostrar tradução" que o próprio X traduz mantendo foto, selo e handle reais; aí tira o print. A foto vem natural.
+  - Caminho automático (quando dá): ao ler o tweet pela extensão do Chrome, tirar o print da tradução, salvar em `img/<id>.png` no repo e preencher midia.print = "img/<id>.png". O painel mostra o print com botão de baixar.
+  - Caminho manual (padrão robusto): sem print salvo, o painel mostra "📸 abrir tweet pra tirar print" + a dica de traduzir antes. O Luis printa no celular em 2 toques (a foto vem certa).
+  - NÃO usar mais tweetTextoPt/tweetAvatar/tweetData (eram do card falso, descontinuado). Manter só tweetTexto (referência), tweetAutor, e midia.print quando houver.
 
 ## CASO ESPECIAL — post de atualização de versão (patch notes, update novo)
 Único caso de texto LONGO. Atualização de versão é muita informação e a página do Luis publica TUDO.
@@ -119,11 +116,10 @@ Adicionar itens no INÍCIO do array `window.ELDRYN_POSTS` em `posts/data.js`, ma
   confiabilidade: "oficial",               // "oficial" | "comunidade"
   resumo: "1-2 frases pro Luis julgar se vale postar.",
   midia: { tipo: "tweet", url: "https://x.com/...", tweetId: "123...",
-           tweetTexto: "texto exato original (inglês)",
-           tweetTextoPt: "tradução fiel pro português (é o que vai na imagem)",
+           tweetTexto: "texto exato original (referência)",
            tweetAutor: "Simon · @Simon_Hypixel",
-           tweetAvatar: "avatars/simon_hypixel.png",   // baixar de pbs.twimg.com e commitar
-           tweetData: "15 de jul de 2026", nota: "..." },
+           print: "img/<id>.png",   // opcional: print real do tweet traduzido, se já capturado
+           nota: "..." },
   twitter: "texto pronto",                 // \n pra quebra de linha
   meta: "texto pronto"                     // mesmo texto pros 3 do Meta (página FB + Insta + grupo)
 }

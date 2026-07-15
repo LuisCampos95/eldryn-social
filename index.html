@@ -172,123 +172,9 @@ window.__initEldryn = function () {
     return texto.replace(/https?:\/\/\S+/g, "x".repeat(23)).length;
   }
 
-  // gera imagem estilo tweet de verdade, em PORTUGUÊS, com o avatar real (pro Face/Insta)
-  function baixarImagemTweet(midia) {
-    const W = 1080, H = 1080;
-    const c = document.createElement("canvas");
-    c.width = W; c.height = H;
-    const ctx = c.getContext("2d");
-    const FF = "'Segoe UI', 'Helvetica Neue', Arial, system-ui, sans-serif";
-
-    // texto: prioriza a tradução em PT; cai pro original se não tiver
-    const texto = midia.tweetTextoPt || midia.tweetTexto || "";
-    const autor = midia.tweetAutor || "";
-    const nome = (autor.split("·")[0] || "X").trim();
-    const handle = (autor.split("·")[1] || "").trim();
-    const data = midia.tweetData || "";
-
-    function desenhar(avatarImg) {
-      // fundo preto (tema do X)
-      ctx.fillStyle = "#000000";
-      ctx.fillRect(0, 0, W, H);
-
-      const pad = 80;
-      const avSize = 130;
-      const cx = pad + avSize / 2, cy = pad + avSize / 2;
-
-      // avatar (recortado em círculo) ou fallback cinza
-      ctx.save();
-      ctx.beginPath(); ctx.arc(cx, cy, avSize / 2, 0, Math.PI * 2); ctx.closePath(); ctx.clip();
-      if (avatarImg) {
-        ctx.drawImage(avatarImg, pad, pad, avSize, avSize);
-      } else {
-        ctx.fillStyle = "#333639"; ctx.fillRect(pad, pad, avSize, avSize);
-      }
-      ctx.restore();
-
-      // nome + selo azul de verificado
-      ctx.textBaseline = "alphabetic";
-      ctx.fillStyle = "#e7e9ea";
-      ctx.font = "bold 48px " + FF;
-      const nomeX = pad + avSize + 28;
-      ctx.fillText(nome, nomeX, pad + 52);
-      const larguraNome = ctx.measureText(nome).width;
-      const bx = nomeX + larguraNome + 34, by = pad + 40;
-      ctx.fillStyle = "#1d9bf0";
-      ctx.beginPath(); ctx.arc(bx, by, 22, 0, Math.PI * 2); ctx.fill();
-      ctx.strokeStyle = "#000000"; ctx.lineWidth = 6;
-      ctx.beginPath();
-      ctx.moveTo(bx - 10, by); ctx.lineTo(bx - 3, by + 8); ctx.lineTo(bx + 11, by - 9);
-      ctx.stroke();
-
-      // handle
-      ctx.fillStyle = "#71767b";
-      ctx.font = "38px " + FF;
-      ctx.fillText(handle, nomeX, pad + 104);
-
-      // logo X no canto superior direito
-      ctx.fillStyle = "#e7e9ea";
-      ctx.font = "bold 72px " + FF;
-      ctx.textAlign = "right";
-      ctx.fillText("𝕏", W - pad, pad + 72);
-      ctx.textAlign = "left";
-
-      // texto do tweet com auto-ajuste: encolhe a fonte até tudo caber na área disponível
-      const larguraMax = W - pad * 2;
-      const topoTexto = pad + avSize + 70;
-      const areaTexto = (H - pad - 30) - topoTexto; // espaço vertical disponível
-      function quebrar(fonte) {
-        ctx.font = fonte + "px " + FF;
-        const ls = [];
-        for (const paragrafo of texto.split("\n")) {
-          if (paragrafo === "") { ls.push(""); continue; }
-          let linha = "";
-          for (const palavra of paragrafo.split(" ")) {
-            const teste = linha ? linha + " " + palavra : palavra;
-            if (ctx.measureText(teste).width > larguraMax && linha) {
-              ls.push(linha); linha = palavra;
-            } else linha = teste;
-          }
-          ls.push(linha);
-        }
-        return ls;
-      }
-      let tamFonte = 54, linhas, altLinha;
-      while (tamFonte >= 28) {
-        linhas = quebrar(tamFonte);
-        altLinha = Math.round(tamFonte * 1.42);
-        if (linhas.length * altLinha <= areaTexto) break;
-        tamFonte -= 2;
-      }
-      let y = topoTexto;
-      ctx.fillStyle = "#e7e9ea";
-      ctx.font = tamFonte + "px " + FF;
-      for (const l of linhas) { ctx.fillText(l, pad, y); y += altLinha; }
-
-      // rodapé: data + marca discreta da página (protege contra acusação de plágio)
-      ctx.fillStyle = "#71767b";
-      ctx.font = "32px " + FF;
-      const rodape = (data ? data + "  ·  " : "") + "via @OrbisHytale";
-      ctx.fillText(rodape, pad, H - pad + 6);
-
-      c.toBlob((blob) => {
-        const a = document.createElement("a");
-        a.href = URL.createObjectURL(blob);
-        a.download = "tweet_" + (handle || "x").replace(/[^a-z0-9]/gi, "") + ".png";
-        document.body.appendChild(a);
-        a.click();
-        setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 3000);
-      }, "image/png");
-    }
-
-    if (midia.tweetAvatar) {
-      const img = new Image();
-      img.onload = () => desenhar(img);
-      img.onerror = () => desenhar(null);
-      img.src = midia.tweetAvatar; // mesmo domínio do painel = sem problema de CORS
-    } else {
-      desenhar(null);
-    }
+  // abre o tweet pronto pra tirar print (no X, tocar em Traduzir post antes se estiver em ingles)
+  function abrirTweetParaPrint(midia) {
+    window.open(midia.url, "_blank", "noopener");
   }
 
   function render() {
@@ -364,20 +250,30 @@ window.__initEldryn = function () {
           img.onerror = () => { img.remove(); };
           m.appendChild(img);
         } else if (p.midia.tipo === "tweet" && p.midia.url) {
-          const linha = document.createElement("div");
-          linha.style.display = "flex"; linha.style.gap = "8px"; linha.style.flexWrap = "wrap";
-          const abrir = document.createElement("a");
-          abrir.className = "btn btn-mini"; abrir.href = p.midia.url; abrir.target = "_blank"; abrir.rel = "noopener";
-          abrir.textContent = "abrir tweet original";
-          linha.appendChild(abrir);
-          if (p.midia.tweetTexto) {
-            const btnImg = document.createElement("button");
-            btnImg.className = "btn-mini";
-            btnImg.textContent = "🖼 baixar imagem do tweet (pro Face/Insta)";
-            btnImg.addEventListener("click", () => baixarImagemTweet(p.midia));
-            linha.appendChild(btnImg);
+          // se já existe um print salvo no repo, mostra ele com download; senão, abre o tweet pra printar
+          if (p.midia.print) {
+            const im = document.createElement("img");
+            im.src = p.midia.print; im.alt = "print do tweet"; im.loading = "lazy";
+            im.onerror = () => { im.remove(); };
+            m.appendChild(im);
+            const baixar = document.createElement("a");
+            baixar.className = "btn btn-mini"; baixar.href = p.midia.print;
+            baixar.download = "tweet.png"; baixar.target = "_blank"; baixar.rel = "noopener";
+            baixar.textContent = "⬇ baixar print (pro Face/Insta)";
+            m.appendChild(baixar);
+          } else {
+            const linha = document.createElement("div");
+            linha.style.display = "flex"; linha.style.gap = "8px"; linha.style.flexWrap = "wrap";
+            const abrir = document.createElement("a");
+            abrir.className = "btn btn-mini"; abrir.href = p.midia.url; abrir.target = "_blank"; abrir.rel = "noopener";
+            abrir.textContent = "📸 abrir tweet pra tirar print";
+            linha.appendChild(abrir);
+            const dica = document.createElement("span");
+            dica.className = "btn btn-mini"; dica.style.cursor = "default";
+            dica.textContent = "no X toque em Traduzir post antes do print";
+            linha.appendChild(dica);
+            m.appendChild(linha);
           }
-          m.appendChild(linha);
         }
         if (p.midia.nota) {
           const n = document.createElement("div");
