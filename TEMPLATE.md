@@ -40,6 +40,7 @@ Emojis de abertura por tipo: 🚨 notícia quente/saiu agora · 🤩 confirmaç�
 
 ## Respostas do Simon/funcionários — como transformar em post
 Ler pela extensão do Chrome (mcp__claude-in-chrome): navegar em x.com/Simon_Hypixel/with_replies (e o with_replies dos funcionários), rolar a página e clicar "Show more" pra expandir tweets cortados. O Chrome do Luis fica logado como @eldrynhub. Fallback: WebSearch, que indexa mal reply.
+Pra pegar o AVATAR do autor (pra imagem do Meta): na página do tweet, rodar no console/js `[...document.querySelector('article').querySelectorAll('img')].map(i=>i.src).filter(s=>s.includes('profile_images'))` — pega a foto DENTRO do article (é a do autor, não a da conta logada). Trocar `_bigger`/`_normal` por `_400x400` na URL e baixar via curl.
 O Simon publica um post e responde MUITOS comentários dele, sobre assuntos variados (às vezes nem ligados ao post original). Ao ler as respostas:
 1. SEMPRE ler a pergunta/tweet-pai que provocou a resposta — a resposta sozinha não faz sentido sem o contexto da pergunta. O post tem que dar esse contexto ("Perguntaram pro Simon se X, e ele respondeu que Y").
 2. AGRUPAR por assunto. Quando ele responde várias coisas do MESMO tema, juntar tudo num post-catadão único ("Simon respondeu vários fãs e soltou muita coisa sobre o combate 👇" + lista das respostas). Só agrupar o que é do mesmo assunto — não misturar temas diferentes num post só.
@@ -89,7 +90,13 @@ O Luis NUNCA posta só texto. Todo item precisa de mídia concreta:
 ## Os 2 destinos (campos do data.js)
 - **twitter**: o Luis tem X PREMIUM, limite de 25.000 caracteres. Post normal continua CURTO (até ~280, é questão de estilo e alcance, não de limite). Notícia longa (patch notes) vira UM post único longo com tudo, sem thread — pode chegar PERTO dos 25 mil se tiver informação de verdade pra isso; o X mostra "Mostrar mais" e tá ótimo, é assim que a página dele faz.
 - **meta**: UM texto só que o Luis cola no Meta Business Suite e publica de uma vez na página do Facebook, no Instagram E no grupo do Facebook (os 3 recebem o MESMO texto — nunca criar versões separadas). Um pouco mais completo que o do X, tom de página, 2 hashtags no fim. **Limite duro de 2.200 caracteres** (teto do Instagram; o Facebook aguenta mais, mas o texto é um só) — nunca passar disso.
-- **Meta EXIGE imagem**: quando a mídia é um tweet (RT/quote não existe no Face/Insta), preencher midia.tweetTexto (texto EXATO do tweet, em inglês mesmo, pode truncar com …) e midia.tweetAutor (ex: "Simon · @Simon_Hypixel") — o painel gera uma imagem estilo print do tweet pro Luis baixar e anexar no Meta.
+- **Meta EXIGE imagem**: quando a mídia é um tweet (RT/quote não existe no Face/Insta), o painel gera uma imagem estilo tweet de verdade EM PORTUGUÊS com o avatar real do autor. Pra isso preencher na midia:
+  - tweetTexto: texto EXATO original do tweet (inglês).
+  - tweetTextoPt: TRADUÇÃO fiel do tweet pro português (é o que aparece na imagem). Traduzir bem, natural, sem cortar.
+  - tweetAutor: "Nome · @handle" (ex: "Simon · @Simon_Hypixel").
+  - tweetAvatar: caminho relativo do avatar salvo no repo, "avatars/<handle_minusculo>.png". BAIXAR o avatar do autor (via Bash curl da foto de perfil dele em pbs.twimg.com, versão _400x400) pra pasta avatars/ e commitar junto. Mesma origem do painel = sem erro de CORS na hora de gerar. Avatares já salvos são reusados.
+  - tweetData: data do tweet estilo X ("15 de jul de 2026").
+  A imagem sai com rodapé "via @OrbisHytale" (marca da página, protege contra acusação de plágio).
 
 ## CASO ESPECIAL — post de atualização de versão (patch notes, update novo)
 Único caso de texto LONGO. Atualização de versão é muita informação e a página do Luis publica TUDO.
@@ -112,8 +119,11 @@ Adicionar itens no INÍCIO do array `window.ELDRYN_POSTS` em `posts/data.js`, ma
   confiabilidade: "oficial",               // "oficial" | "comunidade"
   resumo: "1-2 frases pro Luis julgar se vale postar.",
   midia: { tipo: "tweet", url: "https://x.com/...", tweetId: "123...",
-           tweetTexto: "texto exato do tweet (original, pode truncar com …)",
-           tweetAutor: "Simon · @Simon_Hypixel", nota: "..." },
+           tweetTexto: "texto exato original (inglês)",
+           tweetTextoPt: "tradução fiel pro português (é o que vai na imagem)",
+           tweetAutor: "Simon · @Simon_Hypixel",
+           tweetAvatar: "avatars/simon_hypixel.png",   // baixar de pbs.twimg.com e commitar
+           tweetData: "15 de jul de 2026", nota: "..." },
   twitter: "texto pronto",                 // \n pra quebra de linha
   meta: "texto pronto"                     // mesmo texto pros 3 do Meta (página FB + Insta + grupo)
 }
