@@ -233,24 +233,34 @@ window.__initEldryn = function () {
       ctx.fillText("𝕏", W - pad, pad + 72);
       ctx.textAlign = "left";
 
-      // texto do tweet (quebra automática, tamanho conforme volume)
-      const tamFonte = texto.length > 460 ? 42 : texto.length > 260 ? 48 : 54;
-      const altLinha = Math.round(tamFonte * 1.42);
-      ctx.font = tamFonte + "px " + FF;
+      // texto do tweet com auto-ajuste: encolhe a fonte até tudo caber na área disponível
       const larguraMax = W - pad * 2;
-      const linhas = [];
-      for (const paragrafo of texto.split("\n")) {
-        if (paragrafo === "") { linhas.push(""); continue; }
-        let linha = "";
-        for (const palavra of paragrafo.split(" ")) {
-          const teste = linha ? linha + " " + palavra : palavra;
-          if (ctx.measureText(teste).width > larguraMax && linha) {
-            linhas.push(linha); linha = palavra;
-          } else linha = teste;
+      const topoTexto = pad + avSize + 70;
+      const areaTexto = (H - pad - 30) - topoTexto; // espaço vertical disponível
+      function quebrar(fonte) {
+        ctx.font = fonte + "px " + FF;
+        const ls = [];
+        for (const paragrafo of texto.split("\n")) {
+          if (paragrafo === "") { ls.push(""); continue; }
+          let linha = "";
+          for (const palavra of paragrafo.split(" ")) {
+            const teste = linha ? linha + " " + palavra : palavra;
+            if (ctx.measureText(teste).width > larguraMax && linha) {
+              ls.push(linha); linha = palavra;
+            } else linha = teste;
+          }
+          ls.push(linha);
         }
-        linhas.push(linha);
+        return ls;
       }
-      let y = pad + avSize + 70;
+      let tamFonte = 54, linhas, altLinha;
+      while (tamFonte >= 28) {
+        linhas = quebrar(tamFonte);
+        altLinha = Math.round(tamFonte * 1.42);
+        if (linhas.length * altLinha <= areaTexto) break;
+        tamFonte -= 2;
+      }
+      let y = topoTexto;
       ctx.fillStyle = "#e7e9ea";
       ctx.font = tamFonte + "px " + FF;
       for (const l of linhas) { ctx.fillText(l, pad, y); y += altLinha; }
