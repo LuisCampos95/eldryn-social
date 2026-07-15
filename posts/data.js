@@ -39,24 +39,24 @@ window.ELDRYN_POSTS = [
     meta: "🎮 Agora dá pra mirar mexendo o controle no Hytale!\n\nO patch da semana trouxe suporte a giroscópio. Quem joga com DualSense ou controle de Switch Pro já pode ativar a mira por movimento nas configurações.\n\nTambém melhoraram o carregamento do mundo perto do jogador e a estabilidade de host via Wi-Fi e VPN.\n\n#Hytale #HytaleBrasil"
   },
   {
-    id: "2026-07-15-simon-capitulo-1",
-    rodada: "2026-07-15 11:55",
+    id: "2026-07-15-simon-catadao-capitulo-2",
+    rodada: "2026-07-15 14:20",
     emoji: "🚨",
-    titulo: "Simon prometeu blog post com bastidores do Capítulo 1",
-    fonte: "https://x.com/Simon_Hypixel/status/2075184842644373835",
-    fonteData: "12/07/2026",
+    titulo: "CATADÃO Simon: data do blog do Cap 1, planejamento do Cap 2 e contratações",
+    fonte: "https://x.com/Simon_Hypixel/status/2077260780878135583",
+    fonteData: "15/07/2026",
     confiabilidade: "oficial",
-    resumo: "Simon explicou o silêncio sobre o Capítulo 1 (era pra ser surpresa no lançamento) e prometeu blog post com bastidores em ~1 semana A PARTIR DE 12/jul, ou seja, deve sair ATÉ O FIM DESSA SEMANA (~17-19/jul). A varredura do site pega quando cair.",
+    resumo: "Catadão das respostas do Simon na timeline dele (lidas pela extensão do Chrome). Juntei 3 coisas do mesmo tema: (1) blog do Capítulo 1 confirmado pra SEXTA 17/07 às 10h EST = 11h de Brasília; (2) depois ele tira o 1º fim de semana de folga desde que recomprou o Hytale e semana que vem começa o planejamento do Capítulo 2, com a equipe ainda no Capítulo 1; (3) vão entrevistar/contratar designers de combate e de mundo. Notícia forte e oficial.",
     midia: {
       tipo: "tweet",
-      url: "https://x.com/Simon_Hypixel/status/2075184842644373835",
-      tweetId: "2075184842644373835",
-      tweetTexto: "Some thoughts on Hytale Early Access Chapter 1 and why we've been so quiet about it!\n\nThe plan so far has been to keep all new content hidden until release day, so the first chapter lands as one big surprise. I still believe in that for impact, but there's a downside…",
+      url: "https://x.com/Simon_Hypixel/status/2077260780878135583",
+      tweetId: "2077260780878135583",
+      tweetTexto: "FYI after this blog I'm going to take my first weekend off since acquiring back Hytale, spend time with the kids and then, next week, Chapter 2 planning begins while the team is still working on Chapter 1.\n\nWe'll be reaching out to combat game designers, world designers and more for interviews.\n\nI love Hytale. See you Friday 10AM",
       tweetAutor: "Simon · @Simon_Hypixel",
-      nota: "No X, melhor opção é o quote (botão já inclui o tweet citado) ou só RT. No Meta, baixa a imagem do tweet e anexa."
+      nota: "No X dá pra citar/RT esse tweet. No Meta, baixa a imagem do tweet e anexa. Confere o horário de Brasília no dia (10h EST vira 11h BRT no horário de verão dos EUA)."
     },
-    twitter: "🚨 SIMON QUEBROU O SILÊNCIO SOBRE O CAPÍTULO 1\n\nEle admitiu que esconder tudo por meses foi ruim pra comunidade e prometeu um blog post mostrando os bastidores do desenvolvimento ainda ESSA SEMANA\n\nFinalmente vamos ver o que tão fazendo lá dentro 👀",
-    meta: "🚨 O Simon finalmente falou do Capítulo 1 do Hytale!\n\nDepois de meses em silêncio ele explicou o motivo. A ideia era esconder todo o conteúdo novo pra ser surpresa no lançamento. Só que ele mesmo admitiu que deixar a comunidade no escuro por tanto tempo não foi legal.\n\nE a boa notícia? Vem aí um blog post com os bastidores do desenvolvimento ainda essa semana. Se prepara que coisa grande tá chegando 🔥\n\n#Hytale #HytaleBrasil"
+    twitter: "🚨 SIMON ABRIU O JOGO SOBRE O FUTURO DO HYTALE\n\nO blog com os bastidores do Capítulo 1 já tem data, sai nessa SEXTA (17/07) às 11h da manhã no horário de Brasília\n\nDepois disso o Simon vai tirar o primeiro fim de semana de folga desde que recomprou o Hytale, e já na semana que vem começa o planejamento do Capítulo 2 enquanto a equipe segue no Capítulo 1\n\nE o time vai crescer, eles vão atrás de designers de combate e de mundo pra reforçar o estúdio 👀",
+    meta: "🚨 O Simon abriu o jogo sobre o futuro do Hytale!\n\nO blog post com os bastidores do Capítulo 1 já tem data marcada, sai nessa sexta (17/07) às 11h da manhã, horário de Brasília.\n\nE ele foi além. Depois desse blog o Simon vai tirar o primeiro fim de semana de folga desde que recomprou o Hytale, pra descansar e ficar com os filhos. Logo na semana seguinte já começa o planejamento do Capítulo 2, enquanto a equipe continua trabalhando no Capítulo 1.\n\nAh, e o estúdio vai crescer. Eles vão atrás de designers de combate, designers de mundo e mais gente pra reforçar o time.\n\nOu seja, tem muita coisa boa vindo por aí 🔥\n\n#Hytale #HytaleBrasil"
   },
   {
     id: "2026-07-15-project-halo-atualizacao",
