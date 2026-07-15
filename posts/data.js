@@ -11,14 +11,14 @@ window.ELDRYN_POSTS = [
     fonte: "https://www.reddit.com/r/hytale/comments/1uxalzf/try_out_the_hytale_machinima_tools_in_hytale/",
     fonteData: "15/07/2026",
     confiabilidade: "comunidade",
-    resumo: "Post do reddit (u/Only_Passenger_6839, de hoje) mostrando as ferramentas de machinima nativas do Hytale, que deixam montar câmera, trajetória e cena inteira dentro do jogo. Conteúdo de comunidade e meio fraco, vale mais pra dia sem notícia forte. O autor avisa que ainda tá cheio de bug.",
+    resumo: "⚠ SÓ 2 UPVOTES na hora da varredura, bem abaixo da régua (mín 100). Espera crescer ou pula. Post de hoje mostrando as ferramentas de machinima nativas do jogo (câmera, trajetória, cena inteira). O autor avisa que ainda tá cheio de bug.",
     midia: {
       tipo: "imagem",
       url: "https://i.redd.it/iuaq31w85fdh1.png",
-      nota: "Preview do post no reddit. Baixar e anexar no X e no Meta."
+      nota: "Preview do post. Abre o post original pra baixar a mídia (confere se é vídeo ou foto) e anexa no X e no Meta."
     },
-    twitter: "🎮 DÁ PRA GRAVAR CINEMÁTICA DENTRO DO HYTALE SEM PROGRAMA DE FORA\n\nO u/Only_Passenger_6839 testou as ferramentas de machinima do próprio jogo e mostrou que dá pra controlar câmera, trajetória e montar uma cena inteira ali dentro\n\nAinda tá cru mas o potencial pra fazer trailer é grande 👀",
-    meta: "🎮 Você sabia que dá pra gravar cinemática dentro do Hytale sem usar nenhum programa de fora?\n\nO u/Only_Passenger_6839 testou as ferramentas de machinima nativas do jogo e mostrou como dá pra controlar câmera, trajetória, velocidade e montar uma cena inteira ali dentro.\n\nAinda tá bem cru e cheio de bug, mas já dá pra montar trailer e vídeo sem sair do jogo. Créditos ao u/Only_Passenger_6839 🎥\n\n#Hytale #HytaleBrasil"
+    twitter: "🎮 DÁ PRA GRAVAR CINEMÁTICA DENTRO DO HYTALE SEM PROGRAMA DE FORA\n\nUm jogador testou as ferramentas de machinima do próprio jogo e mostrou que dá pra controlar câmera, trajetória e montar uma cena inteira ali dentro\n\nAinda tá cru mas o potencial pra fazer trailer é grande 👀\n\n🎥 Créditos u/Only_Passenger_6839",
+    meta: "🎮 Você sabia que dá pra gravar cinemática dentro do Hytale sem usar nenhum programa de fora?\n\nUm jogador testou as ferramentas de machinima nativas do jogo e mostrou como dá pra controlar câmera, trajetória, velocidade e montar uma cena inteira ali dentro.\n\nAinda tá bem cru e cheio de bug, mas já dá pra montar trailer e vídeo sem sair do jogo.\n\n🎥 Créditos u/Only_Passenger_6839\n\n#Hytale #HytaleBrasil"
   },
   {
     id: "2026-07-15-update6-giroscopio",
@@ -65,14 +65,14 @@ window.ELDRYN_POSTS = [
     fonte: "https://www.reddit.com/r/hytale/comments/1uwhetg/project_halo_mod_update/",
     fonteData: "14/07/2026",
     confiabilidade: "comunidade",
-    resumo: "Atualização do mod Project Halo no topo do dia do r/hytale, com imagem. O feed só dá título e imagem, abre o post antes de postar pra ver o que mudou e citar algo concreto.",
+    resumo: "145 upvotes ✓ (passa na régua). Atualização do mod Project Halo, com imagem. O feed só dá título e imagem, abre o post antes de postar pra ver o que mudou e citar algo concreto.",
     midia: {
       tipo: "imagem",
       url: "https://preview.redd.it/fu0nq8yzp8dh1.png?width=640&crop=smart&auto=webp&s=a4b2f11d816ee125531b7b00707005a5e9f8b45f",
-      nota: "Baixar a imagem em resolução cheia no post do reddit. Autor u/NeighborhoodNo5815, creditar."
+      nota: "Baixar a imagem em resolução cheia no post original e anexar."
     },
-    twitter: "🤯 TÃO RECRIANDO O HALO DENTRO DO HYTALE\n\nO mod Project Halo ganhou mais uma atualização e foi parar no topo do reddit do jogo. O Hytale tem 6 meses de vida e a comunidade já constrói coisa desse nível",
-    meta: "🤯 Tem gente recriando o Halo inteiro dentro do Hytale!\n\nO mod Project Halo acabou de ganhar mais uma atualização e foi parar no topo do reddit do jogo. Impressionante o que a comunidade já faz com as ferramentas de modding em tão pouco tempo de Early Access.\n\nCréditos ao u/NeighborhoodNo5815 no r/hytale\n\n#Hytale #HytaleBrasil"
+    twitter: "🤯 TÃO RECRIANDO O HALO DENTRO DO HYTALE\n\nO mod Project Halo ganhou mais uma atualização e a comunidade aprovou em peso. O Hytale tem 6 meses de vida e já tem gente construindo coisa desse nível\n\n📷 Créditos u/NeighborhoodNo5815",
+    meta: "🤯 Tem gente recriando o Halo inteiro dentro do Hytale!\n\nO mod Project Halo acabou de ganhar mais uma atualização. Impressionante o que a comunidade já consegue fazer com as ferramentas de modding em tão pouco tempo de Early Access.\n\n📷 Créditos u/NeighborhoodNo5815\n\n#Hytale #HytaleBrasil"
   },
   {
     id: "2026-07-15-npcs-scifi-comunidade",
@@ -82,13 +82,13 @@ window.ELDRYN_POSTS = [
     fonte: "https://www.reddit.com/r/hytale/comments/1uwwy2t/finished_some_enemy_npcs_for_a_scifi_project_in/",
     fonteData: "15/07/2026",
     confiabilidade: "comunidade",
-    resumo: "Criador terminou os NPCs inimigos de um projeto sci-fi no Hytale. Conteúdo menor, vale pra dia fraco de notícia. Confira as imagens no post antes.",
+    resumo: "⚠ Upvotes não conferidos na varredura — confere no post antes (régua mín 100). Criador terminou os NPCs inimigos de um projeto sci-fi no Hytale. Conteúdo menor, vale pra dia fraco de notícia.",
     midia: {
       tipo: "imagem",
       url: "https://preview.redd.it/0f7amyhk0cdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ce0f5b29d538539d959cd0c3b4a213aff789de6a",
-      nota: "Thumb pequena. Baixar as imagens em resolução cheia no post do reddit. Autor u/bimtom, creditar."
+      nota: "Thumb pequena. Baixar as imagens em resolução cheia no post original e anexar."
     },
-    twitter: "👽 UM JOGO DE FANTASIA VIRANDO SCI-FI\n\nUm criador da comunidade terminou os NPCs inimigos do projeto de ficção científica que ele tá montando dentro do Hytale. O motor do jogo aguenta qualquer estilo mesmo",
-    meta: "👽 Sci-fi dentro do Hytale? Tem sim!\n\nUm criador da comunidade terminou a leva de NPCs inimigos do projeto de ficção científica dele. Entre Halo e projetos assim, dá pra ver que o motor do jogo aguenta qualquer estilo.\n\nCréditos ao u/bimtom no r/hytale\n\n#Hytale #HytaleBrasil"
+    twitter: "👽 UM JOGO DE FANTASIA VIRANDO SCI-FI\n\nUm criador da comunidade terminou os NPCs inimigos do projeto de ficção científica que ele tá montando dentro do Hytale. O motor do jogo aguenta qualquer estilo mesmo\n\n📷 Créditos u/bimtom",
+    meta: "👽 Sci-fi dentro do Hytale? Tem sim!\n\nUm criador terminou a leva de NPCs inimigos do projeto de ficção científica dele. Entre Halo e projetos assim, dá pra ver que o motor do jogo aguenta qualquer estilo.\n\n📷 Créditos u/bimtom\n\n#Hytale #HytaleBrasil"
   }
 ];
