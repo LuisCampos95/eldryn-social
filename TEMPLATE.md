@@ -39,12 +39,14 @@ Emojis de abertura por tipo: 🚨 notícia quente/saiu agora · 🤩 confirmaç�
 - Como caçar respostas na busca web (que indexa mal reply): buscar "Simon_Hypixel" replies, o texto do assunto + Simon, e o with_replies do perfil. Extensão do Chrome logada no X (instalada 2026-07-15): ler x.com/Simon_Hypixel/with_replies direto e cobrir 100%.
 
 ## Respostas do Simon/funcionários — como transformar em post
+Ler pela extensão do Chrome (mcp__claude-in-chrome): navegar em x.com/Simon_Hypixel/with_replies (e o with_replies dos funcionários), rolar a página e clicar "Show more" pra expandir tweets cortados. O Chrome do Luis fica logado como @eldrynhub. Fallback: WebSearch, que indexa mal reply.
 O Simon publica um post e responde MUITOS comentários dele, sobre assuntos variados (às vezes nem ligados ao post original). Ao ler as respostas:
 1. SEMPRE ler a pergunta/tweet-pai que provocou a resposta — a resposta sozinha não faz sentido sem o contexto da pergunta. O post tem que dar esse contexto ("Perguntaram pro Simon se X, e ele respondeu que Y").
 2. AGRUPAR por assunto. Quando ele responde várias coisas do MESMO tema, juntar tudo num post-catadão único ("Simon respondeu vários fãs e soltou muita coisa sobre o combate 👇" + lista das respostas). Só agrupar o que é do mesmo assunto — não misturar temas diferentes num post só.
 3. Quando UMA resposta sozinha já é forte (novidade grande, confirmação importante), vira um post próprio, não precisa juntar com nada.
 4. Julgar quando faz sentido cada caso. Resposta banal ("valeu!", "em breve") não vira post.
 - Confiabilidade dessas = oficial (é o Simon/estúdio falando).
+- No card, marcar no título/resumo quando for "CATADÃO" (post que junta várias respostas) pro Luis saber que veio de várias respostas agrupadas.
 - Conteúdo de comunidade (reddit/tweets de terceiros) só quando é forte de verdade. Visualmente impressionante, viral, ou descoberta relevante. "Atualização de mod" sozinho é fraco. O ângulo interessante é o que o projeto É, não o fato de ter atualizado.
 - Na dúvida se é fraco, gerar mesmo assim e avisar no resumo ("vale pra dia fraco de notícia"). O Luis decide.
 
