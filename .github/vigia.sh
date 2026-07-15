@@ -20,12 +20,16 @@ if [ "${#urls[@]}" -eq 0 ]; then
   exit 0
 fi
 
-# 2) Pagina de patch notes mais recente (atualiza no mesmo lugar toda semana)
-patch_path=$(printf '%s\n' "${urls[@]}" | grep 'patch-notes' | sort | tail -1)
+# 2) Pagina de patch notes mais recente = a com maior numero de update no caminho
+patch_path=$(printf '%s\n' "${urls[@]}" | grep 'patch-notes' | awk -F'update-' 'NF>1 {n=$2; gsub(/[^0-9].*$/,"",n); if (n!="") print n" "$0}' | sort -n | tail -1 | cut -d' ' -f2-)
 patch_part=""
 if [ -n "$patch_path" ]; then
   patch_html=$(curl -sL --max-time 40 -A "$UA" "https://hytale.com${patch_path}" || true)
+  # fingerprint da pagina: numero da "Part N" mais alta se existir, senao hash do conteudo
   patch_part=$(printf '%s' "$patch_html" | grep -oE '[Pp]art [0-9]+' | grep -oE '[0-9]+' | sort -n | tail -1)
+  if [ -z "$patch_part" ] && [ -n "$patch_html" ]; then
+    patch_part="hash-$(printf '%s' "$patch_html" | sha256sum | cut -c1-10)"
+  fi
 fi
 
 old_part=$(jq -r '.patchPart // ""' "$STATE")
