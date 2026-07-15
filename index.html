@@ -109,9 +109,18 @@
 <main id="lista"></main>
 <div class="toast" id="toast">Copiado!</div>
 
-<script src="posts/data.js"></script>
 <script>
-(function () {
+  // carrega os dados sempre frescos (sem cache), senão post novo demora a aparecer no celular
+  (function () {
+    var s = document.createElement("script");
+    s.src = "posts/data.js?t=" + Date.now();
+    s.onload = function () { window.__initEldryn(); };
+    s.onerror = function () { window.__initEldryn(); };
+    document.head.appendChild(s);
+  })();
+</script>
+<script>
+window.__initEldryn = function () {
   // ===== CONFIG =====
   const GRUPO_URL = "https://www.facebook.com/groups/hytalebrasil";
   const META_COMPOSER = "https://business.facebook.com/latest/composer";
@@ -382,7 +391,7 @@
 
   chkMostrar.addEventListener("change", render);
   render();
-})();
+};
 </script>
 </body>
 </html>
