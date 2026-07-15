@@ -172,6 +172,90 @@ window.__initEldryn = function () {
     return texto.replace(/https?:\/\/\S+/g, "x".repeat(23)).length;
   }
 
+  // gera imagem estilo print de tweet (pro Meta, que exige imagem)
+  function baixarImagemTweet(midia) {
+    const W = 1080, H = 1080;
+    const c = document.createElement("canvas");
+    c.width = W; c.height = H;
+    const ctx = c.getContext("2d");
+
+    ctx.fillStyle = "#15202b";
+    ctx.fillRect(0, 0, W, H);
+
+    const pad = 90;
+    const texto = midia.tweetTexto || "";
+    const autor = midia.tweetAutor || "";
+    const nome = autor.split("·")[0].trim() || "X";
+    const handle = (autor.split("·")[1] || "").trim();
+
+    // quebra o texto em linhas
+    const tamFonte = texto.length > 420 ? 38 : texto.length > 240 ? 44 : 50;
+    const altLinha = Math.round(tamFonte * 1.45);
+    ctx.font = tamFonte + "px 'Segoe UI', system-ui, sans-serif";
+    const larguraMax = W - pad * 2;
+    const linhas = [];
+    for (const paragrafo of texto.split("\n")) {
+      let linha = "";
+      for (const palavra of paragrafo.split(" ")) {
+        const teste = linha ? linha + " " + palavra : palavra;
+        if (ctx.measureText(teste).width > larguraMax && linha) {
+          linhas.push(linha);
+          linha = palavra;
+        } else linha = teste;
+      }
+      linhas.push(linha);
+    }
+
+    // bloco centralizado verticalmente
+    const altAvatar = 110;
+    const altTexto = linhas.length * altLinha;
+    const altTotal = altAvatar + 60 + altTexto + 80;
+    let y = Math.max(pad, (H - altTotal) / 2);
+
+    // avatar (círculo dourado com inicial)
+    const cx = pad + 55, cy = y + 55;
+    ctx.fillStyle = "#d4a94f";
+    ctx.beginPath(); ctx.arc(cx, cy, 55, 0, Math.PI * 2); ctx.fill();
+    ctx.fillStyle = "#15202b";
+    ctx.font = "bold 56px 'Segoe UI', system-ui, sans-serif";
+    ctx.textAlign = "center"; ctx.textBaseline = "middle";
+    ctx.fillText(nome[0].toUpperCase(), cx, cy + 4);
+    ctx.textAlign = "left"; ctx.textBaseline = "alphabetic";
+
+    // nome + handle
+    ctx.fillStyle = "#ffffff";
+    ctx.font = "bold 44px 'Segoe UI', system-ui, sans-serif";
+    ctx.fillText(nome, pad + 130, y + 45);
+    ctx.fillStyle = "#8b98a5";
+    ctx.font = "36px 'Segoe UI', system-ui, sans-serif";
+    ctx.fillText(handle, pad + 130, y + 95);
+
+    // logo X no canto
+    ctx.fillStyle = "#ffffff";
+    ctx.font = "bold 64px 'Segoe UI', system-ui, sans-serif";
+    ctx.fillText("𝕏", W - pad - 50, y + 70);
+
+    // texto do tweet
+    y += altAvatar + 60;
+    ctx.fillStyle = "#ffffff";
+    ctx.font = tamFonte + "px 'Segoe UI', system-ui, sans-serif";
+    for (const l of linhas) { ctx.fillText(l, pad, y); y += altLinha; }
+
+    // rodapé
+    ctx.fillStyle = "#8b98a5";
+    ctx.font = "32px 'Segoe UI', system-ui, sans-serif";
+    ctx.fillText("Tradução no post 👆 Tweet original no X", pad, H - pad + 10);
+
+    c.toBlob((blob) => {
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "tweet.png";
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 3000);
+    }, "image/png");
+  }
+
   function render() {
     lista.innerHTML = "";
     if (!posts.length) {
@@ -245,10 +329,20 @@ window.__initEldryn = function () {
           img.onerror = () => { img.remove(); };
           m.appendChild(img);
         } else if (p.midia.tipo === "tweet" && p.midia.url) {
+          const linha = document.createElement("div");
+          linha.style.display = "flex"; linha.style.gap = "8px"; linha.style.flexWrap = "wrap";
           const abrir = document.createElement("a");
           abrir.className = "btn btn-mini"; abrir.href = p.midia.url; abrir.target = "_blank"; abrir.rel = "noopener";
           abrir.textContent = "abrir tweet original";
-          m.appendChild(abrir);
+          linha.appendChild(abrir);
+          if (p.midia.tweetTexto) {
+            const btnImg = document.createElement("button");
+            btnImg.className = "btn-mini";
+            btnImg.textContent = "🖼 baixar imagem do tweet (pro Face/Insta)";
+            btnImg.addEventListener("click", () => baixarImagemTweet(p.midia));
+            linha.appendChild(btnImg);
+          }
+          m.appendChild(linha);
         }
         if (p.midia.nota) {
           const n = document.createElement("div");
@@ -287,8 +381,9 @@ window.__initEldryn = function () {
           if (!contador) return;
           let n = contarX(ta.value);
           if (p.midia && p.midia.tipo === "tweet") n += 24; // URL do quote
-          contador.textContent = "~" + n + "/280";
-          contador.classList.toggle("estourou", n > 280);
+          // conta Premium: sem limite prático, acima de 280 o X mostra "Mostrar mais"
+          contador.textContent = n <= 280 ? "~" + n + "/280" : "~" + n + " · Premium, aparece com Mostrar mais";
+          contador.classList.toggle("estourou", n > 25000);
         }
         ta.addEventListener("input", () => {
           lsSet(lsKey, ta.value);

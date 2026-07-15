@@ -33,7 +33,9 @@ window.ELDRYN_POSTS = [
       tipo: "tweet",
       url: "https://x.com/Simon_Hypixel/status/2075184842644373835",
       tweetId: "2075184842644373835",
-      nota: "Melhor opção é o quote (botão já inclui o tweet citado). Ou só RT."
+      tweetTexto: "Some thoughts on Hytale Early Access Chapter 1 and why we've been so quiet about it!\n\nThe plan so far has been to keep all new content hidden until release day, so the first chapter lands as one big surprise. I still believe in that for impact, but there's a downside…",
+      tweetAutor: "Simon · @Simon_Hypixel",
+      nota: "No X, melhor opção é o quote (botão já inclui o tweet citado) ou só RT. No Meta, baixa a imagem do tweet e anexa."
     },
     twitter: "🚨 SIMON QUEBROU O SILÊNCIO SOBRE O CAPÍTULO 1\n\nEle admitiu que esconder tudo por meses foi ruim pra comunidade e prometeu um blog post mostrando os bastidores do desenvolvimento ainda ESSA SEMANA\n\nFinalmente vamos ver o que tão fazendo lá dentro 👀",
     meta: "🚨 O Simon finalmente falou do Capítulo 1 do Hytale!\n\nDepois de meses em silêncio ele explicou o motivo. A ideia era esconder todo o conteúdo novo pra ser surpresa no lançamento. Só que ele mesmo admitiu que deixar a comunidade no escuro por tanto tempo não foi legal.\n\nE a boa notícia? Vem aí um blog post com os bastidores do desenvolvimento ainda essa semana. Se prepara que coisa grande tá chegando 🔥\n\n#Hytale #HytaleBrasil"
