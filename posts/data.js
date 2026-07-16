@@ -6,6 +6,57 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "2026-07-16-reddit-japan-build",
+    "rodada": "2026-07-16 19:08",
+    "emoji": "⛩️",
+    "titulo": "Build/arte com tema japonês pro Hytale (392 upvotes) — conteúdo visual pra RT",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uv65xm/japan_things_for_hytale/",
+    "fonteData": "13/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "392 upvotes ✓ (bem forte). Criação de tema japonês pra Hytale (build/arte), foto. Conteúdo visual muito bem aceito pela comunidade, ótimo pra RT. 📷",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://external-preview.redd.it/6sf83uuylych1.png?width=1200&auto=webp&s=b9274da4f317685f84dfab9aacdfbad5967d5eeb",
+      "nota": "Foto. Baixar em resolução cheia no post original e anexar. Autor u/sora_sabi. 📷"
+    },
+    "twitter": "⛩️ OLHA QUE TRABALHO LINDO DE TEMA JAPONÊS FEITO NO HYTALE\n\nA comunidade abraçou de vez, o post passou dos 390 votos no reddit do jogo. O nível de criação que já tá rolando é de outro mundo\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "⛩️ Olha que trabalho lindo de tema japonês feito no Hytale\n\nA comunidade abraçou de vez, o post passou dos 390 votos no reddit do jogo. O nível de criação que já tá rolando no jogo é impressionante.\n\n📷 u/sora_sabi\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-16-reddit-dungeon-curseforge",
+    "rodada": "2026-07-16 19:08",
+    "emoji": "⚔️",
+    "titulo": "Dungeon com sistema de 12 cajados lançada no CurseForge (97 upvotes) — mod visual pra RT",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uu6vzz/showcase_of_the_first_encounter_of_my_dungeon/",
+    "fonteData": "12/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "97 upvotes ✓. Criador lançou a primeira dungeon dele no CurseForge, com um sistema de armas novo de 12 cajados diferentes. Showcase do primeiro encontro. Conteúdo de mod visual. Conferir se tem vídeo no post.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://external-preview.redd.it/dDdzbDNsbWJscWNoMZzHOyQmTh7gCMKsH6CpGezkluTD-Wd4cfniZzwYFkRj.png?width=1200&auto=webp&s=f877ab3c92b8e82712496547b3a2252f440bade1",
+      "nota": "Baixar a mídia no post original (pode ter vídeo do encontro). Autor u/AceOfRoyalSuites."
+    },
+    "twitter": "⚔️ ALGUÉM LANÇOU UMA DUNGEON INTEIRA PRO HYTALE COM 12 CAJADOS DIFERENTES\n\nO mod já tá no CurseForge e vem com um sistema de armas novo, cada cajado com seu efeito. E isso é só o primeiro encontro dela\n\n📷 u/AceOfRoyalSuites\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "⚔️ Alguém lançou uma dungeon inteira pro Hytale com 12 cajados diferentes\n\nO mod já está no CurseForge e vem com um sistema de armas novo, cada cajado com seu próprio efeito. E o que apareceu é só o primeiro encontro dela.\n\n📷 u/AceOfRoyalSuites\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-16-reddit-terrain-video",
+    "rodada": "2026-07-16 19:08",
+    "emoji": "🌍",
+    "titulo": "Vídeo de geração de terreno open-world (InfiniteDiffusion, 91 upvotes) — vídeo pra RT",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uuq42d/infinitediffusion_openworld_terrain_generation/",
+    "fonteData": "12/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "91 upvotes ✓. VÍDEO mostrando geração de terreno de mundo aberto (projeto InfiniteDiffusion) dentro do Hytale. Conteúdo técnico/visual interessante. A mídia é vídeo (YouTube). 🎥",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
+      "nota": "É VÍDEO (YouTube Ae9q7KsRbuI). Baixar o vídeo pra postar. Autor u/Efficiency_Clown. 🎥"
+    },
+    "twitter": "🌍 GERAÇÃO DE TERRENO DE MUNDO ABERTO EM TEMPO REAL NO HYTALE\n\nUm projeto chamado InfiniteDiffusion mostrou em vídeo o terreno se gerando sozinho, do jeito que a criatividade da comunidade tá indo longe com o jogo\n\n🎥 u/Efficiency_Clown\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🌍 Geração de terreno de mundo aberto em tempo real no Hytale\n\nUm projeto chamado InfiniteDiffusion mostrou em vídeo o terreno se gerando sozinho. É mais uma prova de até onde a comunidade tá levando o jogo.\n\n🎥 u/Efficiency_Clown\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "2026-07-16-titulo-blog-primeiro-olhar",
     "rodada": "2026-07-16 21:45",
     "emoji": "🚨",
