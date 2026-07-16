@@ -6,6 +6,80 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "2026-07-16-titulo-blog-primeiro-olhar",
+    "rodada": "2026-07-16 21:45",
+    "emoji": "🚨",
+    "titulo": "Simon revelou o NOME do blog de amanhã: 'Primeiro Olhar: Capítulo 1 e Mais', o maior blog da história do Hytale + vai dar cronogramas aproximados de lançamento (3,5 mil ♥)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2077750643498869191",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "NOVIDADE FORTE, oficial. Simon anunciou o título exato do blog de amanhã ('First Look: Chapter 1 and More' / Primeiro Olhar Capítulo 1 e Mais), disse que é o MAIOR blog que já fizeram e que vai dar cronogramas APROXIMADOS de quando várias funcionalidades chegam (sem data exata, mas o suficiente pra saber pra onde vão). Este card já traz o título e a promessa de roadmap, que o card de hype antigo não tinha. Blog sai sexta 17/07 ao meio-dia de Brasília (10h EST).",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2077750643498869191",
+      "tweetId": "2077750643498869191",
+      "tweetTexto": "Amanhã vamos publicar o maior post do blog do Hytale até agora, 'Primeiro Olhar: Capítulo 1 e Mais', e estou um pouco ansioso com este! Vamos cobrir muitos tópicos, e eu também darei cronogramas aproximados para quando algumas dessas funcionalidades serão lançadas! Nada de datas super precisas, mas o suficiente para saber para onde as coisas estão indo. (traducao do X do original em ingles)",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "Print recomendado: abrir o tweet, tocar em Traduzir post e printar. O X mantem foto, selo e handle reais."
+    },
+    "twitter": "🚨 SIMON JÁ SOLTOU O NOME DO BLOG DE AMANHÃ E DIZ QUE É O MAIOR DA HISTÓRIA DO HYTALE\n\nO nome é 'Primeiro Olhar, Capítulo 1 e Mais', e o próprio Simon falou que é o maior post de blog que eles já fizeram, tá até ansioso com esse aqui\n\nO melhor não é nem o Capítulo 1 em si, é que ele prometeu dar cronogramas aproximados de quando várias funcionalidades vão chegar no jogo. Nada de data cravada, mas o suficiente pra finalmente entender pra onde o Hytale tá indo\n\nSai amanhã ao meio-dia no horário de Brasília, marca aí 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🚨 Simon já revelou o nome do blog de amanhã e diz que é o maior da história do Hytale\n\nO título é 'Primeiro Olhar, Capítulo 1 e Mais'. O próprio Simon contou que é o maior post de blog que o estúdio já fez e admitiu que tá até ansioso com esse.\n\nE tem um detalhe que muda tudo. Ele prometeu que vai dar cronogramas aproximados de quando várias funcionalidades chegam no jogo. Não vão ser datas cravadas, mas dá pra finalmente sacar pra onde o Hytale caminha depois do Capítulo 1.\n\nO blog sai amanhã ao meio-dia no horário de Brasília. Já deixa a ansiedade separada 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-16-catadao-simon-respostas-blog",
+    "rodada": "2026-07-16 21:45",
+    "emoji": "👀",
+    "titulo": "CATADÃO: Simon respondeu vários fãs no thread do blog (sem investidores + próprio fundo, nível de detalhe do blog, acessibilidade do Capítulo 1)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2077760480072884495",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CATADÃO oficial. No thread do anúncio do blog, o Simon respondeu vários jogadores. Destaques: (1) perguntaram se a 'pressão externa' que ele citou era investidor grande por trás, ele disse que NÃO tem investidor e nem precisa, tem um fundo próprio forte pra bancar; (2) o blog vai detalhar várias funcionalidades, algumas são autoexplicativas; (3) acessibilidade do Capítulo 1 tá no radar, um dos devs principais é defensor da causa. Agrupei as respostas do mesmo assunto (o blog).",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2077760480072884495",
+      "tweetId": "2077760480072884495",
+      "tweetTexto": "os fãs / não temos investidores e não precisamos de nenhum, eu possuo um grande fundo de investimento também que pode financiá-lo se for necessário (resposta do Simon a quem perguntou se a pressao externa era investidor grande; traducao do X)",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "Thread do anuncio do blog. Print recomendado da resposta sobre investidores (a mais forte). Traduzir post antes de printar."
+    },
+    "twitter": "👀 SIMON FICOU RESPONDENDO A GALERA NO THREAD DO BLOG E SOLTOU UMAS COISAS\n\nUm cara perguntou se a tal 'pressão externa' que ele citou era algum investidor grandão por trás do jogo. O Simon cortou na hora, disse que não tem investidor nenhum e nem precisa, que ele mesmo tem um fundo forte pra bancar o Hytale se for preciso\n\nOutro quis saber se o blog vai explicar cada recurso de verdade ou só jogar na tela sem contexto, e ele garantiu que vão detalhar vários, alguns são meio autoexplicativos\n\nE teve quem cobrou acessibilidade pro Capítulo 1. O Simon falou que um dos devs principais é fã da causa e que vão mostrar o progresso assim que der\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👀 Simon ficou respondendo a galera no thread do blog e acabou soltando várias coisas\n\nTeve gente perguntando se aquela 'pressão externa' que ele citou era algum investidor grandão por trás do jogo. Ele cortou na hora, disse que não tem investidor nenhum e nem precisa, que ele mesmo tem um fundo forte pra bancar o Hytale caso precise.\n\nOutro fã quis saber se o blog vai explicar cada recurso de verdade ou só mostrar sem contexto. O Simon garantiu que vão detalhar vários, e que alguns são meio autoexplicativos mesmo.\n\nE ainda teve quem cobrou acessibilidade pro Capítulo 1. Ele contou que um dos desenvolvedores principais é defensor da causa e que o progresso vai ser compartilhado assim que der.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-16-ideia-bau-trancado",
+    "rodada": "2026-07-16 21:45",
+    "emoji": "📦",
+    "titulo": "Ideia de baú que você quebra e carrega com os itens trancados dentro viralizou no r/hytale (73 upvotes, é sugestão da comunidade, não mod funcional)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uxwq93/locked_chest_system_you_break_the_chest_but_the/",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Comunidade, 73 upvotes ✓, 📷 foto. ATENÇÃO: é uma SUGESTÃO/conceito da comunidade (não um mod funcional confirmado), os comentários tratam como ideia pro estúdio ('isso precisa existir'). Ideia: baú que você quebra e leva junto com os itens trancados dentro, sem derrubar nada no chão. Viralizou porque quase todo mundo já perdeu item quebrando baú sem querer. Escrevi honesto como ideia, não como recurso pronto.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://i.redd.it/cje2zampvjdh1.png",
+      "nota": "Foto do conceito do bau. Credito 📷 u/Snakewithlegs_dovob."
+    },
+    "twitter": "📦 ESSA IDEIA DE BAÚ FEZ O PESSOAL DO HYTALE PIRAR\n\nUm jogador jogou a sugestão de um baú que você quebra e carrega junto, com os itens trancados dentro, sem espalhar nada pelo chão. Tipo levar o armário inteiro no bolso e destrancar só quando quiser\n\nA ideia bombou porque todo mundo aqui já perdeu item quebrando baú sem querer. Fica a indireta pro estúdio 👀\n\n📷 u/Snakewithlegs_dovob\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "📦 Essa ideia de baú fez o pessoal do Hytale pirar\n\nUm jogador jogou a sugestão de um baú diferente. Você quebra ele e carrega junto, com os itens trancados dentro, sem espalhar nada pelo chão. Seria tipo levar o armário inteiro no bolso e só destrancar quando bem entender.\n\nA sugestão bombou na comunidade porque quase todo mundo por aqui já perdeu item quebrando baú sem querer. Não é nada oficial ainda, é só uma ideia que viralizou, mas fica a indireta pro estúdio 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-16-cyberblade-endless-leveling",
+    "rodada": "2026-07-16 21:45",
+    "emoji": "⚔️",
+    "titulo": "Vídeo: classe Cyberblade cheia de habilidades no mod Endless Leveling, inspirada em personagem de MOBA (27 upvotes, dia fraco)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uxxvld/endless_leveling_cyberblade_class_abilities/",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Comunidade, 🎥 VÍDEO de mod. AVISO: só 27 upvotes (abaixo dos 50), vale só pra dia fraco de notícia, e hoje tá fraco (véspera do blog). Conteúdo visual bacana: um criador mostra a classe Cyberblade do mod Endless Leveling, cheia de habilidades estilosas, ele diz ser inspirada num personagem de MOBA. Você decide se posta ou segura pro blog roubar a cena amanhã.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uxxvld/endless_leveling_cyberblade_class_abilities/",
+      "nota": "Video em v.redd.it/kh91n2z78kdh1. Pro Meta, baixar o video do post. Credito 🎥 u/Airijko."
+    },
+    "twitter": "⚔️ ISSO É UMA CLASSE INTEIRA DE ANIME RODANDO DENTRO DO HYTALE\n\nUm criador montou a classe Cyberblade no mod de leveling e encheu de habilidade estilosa, dash, corte em área, o pacote completo. Ele conta que se inspirou num personagem de MOBA pra fechar o kit\n\nPra ver animação de combate assim num jogo em early access já dá uma noção do que os mods vão fazer com o Hytale 🎥\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "⚔️ Isso é uma classe inteira de anime rodando dentro do Hytale\n\nUm criador montou a classe Cyberblade dentro de um mod de leveling e encheu de habilidade estilosa. Tem dash, corte em área, o kit completo, e ele conta que se inspirou num personagem de MOBA pra montar tudo.\n\nVer animação de combate desse nível num jogo ainda em early access já dá pra imaginar o tamanho do que os mods vão fazer com o Hytale mais pra frente.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "2026-07-15-hype-capitulo1-sexta",
     "rodada": "2026-07-15 18:45",
     "emoji": "🚨",
