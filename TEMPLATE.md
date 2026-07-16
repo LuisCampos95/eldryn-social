@@ -77,13 +77,22 @@ Além de notícia, o Luis quer identificar e postar conteúdo VISUAL bacana da c
 ## Respostas do Simon/funcionários — como transformar em post
 Ler pela extensão do Chrome (mcp__claude-in-chrome): navegar em x.com/Simon_Hypixel/with_replies (e o with_replies dos funcionários), rolar a página e clicar "Show more" pra expandir tweets cortados. O Chrome do Luis fica logado como @eldrynhub. Fallback: WebSearch, que indexa mal reply.
 Pra pegar o AVATAR do autor (pra imagem do Meta): na página do tweet, rodar no console/js `[...document.querySelector('article').querySelectorAll('img')].map(i=>i.src).filter(s=>s.includes('profile_images'))` — pega a foto DENTRO do article (é a do autor, não a da conta logada). Trocar `_bigger`/`_normal` por `_400x400` na URL e baixar via curl.
-O Simon publica um post e responde MUITOS comentários dele, sobre assuntos variados (às vezes nem ligados ao post original). Ao ler as respostas:
-1. SEMPRE ler a pergunta/tweet-pai que provocou a resposta — a resposta sozinha não faz sentido sem o contexto da pergunta. O post tem que dar esse contexto ("Perguntaram pro Simon se X, e ele respondeu que Y").
-2. AGRUPAR por assunto. Quando ele responde várias coisas do MESMO tema, juntar tudo num post-catadão único ("Simon respondeu vários fãs e soltou muita coisa sobre o combate 👇" + lista das respostas). Só agrupar o que é do mesmo assunto — não misturar temas diferentes num post só.
-3. Quando UMA resposta sozinha já é forte (novidade grande, confirmação importante), vira um post próprio, não precisa juntar com nada.
-4. Julgar quando faz sentido cada caso. Resposta banal ("valeu!", "em breve") não vira post.
-- Confiabilidade dessas = oficial (é o Simon/estúdio falando).
-- No card, marcar no título/resumo quando for "CATADÃO" (post que junta várias respostas) pro Luis saber que veio de várias respostas agrupadas.
+O Simon publica um post e responde MUITOS comentários dele, sobre assuntos variados. Ao ler as respostas, o objetivo é EXTRAIR A INFORMAÇÃO, não narrar a conversa.
+
+### FORMATO DO CATADÃO (resumão de informações) — REGRA CRÍTICA
+- **NÃO FALAR DAS PESSOAS.** Proibido "um cara perguntou", "outro quis saber", "teve quem cobrou", "perguntaram pra ele". O leitor não quer saber quem perguntou, quer a NOVIDADE. Ler a pergunta só pra ENTENDER o contexto da resposta, mas no texto aparece SÓ o fato/a informação.
+- Formato: manchete tipo "👀🔥 RESUMÃO DE INFORMAÇÕES SOBRE [ASSUNTO]!" + lista de tópicos, cada um começando com 🔹, cada tópico uma informação/fato limpo e direto extraído das respostas.
+- Cada 🔹 é uma afirmação de fato ("🔹 O time garante que tem muito conteúdo sendo produzido"), NUNCA uma narração de pergunta/resposta.
+- Ler TODAS as respostas relevantes do assunto e transformar cada novidade num tópico. Quanto mais info real, melhor.
+- Exemplo de tópico CERTO: "🔹 Simon afirma que não há investidor externo no jogo e que ele mesmo tem fundos pra bancar o Hytale se precisar". Exemplo ERRADO: "Um cara perguntou se tinha investidor e o Simon respondeu que não".
+- Escrever com wording PRÓPRIO. A estrutura de tópicos é comum, mas o texto é do zero — NUNCA copiar a redação de @CentralHytaleBR/@HytaleAlerts/Comunidade Hytale Brasil.
+- Twitter (Premium): pode ser o resumão inteiro num post só. Meta: mesmo resumão (respeitando 2200 chars, priorizar os tópicos mais fortes se estourar).
+
+### Quando agrupar vs post único
+1. AGRUPAR por assunto num resumão quando ele responde várias coisas do MESMO tema.
+2. UMA resposta sozinha muito forte (novidade grande) pode virar post próprio no formato normal.
+3. Resposta banal ("valeu!", "em breve") não vira nada.
+- Confiabilidade = oficial (é o Simon/estúdio falando).
 - Conteúdo de comunidade (reddit/tweets de terceiros) só quando é forte de verdade. Visualmente impressionante, viral, ou descoberta relevante. "Atualização de mod" sozinho é fraco. O ângulo interessante é o que o projeto É, não o fato de ter atualizado.
 - Na dúvida se é fraco, gerar mesmo assim e avisar no resumo ("vale pra dia fraco de notícia"). O Luis decide.
 

@@ -29,7 +29,7 @@ window.ELDRYN_POSTS = [
     "id": "2026-07-16-catadao-simon-respostas-blog",
     "rodada": "2026-07-16 21:45",
     "emoji": "👀",
-    "titulo": "CATADÃO: Simon respondeu vários fãs no thread do blog (sem investidores + próprio fundo, nível de detalhe do blog, acessibilidade do Capítulo 1)",
+    "titulo": "RESUMÃO Simon: sem investidor externo (fundo próprio), blog vai detalhar recursos, acessibilidade no radar do Capítulo 1",
     "fonte": "https://x.com/Simon_Hypixel/status/2077760480072884495",
     "fonteData": "16/07/2026",
     "confiabilidade": "oficial",
@@ -42,8 +42,8 @@ window.ELDRYN_POSTS = [
       "tweetAutor": "Simon · @Simon_Hypixel",
       "nota": "Thread do anuncio do blog. Print recomendado da resposta sobre investidores (a mais forte). Traduzir post antes de printar."
     },
-    "twitter": "👀 SIMON FICOU RESPONDENDO A GALERA NO THREAD DO BLOG E SOLTOU UMAS COISAS\n\nUm cara perguntou se a tal 'pressão externa' que ele citou era algum investidor grandão por trás do jogo. O Simon cortou na hora, disse que não tem investidor nenhum e nem precisa, que ele mesmo tem um fundo forte pra bancar o Hytale se for preciso\n\nOutro quis saber se o blog vai explicar cada recurso de verdade ou só jogar na tela sem contexto, e ele garantiu que vão detalhar vários, alguns são meio autoexplicativos\n\nE teve quem cobrou acessibilidade pro Capítulo 1. O Simon falou que um dos devs principais é fã da causa e que vão mostrar o progresso assim que der\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "👀 Simon ficou respondendo a galera no thread do blog e acabou soltando várias coisas\n\nTeve gente perguntando se aquela 'pressão externa' que ele citou era algum investidor grandão por trás do jogo. Ele cortou na hora, disse que não tem investidor nenhum e nem precisa, que ele mesmo tem um fundo forte pra bancar o Hytale caso precise.\n\nOutro fã quis saber se o blog vai explicar cada recurso de verdade ou só mostrar sem contexto. O Simon garantiu que vão detalhar vários, e que alguns são meio autoexplicativos mesmo.\n\nE ainda teve quem cobrou acessibilidade pro Capítulo 1. Ele contou que um dos desenvolvedores principais é defensor da causa e que o progresso vai ser compartilhado assim que der.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "👀🔥 RESUMÃO DE INFORMAÇÕES DO HYTALE DIRETO DO SIMON\n\n🔹 O Hytale não tem nenhum investidor externo e o Simon garante que nem precisa, ele mesmo tem um fundo de investimento forte pra bancar o jogo se for necessário\n\n🔹 O blog de sexta vai detalhar de verdade várias funcionalidades, não é só mostrar na tela sem contexto, mesmo que algumas sejam meio autoexplicativas\n\n🔹 A acessibilidade já está no radar pro Capítulo 1, um dos desenvolvedores principais é defensor da causa e o progresso vai ser mostrado assim que der\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👀🔥 RESUMÃO DE INFORMAÇÕES DO HYTALE DIRETO DO SIMON\n\n🔹 O Hytale não tem nenhum investidor externo e o Simon garante que nem precisa, ele mesmo tem um fundo de investimento forte pra bancar o jogo se for necessário\n\n🔹 O blog de sexta vai detalhar de verdade várias funcionalidades, não é só mostrar na tela sem contexto, mesmo que algumas sejam meio autoexplicativas\n\n🔹 A acessibilidade já está no radar pro Capítulo 1, um dos desenvolvedores principais é defensor da causa e o progresso vai ser mostrado assim que der\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
     "id": "2026-07-16-ideia-bau-trancado",
