@@ -63,6 +63,14 @@ O blog mais importante da história do jogo. Quando detectar que saiu (post novo
 - Fontes oficiais top: Simon (posts, reposts E RESPOSTAS dele — solta MUITA notícia respondendo jogador, é ouro), conta @Hytale, blog do site.
 - Funcionários do estúdio (bastidores, olhar posts E respostas): @slikey, @zeroerrors, @devslashnulled, @itsbuddhacat (BuddhaCat = comunidade).
 - **Twitter da comunidade (NOVO): qualquer post BOM sobre Hytale de QUALQUER pessoa serve** — não só funcionários. Fan art impressionante, build, descoberta, teoria de lore, clipe viral, mod, reação relevante. Se é bom e sobre Hytale, pode virar post (com crédito ao @autor no fim). Caçar via WebSearch "Hytale" no X, hashtag #Hytale, e o que aparece nas respostas/quotes dos posts oficiais.
+
+## Conteúdo visual pra RETUITAR (mod, build, plugin, coisa engraçada)
+Além de notícia, o Luis quer identificar e postar conteúdo VISUAL bacana da comunidade no Twitter, tipo material de retuíte. Categorias:
+- Mod novo (principalmente em VÍDEO mostrando funcionando), plugin, build/construção impressionante, momento engraçado/clipe, timelapse, criação criativa.
+- **OBRIGATÓRIO ter mídia: só posts com VÍDEO ou FOTO.** Post só de texto não entra nessa categoria.
+- Régua: tem que ser visualmente legal, impressionante ou realmente engraçado. Não é qualquer screenshot aleatório.
+- Como vira card: midia tipo "tweet" (vira botão de RT/quote no painel — o X leva a mídia junto no RT). No campo `twitter`, um comentário curto de quote-tweet no estilo da página ("olha que build absurda de Hytale 👇") OU deixar claro no resumo que é pra dar RT puro. Sempre creditar o @autor. No Meta (que não tem RT), baixar o vídeo/foto do tweet e postar com uma legenda curta + crédito ao @autor.
+- Buscar: WebSearch/timeline por "Hytale" + filtro de mídia, #Hytale, #HytaleMods, e o que os criadores postam. Marcar no resumo se é vídeo (🎥) ou foto (📷).
 - **NÃO COPIAR (concorrentes que também postam notícia):** @CentralHytaleBR, Comunidade Hytale Brasil, @HytaleAlerts. Pode usar como TERMÔMETRO (ver o que tá repercutindo) mas NUNCA copiar texto, estrutura, tradução ou ângulo deles. Sempre ir na fonte primária e escrever do zero. Se a única fonte de algo for um desses, buscar o tweet/post original que eles citaram e usar esse.
 - Como caçar respostas na busca web (que indexa mal reply): "Simon_Hypixel" replies, o assunto + Simon, with_replies do perfil. Extensão do Chrome (instalada 2026-07-15): ler x.com/Simon_Hypixel/with_replies direto.
 
