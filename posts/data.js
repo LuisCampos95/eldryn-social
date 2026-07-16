@@ -6,6 +6,26 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "2026-07-16-twitter-trigger-connect4",
+    "rodada": "2026-07-16 19:20",
+    "emoji": "🎮",
+    "titulo": "Lig 4 jogável feito no Hytale com Trigger Volumes (@foxy_cca, vídeo, CurseForge) — RT da comunidade fora das contas conhecidas",
+    "fonte": "https://x.com/foxy_cca/status/2077663204855930915",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Achado na busca ampla do Twitter (conta @foxy_cca, fora das que o Luis segue). VÍDEO de um Connect 4 (Lig 4) jogável feito dentro do Hytale usando as ferramentas de Trigger Volume, em 2-3 dias, jogável em dupla, já no CurseForge. 79 likes. Ótimo pra RT/quote. 🎥",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/foxy_cca/status/2077663204855930915",
+      "tweetId": "2077663204855930915",
+      "tweetTexto": "Trigger Connect 4 finalmente saiu no CurseForge! Um projeto divertido e pequeno de Trigger Volume que eu fiz em 2-3 dias. Jogável na versão pré-lançamento mais recente do Hytale com 1 ou 2 jogadores! (traducao do X)",
+      "tweetAutor": "Foxy · @foxy_cca",
+      "nota": "É VÍDEO. No X dá quote/RT (leva o vídeo junto). No Meta, baixar o vídeo do tweet e postar. 🎥"
+    },
+    "twitter": "🎮 FIZERAM UM LIG 4 JOGÁVEL DE VERDADE DENTRO DO HYTALE\n\nUm criador montou aquele joguinho de encaixar 4 peças funcionando dentro do jogo, usando as ferramentas de Trigger Volume, e ainda dá pra jogar em dois. E levou só uns 2 ou 3 dias pra fazer\n\nJá tá no CurseForge pra qualquer um baixar e testar\n\n🎥 @foxy_cca\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎮 Fizeram um Lig 4 jogável de verdade dentro do Hytale\n\nUm criador montou aquele joguinho de encaixar 4 peças funcionando dentro do jogo, usando as ferramentas de Trigger Volume, e ainda dá pra jogar em dois. E levou só uns 2 ou 3 dias pra fazer.\n\nJá está no CurseForge pra qualquer um baixar e testar. É de doer ver o tanto que dá pra fazer com essas ferramentas.\n\n🎥 @foxy_cca\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "2026-07-16-reddit-japan-build",
     "rodada": "2026-07-16 19:08",
     "emoji": "⛩️",

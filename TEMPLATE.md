@@ -70,7 +70,11 @@ Além de notícia, o Luis quer identificar e postar conteúdo VISUAL bacana da c
 - **OBRIGATÓRIO ter mídia: só posts com VÍDEO ou FOTO.** Post só de texto não entra nessa categoria.
 - Régua: tem que ser visualmente legal, impressionante ou realmente engraçado. Não é qualquer screenshot aleatório.
 - Como vira card: midia tipo "tweet" (vira botão de RT/quote no painel — o X leva a mídia junto no RT). No campo `twitter`, um comentário curto de quote-tweet no estilo da página ("olha que build absurda de Hytale 👇") OU deixar claro no resumo que é pra dar RT puro. Sempre creditar o @autor. No Meta (que não tem RT), baixar o vídeo/foto do tweet e postar com uma legenda curta + crédito ao @autor.
-- Buscar: WebSearch/timeline por "Hytale" + filtro de mídia, #Hytale, #HytaleMods, e o que os criadores postam. Marcar no resumo se é vídeo (🎥) ou foto (📷).
+- Buscar (SEMPRE, não só os perfis conhecidos): a busca do X pega conteúdo de qualquer criador. Aba "Mais recentes". Queries que funcionam bem:
+  - `Hytale (mod OR build OR plugin OR made) filter:media min_faves:50` (mod/build/plugin com mídia e engajamento)
+  - `Hytale filter:media min_faves:50 -from:CentralHytaleBR -from:HytaleAlerts` (geral, excluindo concorrentes)
+  - #Hytale, #HytaleModding, #HytaleBuild
+  Ignorar os próprios posts do @OrbisHytale que aparecem. Marcar no resumo se é vídeo (🎥) ou foto (📷) e o @autor.
 - **NÃO COPIAR (concorrentes que também postam notícia):** @CentralHytaleBR, Comunidade Hytale Brasil, @HytaleAlerts. Pode usar como TERMÔMETRO (ver o que tá repercutindo) mas NUNCA copiar texto, estrutura, tradução ou ângulo deles. Sempre ir na fonte primária e escrever do zero. Se a única fonte de algo for um desses, buscar o tweet/post original que eles citaram e usar esse.
 - Como caçar respostas na busca web (que indexa mal reply): "Simon_Hypixel" replies, o assunto + Simon, with_replies do perfil. Extensão do Chrome (instalada 2026-07-15): ler x.com/Simon_Hypixel/with_replies direto.
 
