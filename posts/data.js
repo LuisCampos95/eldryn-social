@@ -6,174 +6,174 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "teste2022-onda1-breaking",
-    "rodada": "2026-07-16 23:50",
+    "id": "teste2022-v2-01-motor",
+    "rodada": "2026-07-16 23:59",
     "emoji": "🚨",
-    "titulo": "[TESTE ONDA 1] BREAKING do blog (motor C++ e adeus 2023)",
+    "titulo": "[TESTE • 1º POST] Motor reconstruído em C++ e lançamento fora de 2023",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "TESTE com o artigo de 2022, NÃO POSTAR. Seção 'A new engine for Hytale'. Frase literal de auditoria: 'we've made the decision to redevelop Hytale's engine, both the client and the server, in C++'. E 'the game will not be ready to launch in 2023'. Time passou de 100 pessoas.",
+    "resumo": "ORDEM 1º, postar NA HORA que o blog sair. TESTE, NÃO POSTAR DE VERDADE. Seção 'A new engine for Hytale'. Frases literais de auditoria: 'redevelop Hytale's engine, both the client and the server, in C++' / 'the game will not be ready to launch in 2023' / 'There are over 100 of us now'.",
     "midia": {
       "tipo": "imagem",
       "url": "https://cdn.hytale.com/variants/blog_cover_9bd9b4049de8ead4b748003e7c48f604_summer_2022_development_update_header.jpg",
-      "nota": "Capa oficial do blog (URL direta, qualidade cheia). Método de obtenção = download direto do cdn."
+      "nota": "Capa oficial do blog. Método = download direto do cdn (URL é a imagem em qualidade cheia)."
     },
-    "twitter": "🚨 SAIU O NOVO BLOG GIGANTE DO HYTALE E A PRIMEIRA BOMBA É PESADA\n\nO motor do jogo inteiro, cliente e servidor, está sendo reconstruído em C++. O objetivo é rodar bem em várias plataformas sem dividir a comunidade, ganhar desempenho e facilitar as atualizações daqui pra frente\n\nE veio o outro lado da moeda. O jogo não lança mais em 2023. O estúdio assumiu que prefere levar o tempo que for preciso a entregar algo abaixo da expectativa\n\nJá são mais de 100 pessoas no time e esse blog tá recheado de novidade. Fica aqui na página que a gente vai cobrir TUDO 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🚨 Saiu o novo blog gigante do Hytale e a primeira bomba é pesada\n\nO motor do jogo inteiro, cliente e servidor, está sendo reconstruído em C++. O objetivo é rodar bem em várias plataformas sem dividir a comunidade por aparelho, ganhar desempenho e facilitar as atualizações daqui pra frente.\n\nE veio o outro lado da moeda. O jogo não lança mais em 2023. O estúdio assumiu que prefere levar o tempo que for preciso a entregar algo abaixo da expectativa da comunidade.\n\nJá são mais de 100 pessoas trabalhando no jogo e esse blog está recheado de novidade. Fica com a gente que vamos cobrir tudo por aqui 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🚨 O MOTOR DO HYTALE ESTÁ SENDO RECONSTRUÍDO EM C++ E O JOGO NÃO LANÇA MAIS EM 2023\n\nO blog novo abriu com a notícia mais pesada. O motor inteiro, cliente e servidor, está sendo refeito do zero em C++. Os motivos são concretos\n\n🕹️ lançar em várias plataformas sem dividir a comunidade por aparelho\n⚡ mais desempenho\n🔧 atualizações e correções mais rápidas daqui pra frente\n\nO motor antigo foi feito quando o estúdio era pequeno e não aguentaria a escala do que o jogo virou. A decisão veio depois de meses de pesquisa, e eles preferem arrumar a base agora a fazer a comunidade sofrer com isso depois do lançamento\n\nO preço é o tempo. 2023 já era. Em troca, o time passou de 100 pessoas e o compromisso com os mods segue de pé, com scripting de primeira linha nos planos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🚨 O motor do Hytale está sendo reconstruído em C++ e o jogo não lança mais em 2023\n\nO blog novo abriu com a notícia mais pesada. O motor inteiro, cliente e servidor, está sendo refeito do zero em C++. Os motivos são concretos\n\n🕹️ Lançar em várias plataformas sem dividir a comunidade por aparelho\n⚡ Mais desempenho\n🔧 Atualizações e correções mais rápidas daqui pra frente\n\nO motor antigo foi construído quando o estúdio ainda era pequeno e não aguentaria a escala do que o Hytale se tornou. A decisão veio depois de meses de pesquisa, e a equipe preferiu arrumar a base agora a fazer a comunidade passar por dores depois do lançamento.\n\nO preço é o tempo. O lançamento em 2023 já era. Em troca, o time passou de 100 pessoas, os requisitos mínimos seguem pensados pra PCs mais fracos e o compromisso com os mods continua de pé, com sistemas de scripting de primeira linha nos planos.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "teste2022-onda1-visao",
-    "rodada": "2026-07-16 23:50",
+    "id": "teste2022-v2-02-visao",
+    "rodada": "2026-07-16 23:59",
     "emoji": "📖",
-    "titulo": "[TESTE ONDA 1] Post principal de visão/lore (as 3 portas)",
+    "titulo": "[TESTE • 2º POST] A visão nova do jogo (3 caminhos, 1 jogo só)",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "TESTE, NÃO POSTAR. Seção 'Our vision for Hytale'. Frase literal: 'Hytale isn't three different games: it's one'. As três portas (criativo, social, aventura em Orbis) levam pro mesmo jogo.",
+    "resumo": "ORDEM 2º, ~30 min depois do 1º. TESTE, NÃO POSTAR. Seção 'Our vision for Hytale'. Frase literal: 'Hytale isn't three different games: it's one'. Detalhes das 3 portas + jornada do criador até 'creator pro'.",
     "midia": {
       "tipo": "imagem",
       "url": "https://cdn.hytale.com/6ebbda8ac2ced2f667fffd810efd1915_doors___vision.png",
-      "nota": "Arte oficial das portas (URL direta do cdn). No Meta dá pra usar o CARROSSEL do card de visão completo da Onda 2."
+      "nota": "Arte oficial da visão (portas). Método = download direto do cdn. No Meta, o card [6º] tem o CARROSSEL completo das 5 artes."
     },
-    "twitter": "📖 O HYTALE NÃO É TRÊS JOGOS DIFERENTES, É UM SÓ\n\nO blog revelou como o estúdio enxerga o jogo agora. Imagina três portas na tua frente\n\n🚪 a primeira leva pro modo criativo, com mundos gerados, mods e ferramentas de construção\n🚪 a do meio abre o hub social, evolução dos minigames do Hypixel, onde a comunidade se encontra\n🚪 a última é a aventura em Orbis, o RPG sandbox com narrativa e desafio feitos à mão\n\nO detalhe que muda tudo é que qualquer porta te leva pro mesmo lugar. Tudo é Hytale, tudo conversa entre si 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "📖 O Hytale não é três jogos diferentes, é um só\n\nO blog revelou como o estúdio enxerga o jogo agora. Imagina três portas na tua frente.\n\n🚪 A primeira leva pro modo criativo, com mundos gerados, mods e ferramentas de construção poderosas\n🚪 A do meio abre o hub social, uma evolução da experiência de minigames do Hypixel, onde a comunidade inteira se encontra\n🚪 A última é a aventura em Orbis, o RPG sandbox com narrativa e desafio feitos à mão pela equipe\n\nO detalhe que muda tudo é que qualquer porta te leva pro mesmo lugar. Tudo é Hytale, tudo se conecta 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "📖 O ESTÚDIO REDEFINIU O HYTALE, AGORA SÃO TRÊS PORTAS QUE LEVAM PRO MESMO JOGO\n\n🚪 Porta da esquerda, jogo criativo. Mundos gerados, mods, estilos de bloco e prefab. A jornada começa construindo e pode terminar em scripting, criação de asset e animação com ferramenta de nível profissional\n\n🚪 Porta do meio, o social. Evolução da experiência de minigames do Hypixel, um hub compartilhado onde a comunidade compete, mostra conquista e se expressa pelo personagem\n\n🚪 Porta da direita, aventura em Orbis. O RPG sandbox com desafio e narrativa desenhados à mão, usando aleatoriedade seletiva pra cada jornada ser diferente\n\nE a frase que define tudo veio do próprio blog. O Hytale não é três jogos diferentes, é um só\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "📖 O estúdio redefiniu o Hytale, agora são três portas que levam pro mesmo jogo\n\n🚪 Porta da esquerda, jogo criativo. Mundos gerados proceduralmente, mods, estilos de bloco e prefab. A jornada do criador começa construindo bloco a bloco e pode terminar em scripting, criação de assets e animação com ferramentas de nível profissional.\n\n🚪 Porta do meio, o social. Uma evolução da experiência de minigames do Hypixel, um hub compartilhado onde a comunidade inteira compete nos minigames mais novos, mostra conquistas e se expressa pelo personagem.\n\n🚪 Porta da direita, aventura em Orbis. O RPG sandbox com desafio e narrativa desenhados à mão pela equipe, usando aleatoriedade seletiva pra cada jornada ser diferente.\n\nE a frase que define tudo veio do próprio blog. O Hytale não é três jogos diferentes, é um só. Qualquer porta te leva pro mesmo lugar.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "teste2022-onda2-avatares",
-    "rodada": "2026-07-16 23:49",
+    "id": "teste2022-v2-03-avatares",
+    "rodada": "2026-07-16 23:59",
     "emoji": "🔮",
-    "titulo": "[TESTE ONDA 2] Lore dos Avatares (Orbis perdeu o seu)",
+    "titulo": "[TESTE • 3º POST] Lore dos Avatares e o mistério de Orbis",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "TESTE, NÃO POSTAR. Seção 'A universe of Avatars'. Frase literal: 'many Avatars are drawn to the world of Orbis, a world that has lost its Avatar under mysterious circumstances'. Lore forte.",
+    "resumo": "ORDEM 3º, ~1h depois do 1º. TESTE, NÃO POSTAR. Seção 'A universe of Avatars'. Frases literais: 'a world that has lost its Avatar under mysterious circumstances' / 'at least one Avatar that you're already aware of fits this description'.",
     "midia": {
       "tipo": "imagem",
       "url": "https://cdn.hytale.com/980fac2a1045ae41a93addd8f89b0993_avatar_concept.jpg",
-      "nota": "Concept oficial do Avatar (URL direta do cdn)."
+      "nota": "Concept oficial do Avatar. Método = download direto do cdn."
     },
-    "twitter": "🔮 A LORE MAIS PESADA DO BLOG É SOBRE QUEM VOCÊ É DENTRO DO JOGO\n\nSeu personagem no Hytale é um Avatar, um ser criativo poderoso. No mundo que VOCÊ cria, seu poder não tem limite nenhum. No mundo dos outros, você só tem o poder que o dono te der\n\nE aí vem a parte boa. Muitos Avatares estão sendo atraídos pra Orbis, um mundo que perdeu o próprio Avatar em circunstâncias misteriosas. Lá, todo esse poder some e você precisa sobreviver na raça, desvendando os segredos que ficaram pra trás\n\nQuem será que era o Avatar de Orbis 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🔮 A lore mais pesada do blog é sobre quem você é dentro do jogo\n\nSeu personagem no Hytale é um Avatar, um ser criativo poderoso. No mundo que VOCÊ cria, seu poder não tem limite nenhum. No mundo dos outros, você só tem o poder que o dono te conceder.\n\nE aí vem a parte boa. Muitos Avatares estão sendo atraídos pra Orbis, um mundo que perdeu o próprio Avatar em circunstâncias misteriosas. Lá, todo esse poder desaparece e você precisa desenvolver habilidades práticas pra sobreviver, se estabelecer e desvendar os segredos que ficaram pra trás.\n\nQuem será que era o Avatar de Orbis? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🔮 A LORE DO HYTALE FICOU SÉRIA, ORBIS PERDEU SEU AVATAR EM CIRCUNSTÂNCIAS MISTERIOSAS\n\nO blog detalhou quem você é no jogo. Seu personagem é um Avatar, um ser criativo poderoso, e o poder dele muda conforme o lugar\n\n🌍 no mundo que VOCÊ criou, poder sem limite nenhum\n🤝 no hub social, os Avatares seguram o poder pra competir e criar em pé de igualdade\n🚪 no mundo de outro jogador, você só tem o que o dono te conceder\n\nAí entra Orbis. Um mundo que perdeu o próprio Avatar de forma misteriosa, onde os visitantes viram quase mortais e precisam aprender a sobreviver na raça pra desvendar o que aconteceu\n\nE o blog ainda soltou um detalhe. Pelo menos um Avatar que a gente já conhece vive recluso no próprio mundo, longe do resto do cosmos. Quem será 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🔮 A lore do Hytale ficou séria, Orbis perdeu seu Avatar em circunstâncias misteriosas\n\nO blog detalhou quem você é dentro do jogo. Seu personagem é um Avatar, um ser criativo poderoso, e o poder dele muda conforme o lugar.\n\n🌍 No mundo que VOCÊ criou, o poder não tem limite nenhum\n🤝 No hub social, os Avatares seguram o próprio poder pra competir e criar em pé de igualdade\n🚪 No mundo de outro jogador, você só tem o poder que o dono te conceder\n\nAí entra Orbis. Um mundo que perdeu o próprio Avatar de forma misteriosa, onde os visitantes ficam sujeitos a limitações quase mortais e precisam desenvolver habilidades práticas pra sobreviver, se estabelecer e desvendar o que aconteceu.\n\nE o blog ainda soltou um detalhe que deixou todo mundo teorizando. Pelo menos um Avatar que a gente já conhece vive recluso no próprio mundo, sem se envolver com o resto do cosmos. Quem será? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "teste2022-onda2-ui",
-    "rodada": "2026-07-16 23:49",
+    "id": "teste2022-v2-04-ui",
+    "rodada": "2026-07-16 23:59",
     "emoji": "🖥️",
-    "titulo": "[TESTE ONDA 2] Nova interface (vídeo CF Stream)",
+    "titulo": "[TESTE • 4º POST] Interface refeita do zero (vídeo teaser)",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "TESTE, NÃO POSTAR. Seção 'Our vision for Hytale' (parte de UI/UX). Frase literal: 'Our UI/UX team are currently in the process of rebuilding Hytale's interface from the ground up'. Dois teasers em vídeo; este usa o primeiro.",
+    "resumo": "ORDEM 4º, ~2h depois do 1º. TESTE, NÃO POSTAR. Seção 'Our vision for Hytale' (parte de UI). Frase literal: 'rebuilding Hytale's interface from the ground up' / 'building a visual language for Hytale's UI that will help unify the various experiences'. São 2 teasers de vídeo, este post usa o primeiro e o segundo entra como segunda opção de mídia.",
     "midia": {
       "tipo": "video",
       "url": "https://iframe.videodelivery.net/a5341d8b39321cc26801a016befccd7f",
-      "nota": "Vídeo Cloudflare Stream. MÉTODO de obtenção em melhor qualidade = ZIP oficial do fim do post (https://cdn.hytale.com/5f40c478eeec4e5ba45096e2cef812db_hytale-development-update-summer-2022-clips.zip); alternativa yt-dlp nesse link do videodelivery. Segundo teaser de UI = 6c3f3ce41e625eea185ddaf0d80e844c (mídia solta)."
+      "nota": "Vídeo CF Stream. MÉTODO = ZIP oficial do fim do post (fonte de melhor qualidade, download direto: https://cdn.hytale.com/5f40c478eeec4e5ba45096e2cef812db_hytale-development-update-summer-2022-clips.zip). Amanhã o ZIP é baixado automaticamente pra Downloads\\EldrynMidias. Segundo teaser = 6c3f3ce41e625eea185ddaf0d80e844c."
     },
-    "twitter": "🖥️ PRIMEIRO OLHAR NA NOVA INTERFACE DO HYTALE\n\nO time de UI está reconstruindo a interface do jogo do zero, criando uma linguagem visual que conecta todas as experiências do jogo\n\nO blog trouxe um teaser em vídeo e o visual tá limpo demais, olha isso\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🖥️ Primeiro olhar na nova interface do Hytale\n\nO time de UI está reconstruindo a interface do jogo do zero, criando uma linguagem visual única que conecta todas as experiências do jogo.\n\nO blog trouxe um teaser em vídeo e o visual está limpo demais.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🖥️ A INTERFACE DO HYTALE ESTÁ SENDO REFEITA DO ZERO E O PRIMEIRO TEASER APARECEU\n\nO time de UI está reconstruindo a interface inteira do jogo com um objetivo claro, criar uma linguagem visual única que conecta todas as experiências, do criativo ao social e à aventura, e o teu personagem no meio disso tudo\n\nO trabalho ainda está em andamento e o próprio estúdio avisou que não está pronto pra mostrar tudo, mas liberou essa prévia em vídeo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🖥️ A interface do Hytale está sendo refeita do zero e o primeiro teaser apareceu\n\nO time de UI está reconstruindo a interface inteira do jogo com um objetivo claro, criar uma linguagem visual única que conecta todas as experiências, do criativo ao social e à aventura, e o teu personagem no meio disso tudo.\n\nO trabalho ainda está em andamento e o próprio estúdio avisou que não está pronto pra mostrar tudo, mas liberou essa prévia em vídeo.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "teste2022-onda2-biomas-gelados",
-    "rodada": "2026-07-16 23:49",
-    "emoji": "🥶",
-    "titulo": "[TESTE ONDA 2] Biomas congelados de Orbis (CARROSSEL 8 imagens)",
-    "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
-    "fonteData": "TESTE (artigo de 2022)",
-    "confiabilidade": "oficial",
-    "resumo": "CARROSSEL. TESTE, NÃO POSTAR. Seção 'Rediscovering Orbis'. Frase literal: 'a series of colossal waves flash-frozen at the moment they crested the surface of an icy sea'. Conceitos e versões in-game dos biomas frios, na ordem do artigo (conceito e depois in-game).",
-    "midia": {
-      "tipo": "imagem",
-      "url": "https://cdn.hytale.com/a33a64e55f8ab2bb6c341377386245af_greater___frozen_waves.jpg",
-      "nota": "CARROSSEL — 8 imagens, na ordem de postagem: 1) https://cdn.hytale.com/088002afff2cb9ffd207bcd1ad2428f7_misty_forest_concepts.jpg 2) https://cdn.hytale.com/139724af08871e4b94e35e93bd660d68_baxter___misty_forest.jpg 3) https://cdn.hytale.com/1aab4a5d55acdf5b5b8a035800517ead_hot_springs_concept.jpg 4) https://cdn.hytale.com/760df5a1c95f18a07745d8bdb4c362c5_amber___hot_springs.jpg 5) https://cdn.hytale.com/ed2515f088a131496f7b2795e8498d82_frost_blizzard_concept.jpg 6) https://cdn.hytale.com/35077790b982be122c0fd0ac597c3b17_sarc___frost_blizzard.jpg 7) https://cdn.hytale.com/93b4ea7f67c5720cbed810389e4ec554_frozen_waves_concept.jpg 8) https://cdn.hytale.com/a33a64e55f8ab2bb6c341377386245af_greater___frozen_waves.jpg. No Twitter usar SÓ a 8 (ondas congeladas in-game). Método = URL direta do cdn."
-    },
-    "twitter": "🥶 AS NOVAS REGIÕES CONGELADAS DE ORBIS SÃO DE OUTRO MUNDO\n\nO blog mostrou o rework dos biomas frios do jogo. Tem floresta de névoa, fonte termal com até um Trork relaxando nela, nevasca extrema com gelo pontiagudo\n\nE a mais absurda de todas, ondas do mar CONGELADAS no exato momento em que quebravam. O tipo de cenário que ninguém esperava num jogo de bloco\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🥶 As novas regiões congeladas de Orbis são de outro mundo\n\nO blog mostrou o rework completo dos biomas frios do jogo, do conceito até a versão dentro do jogo.\n\n❄️ Floresta de névoa com blocos de gelo à deriva\n♨️ Fontes termais escondidas no meio da neve, com direito a um Trork relaxando\n🧊 Nevasca extrema onde a neve vira gelo pontiagudo\n🌊 E a mais absurda, ondas do mar congeladas no exato momento em que quebravam\n\nDesliza o carrossel pra ver o conceito e a versão in-game de cada um 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
-  },
-  {
-    "id": "teste2022-onda2-salt-flats",
-    "rodada": "2026-07-16 23:49",
-    "emoji": "🏜️",
-    "titulo": "[TESTE ONDA 2] Deserto de salinas (CARROSSEL 3 imagens)",
-    "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
-    "fonteData": "TESTE (artigo de 2022)",
-    "confiabilidade": "oficial",
-    "resumo": "CARROSSEL. TESTE, NÃO POSTAR. Seção 'Rediscovering Orbis' (parte do deserto). Frase literal: 'the coral-like vegetation suggests that this region might once have been underwater'.",
-    "midia": {
-      "tipo": "imagem",
-      "url": "https://cdn.hytale.com/5391d49e9e846ffdba5bae6f35f71171_roddan___salt_flats.jpg",
-      "nota": "CARROSSEL — 3 imagens, na ordem de postagem: 1) https://cdn.hytale.com/2a09a85576b25d6ffdbea2efa5f982ad_salt_flats_concept_1.jpg 2) https://cdn.hytale.com/d1da75257ff035c3b41611ea831d7eef_salt_flats_concept_2.jpg 3) https://cdn.hytale.com/5391d49e9e846ffdba5bae6f35f71171_roddan___salt_flats.jpg. No Twitter usar SÓ a 3 (worldgen in-game). Método = URL direta do cdn."
-    },
-    "twitter": "🏜️ O NOVO DESERTO DE ORBIS JÁ FOI FUNDO DO MAR\n\nO blog revelou as salinas, uma região de rocha vermelha e areia branca onde a vegetação parece coral. A dica dos artistas é que esse lugar um dia esteve debaixo d'água\n\nPlanaltos expostos, cânions e cavernas, cada canto com seu próprio perigo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🏜️ O novo deserto de Orbis já foi fundo do mar\n\nO blog revelou as salinas, uma região de rocha vermelha e areia branca onde a vegetação parece coral. A dica dos artistas é que esse lugar um dia esteve debaixo d'água.\n\nSão planaltos expostos, cânions sinuosos e cavernas, cada canto com o próprio perigo, exigindo equipamento à altura.\n\nDesliza pra ver do conceito até o mundo gerado dentro do jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
-  },
-  {
-    "id": "teste2022-onda2-vfx",
-    "rodada": "2026-07-16 23:49",
-    "emoji": "✨",
-    "titulo": "[TESTE ONDA 2] Novos VFX (vídeo CF Stream)",
-    "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
-    "fonteData": "TESTE (artigo de 2022)",
-    "confiabilidade": "oficial",
-    "resumo": "TESTE, NÃO POSTAR. Seção 'Evolving VFX'. Frase literal: 'expanding our arsenal of particle effects and related techniques'. Dois vídeos; este usa o de partículas, o da dungeon vira mídia solta.",
-    "midia": {
-      "tipo": "video",
-      "url": "https://iframe.videodelivery.net/75fa6b8cf2c1352752cc91d81591c57d",
-      "nota": "Vídeo Cloudflare Stream. Método = ZIP oficial (melhor qualidade): https://cdn.hytale.com/5f40c478eeec4e5ba45096e2cef812db_hytale-development-update-summer-2022-clips.zip; alternativa yt-dlp no videodelivery."
-    },
-    "twitter": "✨ OS NOVOS EFEITOS VISUAIS DO HYTALE ESTÃO NUM NÍVEL ABSURDO\n\nO arsenal de partículas do jogo tá crescendo, dando detalhe e personalidade em tudo, de ataque especial de arma a magia e efeito de ambiente\n\nA ideia do estúdio é espetáculo imersivo sem perder o estilo low-fi que é a cara do jogo. O vídeo fala por si\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "✨ Os novos efeitos visuais do Hytale estão num nível absurdo\n\nO arsenal de partículas do jogo está crescendo, dando detalhe e personalidade em tudo, de ataque especial de arma a magia e efeito de ambiente.\n\nA ideia do estúdio é criar espetáculo imersivo sem perder o estilo low-fi que é a cara do jogo. O vídeo fala por si.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
-  },
-  {
-    "id": "teste2022-onda2-ferramentas",
-    "rodada": "2026-07-16 23:49",
+    "id": "teste2022-v2-05-ferramentas",
+    "rodada": "2026-07-16 23:59",
     "emoji": "🛠️",
-    "titulo": "[TESTE ONDA 2] Ferramentas avançadas de construção (vídeo CF Stream)",
+    "titulo": "[TESTE • 5º POST] Pincéis com script constroem muralha, estrada e destruição sozinhos (vídeo)",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "TESTE, NÃO POSTAR. Seção 'Advanced building tools'. Frase literal: 'These are brushes with an attached script or macro that can be used to perform custom build operations'. Vídeo do Propzie construindo com scripted brushes.",
+    "resumo": "ORDEM 5º, início da tarde (~15h). TESTE, NÃO POSTAR. Seção 'Advanced building tools'. Frases literais: 'brushes with an attached script or macro' / 'When the brush detects that a painted path has collided with one of the walls, it automatically adds a prefab gateway!' / 'We've created dozens of scripted brushes ourselves'.",
     "midia": {
       "tipo": "video",
       "url": "https://iframe.videodelivery.net/3d744928535d531527666800e80c6ef8",
-      "nota": "Vídeo Cloudflare Stream. Método = ZIP oficial (melhor qualidade); alternativa yt-dlp no videodelivery. Imagem estática de apoio se precisar: https://cdn.hytale.com/15719d16f257c59ebaba5b522534c2c6_advanced_building_tools_demonstration.jpg"
+      "nota": "Vídeo CF Stream do Propzie construindo. MÉTODO = ZIP oficial (melhor qualidade). Imagem de apoio: https://cdn.hytale.com/15719d16f257c59ebaba5b522534c2c6_advanced_building_tools_demonstration.jpg"
     },
-    "twitter": "🛠️ AS NOVAS FERRAMENTAS DE CONSTRUÇÃO DO HYTALE SÃO COISA DE MÁGICO\n\nO blog mostrou os pincéis com script, brushes que executam macros de construção. Tem pincel que levanta muralha inteira sozinho e ainda encaixa um portão automático quando o caminho pintado cruza a parede\n\nTem pincel de lava que abre fendas de magma no chão e até pincel de destruição que quebra a área e espalha os destroços\n\nO estúdio já fez dezenas e os jogadores vão poder criar e compartilhar os próprios pincéis 🤯\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🛠️ As novas ferramentas de construção do Hytale são coisa de mágico\n\nO blog mostrou os pincéis com script, brushes que executam macros de construção completas.\n\n🧱 Pincel que levanta muralha inteira sozinho e encaixa portão automático quando o caminho cruza a parede\n🌋 Pincel de lava que abre fendas de magma com profundidade uniforme e rachaduras naturais\n💥 Pincel de destruição que quebra a área e espalha destroços pra simular ruína\n\nNo vídeo, tudo isso sendo usado numa construção de verdade. E o melhor, o estúdio já fez dezenas e os jogadores vão poder criar e compartilhar os próprios pincéis.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🛠️ OS PINCÉIS COM SCRIPT DO HYTALE CONSTROEM MURALHA, ESTRADA E ATÉ DESTRUIÇÃO SOZINHOS\n\nO blog mostrou em vídeo as novas ferramentas de construção. Numa build de duas construções arruinadas, só UMA foi feita bloco a bloco. Todo o resto saiu das ferramentas novas\n\n🧱 pincel de muralha que gera as paredes sozinho e conecta tudo com cantos prontos\n🛤️ pincel de caminho que pinta a estrada no terreno e, quando cruza uma muralha, encaixa um portão automaticamente\n🌋 pincel de lava que abre fendas de magma com rachaduras naturais\n💥 pincel de destruição que quebra a área e espalha os destroços pelo chão\n\nO estúdio já criou dezenas desses e os jogadores vão poder montar e compartilhar os próprios pincéis 🤯\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🛠️ Os pincéis com script do Hytale constroem muralha, estrada e até destruição sozinhos\n\nO blog mostrou em vídeo as novas ferramentas de construção. Numa build de duas construções arruinadas cercadas de lava, só UMA foi feita bloco a bloco. Todo o resto saiu das ferramentas novas.\n\n🧱 Pincel de muralha que gera as paredes sozinho e conecta tudo com cantos prontos\n🛤️ Pincel de caminho que pinta a estrada direto no terreno e, quando cruza uma muralha, encaixa um portão automaticamente\n🌋 Pincel de lava que abre fendas de magma com profundidade uniforme e rachaduras naturais\n💥 Pincel de destruição que quebra a área e espalha os destroços pelo chão\n\nTem também ferramenta de seleção pra duplicar e girar construções inteiras e trava de altura pro pincel. O estúdio já criou dezenas de pincéis com script e os jogadores vão poder montar e compartilhar os próprios. O vídeo mostra tudo em ação.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "teste2022-onda2-ost",
-    "rodada": "2026-07-16 23:49",
-    "emoji": "🎵",
-    "titulo": "[TESTE ONDA 2] Música nova da OST (YouTube)",
+    "id": "teste2022-v2-06-biomas",
+    "rodada": "2026-07-16 23:59",
+    "emoji": "🥶",
+    "titulo": "[TESTE • 6º POST] 4 biomas congelados novos em Orbis (CARROSSEL 8 imagens)",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "TESTE, NÃO POSTAR. Seção 'One more thing…'. Frase literal: 'we'll leave you with another track from the Hytale OST. This one is called Heroes of Orbis'.",
+    "resumo": "CARROSSEL. ORDEM 6º, fim da tarde (~17h). TESTE, NÃO POSTAR. Seção 'Rediscovering Orbis'. Frase literal: 'a series of colossal waves flash-frozen at the moment they crested the surface of an icy sea'. Cada bioma tem conceito + versão in-game feita por um artista do time (Baxter, Amber, Sarc, Greater).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/a33a64e55f8ab2bb6c341377386245af_greater___frozen_waves.jpg",
+      "nota": "CARROSSEL — 8 imagens, na ordem de postagem: 1) https://cdn.hytale.com/088002afff2cb9ffd207bcd1ad2428f7_misty_forest_concepts.jpg 2) https://cdn.hytale.com/139724af08871e4b94e35e93bd660d68_baxter___misty_forest.jpg 3) https://cdn.hytale.com/1aab4a5d55acdf5b5b8a035800517ead_hot_springs_concept.jpg 4) https://cdn.hytale.com/760df5a1c95f18a07745d8bdb4c362c5_amber___hot_springs.jpg 5) https://cdn.hytale.com/ed2515f088a131496f7b2795e8498d82_frost_blizzard_concept.jpg 6) https://cdn.hytale.com/35077790b982be122c0fd0ac597c3b17_sarc___frost_blizzard.jpg 7) https://cdn.hytale.com/93b4ea7f67c5720cbed810389e4ec554_frozen_waves_concept.jpg 8) https://cdn.hytale.com/a33a64e55f8ab2bb6c341377386245af_greater___frozen_waves.jpg. Ordem = conceito seguido da versão in-game de cada bioma. No Twitter usar SÓ a imagem 8. Método = download direto do cdn."
+    },
+    "twitter": "🥶 ORBIS GANHOU QUATRO BIOMAS CONGELADOS NOVOS, TEM ATÉ MAR COM ONDAS CONGELADAS NO AR\n\nO time de level design passou o último ano reavaliando os biomas do jogo e o blog mostrou o resultado das regiões frias\n\n🌫️ floresta de névoa com blocos de gelo à deriva no rio\n♨️ fontes termais escondidas na neve, com direito a um Trork relaxando na água\n🧊 nevasca extrema onde a neve vira gelo pontiagudo e o cenário fica fantástico\n🌊 e a mais surreal, ondas colossais congeladas no exato momento em que quebravam no mar\n\nCada uma saiu do conceito no papel direto pro jogo, e a ideia é essa mesmo, sempre ter algo novo pra descobrir quanto mais fundo você vai\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🥶 Orbis ganhou quatro biomas congelados novos, tem até mar com ondas congeladas no ar\n\nO time de level design passou o último ano reavaliando os biomas do jogo e o blog mostrou o resultado das regiões frias.\n\n🌫️ Floresta de névoa com blocos de gelo à deriva no rio, feita pelo Baxter\n♨️ Fontes termais escondidas na neve, com um Trork relaxando na água, versão in-game da Amber\n🧊 Nevasca extrema onde a neve dá lugar a gelo pontiagudo, trazida ao jogo pelo Sarc\n🌊 E a mais surreal, ondas colossais congeladas no exato momento em que quebravam, prototipada pelo Greater\n\nDesliza o carrossel pra ver cada bioma do conceito no papel até a versão dentro do jogo. A ideia do estúdio é garantir que sempre tenha algo novo pra descobrir quanto mais fundo você explora Orbis.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "teste2022-v2-07-salinas",
+    "rodada": "2026-07-16 23:59",
+    "emoji": "🏜️",
+    "titulo": "[TESTE • 7º POST] Salinas, o deserto que já foi fundo do mar (CARROSSEL 3 imagens)",
+    "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
+    "fonteData": "TESTE (artigo de 2022)",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. ORDEM 7º, noite (~19h). TESTE, NÃO POSTAR. Seção 'Rediscovering Orbis' (deserto). Frase literal: 'the coral-like vegetation suggests that this region might once have been underwater'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/5391d49e9e846ffdba5bae6f35f71171_roddan___salt_flats.jpg",
+      "nota": "CARROSSEL — 3 imagens, na ordem de postagem: 1) https://cdn.hytale.com/2a09a85576b25d6ffdbea2efa5f982ad_salt_flats_concept_1.jpg 2) https://cdn.hytale.com/d1da75257ff035c3b41611ea831d7eef_salt_flats_concept_2.jpg 3) https://cdn.hytale.com/5391d49e9e846ffdba5bae6f35f71171_roddan___salt_flats.jpg. No Twitter usar SÓ a 3 (worldgen in-game do Roddan). Método = download direto do cdn."
+    },
+    "twitter": "🏜️ O NOVO DESERTO DE ORBIS SÃO AS SALINAS, UMA REGIÃO QUE JÁ FOI FUNDO DO MAR\n\nRocha vermelha, areia branca e uma vegetação que parece coral, a pista deixada pelos artistas de que tudo ali um dia esteve debaixo d'água\n\nO worldgen já gera planaltos expostos e áridos junto de cânions sinuosos cheios de cavernas, e cada um dos dois traz perigos próprios que pedem equipamento à altura\n\nÉ a aposta do estúdio pra dar diversidade às regiões mais quentes do mundo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🏜️ O novo deserto de Orbis são as salinas, uma região que já foi fundo do mar\n\nRocha vermelha, areia branca e uma vegetação que parece coral, a pista deixada pelos artistas de que tudo ali um dia esteve debaixo d'água.\n\nO worldgen já gera planaltos expostos e áridos junto de cânions sinuosos cheios de cavernas e saliências, e cada área traz perigos próprios que pedem equipamento à altura.\n\nÉ a aposta do estúdio pra dar diversidade e interesse às regiões mais quentes do mundo. Desliza pra ver do conceito até o mundo gerado dentro do jogo.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "teste2022-v2-08-vfx",
+    "rodada": "2026-07-16 23:59",
+    "emoji": "✨",
+    "titulo": "[TESTE • 8º POST] Arsenal novo de VFX pra armas, magia e ambiente (vídeo)",
+    "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
+    "fonteData": "TESTE (artigo de 2022)",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 8º, noite (~21h). TESTE, NÃO POSTAR. Seção 'Evolving VFX'. Frase literal: 'expanding our arsenal of particle effects and related techniques' / 'from special weapon attacks to magic to environmental effects'.",
     "midia": {
       "tipo": "video",
-      "url": "https://www.youtube.com/embed/xuUNkqHqgH0",
-      "nota": "Vídeo do YOUTUBE (não é CF Stream). Método = baixar do YouTube (yt-dlp). Thumb estática se precisar: https://i.ytimg.com/vi/xuUNkqHqgH0/maxresdefault.jpg"
+      "url": "https://iframe.videodelivery.net/75fa6b8cf2c1352752cc91d81591c57d",
+      "nota": "Vídeo CF Stream. MÉTODO = ZIP oficial (melhor qualidade)."
     },
-    "twitter": "🎵 SAIU MÚSICA NOVA DA TRILHA SONORA DO HYTALE\n\nO blog fechou com mais uma faixa da OST, essa se chama Heroes of Orbis. Aperta o play e me diz se não é trilha de aventura épica\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🎵 Saiu música nova da trilha sonora do Hytale\n\nO blog fechou com mais uma faixa da OST, essa se chama Heroes of Orbis. Aperta o play e me diz se não é trilha de aventura épica.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "✨ O HYTALE GANHOU UM ARSENAL NOVO DE EFEITOS DE PARTÍCULA PRA ARMAS, MAGIA E AMBIENTE\n\nA artista de VFX Polina vem expandindo as técnicas de efeito do jogo, e o resultado aparece em tudo. Ataque especial de arma, magia, efeito de ambiente, cada canto ganha mais detalhe, atmosfera e personalidade\n\nA meta do estúdio é clara, entregar espetáculo imersivo sem perder o estilo low-fi que é a identidade visual do jogo. O vídeo mostra o nível\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "✨ O Hytale ganhou um arsenal novo de efeitos de partícula pra armas, magia e ambiente\n\nA artista de VFX Polina vem expandindo as técnicas de efeito do jogo, e o resultado aparece em tudo. Ataque especial de arma, magia, efeito de ambiente, cada canto ganha mais detalhe, atmosfera e personalidade.\n\nA meta do estúdio é clara, entregar espetáculo imersivo sem perder o estilo low-fi que é a identidade visual do jogo. O vídeo mostra o nível que isso alcançou.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "teste2022-onda2-midia-solta",
-    "rodada": "2026-07-16 23:49",
+    "id": "teste2022-v2-09-dungeon",
+    "rodada": "2026-07-16 23:59",
     "emoji": "👻",
-    "titulo": "[TESTE ONDA 2] Mídia solta pro fim de semana (vídeo dungeon VFX)",
+    "titulo": "[TESTE • 9º POST] A mesma dungeon antes e depois dos VFX novos (vídeo)",
     "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
     "fonteData": "TESTE (artigo de 2022)",
     "confiabilidade": "oficial",
-    "resumo": "MÍDIA SOLTA, engajamento leve, postar sáb/dom. TESTE, NÃO POSTAR. Seção 'Evolving VFX' (segundo vídeo). Frase literal: 'new VFX applied to an older dungeon environment, providing a much spookier and more compelling atmosphere'.",
+    "resumo": "ORDEM 9º, sábado de manhã (estica o assunto no fim de semana). TESTE, NÃO POSTAR. Seção 'Evolving VFX' (segundo vídeo). Frase literal: 'new VFX applied to an older dungeon environment, providing a much spookier and more compelling atmosphere'.",
     "midia": {
       "tipo": "video",
       "url": "https://iframe.videodelivery.net/df1a89cf2b0df4ed2f5cb19cfe0ca546",
-      "nota": "Vídeo Cloudflare Stream. Método = ZIP oficial (melhor qualidade); alternativa yt-dlp no videodelivery."
+      "nota": "Vídeo CF Stream. MÉTODO = ZIP oficial (melhor qualidade)."
     },
-    "twitter": "👻 a mesma dungeon, só que agora com os VFX novos. arrepiou\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "👻 A mesma dungeon, só que agora com os VFX novos. Arrepiou.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "👻 OS VFX NOVOS TRANSFORMARAM AS DUNGEONS DO HYTALE EM LUGARES BEM MAIS SOMBRIOS\n\nO estúdio pegou uma dungeon ANTIGA do jogo e aplicou os efeitos novos por cima, sem mudar mais nada. O resultado é outra atmosfera, muito mais pesada e envolvente\n\nÉ a prova de que o investimento em VFX não é só pra cena nova, ele revaloriza tudo que o jogo já tem. Repara na diferença no vídeo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👻 Os VFX novos transformaram as dungeons do Hytale em lugares bem mais sombrios\n\nO estúdio pegou uma dungeon ANTIGA do jogo e aplicou os efeitos novos por cima, sem mudar mais nada. O resultado é outra atmosfera, muito mais pesada e envolvente.\n\nÉ a prova de que o investimento em VFX não é só pra cena nova, ele revaloriza tudo que o jogo já tem. Repara na diferença no vídeo.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "teste2022-v2-10-ost",
+    "rodada": "2026-07-16 23:59",
+    "emoji": "🎵",
+    "titulo": "[TESTE • 10º POST] Heroes of Orbis, faixa nova da trilha sonora (vídeo YouTube JÁ BAIXADO)",
+    "fonte": "https://hytale.com/news/2022/7/summer-2022-development-update",
+    "fonteData": "TESTE (artigo de 2022)",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 10º, sábado à tarde (fecha a cobertura). TESTE, NÃO POSTAR. Seção 'One more thing…'. Frase literal: 'we'll leave you with another track from the Hytale OST. This one is called Heroes of Orbis'. O costume do estúdio é fechar update grande com música da trilha.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=xuUNkqHqgH0",
+      "nota": "Vídeo do YOUTUBE. MÉTODO = baixado AUTOMATICAMENTE pra você em C:\\Users\\luisf\\Downloads\\EldrynMidias\\teste2022\\ost_heroes_of_orbis.mp4 (1080p, 17MB, pronto pra anexar). Amanhã os vídeos do YouTube do blog serão baixados do mesmo jeito."
+    },
+    "twitter": "🎵 HEROES OF ORBIS É A NOVA MÚSICA DA TRILHA SONORA DO HYTALE\n\nJá virou tradição, todo update grande fecha com uma faixa nova da OST e dessa vez veio Heroes of Orbis, com aquele clima de aventura épica que combina com o mundo do jogo\n\nAperta o play e me conta nos comentários que nota você dá pra essa\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎵 Heroes of Orbis é a nova música da trilha sonora do Hytale\n\nJá virou tradição, todo update grande fecha com uma faixa nova da OST e dessa vez veio Heroes of Orbis, com aquele clima de aventura épica que combina com o mundo do jogo.\n\nAperta o play e me conta nos comentários que nota você dá pra essa.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
     "id": "2026-07-16-twitter-trigger-connect4",

@@ -49,9 +49,19 @@ Coloca sempre, em todos os posts, sem exceção.
 ## Título e gancho — o mais importante
 O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação concreta E o gancho.
 - Ruim: "🔥 - A COMUNIDADE NÃO PARA!" (genérico, não diz nada)
+- **Ruim: "🚨 SAIU O BLOG E A PRIMEIRA BOMBA É PESADA" (hype vazio — QUE bomba? QUAL conteúdo? o Luis rejeitou exatamente isso)**
 - Bom: "🤯 TÃO RECRIANDO O HALO DENTRO DO HYTALE" (a informação É o gancho)
-- Sempre que der, usar o detalhe mais concreto e surpreendente da notícia na manchete (número, nome, fato).
-- Manchete em CAPS depois do emoji, sem travessão no meio.
+- Bom: "🚨 O MOTOR DO HYTALE ESTÁ SENDO RECONSTRUÍDO EM C++" (o ASSUNTO na manchete)
+- **REGRA DURA: a manchete SEMPRE diz O ASSUNTO/FATO. Proibido manchete só de hype ("bomba", "surreal", "não vai acreditar") sem a informação. Teste: lendo SÓ a manchete, dá pra saber do que se trata? Se não, refazer.**
+- Manchete SEMPRE em CAPS depois do emoji (nunca começar em minúscula), sem travessão no meio.
+
+## Conteúdo denso — postar por postar NÃO
+- Todo post precisa de CONTEÚDO REAL. Puxar o máximo de detalhe concreto DO PRÓPRIO texto-fonte (nada inventado): números, nomes, como funciona, o porquê, o que muda pro jogador.
+- Post vago ("ficou lindo, olha") é proibido, mesmo com mídia boa. Se a fonte tem 3 parágrafos sobre o assunto, o post reflete essa riqueza.
+- NÃO existe "mídia solta sem conteúdo" (o Luis rejeitou). Toda mídia que valer post ganha post com assunto e contexto de verdade; mídia que não sustenta um post com conteúdo não é postada.
+
+## Ordem de postagem — sempre informar
+Quando gerar uma leva de posts (ex: blog grande), cada card recebe a ORDEM de postagem no título ("[1º]", "[2º]"...) e no resumo a sugestão de espaçamento (ex: "1º post, na hora", "3º post, ~1h depois", "sábado de manhã"). O Luis precisa bater o olho e saber a sequência.
 
 Emojis de abertura por tipo: 🚨 notícia quente/saiu agora · 🤩 confirmação boa · ⚙️ feature/técnico · ⏰ data/horário · 🔥 hype · 🧵 thread · 👀 rumor/teaser · 🎮 gameplay · 🤯 surpreendente
 
