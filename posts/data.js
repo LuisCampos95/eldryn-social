@@ -6,6 +6,80 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1707-rt-oficial",
+    "rodada": "2026-07-17 14:05",
+    "emoji": "🎺",
+    "titulo": "[VARREDURA • hoje à tarde] RT do anúncio oficial do @Hytale (vídeo do boss, 3 mil likes)",
+    "fonte": "https://x.com/Hytale/status/2078126286396948875",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Tweet oficial do @Hytale anunciando o blog no ar, com VÍDEO do boss goblin e os números (20+ vídeos, 30+ capturas, 35+ páginas impressas). 3 mil likes e 547 RTs em 2h. Dar RT puro ou quote entre os teus posts de hoje, complementa a cobertura sem custo.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Hytale/status/2078126286396948875",
+      "tweetId": "2078126286396948875",
+      "tweetTexto": "Nosso maior post do blog e atualização de desenvolvimento agora está AO VIVO! Mais de 20 vídeos, mais de 30 capturas de tela e arte, mais de 35 páginas (quando impressas) de conteúdo mergulhando no Capítulo 1 (traducao do X)",
+      "tweetAutor": "Hytale · @Hytale",
+      "nota": "RT puro leva o vídeo do boss junto. Quote com o texto abaixo também funciona."
+    },
+    "twitter": "🎺 O ANÚNCIO OFICIAL DO MAIOR BLOG DA HISTÓRIA DO HYTALE ESTÁ VOANDO\n\nSão mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas de conteúdo quando impressas, mergulhando no Capítulo 1 e em tudo ao redor dele\n\nNossa cobertura completa em português já está rolando aqui na página, post por post 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎺 O anúncio oficial do maior blog da história do Hytale está voando\n\nSão mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas de conteúdo quando impressas, mergulhando no Capítulo 1 e em tudo ao redor dele.\n\nNossa cobertura completa em português já está rolando aqui na página, post por post 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "scan1707-blog-travou",
+    "rodada": "2026-07-17 14:04",
+    "emoji": "😂",
+    "titulo": "[VARREDURA • hoje ~23h] O blog era tão grande que TRAVOU a publicação do site (551 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uz0tg4/stand_back_and_stand_by/",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Momento divertido do dia, 551 upvotes no reddit. Às 7h04 o Simon tuitou que o blog era grande demais e estava dando problema pra publicar ('The blog is too big, and we're running into issues when publishing to live. Give us a few mins'). A comunidade fez festa esperando. Fonte primária = o tweet do Simon (o print circulou no reddit).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://i.redd.it/o24c6wg1ssdh1.jpeg",
+      "nota": "Print do tweet do Simon (circulou no reddit com 551 upvotes). Melhor ainda: achar o tweet original de 7h04 no perfil do Simon e printar traduzido."
+    },
+    "twitter": "😂 O BLOG DO CAPÍTULO 1 ERA TÃO GRANDE QUE TRAVOU A PUBLICAÇÃO DO SITE DO HYTALE\n\nHistória real de hoje de manhã. Na hora de colocar o blog no ar, o Simon apareceu avisando que o post era grande demais e estava dando problema pra publicar, pedindo uns minutos a mais\n\nDepois de anos de espera, o jogo voltou com um blog que nem o próprio site aguentou de primeira. Se isso não resume o tamanho do que saiu hoje, nada resume 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "😂 O blog do Capítulo 1 era tão grande que travou a publicação do site do Hytale\n\nHistória real de hoje de manhã. Na hora de colocar o blog no ar, o Simon apareceu avisando que o post era grande demais e estava dando problema pra publicar, pedindo uns minutos a mais.\n\nDepois de anos de espera, o jogo voltou com um blog que nem o próprio site aguentou de primeira. Se isso não resume o tamanho do que saiu hoje, nada resume 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "scan1707-resumao-posblog",
+    "rodada": "2026-07-17 14:03",
+    "emoji": "👀",
+    "titulo": "[VARREDURA • sábado ~9h] RESUMÃO das respostas do Simon pós-blog (cinemáticas + itemização)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2078155951551492124",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "RESUMÃO das respostas do Simon logo após o blog (lidas na timeline dele, ~14h de hoje). Fatos: (1) perguntado se Trigger Volumes vão ativar animações, spawn de NPCs e cinemáticas, respondeu 'yes'; (2) 'Nos capítulos seguintes, faremos muito trabalho de itemização, que virá com mais masmorras / chefes'; (3) números oficiais do anúncio, 20+ vídeos, 30+ artes, 35+ páginas. URLs: .../2078155951551492124 e .../2078155397542584579.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2078155397542584579",
+      "tweetId": "2078155397542584579",
+      "tweetTexto": "In the following chapters, we will do a lot of itemization work, which will come with more dungeons / bosses.",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "Print traduzido da resposta da itemização (a mais forte) ou quote dela. A resposta do yes das cinemáticas: x.com/Simon_Hypixel/status/2078155951551492124"
+    },
+    "twitter": "👀🔥 RESUMÃO DAS RESPOSTAS DO SIMON DEPOIS DO BLOG DO CAPÍTULO 1\n\n🔹 Os Trigger Volumes vão poder ativar animações, spawn de NPCs e até CINEMÁTICAS, confirmado por ele em resposta direta\n\n🔹 Nos capítulos seguintes vem muito trabalho de ITEMIZAÇÃO, acompanhando mais masmorras e mais chefes no jogo\n\n🔹 E os números oficiais do blog fecharam em mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas de conteúdo quando impressas\n\nO homem não para de responder a comunidade nem no dia do maior blog da história 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👀🔥 RESUMÃO das respostas do Simon depois do blog do Capítulo 1\n\n🔹 Os Trigger Volumes vão poder ativar animações, spawn de NPCs e até CINEMÁTICAS, confirmado por ele em resposta direta\n\n🔹 Nos capítulos seguintes vem muito trabalho de ITEMIZAÇÃO, acompanhando mais masmorras e mais chefes no jogo\n\n🔹 E os números oficiais do blog fecharam em mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas de conteúdo quando impressas\n\nO homem não para de responder a comunidade nem no dia do maior blog da história 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "scan1707-sphere-fireball",
+    "rodada": "2026-07-17 14:02",
+    "emoji": "🔥",
+    "titulo": "[VARREDURA • quinta ~12h] Esfera matemática + bola de fogo (122 upvotes, VÍDEO)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uvz9np/sphere_graph_fireball/",
+    "fonteData": "14/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "122 upvotes ✓. VÍDEO do u/RiprodStudios (o mesmo criador da calculadora gráfica 3D que bombou semana passada) misturando um gráfico de esfera com uma bola de fogo dentro do Hytale. Conteúdo visual criativo/técnico. 🎥",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://external-preview.redd.it/ZG9pOTY4emdwNGRoMdPuA8tIEROLJ0PCaGTf5POhIbzlSS9MD05uMLuUNy6o.png?width=1200",
+      "nota": "É VÍDEO no post do reddit (v.redd.it). Baixar o vídeo do post original pra postar. 🎥 u/RiprodStudios"
+    },
+    "twitter": "🔥 MISTURARAM MATEMÁTICA COM BOLA DE FOGO DENTRO DO HYTALE E FICOU HIPNOTIZANTE\n\nO mesmo criador da calculadora gráfica 3D que bombou semana passada voltou, dessa vez desenhando uma esfera matemática no mundo e combinando ela com uma bola de fogo\n\nÉ o tipo de experimento que mostra o quanto as ferramentas do jogo aguentam ideia maluca. A comunidade aprovou de novo\n\n🎥 u/RiprodStudios\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🔥 Misturaram matemática com bola de fogo dentro do Hytale e ficou hipnotizante\n\nO mesmo criador da calculadora gráfica 3D que bombou semana passada voltou, dessa vez desenhando uma esfera matemática no mundo e combinando ela com uma bola de fogo.\n\nÉ o tipo de experimento que mostra o quanto as ferramentas do jogo aguentam ideia maluca. E a comunidade aprovou de novo.\n\n🎥 u/RiprodStudios\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "u6p8-01-patchao",
     "rodada": "2026-07-17 12:15",
     "emoji": "🔧",
