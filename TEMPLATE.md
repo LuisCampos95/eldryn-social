@@ -92,6 +92,9 @@ O Simon publica um post e responde MUITOS comentários dele, sobre assuntos vari
 - Escrever com wording PRÓPRIO. A estrutura de tópicos é comum, mas o texto é do zero — NUNCA copiar a redação de @CentralHytaleBR/@HytaleAlerts/Comunidade Hytale Brasil.
 - Twitter (Premium): pode ser o resumão inteiro num post só. Meta: mesmo resumão (respeitando 2200 chars, priorizar os tópicos mais fortes se estourar).
 
+### RT em resumão — NÃO
+Post de RESUMÃO junta VÁRIAS respostas. NUNCA dar RT/quote de um tweet só (o RT não bate com o texto que cobre vários pontos, fica errado). No card do resumão, marcar `midia.semRT: true` — o painel esconde os botões de quote/RT e trata como post normal com print/imagem anexada. A mídia ideal do resumão é um PRINT da declaração mais forte (ou uma imagem editada do Luis).
+
 ### Quando agrupar vs post único
 1. AGRUPAR por assunto num resumão quando ele responde várias coisas do MESMO tema.
 2. UMA resposta sozinha muito forte (novidade grande) pode virar post próprio no formato normal.

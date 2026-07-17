@@ -1,37 +1,46 @@
-# 🚨 PLANO DE BATALHA — Blog do Capítulo 1 (SEXTA 17/07, 12h Brasília)
+# 🚨 PLANO DE BATALHA — Blog "Primeiro Olhar: Capítulo 1 e Mais" (SEXTA 17/07, 12h Brasília)
 
-**ISSO É PRIORIDADE MÁXIMA.** O Luis disse: "vai ser o blog mais importante do jogo da história". Os posts têm que ser SUPER especiais, chamativos e trazer MUITAS views. Se esforçar de verdade aqui.
+**O MAIOR blog da história do Hytale.** O Simon já deu o tamanho: **28 páginas, 21 vídeos, 37 imagens, ~4 mil palavras, uns 30 minutos pra ler e assistir tudo** — e ele ainda cortou texto de tão grande. Foco central: a **HISTÓRIA / LORE do Capítulo 1**, que é o que todo mundo mais espera. Os posts do Luis batem +10 mil views, então **precisão é obrigatória** (só o que está no blog, nunca inventar).
 
-- **Quando:** sexta 17/07, 10h EST = **12h de Brasília**. Fonte: https://hytale.com/news (o post novo aparece lá) + tweet do @Hytale/@Simon anunciando.
-- **O que o Simon prometeu:** tudo sobre o Early Access Capítulo I, o que sai antes e depois dele, grandes mudanças no jogo, e vão "spoilar mais que o normal". Ou seja, vem MUITA informação e provavelmente LORE (história/arco Cursebreaker) — que é ouro de engajamento.
-- **O Luis vai preparar imagens editadas** pra esses posts. Deixar claro em cada card qual imagem entra ("imagem editada do Luis") e quando não tiver, sugerir a arte oficial do blog.
+**No Facebook e Instagram o Luis é o ÚNICO no Brasil e no mundo postando Hytale** — lá é exclusividade total, dá pra cobrir mais completo (carrossel de imagens no Insta, textos maiores).
 
-## Regra de ouro: NÃO um post, VÁRIOS ângulos espalhados
-Um blog gigante rende a semana inteira se quebrar em ângulos e espaçar. Não jogar tudo de uma vez. Cada ângulo = 1 card no painel, cada um com twitter + meta + código de criador no fim. Todos seguindo o TEMPLATE.md (sem travessão/dois pontos, texto rico, manchete chamativa, parecer humano).
+Fonte: o post novo aparece em https://hytale.com/news (WebFetch na URL nova). Ler o blog INTEIRO com atenção.
 
-### FASE 1 — Antes do blog (quinta e sexta de manhã, criar hype)
-1. **Contagem "É AMANHÃ"** (quinta): lembrete que sexta tem o maior blog da história do jogo, hype puro.
-2. **"É HOJE, faltam X horas"** (sexta cedo): countdown pro meio-dia, com o que esperar.
+## Regras de mídia (definem como quebrar os posts)
+- **TODO post tem no mínimo 1 mídia.** Sem mídia não posta.
+- **Twitter: 1 mídia por post. NUNCA 2 ou mais** (no X, várias mídias juntas ficam ruins). Então cada vídeo = 1 post; cada imagem forte = 1 post.
+- **Instagram/Facebook: pode carrossel** (várias imagens num post só). Bom pra agrupar imagens do mesmo assunto. Vídeo continua 1 por post.
+- **Vídeos são prioridade de postagem** — atraem MUITA gente pra assistir, geram view e retenção. Todo vídeo bacana merece post próprio.
+- **Algumas mídias podem ir SEM post nenhum** — só a mídia (um clipe curto lindo, um gif), como engajamento leve ao longo do dia. Marcar essas no plano.
+- **Agrupar quando faz sentido:** não precisa fragmentar tudo. Informações do mesmo assunto podem ficar juntas num post (respeitando 1 mídia no Twitter). Ex: 3 mudanças de combate num post só + 1 vídeo de combate.
 
-### FASE 2 — Blog no ar (sexta 12h em diante) — o pico
-Ler o blog INTEIRO com atenção (WebFetch na URL nova do /news) e gerar:
-3. **BREAKING principal** 🚨: manchete com a revelação MAIS forte do blog (a que mais choca/anima). Curto, impactante, "SAIU". Imagem editada do Luis ou capa oficial.
-4. **THREAD completa** 🧵 (a que mais dá view e save): quebrar TODAS as revelações do blog em posts numerados no X. Cada ponto do blog = 1 tweet da thread. Isso segura o leitor e vira referência. Montar a thread inteira pronta no card.
-5. **LORE / HISTÓRIA** 📖: post focado só na parte de história/lore/Cursebreaker que o blog revelar. Contar a lore de forma envolvente, como quem conta uma saga. Esse é o que "conta a lore" que o Luis quer.
-6. **O QUE MUDA NO JOGO** ⚙️: lista concreta das mudanças anunciadas, uma por linha com emoji. Prático, pra quem quer saber o que vem.
-7. **REAÇÃO / HYPE** 🔥: post curto e emocional (sem ser vazio) pra engajamento e comentário — "depois de X anos, é isso que a gente tava esperando".
+## Como executar (passo a passo, amanhã)
+1. **Ler o blog inteiro** e CATALOGAR: listar os 21 vídeos (assunto de cada) e as 37 imagens (assunto de cada), e os tópicos de texto.
+2. **Mapear mídia → assunto.** Agrupar vídeos/imagens por tema (história, combate, mundo, sistemas, roadmap...).
+3. **Montar os posts por bloco temático**, decidindo a mídia de cada:
+   - A HISTÓRIA/LORE do Capítulo 1 vem PRIMEIRO e ganha os melhores posts (é o mais aguardado). Contar a narrativa de forma envolvente, como uma saga. Usar os vídeos/imagens de história aqui.
+   - Depois: cada sistema/feature revelado = post com seu vídeo ou imagem.
+   - O ROADMAP / cronogramas aproximados (o Simon prometeu datas aproximadas de quando as coisas chegam) = post forte próprio, gera muito debate.
+4. **Priorizar vídeos** como posts individuais (view alta).
+5. **Espaçar ao longo do dia/fim de semana** — não despejar 15 posts de uma vez. Sequência sugerida abaixo.
 
-### FASE 3 — Depois (sábado/domingo, esticar o assunto)
-8. **"Você reparou nisso?"** 👀: destacar 1 detalhe do blog que passou batido, teoria/entrelinha (ótimo pra lore).
-9. **Enquete/pergunta**: puxar comentário ("qual parte te deixou mais hypado?").
+## Sequência sugerida de postagem (sexta e fim de semana)
+1. 🚨 **BREAKING (12h)** — "SAIU o Primeiro Olhar: Capítulo 1 e Mais", com o vídeo/imagem-herói do blog. Manchete com o destaque mais forte.
+2. 📖 **HISTÓRIA DO CAPÍTULO 1 (o principal)** — 1 a 3 posts contando a lore/narrativa, cada um com o vídeo ou imagem da história. É o carro-chefe, capricho máximo.
+3. 🎬 **Vídeos de destaque** — cada vídeo impressionante (combate, mundo, boss, sistema) vira 1 post com o vídeo.
+4. ⚙️ **Sistemas e features** — posts agrupando por tema, com imagem/vídeo de cada.
+5. 🗺️ **ROADMAP / cronogramas** — post com as datas aproximadas que o Simon prometeu.
+6. 🖼️ **Carrossel no Insta/FB** — juntar as melhores imagens num carrossel (exclusivo, só ele posta lá).
+7. 👀 **Mídias soltas** — 1 ou 2 clipes curtos sem texto pesado, ao longo do fim de semana, pra manter o assunto vivo.
+8. 🔥 **Pós (sábado/domingo)** — "você reparou nisso?" com detalhe de lore que passou batido + enquete.
 
-## Dicas de view/engajamento (aplicar em todos)
-- Manchete carrega a informação mais forte (curiosidade + fato), CAPS depois do emoji.
-- Thread e lista são os formatos que mais retêm e geram save/share.
-- Primeira linha tem que fazer parar o scroll.
-- Sempre com mídia (imagem editada do Luis > capa oficial > print traduzido do tweet).
-- Espaçar as postagens ao longo do dia/semana, não despejar tudo junto.
-- Código de criador no fim de todos.
+## Estilo (vale tudo do TEMPLATE.md)
+- Sem travessão nem dois pontos nos textos. Parecer humano. Manchete chamativa com a info concreta.
+- Foco na HISTÓRIA quando for post de lore — envolver, criar curiosidade, sem spoilar de leve (contar bem).
+- Cada post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
+- Precisão TOTAL: +10 mil views, só o que está no blog, nada inventado.
+- Vídeo do blog no post: baixar/anexar o vídeo (no Meta) ou linkar/subir; no Twitter, 1 vídeo por post.
 
-## Execução
-- Sexta, quando o blog sair: rodar o scan (ou o Luis me chama numa sessão) e eu leio o blog e monto TODOS esses cards de uma vez no painel, prontos pra ele aprovar e espaçar. Caprichar mais que o normal — é o post do ano.
+## Execução amanhã
+- Ao meio-dia, rodar a tarefa **eldryn-social-blog-cap1** (só o site, sem Twitter/reddit, pra não perder tempo). Ela lê o blog e monta a barragem seguindo este plano. Depois, as execuções voltam ao normal (a tarefa principal).
+- OU o Luis me chama numa sessão e eu leio o blog e monto tudo na hora, caprichando acima do normal. É o post do ano.

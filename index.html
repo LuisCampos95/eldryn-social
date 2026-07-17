@@ -334,20 +334,22 @@ window.__initEldryn = function () {
         acoes.className = "acoes";
 
         if (rede.key === "twitter") {
+          // quote/RT só quando a fonte é UM tweet específico e não é resumão (semRT)
+          const ehQuote = p.midia && p.midia.tipo === "tweet" && !p.midia.semRT;
           const btnPostar = document.createElement("a");
           btnPostar.className = "btn btn-primario";
-          btnPostar.textContent = p.midia && p.midia.tipo === "tweet" ? "🐦 Postar no X (quote)" : "🐦 Postar no X";
+          btnPostar.textContent = ehQuote ? "🐦 Postar no X (quote)" : "🐦 Postar no X";
           btnPostar.target = "_blank"; btnPostar.rel = "noopener";
           btnPostar.addEventListener("click", () => {
             let url = "https://x.com/intent/post?text=" + encodeURIComponent(ta.value);
-            if (p.midia && p.midia.tipo === "tweet" && p.midia.url) {
+            if (ehQuote && p.midia.url) {
               url += "&url=" + encodeURIComponent(p.midia.url);
             }
             btnPostar.href = url;
           });
           btnPostar.href = "#";
           acoes.appendChild(btnPostar);
-          if (p.midia && p.midia.tipo === "tweet" && p.midia.tweetId) {
+          if (ehQuote && p.midia.tweetId) {
             const btnRT = document.createElement("a");
             btnRT.className = "btn";
             btnRT.href = "https://x.com/intent/retweet?tweet_id=" + p.midia.tweetId;
@@ -355,11 +357,11 @@ window.__initEldryn = function () {
             btnRT.textContent = "🔁 Só dar RT";
             acoes.appendChild(btnRT);
           }
-          if (p.midia && (p.midia.tipo === "imagem" || p.midia.tipo === "print")) {
+          if (p.midia && (p.midia.tipo === "imagem" || p.midia.tipo === "print" || p.midia.semRT)) {
             const aviso = document.createElement("span");
             aviso.className = "btn btn-mini";
             aviso.style.cursor = "default";
-            aviso.textContent = "⚠ anexar a imagem no composer";
+            aviso.textContent = "⚠ anexar a imagem/print no composer";
             acoes.appendChild(aviso);
           }
         } else if (rede.key === "meta") {
