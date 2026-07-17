@@ -6,6 +6,57 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "u6p8-01-patchao",
+    "rodada": "2026-07-17 12:15",
+    "emoji": "🔧",
+    "titulo": "[PATCH • hoje ~16h] Update 6 Parte 8 completo (plataformas móveis chegaram + correções)",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Patch da semana (Parte 8, 17/07). Postar HOJE ~16h, intercalado na cobertura do blog. Headline literal: 'Create new traps, obstacles, and parkour challenges using entities with hard collision!'. Também agradece contribuidores da comunidade MelodicAlbuild e Eearslya. ATENÇÃO: ignorei notas internas vazadas no fim da página (não aprovadas pro público).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/e8d5c18c-c477-48f8-a409-26fcca2683d0.png",
+      "nota": "Capa oficial da página de patch notes do Update 6 (a Parte 8 não tem imagem própria). Ideal usar tua imagem editada de patch se tiver."
+    },
+    "twitter": "🔧 SAIU A PARTE 8 DO UPDATE 6 E AS PLATAFORMAS MÓVEIS DO ROADMAP JÁ CHEGARAM\n\nO patch de hoje da pre-release entregou a colisão dura em entidades, exatamente o que o blog de hoje prometeu pra daqui 2 a 3 semanas. Veio antes\n\nO que mudou 👇\n🛗 dá pra ficar em pé e ser empurrado suavemente por entidades com colisão dura, abrindo armadilhas, obstáculos e parkour em plataformas móveis\n🔄 o Entity Tool agora aceita caixas de colisão ROTACIONADAS pra obstáculos complexos\n⏰ o Trigger Volume ganhou efeito de TEMPO, dá pra pausar, mudar ou acelerar a hora do dia num volume, pra todo mundo ou só pro jogador que ativou\n🚫 efeito No Use novo bloqueia o uso de blocos e entidades dentro do volume\n🎨 ferramentas criativas agora mostram os blocos aparecendo em tempo real no Draw e Extrude\n🪟 algoritmo de transparência novo no Windows e Linux\n🌱 chuva de correção, grama não vira mais terra sob bloco transparente, solo arado volta a ser terra após colheita, flores cresceram pro tamanho certo, planta aquática não afunda mais\n💥 dezenas de crashes corrigidos, incluindo perda de dados de mundo ao desligar o servidor durante o save\n\nE um detalhe bonito, o estúdio agradeceu nominalmente dois contribuidores da COMUNIDADE pelas correções que entraram no patch 👏\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🔧 Saiu a Parte 8 do Update 6 e as plataformas móveis do roadmap já chegaram\n\nO patch de hoje da pre-release entregou a colisão dura em entidades, exatamente o que o blog de hoje prometeu pra daqui 2 a 3 semanas. Veio antes.\n\nO que mudou 👇\n🛗 Dá pra ficar em pé e ser empurrado suavemente por entidades com colisão dura, abrindo armadilhas, obstáculos e parkour em plataformas móveis\n🔄 O Entity Tool agora aceita caixas de colisão ROTACIONADAS pra obstáculos complexos\n⏰ O Trigger Volume ganhou efeito de TEMPO, dá pra pausar, mudar ou acelerar a hora do dia num volume\n🚫 Efeito No Use novo bloqueia o uso de blocos e entidades dentro do volume\n🎨 As ferramentas criativas agora mostram os blocos aparecendo em tempo real nos modos Draw e Extrude\n🪟 Algoritmo de transparência novo no Windows e Linux\n🌱 Chuva de correção, grama não vira mais terra sob bloco transparente, solo arado volta a ser terra após a colheita, flores cresceram pro tamanho certo e planta aquática não afunda mais\n💥 Dezenas de crashes corrigidos, incluindo perda de dados de mundo ao desligar o servidor durante o save\n\nE um detalhe bonito, o estúdio agradeceu nominalmente dois contribuidores da COMUNIDADE pelas correções que entraram no patch 👏\n\nNotas completas no site do Hytale.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "u6p8-02-bastion-cape",
+    "rodada": "2026-07-17 12:14",
+    "emoji": "🛡️",
+    "titulo": "[PATCH • amanhã sáb ~12h] A Bastion Cape, capa exclusiva pra quem ativa 2FA",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Gancho de engajamento fácil do patch (Parte 8). Postar SÁBADO ~12h. Frase literal: 'Added a new unlockable cosmetic: the Bastion Cape! This new cape can only be wielded by security-conscious Avatars that have enabled two-factor authentication'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/e8d5c18c-c477-48f8-a409-26fcca2683d0.png",
+      "nota": "Sem imagem própria da capa nas notas. Melhor mídia: print da capa no jogo se você conseguir ativar o 2FA e equipar, exclusividade tua. Alternativa: capa oficial do Update 6."
+    },
+    "twitter": "🛡️ O HYTALE AGORA TE DÁ UMA CAPA EXCLUSIVA POR ATIVAR A VERIFICAÇÃO EM DUAS ETAPAS\n\nChegou no patch de hoje a Bastion Cape, um cosmético desbloqueável que SÓ pode ser usado por Avatares que ativaram a autenticação em dois fatores na conta do Hytale\n\nProteger a conta virou moda. Ativa o 2FA lá no site, garante a capa e ainda dorme tranquilo sabendo que ninguém rouba teu progresso\n\nQuem aí já ativou? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🛡️ O Hytale agora te dá uma capa exclusiva por ativar a verificação em duas etapas\n\nChegou no patch de hoje a Bastion Cape, um cosmético desbloqueável que SÓ pode ser usado por Avatares que ativaram a autenticação em dois fatores na conta do Hytale.\n\nProteger a conta virou moda. Ativa o 2FA lá no site, garante a capa e ainda dorme tranquilo sabendo que ninguém rouba teu progresso.\n\nQuem aí já ativou? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "u6p8-03-criadores",
+    "rodada": "2026-07-17 12:13",
+    "emoji": "⚙️",
+    "titulo": "[PATCH • domingo ~12h] Novidades pra criadores e servidores (bloco musical, /floodfill, no-clip)",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Lado modder/servidor do patch (Parte 8). Postar DOMINGO ~12h (público de criadores é forte na tua comunidade de servidores). Frases literais: 'You can now make a block play music from its position in the world' / '/floodfill' / 'Server-side no-clip landed for prototyping spectator-style modes'. Plugins precisam rebuild (protocol CRC mudou).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/e8d5c18c-c477-48f8-a409-26fcca2683d0.png",
+      "nota": "Capa oficial do Update 6. Alternativa boa: print de um bloco tocando música ou do /floodfill em ação no teu servidor, conteúdo próprio."
+    },
+    "twitter": "⚙️ O PATCH DE HOJE ESCONDEU PRESENTES PRA QUEM CRIA MAPA E RODA SERVIDOR NO HYTALE\n\n🎵 blocos agora podem TOCAR MÚSICA da própria posição no mundo, com som que abafa atrás de parede, faz pan e pega o reverb do ambiente, a spatial music do blog já é real\n🌊 chegou o comando /floodfill, que preenche o espaço aberto conectado ao teu redor com bloco ou padrão, sem sobrescrever nada e com /undo\n🗺️ o /locate dungeon acha a dungeon mais próxima pelo nome\n👻 no-clip server-side chegou pra prototipar modos estilo espectador, atrás de permissão própria\n🧱 entidades podem mandar mensagens de beacon pra NPCs e encounter managers próximos, e dá pra alternar invulnerabilidade de chefe por comportamento\n\nAviso importante pra quem tem plugin, o CRC do protocolo mudou, então plugins e servidores customizados precisam de rebuild pra conectar\n\nA base de criação do jogo tá crescendo semana a semana 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "⚙️ O patch de hoje escondeu presentes pra quem cria mapa e roda servidor no Hytale\n\n🎵 Blocos agora podem TOCAR MÚSICA da própria posição no mundo, com som que abafa atrás de parede, faz pan e pega o reverb do ambiente. A spatial music do blog já é real\n🌊 Chegou o comando /floodfill, que preenche o espaço aberto conectado ao teu redor com bloco ou padrão, sem sobrescrever nada e com /undo\n🗺️ O /locate dungeon acha a dungeon mais próxima pelo nome\n👻 No-clip server-side chegou pra prototipar modos estilo espectador, protegido por permissão própria\n🧱 Entidades podem mandar mensagens de beacon pra NPCs e encounter managers próximos, e dá pra alternar invulnerabilidade de chefe por comportamento durante o encontro\n\nAviso importante pra quem tem plugin, o CRC do protocolo mudou, então plugins e servidores customizados precisam de rebuild pra conectar.\n\nA base de criação do jogo está crescendo semana a semana 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "cap1-01-breaking",
     "rodada": "2026-07-17 11:40",
     "emoji": "🚨",
