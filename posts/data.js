@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1707d-runas-suporte",
+    "rodada": "2026-07-17 18:50",
+    "emoji": "🛡️",
+    "titulo": "[VARREDURA • domingo ~12h] Simon detalha as runas, vai ter runa de SUPORTE (respondendo a comunidade)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2078233935415324988",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Detalhe NOVO do sistema de runas, direto do Simon respondendo a comunidade (~14h de hoje, complementa o blog). Frases literais: 'There will be runes for support and even modifier runes that change how the ability behaves. I think we have 1 support ability rune for Chapter 1 but we are not 100% on it yet' / 'we have to be careful with movement/lifeskill interactions otherwise they become default picks'. Imagem de apoio = arte de runas do blog.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/ad579f80-0b7b-45f8-a7e6-ac235fb3a646.png",
+      "nota": "Arte conceitual das runas (a mesma do post principal de runas). Método = URL direta do cdn. Ou print traduzido do tweet do Simon."
+    },
+    "twitter": "🛡️ O SIMON DETALHOU AS RUNAS DO HYTALE E CONFIRMOU QUE VAI TER RUNA DE SUPORTE\n\nRespondendo a comunidade sobre as habilidades não serem só pra causar dano, ele abriu mais o sistema\n\n🔹 vão existir runas de SUPORTE, não só de ataque, além das runas modificadoras que mudam como cada habilidade se comporta\n🔹 o Capítulo 1 deve começar com cerca de UMA runa de suporte, mas ele avisou que ainda não é 100% certo\n🔹 e tem um cuidado de design, runas de movimento e de lifeskill precisam de equilíbrio, senão viram escolha obrigatória de todo mundo\n\nEle brincou que é difícil explicar tudo sem um blog próprio só sobre isso. Ou seja, tem MUITA coisa de runa ainda por vir 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🛡️ O Simon detalhou as runas do Hytale e confirmou que vai ter runa de suporte\n\nRespondendo a comunidade sobre as habilidades não serem só pra causar dano, ele abriu mais o sistema.\n\n🔹 Vão existir runas de SUPORTE, não só de ataque, além das runas modificadoras que mudam como cada habilidade se comporta\n🔹 O Capítulo 1 deve começar com cerca de UMA runa de suporte, mas ele avisou que ainda não é 100% certo\n🔹 E tem um cuidado de design, runas de movimento e de lifeskill precisam de equilíbrio, senão viram escolha obrigatória de todo mundo\n\nEle brincou que é difícil explicar tudo sem um blog próprio só sobre isso. Ou seja, tem muita coisa de runa ainda por vir 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "scan1707c-slikey-eve",
     "rodada": "2026-07-17 15:10",
     "emoji": "🚀",
