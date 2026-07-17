@@ -548,5 +548,124 @@ window.ELDRYN_POSTS = [
     },
     "twitter": "🛠️ O ASSET EDITOR DO HYTALE ESTÁ SENDO REFEITO E OS CRIADORES VÃO SENTIR A DIFERENÇA\n\nComo prometido, o estúdio está retrabalhando quase todas as ferramentas, e o vídeo do blog mostrou pra onde vai o editor de assets. A interface inteira está migrando pro mesmo framework NoesisGUI da nova interface do jogo\n\nO que já apareceu na prévia 👇\n📂 navegador de assets encaixável onde você quiser na tela\n⚙️ painel de propriedades novo com suporte melhor a herança entre assets\n\nAinda está sem data no roadmap, mas pra quem cria mod, mapa e conteúdo, ferramenta melhor é produção mais rápida 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
     "meta": "🛠️ O Asset Editor do Hytale está sendo refeito e os criadores vão sentir a diferença\n\nComo prometido, o estúdio está retrabalhando quase todas as ferramentas, e o vídeo do blog mostrou pra onde vai o editor de assets. A interface inteira está migrando pro mesmo framework NoesisGUI da nova interface do jogo.\n\nO que já apareceu na prévia 👇\n📂 Navegador de assets encaixável onde você quiser na tela\n⚙️ Painel de propriedades novo com suporte melhor a herança entre assets\n\nAinda está sem data no roadmap, mas pra quem cria mod, mapa e conteúdo, ferramenta melhor é produção mais rápida 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img1-templo",
+    "rodada": "2026-07-17 11:12",
+    "emoji": "🛕",
+    "titulo": "[IMAGEM A • segunda manhã] O Templo Esquecido e os eventos do mundo goblin (CARROSSEL 2)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. PRÉVIA, ainda não está no jogo. Imagens NÃO postadas da seção 'The Goblin Breach' (d8653f31 = Templo Esquecido, 3332af0b = eventos/atividades). Frase literal: 'the temple will serve as a hub for your progression through the Early Access chapters, evolving as they are released'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/d8653f31-a1db-49cf-a04f-80570efea59c.png",
+      "nota": "CARROSSEL — 2 imagens, na ordem de postagem: 1) https://cdn.hytale.com/d8653f31-a1db-49cf-a04f-80570efea59c.png (Templo Esquecido) 2) https://cdn.hytale.com/3332af0b-8cb8-4a6b-bfc6-103592882146.png (eventos do mundo goblin). No Twitter usar SÓ a 1 (Templo). Método = URL direta do cdn."
+    },
+    "twitter": "🛕 ESSE É O TEMPLO ESQUECIDO, O LUGAR ONDE A HISTÓRIA DO HYTALE VAI COMEÇAR\n\nA imagem saiu no blog e o papel dele é maior do que parece. É no Templo Esquecido que você vai atender o chamado de abertura do Capítulo 1, e a partir daí ele vira o HUB da sua progressão pelos capítulos do Early Access\n\nE ele não vai ficar parado no tempo. O templo vai EVOLUIR a cada capítulo lançado, mudando junto com a história\n\nGuarda essa imagem, esse lugar ainda vai significar muita coisa na sua jornada 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🛕 Esse é o Templo Esquecido, o lugar onde a história do Hytale vai começar\n\nA imagem saiu no blog e o papel dele é maior do que parece. É no Templo Esquecido que você vai atender o chamado de abertura do Capítulo 1, e a partir daí ele vira o HUB da sua progressão pelos capítulos do Early Access.\n\nE ele não vai ficar parado no tempo. O templo vai EVOLUIR a cada capítulo lançado, mudando junto com a história.\n\nNa segunda imagem, um gostinho dos eventos e atividades que vão cercar a jornada, dos predadores pra rastrear aos baús que escondem emboscada.\n\nGuarda essas imagens, esse lugar ainda vai significar muita coisa 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img2-dungeon-interior",
+    "rodada": "2026-07-17 11:11",
+    "emoji": "🏰",
+    "titulo": "[IMAGEM B • segunda tarde] Por dentro da primeira dungeon (CARROSSEL 2)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. PRÉVIA. Imagens NÃO postadas da seção 'Dungeons and Boss Fights' (fdccddd1 e 9e003d49, interiores da dungeon). O 1º post usou só a do boss (99464c9a).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/fdccddd1-1a29-49df-a9f1-2cf688740f58.png",
+      "nota": "CARROSSEL — 2 imagens, na ordem de postagem: 1) https://cdn.hytale.com/fdccddd1-1a29-49df-a9f1-2cf688740f58.png 2) https://cdn.hytale.com/9e003d49-9445-45c6-8611-57439c161740.png. No Twitter usar SÓ a 1. Método = URL direta do cdn."
+    },
+    "twitter": "🏰 MAIS DUAS IMAGENS DE DENTRO DA PRIMEIRA DUNGEON DO HYTALE APARECERAM NO BLOG\n\nAlém do print do boss que rodou o mundo, o blog trouxe esses dois olhares do interior da dungeon artesanal do Capítulo 1\n\nRepara na direção de arte. Cada sala parece pensada à mão mesmo, com iluminação de clima e detalhe de cenário que conta história sem precisar de texto\n\nÉ o padrão de qualidade que o estúdio quer pra TODA dungeon feita daqui pra frente, e com o Encounter Manager elas vão sair cada vez mais rápido 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🏰 Mais duas imagens de dentro da primeira dungeon do Hytale apareceram no blog\n\nAlém do print do boss que rodou o mundo, o blog trouxe esses dois olhares do interior da dungeon artesanal do Capítulo 1.\n\nRepara na direção de arte. Cada sala parece pensada à mão mesmo, com iluminação de clima e detalhe de cenário que conta história sem precisar de texto.\n\nÉ o padrão de qualidade que o estúdio quer pra TODA dungeon feita daqui pra frente, e com o Encounter Manager elas vão sair cada vez mais rápido 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img3-ui-capitulos",
+    "rodada": "2026-07-17 11:10",
+    "emoji": "🖥️",
+    "titulo": "[IMAGEM C • segunda noite] As telas extras da nova UI (tela de capítulo + tooltips) (CARROSSEL 2)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. PRÉVIA, rollout ao longo dos capítulos. Imagens NÃO postadas da seção 'New UI' (03132901 e 093c4ef6; a f3aa4dc2 já foi no 9º). Frases literais: 'make the chapter screen feel like a roadmap for your progress' / 'you'll unlock cosmetics as rewards' / 'Don't read too much into the stats. These are just placeholders'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/03132901-538e-4ccc-9e28-72a0f0df1683.png",
+      "nota": "CARROSSEL — 2 imagens, na ordem de postagem: 1) https://cdn.hytale.com/03132901-538e-4ccc-9e28-72a0f0df1683.png 2) https://cdn.hytale.com/093c4ef6-61f8-496c-a005-98cafd81fd2a.png (tooltips novos). No Twitter usar SÓ a 1. Método = URL direta do cdn."
+    },
+    "twitter": "🖥️ MAIS TELAS DA NOVA INTERFACE DO HYTALE VAZARAM NO BLOG E O CONCEITO É DE ROADMAP JOGÁVEL\n\nA tela de capítulos vai funcionar como um mapa do seu progresso pelo Early Access. Você completa objetivos jogando, avança na conclusão do capítulo e desbloqueia COSMÉTICOS como recompensa no caminho\n\nOs tooltips de item também ganharam design novo, com leitura muito mais limpa. Só não vale ler demais nos números que aparecem, o estúdio avisou que os stats ali são placeholder, encantamento por exemplo nem está planejado pro Capítulo 1\n\nO rework de UI vai sair aos poucos ao longo dos próximos capítulos 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🖥️ Mais telas da nova interface do Hytale apareceram no blog e o conceito é de roadmap jogável\n\nA tela de capítulos vai funcionar como um mapa do seu progresso pelo Early Access. Você completa objetivos jogando, avança na conclusão do capítulo e desbloqueia COSMÉTICOS como recompensa no caminho.\n\nOs tooltips de item também ganharam design novo, com leitura muito mais limpa. Só não vale ler demais nos números que aparecem, o estúdio avisou que os stats ali são placeholder, encantamento por exemplo nem está planejado pro Capítulo 1.\n\nO rework de UI vai sair aos poucos ao longo dos próximos capítulos, com atualizações entre eles 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img4-memories",
+    "rodada": "2026-07-17 11:09",
+    "emoji": "📔",
+    "titulo": "[IMAGEM D • terça tarde] Memories UI e cartões de perfil (prévia além do Cap 1) (CARROSSEL 2)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. PRÉVIA DE DESIGN, explicitamente ALÉM do Capítulo 1. Imagens NÃO postadas da seção 'New UI' (4fe75a50 = Memories, 90105f1d = profile cards). Frase literal: 'The new Memories UI and player profile cards above will be further out than Chapter 1, so consider these design previews'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/4fe75a50-9eaf-4a7d-a25a-66a00941e606.png",
+      "nota": "CARROSSEL — 2 imagens, na ordem de postagem: 1) https://cdn.hytale.com/4fe75a50-9eaf-4a7d-a25a-66a00941e606.png (Memories) 2) https://cdn.hytale.com/90105f1d-4f2d-4544-b2e9-d2c182cce875.png (cartões de perfil). No Twitter usar SÓ a 1. Método = URL direta do cdn."
+    },
+    "twitter": "📔 O HYTALE VAI GUARDAR SUAS MEMÓRIAS DE JOGO E MOSTRAR QUEM VOCÊ É NUM CARTÃO DE PERFIL\n\nDuas telas raras apareceram no blog. A Memories UI, que registra os momentos da sua jornada, e os cartões de perfil de jogador, a tua identidade visual dentro do jogo\n\nO estúdio foi claro que isso vem DEPOIS do Capítulo 1, então trata como prévia de design. Mas a direção diz muito, eles querem que a tua história dentro do jogo seja algo que dá pra revisitar e mostrar pros outros\n\nCombina demais com o hub social que vem aí 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "📔 O Hytale vai guardar suas memórias de jogo e mostrar quem você é num cartão de perfil\n\nDuas telas raras apareceram no blog. A Memories UI, que registra os momentos da sua jornada, e os cartões de perfil de jogador, a tua identidade visual dentro do jogo.\n\nO estúdio foi claro que isso vem DEPOIS do Capítulo 1, então trata como prévia de design. Mas a direção diz muito, eles querem que a tua história dentro do jogo seja algo que dá pra revisitar e mostrar pros outros.\n\nCombina demais com o hub social que vem aí 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img5-avatar",
+    "rodada": "2026-07-17 11:08",
+    "emoji": "🧑‍🎨",
+    "titulo": "[IMAGEM E • quarta tarde] Mãos detalhadas e cílios no criador de Avatar (imagem + GIF)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PRÉVIA. Imagens NÃO postadas da seção 'Cosmetics and Extras' (fe75b007 e o gif 6b276415). Frase literal: 'improving the player model by adding more detailed hand and eyelash options in the Avatar Creator'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/fe75b007-cbbc-4248-86b2-ac2c8146e382.png",
+      "nota": "2 mídias, na ordem: 1) https://cdn.hytale.com/fe75b007-cbbc-4248-86b2-ac2c8146e382.png 2) https://cdn.hytale.com/6b276415-68bc-42bf-9566-4cbb0bd2eb76.gif (GIF animado, ótimo pro Twitter). No Twitter dá pra usar o GIF como mídia única. Método = URL direta do cdn."
+    },
+    "twitter": "🧑‍🎨 O MODELO DE PERSONAGEM DO HYTALE VAI GANHAR MÃOS DETALHADAS E ATÉ OPÇÕES DE CÍLIOS\n\nO blog mostrou a evolução do criador de Avatar. O modelo do jogador está sendo melhorado com opções de mãos muito mais detalhadas e cílios pra dar personalidade de verdade ao rosto\n\nPode parecer detalhe pequeno, mas é o tipo de coisa que muda o quanto o personagem parece SEU. E o estúdio prometeu seguir ouvindo o feedback pra adicionar mais opções de customização a cada capítulo\n\nOlha o resultado e me diz se o teu Avatar não merece 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🧑‍🎨 O modelo de personagem do Hytale vai ganhar mãos detalhadas e até opções de cílios\n\nO blog mostrou a evolução do criador de Avatar. O modelo do jogador está sendo melhorado com opções de mãos muito mais detalhadas e cílios pra dar personalidade de verdade ao rosto.\n\nPode parecer detalhe pequeno, mas é o tipo de coisa que muda o quanto o personagem parece SEU. E o estúdio prometeu seguir ouvindo o feedback da comunidade pra adicionar mais opções de customização e cosméticos a cada capítulo.\n\nOlha o resultado e me diz se o teu Avatar não merece 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img6-gadgets-arte",
+    "rodada": "2026-07-17 11:07",
+    "emoji": "🧰",
+    "titulo": "[IMAGEM F • quinta tarde] Os gadgets goblin de pertinho (CARROSSEL 2)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. PRÉVIA. Imagens NÃO postadas da seção 'Goblin Gadgets' (e4856bb7 e 6121cb81). O 6º post usou o vídeo; estas são as artes/prints parados dos equipamentos.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/e4856bb7-2502-472f-b9ee-f1ac8c7ee591.png",
+      "nota": "CARROSSEL — 2 imagens, na ordem de postagem: 1) https://cdn.hytale.com/e4856bb7-2502-472f-b9ee-f1ac8c7ee591.png 2) https://cdn.hytale.com/6121cb81-3b5c-4d00-af70-3f4fbd982abf.jpg. No Twitter usar SÓ a 1. Método = URL direta do cdn."
+    },
+    "twitter": "🧰 OS GADGETS GOBLIN DO HYTALE DE PERTINHO, REMENDADOS DO JEITO QUE GOBLIN GOSTA\n\nO blog trouxe essas imagens paradas do arsenal que vem com o Capítulo 1, botas foguete, gancho mecânico, glider, broca de mineração e luneta\n\nRepara no visual. Tudo tem cara de invenção improvisada, cheia de remendo e gambiarra, porque é exatamente essa a identidade da facção. O estúdio assumiu que o equipamento é tosco DE PROPÓSITO e que a prioridade agora é diversão, balanceamento vem depois\n\nQual deles você vai querer primeiro? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🧰 Os gadgets goblin do Hytale de pertinho, remendados do jeito que goblin gosta\n\nO blog trouxe essas imagens paradas do arsenal que vem com o Capítulo 1, botas foguete, gancho mecânico, glider, broca de mineração e luneta.\n\nRepara no visual. Tudo tem cara de invenção improvisada, cheia de remendo e gambiarra, porque é exatamente essa a identidade da facção. O estúdio assumiu que o equipamento é tosco DE PROPÓSITO e que a prioridade agora é diversão, balanceamento vem depois.\n\nQual deles você vai querer primeiro? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-img7-minigames-lobby",
+    "rodada": "2026-07-17 11:06",
+    "emoji": "🕹️",
+    "titulo": "[IMAGEM G • sexta tarde] O visual dos minigames que sobrou do blog",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PRÉVIA. Imagem NÃO postada da seção 'Minigames' (35226544; as outras duas estavam na nota do 10º). Frase literal: 'open Hytale, hit Minigames, and be in a lobby with your friends seconds later, with both peer-to-peer and dedicated hosting'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/35226544-d9c5-4a5f-a706-2113076ea52f.png",
+      "nota": "Imagem única. Método = URL direta do cdn."
+    },
+    "twitter": "🕹️ MAIS UMA IMAGEM DOS MINIGAMES DO HYTALE APARECEU E MOSTRA O CLIMA DA COISA\n\nA proposta é simplicidade total. Abrir o Hytale, apertar Minigames e em SEGUNDOS estar num lobby com os amigos, valendo tanto hospedagem peer to peer quanto servidor dedicado\n\nSão 14 micro jogos de festa de 60 a 120 segundos cada no primeiro pacote, feitos também pra empurrar a tecnologia do jogo em direções malucas\n\nE lembra do detalhe que muda tudo, o código e os assets de todos eles vão ser compartilhados com a comunidade 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🕹️ Mais uma imagem dos minigames do Hytale apareceu e mostra o clima da coisa\n\nA proposta é simplicidade total. Abrir o Hytale, apertar Minigames e em SEGUNDOS estar num lobby com os amigos, valendo tanto hospedagem peer to peer quanto servidor dedicado.\n\nSão 14 micro jogos de festa de 60 a 120 segundos cada no primeiro pacote, feitos também pra empurrar a tecnologia do jogo em direções malucas e evoluir o motor.\n\nE lembra do detalhe que muda tudo, o código e os assets de todos eles vão ser compartilhados com a comunidade 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   }
 ];
