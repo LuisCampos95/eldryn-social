@@ -65,13 +65,13 @@ Quando gerar uma leva de posts (ex: blog grande), cada card recebe a ORDEM de po
 
 Emojis de abertura por tipo: 🚨 notícia quente/saiu agora · 🤩 confirmação boa · ⚙️ feature/técnico · ⏰ data/horário · 🔥 hype · 🧵 thread · 👀 rumor/teaser · 🎮 gameplay · 🤯 surpreendente
 
-## ⭐ EVENTO ESPECIAL — Blog do Capítulo 1 (sexta 17/07, 12h Brasília)
-O blog mais importante da história do jogo. Quando detectar que saiu (post novo no /news sexta, ou tweet do @Hytale/@Simon), SEGUIR O ARQUIVO `PLANO_CAPITULO1.md` — ler o blog inteiro e gerar VÁRIOS posts individuais em DUAS ONDAS (breaking + lore + vídeos + sistemas + roadmap + carrossel + pós), não um só e NUNCA em formato de thread. Caprichar muito mais que o normal, é o post do ano. O Luis vai ter imagens editadas próprias pra isso.
+## Blog grande / update de peso (playbook reutilizável)
+O Capítulo 1 (17/07/2026) já foi coberto e o plano especial foi encerrado. Mas quando cair OUTRO blog grande no futuro (novo capítulo, dev update gigante), reaproveitar a estratégia que deu certo (registrada em `PLANO_CAPITULO1.md`, mantido como referência): ler o blog INTEIRO pelo HTML bruto; extrair mídias (vídeos YouTube = baixar com yt-dlp pra Downloads\EldrynMidias\; imagens = cdn.hytale.com; ZIP oficial se houver); gerar VÁRIOS posts individuais numerados ([1º], [2º]...), 1 mídia por post no Twitter, carrossel no Meta; história/lore primeiro, depois vídeos, sistemas e roadmap; espaçar ao longo de dias; NUNCA thread; cobrir 100% (todo vídeo e imagem com destino).
 
 ## Barra de relevância
 - **CAPÍTULOS E LORE = PRIORIDADE MÁXIMA.** Qualquer informação sobre os Capítulos do Hytale (Capítulo 1, 2...), a história/lore, o arco Cursebreaker, o que vem em cada capítulo — isso gera MUITO engajamento e conta a história do jogo. Nunca deixar passar. Notícia de capítulo sempre vira post.
 - Fontes oficiais top: Simon (posts, reposts E RESPOSTAS dele — solta MUITA notícia respondendo jogador, é ouro), conta @Hytale, blog do site.
-- Funcionários do estúdio (bastidores, olhar posts E respostas): @slikey, @zeroerrors, @devslashnulled, @itsbuddhacat (BuddhaCat = comunidade).
+- **Funcionários do estúdio — SEMPRE checar TODOS a cada varredura** (posts E respostas), é obrigatório: @slikey (diretor técnico, solta visão de bastidor), @DevSlashNulled (Eli), @ItsBuddhaCat (comunidade). Obs (17/07): @_ZeroErrors saiu do ar / trocou de handle — se reaparecer, incluir. Simon é a fonte nº1. Não pular nenhum sob a desculpa de "só o slikey rendeu"; conferir cada um todo dia.
 - **Twitter da comunidade (NOVO): qualquer post BOM sobre Hytale de QUALQUER pessoa serve** — não só funcionários. Fan art impressionante, build, descoberta, teoria de lore, clipe viral, mod, reação relevante. Se é bom e sobre Hytale, pode virar post (com crédito ao @autor no fim). Caçar via WebSearch "Hytale" no X, hashtag #Hytale, e o que aparece nas respostas/quotes dos posts oficiais.
 
 ## Conteúdo visual pra RETUITAR (mod, build, plugin, coisa engraçada)

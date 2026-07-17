@@ -1,3 +1,8 @@
+# ✅ ENCERRADO — Blog do Capítulo 1 (17/07/2026)
+
+Coberto por completo (39 posts + varreduras). Modo especial DESFEITO em 17/07, sistema voltou ao fluxo diário normal.
+Este arquivo fica só como REFERÊNCIA de playbook pra futuros blogs grandes (novo capítulo, dev update gigante). A estratégia que funcionou:
+
 # 🚨 PLANO DE BATALHA — Blog do Capítulo 1 (SEXTA 17/07, ~12h Brasília)
 
 **O MAIOR blog da história do Hytale.** O Simon já deu o tamanho: **28 páginas, 21 vídeos, 37 imagens, ~4 mil palavras, uns 30 minutos pra ler e assistir tudo** — e ele ainda cortou texto de tão grande. Foco central: a **HISTÓRIA / LORE do Capítulo 1**, que é o que todo mundo mais espera. Os posts do Luis batem +10 mil views, então **precisão é obrigatória** (só o que está no blog, nunca inventar).
