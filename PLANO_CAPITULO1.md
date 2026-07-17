@@ -10,8 +10,17 @@ Todo mundo vai sair divulgando adoidado quando o blog cair. **Quem posta primeir
 - **ONDA 2 na sequência:** a cobertura completa (vídeos um a um, sistemas, roadmap, carrossel).
 - **Textos perfeitos de primeira.** O Luis NÃO vai ter tempo de pedir refação. Revisar cada texto contra o checklist do TEMPLATE antes de salvar (sem travessão/dois pontos, manchete forte, fato conferido, código de criador no fim, 1 mídia por post no Twitter).
 
-## Como achar o blog (pela DATA e pelo ASSUNTO, não pelo nome)
-Não dá pra prever o nome/URL. O Luis só roda DEPOIS que o blog sair, então: pegar em https://hytale.com/news a URL que não está em knownPages do state.json — o post mais novo fica no topo da lista. Ler o blog INTEIRO (WebFetch em partes se truncar) e extrair do HTML as URLs das mídias (cdn.hytale.com, .mp4, og:image).
+## Como achar o blog (RSS oficial primeiro; pela DATA e pelo ASSUNTO, não pelo nome)
+- **Detecção primária: https://hytale.com/rss.xml** (feed oficial descoberto 16/07) — primeiro `<item>` = post mais novo, com título, link, data e CATEGORIA (patch notes vem como "Pre-Release Patch Notes", fácil de ignorar). Fallback: diff do /news contra knownPages.
+- Se o Luis colar a URL do blog ao rodar, pular a detecção e ir direto pra leitura.
+- Ler o blog INTEIRO baixando o HTML com curl UMA vez pra arquivo temporário (fora do repo) e lendo o ARQUIVO em blocos até o fim (o site entrega o artigo completo no HTML; WebFetch nunca é fonte única de fato).
+
+## Mídias — padrões REAIS do site (testados no artigo de 2022)
+- **Imagens**: `data-src="https://cdn.hytale.com/<hash>_<nome>.jpg/png"` — URL direta em qualidade cheia. Capa = imagem com `blog_cover` no nome (a og:image do site é o LOGO genérico, nunca usar).
+- **Vídeos Cloudflare Stream (a maioria)**: tag `<stream class="ql-video cf-stream" src="<ID 32 hex>">`. Player público: `https://iframe.videodelivery.net/<ID>`. Melhor qualidade = ZIP oficial; alternativa yt-dlp no videodelivery.
+- **Vídeos YouTube (alguns, ex. música)**: `youtube.com/embed/<ID>` — baixar do YouTube (yt-dlp); thumb `i.ytimg.com/vi/<ID>/maxresdefault.jpg`.
+- **ZIP press kit**: no fim do post, link "download a .zip containing the video clips" em `cdn.hytale.com/*.zip` — fonte OFICIAL de melhor qualidade dos clipes. Sempre detectar e anotar.
+- **Legendas**: `<em>` (classe ql-indent-1) logo após a mídia — usar pra mapear mídia→assunto e preservar galerias/contexto.
 
 ## ⚠️ Podem sair DOIS blogs (Cap 1 + Update 6 Part 8) — foco SÓ no Capítulo 1
 - Duas URLs novas → pegar a do CAPÍTULO 1 (história/first look, o gigante). A de patch notes da pre-release (Update 6 Part 8) IGNORAR: não gerar post, NÃO registrar em knownPages/coveredUrls e NÃO mexer em ultimoPatchVisto — assim a varredura normal pega ela depois, quando o Luis decidir.
