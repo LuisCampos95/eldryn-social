@@ -10,8 +10,12 @@ Todo mundo vai sair divulgando adoidado quando o blog cair. **Quem posta primeir
 - **ONDA 2 na sequência:** a cobertura completa (vídeos um a um, sistemas, roadmap, carrossel).
 - **Textos perfeitos de primeira.** O Luis NÃO vai ter tempo de pedir refação. Revisar cada texto contra o checklist do TEMPLATE antes de salvar (sem travessão/dois pontos, manchete forte, fato conferido, código de criador no fim, 1 mídia por post no Twitter).
 
-## Como achar o blog (pela DATA, não pelo nome)
-Não dá pra prever o nome/URL. O Luis só roda DEPOIS que o blog sair, então: pegar em https://hytale.com/news a URL que não está em knownPages do state.json — o post mais novo fica no topo da lista; havendo mais de uma nova, a de data mais recente (julho/2026). Ler o blog INTEIRO (WebFetch em partes se truncar) e extrair do HTML as URLs das mídias (cdn.hytale.com, .mp4, og:image).
+## Como achar o blog (pela DATA e pelo ASSUNTO, não pelo nome)
+Não dá pra prever o nome/URL. O Luis só roda DEPOIS que o blog sair, então: pegar em https://hytale.com/news a URL que não está em knownPages do state.json — o post mais novo fica no topo da lista. Ler o blog INTEIRO (WebFetch em partes se truncar) e extrair do HTML as URLs das mídias (cdn.hytale.com, .mp4, og:image).
+
+## ⚠️ Podem sair DOIS blogs (Cap 1 + Update 6 Part 8) — foco SÓ no Capítulo 1
+- Duas URLs novas → pegar a do CAPÍTULO 1 (história/first look, o gigante). A de patch notes da pre-release (Update 6 Part 8) IGNORAR: não gerar post, NÃO registrar em knownPages/coveredUrls e NÃO mexer em ultimoPatchVisto — assim a varredura normal pega ela depois, quando o Luis decidir.
+- Um blog só com os dois assuntos → posts SÓ do conteúdo de Capítulo 1/história/roadmap; pular as seções de patch (Part 8).
 
 ## Regras de mídia (definem como quebrar os posts)
 - **TODO post tem no mínimo 1 mídia.** Sem mídia não posta.
