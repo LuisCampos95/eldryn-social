@@ -346,139 +346,207 @@ window.ELDRYN_POSTS = [
     "meta": "🎵 Completar o Capítulo 1 vai desbloquear cosméticos goblin, e a trilha ganhou música nova\n\nUma leva grande de cosméticos que estava em produção há meses vem chegando, incluindo os visuais goblin que você desbloqueia COMPLETANDO o capítulo. Os objetivos da tela de capítulos viram recompensas de verdade conforme você joga.\n\nO modelo do personagem também melhora, com opções de mãos mais detalhadas e cílios no criador de Avatar, e o estúdio prometeu seguir ouvindo o feedback pra adicionar mais customização e cosméticos a cada capítulo.\n\nE pra fechar a cobertura do maior blog da história do jogo, aperta o play. Essa é a faixa nova da OST vinda direto das Whisperfrost Frontiers, a região congelada do jogo. O nível da trilha sonora segue absurdo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex1-player-physics",
+    "id": "cap1-x01-encounter",
     "rodada": "2026-07-17 11:24",
-    "emoji": "🏃",
-    "titulo": "[EXTRA A • hoje ~16h30, logo após o patchão] Física de jogador em plataformas móveis CHEGOU HOJE (VÍDEO)",
+    "emoji": "🎛️",
+    "titulo": "[EXTRA A • terça manhã] O Encounter Manager, sistema que monta as boss fights (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Par perfeito do patchão das 16h (mesmo assunto, colisão dura). Seção 'Player Physics'. Frases literais: 'This feature ships to pre-release today, the same day as this post!' / 'stand on entities that move and rotate, stay anchored to them when they move, and carry momentum when jumping off'.",
+    "resumo": "PRÉVIA, ainda não está no jogo. Vídeo 02 (não postado). Seção 'Dungeons and Boss Fights'. Frase literal: 'Encounters are authored as content instead of engine code, so our designers can keep making them, and so can you'. O sistema já existe na pre-release de testes; o conteúdo vem com o Capítulo 1.",
     "midia": {
       "tipo": "video",
-      "url": "https://www.youtube.com/watch?v=mJ7meg0tQsk",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\13_player_physics.mp4."
+      "url": "https://www.youtube.com/watch?v=ZS5wuIJQerM",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\02_encounter_manager.mp4"
     },
-    "twitter": "🏃 A FÍSICA NOVA DE JOGADOR CHEGOU HOJE, DÁ PRA SURFAR EM PLATAFORMA MÓVEL E PULAR COM EMBALO\n\nO recurso foi liberado na pre-release no MESMO dia do blog. Seu Avatar agora fica em pé em entidades que se movem e giram, permanece ancorado nelas durante o movimento e carrega o EMBALO quando pula fora\n\nO futuro disso é parkour de outro nível, com plataformas móveis, martelos giratórios e obstáculos dinâmicos. As ferramentas de construção e animação dessas peças ainda vêm, mas a física já existe, então os modders já podem começar a brincar com mecânicas novas AGORA\n\nO vídeo mostra o resultado 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🏃 A física nova de jogador chegou hoje, dá pra surfar em plataforma móvel e pular com embalo\n\nO recurso foi liberado na pre-release no MESMO dia do blog. Seu Avatar agora fica em pé em entidades que se movem e giram, permanece ancorado nelas durante o movimento e carrega o EMBALO quando pula fora.\n\nO futuro disso é parkour de outro nível, com plataformas móveis, martelos giratórios e obstáculos dinâmicos. As ferramentas de construção e animação dessas peças ainda estão a caminho, mas a física já existe, então os modders já podem começar a brincar com mecânicas novas AGORA.\n\nO vídeo mostra o resultado 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🎛️ ESSE É O SISTEMA QUE VAI MONTAR TODAS AS BOSS FIGHTS DO HYTALE\n\nChama Encounter Manager e apareceu em vídeo no blog do Capítulo 1. É ele que vai coordenar as fases do chefe, as ondas de inimigos e as mudanças na arena durante cada encontro\n\nO detalhe mais importante é a filosofia. Os encontros são criados como CONTEÚDO, não como código do motor. Isso significa que os designers produzem novos encontros direto, e quando o sistema estiver nas mãos da comunidade, VOCÊ também vai poder criar os seus\n\nCada dungeon nova expande a caixa de ferramentas da seguinte, a base pros próximos capítulos já está sendo montada 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎛️ Esse é o sistema que vai montar todas as boss fights do Hytale\n\nChama Encounter Manager e apareceu em vídeo no blog do Capítulo 1. É ele que vai coordenar as fases do chefe, as ondas de inimigos e as mudanças na arena durante cada encontro.\n\nO detalhe mais importante é a filosofia. Os encontros são criados como CONTEÚDO, não como código do motor. Isso significa que os designers produzem novos encontros direto, e quando o sistema estiver nas mãos da comunidade, VOCÊ também vai poder criar os seus.\n\nCada dungeon nova expande a caixa de ferramentas da seguinte, a base pros próximos capítulos já está sendo montada 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex2-barcos",
+    "id": "cap1-x02-portal",
     "rodada": "2026-07-17 11:23",
-    "emoji": "🚤",
-    "titulo": "[EXTRA B • terça manhã] O Hytale ganhou BARCOS (VÍDEO)",
+    "emoji": "🌀",
+    "titulo": "[EXTRA B • terça noite] O momento em que um portal do Goblin Breach abre (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'Goblin Gadgets' (parte dos barcos). Frases literais: 'recent upgrades to our movement systems have made a basic boat easier to add, so we're going for it' / 'it's currently missing VFX / animations in the video above'. O 6º post citou de passagem; este dá o vídeo próprio.",
+    "resumo": "PRÉVIA, ainda não está no jogo. Vídeo 04 (não postado). Seção 'The Goblin Breach'. Frase literal: 'creating a temporary portal somewhere in your world. Look around or open the world map to locate it, then step through'.",
     "midia": {
       "tipo": "video",
-      "url": "https://www.youtube.com/watch?v=51SFDmAd8Nk",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\07_barcos.mp4."
+      "url": "https://www.youtube.com/watch?v=N5_cSjixAco",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\04_goblin_breach_portal.mp4"
     },
-    "twitter": "🚤 O HYTALE VAI TER BARCOS E O PRIMEIRO JÁ APARECEU EM VÍDEO\n\nA história é boa. As melhorias recentes no sistema de movimento deixaram um barco básico tão fácil de adicionar que o estúdio simplesmente resolveu fazer\n\nO que aparece no vídeo ainda está sem efeitos visuais e sem animações, e mecânicas de navegação mais completas vêm mais pra frente. Mas já dá pra sentir o que significa pro jogo, exploração de rio e mar deixou de ser sonho\n\nQuem mais tá imaginando as viagens pelos mapas de Orbis? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🚤 O Hytale vai ter barcos e o primeiro já apareceu em vídeo\n\nA história é boa. As melhorias recentes no sistema de movimento deixaram um barco básico tão fácil de adicionar que o estúdio simplesmente resolveu fazer.\n\nO que aparece no vídeo ainda está sem efeitos visuais e sem animações, e mecânicas de navegação mais completas vêm mais pra frente. Mas já dá pra sentir o que isso significa pro jogo, exploração de rio e mar deixou de ser sonho.\n\nQuem mais está imaginando as viagens pelos mapas de Orbis? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🌀 ASSIM VAI SER QUANDO UM PORTAL DO GOBLIN BREACH ABRIR NO SEU MUNDO\n\nO vídeo do blog mostra o evento acontecendo. De tempos em tempos, depois que você iniciar a história do Capítulo 1, um portal temporário vai surgir em algum lugar do seu mundo\n\nAí a decisão é sua. Procura ele no horizonte ou abre o mapa do mundo pra localizar, atravessa, e do outro lado espera um fragmento instável de Orbis dominado pelos goblins com o Void crescendo\n\nA tensão de ver esse portal abrir sabendo que o relógio já está correndo vai ser outra coisa 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🌀 Assim vai ser quando um portal do Goblin Breach abrir no seu mundo\n\nO vídeo do blog mostra o evento acontecendo. De tempos em tempos, depois que você iniciar a história do Capítulo 1, um portal temporário vai surgir em algum lugar do seu mundo.\n\nAí a decisão é sua. Procura ele no horizonte ou abre o mapa do mundo pra localizar, atravessa, e do outro lado espera um fragmento instável de Orbis dominado pelos goblins com o Void crescendo.\n\nA tensão de ver esse portal abrir sabendo que o relógio já está correndo vai ser outra coisa 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex3-transparencia",
+    "id": "cap1-x03-vitrais",
     "rodada": "2026-07-17 11:22",
     "emoji": "🪟",
-    "titulo": "[EXTRA C • terça noite] Vitrais e vidro de verdade no motor (VÍDEO)",
+    "titulo": "[EXTRA C • quarta manhã] Vitrais e janelas de vidro vão ser possíveis (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'Transparency'. Frases literais: 'The Hytale engine is gaining support for real transparency! This means that stained glass and window blocks will now be possible' / 'Entities and NPCs can now also have transparent parts'. Dois vídeos, este usa o dos vitrais.",
+    "resumo": "PRÉVIA, ainda não está no jogo. Vídeo 09 (não postado). Seção 'Transparency'. Frase literal: 'stained glass and window blocks will now be possible'. Roadmap: agendado pro Capítulo 1, tech pode vir antes.",
     "midia": {
       "tipo": "video",
       "url": "https://www.youtube.com/watch?v=A02ssIq61Wk",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\09_transparencia_vitrais.mp4. Segundo vídeo (NPCs transparentes): 10_transparencia_npcs.mp4."
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\09_transparencia_vitrais.mp4"
     },
-    "twitter": "🪟 O MOTOR DO HYTALE FINALMENTE SUPORTA TRANSPARÊNCIA REAL, VITRAL E JANELA DE VIDRO VÊM AÍ\n\nParece detalhe mas muda a cara das construções. Com a transparência de verdade no motor, blocos de vitral e janelas de vidro se tornam possíveis no jogo\n\nE não para nos blocos. Entidades e NPCs também podem ter PARTES transparentes agora, o que abre porta pra criaturas e visuais que não existiam\n\nPra quem constrói catedral, castelo e casa moderna, esse vídeo é um presente 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🪟 O motor do Hytale finalmente suporta transparência real, vitral e janela de vidro vêm aí\n\nParece detalhe mas muda a cara das construções. Com a transparência de verdade chegando no motor, blocos de vitral e janelas de vidro se tornam possíveis no jogo.\n\nE não para nos blocos. Entidades e NPCs também podem ter PARTES transparentes agora, o que abre porta pra criaturas e visuais que simplesmente não existiam antes.\n\nPra quem constrói catedral, castelo e casa moderna, esse vídeo é um presente 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🪟 VITRAIS E JANELAS DE VIDRO VÃO FINALMENTE SER POSSÍVEIS NO HYTALE\n\nO motor do jogo está ganhando suporte a transparência REAL, e o vídeo do blog mostra o efeito funcionando. Blocos de vitral e janelas de vidro de verdade deixam de ser limitação técnica\n\nPra quem constrói, isso muda o repertório inteiro. Catedral com vitral colorido, casa moderna com parede de vidro, farol com janelão pro mar, tudo entra no cardápio quando o recurso chegar\n\nEstá agendado pro Capítulo 1 e o próprio roadmap diz que a tecnologia pode aparecer antes 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🪟 Vitrais e janelas de vidro vão finalmente ser possíveis no Hytale\n\nO motor do jogo está ganhando suporte a transparência REAL, e o vídeo do blog mostra o efeito funcionando. Blocos de vitral e janelas de vidro de verdade deixam de ser limitação técnica.\n\nPra quem constrói, isso muda o repertório inteiro. Catedral com vitral colorido, casa moderna com parede de vidro, farol com janelão pro mar, tudo entra no cardápio quando o recurso chegar.\n\nEstá agendado pro Capítulo 1 e o próprio roadmap diz que a tecnologia pode aparecer antes 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex4-raposas",
+    "id": "cap1-x04-npcs-transparentes",
     "rodada": "2026-07-17 11:21",
-    "emoji": "🦊",
-    "titulo": "[EXTRA D • quarta tarde] As raposas que te seguem na aventura (VÍDEO)",
+    "emoji": "👻",
+    "titulo": "[EXTRA D • quarta noite] NPCs e entidades com partes transparentes (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'Living Creatures' (parte das raposas). Frase literal: 'they can follow you on adventures, stalk prey, sleep beside campfires, and play with their owners'. O 14º post cita; este dá o vídeo próprio (conteúdo fofo performa).",
+    "resumo": "PRÉVIA, ainda não está no jogo. Vídeo 10 (não postado). Seção 'Transparency'. Frase literal: 'Entities and NPCs can now also have transparent parts'.",
     "midia": {
       "tipo": "video",
-      "url": "https://www.youtube.com/watch?v=iuAjad89Hk0",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\17_raposas.mp4."
+      "url": "https://www.youtube.com/watch?v=na_p5woVs5A",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\10_transparencia_npcs.mp4"
     },
-    "twitter": "🦊 AS RAPOSAS DO HYTALE AGORA SEGUEM VOCÊ NA AVENTURA E DORMEM DO LADO DA FOGUEIRA\n\nO trabalho nos comportamentos já começou e o resultado apareceu em vídeo. As raposas podem acompanhar você pelo mundo, espreitar presas na caça, dormir juntinho da fogueira no acampamento e brincar com o dono\n\nO design de animais de criação e pets ainda está amadurecendo no estúdio, mas se a base é essa, o futuro dos companheiros de jornada promete muito\n\nAssiste e tenta não querer uma 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🦊 As raposas do Hytale agora seguem você na aventura e dormem do lado da fogueira\n\nO trabalho nos comportamentos já começou e o resultado apareceu em vídeo. As raposas podem acompanhar você pelo mundo, espreitar presas na caça, dormir juntinho da fogueira no acampamento e brincar com o dono.\n\nO design de animais de criação e pets ainda está amadurecendo no estúdio, mas se a base é essa, o futuro dos companheiros de jornada promete muito.\n\nAssiste e tenta não querer uma 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "👻 A TRANSPARÊNCIA NOVA DO HYTALE TAMBÉM VAI VALER PRA NPCS E ENTIDADES\n\nNão é só bloco de vidro. O vídeo do blog mostra entidades e NPCs com PARTES transparentes, algo que o motor simplesmente não fazia antes\n\nPensa no que isso destrava pra criaturas. Fantasma de verdade, gosma translúcida, asa de inseto, espírito de floresta, elemental de gelo. Um tipo inteiro de design de monstro e personagem que passa a existir\n\nCom o rework das facções vindo nos próximos capítulos, a porta que isso abre é enorme 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👻 A transparência nova do Hytale também vai valer pra NPCs e entidades\n\nNão é só bloco de vidro. O vídeo do blog mostra entidades e NPCs com PARTES transparentes, algo que o motor simplesmente não fazia antes.\n\nPensa no que isso destrava pra criaturas. Fantasma de verdade, gosma translúcida, asa de inseto, espírito de floresta, elemental de gelo. Um tipo inteiro de design de monstro e personagem que passa a existir.\n\nCom o rework das facções vindo nos próximos capítulos, a porta que isso abre é enorme 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex5-kweebecs",
+    "id": "cap1-x05-physics",
     "rodada": "2026-07-17 11:20",
-    "emoji": "🌱",
-    "titulo": "[EXTRA E • quinta tarde] Os Kweebecs ganharam vida nova (Seedlings e Saplings) (VÍDEO)",
+    "emoji": "🏃",
+    "titulo": "[EXTRA E • quinta manhã] Física de jogador pra plataformas móveis (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'Living Creatures' (parte dos Kweebecs). Frase literal: 'The playful Seedlings might follow you around, while Saplings act as dutiful guardians of their community that nurture the fauna and flora of the Emerald Wilds'. Facções serão retrabalhadas nos próximos capítulos.",
+    "resumo": "Vídeo 13 (não postado). Seção 'Player Physics'. TOM: a física foi liberada na PRE-RELEASE DE TESTES segundo o blog ('ships to pre-release today'), mas conteúdo usando ela ainda NÃO existe no jogo. Frase literal: 'stand on entities that move and rotate, stay anchored to them when they move, and carry momentum when jumping off'.",
     "midia": {
       "tipo": "video",
-      "url": "https://www.youtube.com/watch?v=bLWcQXKetUE",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\18_kweebecs.mp4."
+      "url": "https://www.youtube.com/watch?v=mJ7meg0tQsk",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\13_player_physics.mp4"
     },
-    "twitter": "🌱 OS KWEEBECS GANHARAM COMPORTAMENTOS NOVOS E CADA UM TEM SEU PAPEL NO EMERALD WILDS\n\nA facção mais querida do jogo está ganhando vida de verdade. Os Seedlings, os pequenininhos brincalhões, podem te seguir por aí enquanto você explora. Já os Saplings agem como guardiões dedicados da comunidade, cuidando da fauna e da flora do Emerald Wilds\n\nE isso é só o começo, o estúdio confirmou que TODAS as facções, incluindo os Kweebecs, vão ser retrabalhadas nos próximos capítulos. A base já está sendo montada pra cada criatura do mundo ser única do seu jeito\n\nO vídeo derrete o coração 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🌱 Os Kweebecs ganharam comportamentos novos e cada um tem seu papel no Emerald Wilds\n\nA facção mais querida do jogo está ganhando vida de verdade. Os Seedlings, os pequenininhos brincalhões, podem te seguir por aí enquanto você explora. Já os Saplings agem como guardiões dedicados da comunidade, cuidando da fauna e da flora do Emerald Wilds.\n\nE isso é só o começo, o estúdio confirmou que TODAS as facções, incluindo os Kweebecs, vão ser retrabalhadas nos próximos capítulos. A base já está sendo montada pra cada criatura do mundo ser única do seu jeito.\n\nO vídeo derrete o coração 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🏃 O HYTALE REVELOU A FÍSICA QUE VAI PERMITIR PARKOUR EM PLATAFORMAS MÓVEIS\n\nO vídeo do blog mostra a base funcionando. O Avatar fica em pé em entidades que se movem e giram, permanece ancorado nelas durante o trajeto e carrega o EMBALO do movimento quando pula fora\n\nA visão de futuro são fases de parkour com plataformas móveis, martelos giratórios e obstáculos dinâmicos. As ferramentas pra construir e animar essas peças ainda vêm pela frente\n\nSegundo o blog, a física já foi liberada na versão de testes da pre-release justamente pros modders começarem a experimentar mecânicas novas antes de todo mundo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🏃 O Hytale revelou a física que vai permitir parkour em plataformas móveis\n\nO vídeo do blog mostra a base funcionando. O Avatar fica em pé em entidades que se movem e giram, permanece ancorado nelas durante o trajeto e carrega o EMBALO do movimento quando pula fora.\n\nA visão de futuro são fases de parkour com plataformas móveis, martelos giratórios e obstáculos dinâmicos. As ferramentas pra construir e animar essas peças ainda vêm pela frente.\n\nSegundo o blog, a física já foi liberada na versão de testes da pre-release justamente pros modders começarem a experimentar mecânicas novas antes de todo mundo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex6-cubic-video",
+    "id": "cap1-x06-worldtech",
     "rodada": "2026-07-17 11:19",
     "emoji": "🧊",
-    "titulo": "[EXTRA F • quinta noite] Os cubic chunks em ação (VÍDEO da tech)",
+    "titulo": "[EXTRA F • quinta noite] A tecnologia de mundo 3D em ação (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'New World Tech' (vídeos da tech). O 13º post (carrossel de domingo) cobre o assunto com imagens; este é o vídeo da tecnologia rodando. Frase literal: 'renovating the engine to support a fully 3D format that instead loads the world in cubic chunks around players'.",
+    "resumo": "PRÉVIA da tecnologia. Vídeo 14 (não postado, era só nota do 13º). Seção 'New World Tech'. Frase literal: 'renovating the engine to support a fully 3D format that instead loads the world in cubic chunks around players'.",
     "midia": {
       "tipo": "video",
       "url": "https://www.youtube.com/watch?v=k7Ia7YhD7Ro",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\14_world_tech.mp4. Segundo vídeo da seção: 15_cubic_chunks.mp4 (kXFdxcQpNrs)."
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\14_world_tech.mp4"
     },
-    "twitter": "🧊 ASSIM FUNCIONA A TECNOLOGIA QUE VAI DAR ALTURA INFINITA AO MUNDO DO HYTALE\n\nO vídeo mostra os cubic chunks rodando. Em vez de carregar o mundo em colunas do fundo ao topo, o motor renovado carrega blocos cúbicos em volta do jogador, um formato totalmente 3D\n\nA tecnologia já está entrando na pre-release semana a semana, e o que ela destrava é gigante, altura e profundidade sem limite. Servidores vão poder criar exploração espacial em 3D e mundos de cavernas que nunca acabam\n\nO tipo de mudança de fundação que ninguém vê na hora, mas que define o que o jogo vai ser daqui uns anos 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🧊 Assim funciona a tecnologia que vai dar altura infinita ao mundo do Hytale\n\nO vídeo mostra os cubic chunks rodando. Em vez de carregar o mundo em colunas que vão do fundo ao topo, o motor renovado carrega blocos cúbicos em volta do jogador, um formato totalmente 3D.\n\nA tecnologia já está entrando na pre-release semana a semana, e o que ela destrava é gigante, altura e profundidade sem limite. Servidores vão poder criar exploração espacial em 3D e mundos de cavernas que nunca acabam.\n\nÉ o tipo de mudança de fundação que ninguém vê na hora, mas que define o que o jogo vai ser daqui uns anos 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🧊 O VÍDEO DA TECNOLOGIA QUE VAI DESTRAVAR ALTURA E PROFUNDIDADE INFINITAS NO HYTALE\n\nO mundo do jogo sempre carregou em colunas, do fundo até o céu. O blog mostrou em vídeo o motor renovado carregando o mundo em BLOCOS CÚBICOS ao redor do jogador, um formato totalmente 3D\n\nO trabalho é incremental e vai levar tempo até ficar completo, mas o que ele destrava não tem volta, altura e profundidade sem limite nenhum\n\nNo modo exploração o estúdio deve manter limites por decisão de design, mas servidores e minigames vão poder criar exploração espacial em 3D e mundos de cavernas que nunca terminam 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🧊 O vídeo da tecnologia que vai destravar altura e profundidade infinitas no Hytale\n\nO mundo do jogo sempre carregou em colunas, do fundo até o céu. O blog mostrou em vídeo o motor renovado carregando o mundo em BLOCOS CÚBICOS ao redor do jogador, um formato totalmente 3D.\n\nO trabalho é incremental e vai levar tempo até ficar completo, mas o que ele destrava não tem volta, altura e profundidade sem limite nenhum.\n\nNo modo exploração o estúdio deve manter limites por decisão de design, mas servidores e minigames vão poder criar exploração espacial em 3D e mundos de cavernas que nunca terminam 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex7-cosmeticos-video",
+    "id": "cap1-x07-cubic2",
     "rodada": "2026-07-17 11:18",
-    "emoji": "🎨",
-    "titulo": "[EXTRA G • sexta tarde] Os cosméticos novos em movimento (VÍDEO)",
+    "emoji": "⛏️",
+    "titulo": "[EXTRA G • sexta manhã] Segunda demo dos mundos cúbicos (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'Cosmetics and Extras'. Frase literal: 'a lot of new cosmetics that have been in the works over the past few months, including the goblin cosmetics you'll unlock by completing the chapter'. O 17º usa a música como vídeo; este mostra os cosméticos em si.",
+    "resumo": "PRÉVIA da tecnologia. Vídeo 15 (não postado). Seção 'New World Tech', segunda demonstração. Roadmap literal: 'the tech is getting implemented on a weekly basis (already in pre-release schedule for Update 6), but actual content using it from us will take a bit more time'.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=kXFdxcQpNrs",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\15_cubic_chunks.mp4"
+    },
+    "twitter": "⛏️ MAIS UM VISLUMBRE DOS MUNDOS CÚBICOS DO HYTALE EM FUNCIONAMENTO\n\nSegunda demonstração em vídeo da tecnologia de cubic chunks que apareceu no blog do Capítulo 1. Aqui dá pra ver melhor como o mundo passa a existir em volta do jogador em todas as direções\n\nPelo roadmap oficial, a tecnologia está sendo implementada SEMANALMENTE na pre-release, mas o conteúdo oficial usando ela ainda vai levar um tempo a mais\n\nEnquanto isso a comunidade já pode ir sonhando com o que construir quando o limite de altura deixar de existir 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "⛏️ Mais um vislumbre dos mundos cúbicos do Hytale em funcionamento\n\nSegunda demonstração em vídeo da tecnologia de cubic chunks que apareceu no blog do Capítulo 1. Aqui dá pra ver melhor como o mundo passa a existir em volta do jogador em todas as direções.\n\nPelo roadmap oficial, a tecnologia está sendo implementada SEMANALMENTE na pre-release, mas o conteúdo oficial usando ela ainda vai levar um tempo a mais.\n\nEnquanto isso a comunidade já pode ir sonhando com o que construir quando o limite de altura deixar de existir 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-x08-cosmeticos",
+    "rodada": "2026-07-17 11:17",
+    "emoji": "🎨",
+    "titulo": "[EXTRA H • sexta noite] Os cosméticos novos em movimento (VÍDEO)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PRÉVIA, desbloqueio vem com o Capítulo 1. Vídeo 11 (não postado). Seção 'Cosmetics and Extras'. Frase literal: 'including the goblin cosmetics you'll unlock by completing the chapter'.",
     "midia": {
       "tipo": "video",
       "url": "https://www.youtube.com/watch?v=les2YZFd-n0",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\11_cosmeticos_goblin.mp4. Imagens de apoio (carrossel Meta): bd7ff68f, 896670b0, c4431af5, f1b86cf4 (cdn.hytale.com)."
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\11_cosmeticos_goblin.mp4"
     },
-    "twitter": "🎨 OS COSMÉTICOS NOVOS DO HYTALE APARECERAM EM MOVIMENTO E TEM VISUAL GOBLIN DE RECOMPENSA\n\nUma leva grande que estava em produção há meses foi mostrada em vídeo, incluindo os cosméticos goblin que você só desbloqueia COMPLETANDO o Capítulo 1. Jogar o capítulo vira caminho de recompensa visual\n\nO criador de Avatar também evolui junto, com opções de mãos mais detalhadas e cílios chegando, e o estúdio prometeu seguir o feedback da comunidade pra expandir a customização a cada capítulo\n\nDá o play e escolhe o teu favorito 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🎨 Os cosméticos novos do Hytale apareceram em movimento e tem visual goblin de recompensa\n\nUma leva grande que estava em produção há meses foi mostrada em vídeo, incluindo os cosméticos goblin que você só desbloqueia COMPLETANDO o Capítulo 1. Jogar o capítulo vira caminho de recompensa visual.\n\nO criador de Avatar também evolui junto, com opções de mãos mais detalhadas e cílios chegando, e o estúdio prometeu seguir o feedback da comunidade pra expandir a customização a cada capítulo.\n\nDá o play e escolhe o teu favorito 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🎨 OS COSMÉTICOS NOVOS DO HYTALE APARECERAM EM MOVIMENTO E TEM VISUAL GOBLIN DE RECOMPENSA\n\nUma leva grande que estava em produção há meses foi mostrada em vídeo no blog, incluindo os cosméticos goblin que vão ser desbloqueados COMPLETANDO o Capítulo 1 quando ele chegar\n\nO criador de Avatar também vai evoluir junto, com opções de mãos mais detalhadas e cílios a caminho, e o estúdio prometeu seguir o feedback da comunidade pra expandir a customização a cada capítulo\n\nDá o play e já escolhe o teu favorito 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎨 Os cosméticos novos do Hytale apareceram em movimento e tem visual goblin de recompensa\n\nUma leva grande que estava em produção há meses foi mostrada em vídeo no blog, incluindo os cosméticos goblin que vão ser desbloqueados COMPLETANDO o Capítulo 1 quando ele chegar.\n\nO criador de Avatar também vai evoluir junto, com opções de mãos mais detalhadas e cílios a caminho, e o estúdio prometeu seguir o feedback da comunidade pra expandir a customização a cada capítulo.\n\nDá o play e já escolhe o teu favorito 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "cap1-ex8-asset-editor",
-    "rodada": "2026-07-17 11:17",
-    "emoji": "🛠️",
-    "titulo": "[EXTRA H • sexta noite] O novo Hytale Asset Editor pra criadores (VÍDEO)",
+    "id": "cap1-x09-raposas",
+    "rodada": "2026-07-17 11:16",
+    "emoji": "🦊",
+    "titulo": "[EXTRA I • sábado manhã] As raposas vão poder te seguir na aventura (VÍDEO)",
     "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "Seção 'The New Hytale Asset Editor'. Frase literal: 'moving the whole editor UI onto the same NoesisGUI framework as the new game interface, with a dockable asset browser and a new properties panel with better inheritance support'. Público de criadores/modders.",
+    "resumo": "PRÉVIA, comportamentos em desenvolvimento. Vídeo 17 (não postado). Seção 'Living Creatures'. Frase literal: 'work has already begun on new behaviors: they can follow you on adventures, stalk prey, sleep beside campfires, and play with their owners'.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=iuAjad89Hk0",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\17_raposas.mp4"
+    },
+    "twitter": "🦊 AS RAPOSAS DO HYTALE VÃO PODER TE SEGUIR NA AVENTURA E DORMIR DO LADO DA FOGUEIRA\n\nO trabalho nos comportamentos novos já começou e o resultado apareceu em vídeo no blog. A visão é raposa acompanhando você pelo mundo, espreitando presas na caça, dormindo juntinho da fogueira no acampamento e brincando com o dono\n\nO design de animais de criação e pets ainda está amadurecendo no estúdio, então isso é um gostinho do que vem. Mas se a base é essa, o futuro dos companheiros de jornada promete demais\n\nAssiste e tenta não querer uma 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🦊 As raposas do Hytale vão poder te seguir na aventura e dormir do lado da fogueira\n\nO trabalho nos comportamentos novos já começou e o resultado apareceu em vídeo no blog. A visão é raposa acompanhando você pelo mundo, espreitando presas na caça, dormindo juntinho da fogueira no acampamento e brincando com o dono.\n\nO design de animais de criação e pets ainda está amadurecendo no estúdio, então isso é um gostinho do que vem. Mas se a base é essa, o futuro dos companheiros de jornada promete demais.\n\nAssiste e tenta não querer uma 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-x10-kweebecs",
+    "rodada": "2026-07-17 11:15",
+    "emoji": "🌱",
+    "titulo": "[EXTRA J • sábado tarde] Kweebecs com papéis próprios no Emerald Wilds (VÍDEO)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PRÉVIA, groundwork em andamento. Vídeo 18 (não postado). Seção 'Living Creatures'. Frase literal: 'The playful Seedlings might follow you around, while Saplings act as dutiful guardians of their community that nurture the fauna and flora of the Emerald Wilds'.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=bLWcQXKetUE",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\18_kweebecs.mp4"
+    },
+    "twitter": "🌱 OS KWEEBECS VÃO GANHAR PAPÉIS PRÓPRIOS NO EMERALD WILDS E O VÍDEO JÁ DERRETE O CORAÇÃO\n\nA facção mais querida do jogo apareceu no blog com comportamentos novos em desenvolvimento. Os Seedlings, os pequenininhos brincalhões, vão poder te seguir por aí. Já os Saplings vão agir como guardiões dedicados da comunidade, cuidando da fauna e da flora do Emerald Wilds\n\nE o estúdio confirmou que TODAS as facções, Kweebecs incluídos, serão retrabalhadas nos próximos capítulos. A base já está sendo montada pra cada criatura ser única do seu jeito\n\nOlha o vídeo e me diz que não é a coisa mais fofa desse jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🌱 Os Kweebecs vão ganhar papéis próprios no Emerald Wilds e o vídeo já derrete o coração\n\nA facção mais querida do jogo apareceu no blog com comportamentos novos em desenvolvimento. Os Seedlings, os pequenininhos brincalhões, vão poder te seguir por aí. Já os Saplings vão agir como guardiões dedicados da comunidade, cuidando da fauna e da flora do Emerald Wilds.\n\nE o estúdio confirmou que TODAS as facções, Kweebecs incluídos, serão retrabalhadas nos próximos capítulos. A base já está sendo montada pra cada criatura do mundo ser única do seu jeito.\n\nOlha o vídeo e me diz que não é a coisa mais fofa desse jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-x11-spatial",
+    "rodada": "2026-07-17 11:14",
+    "emoji": "🎶",
+    "titulo": "[EXTRA K • domingo manhã] Blocos que emitem música no mundo (VÍDEO)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "Vídeo 21 (não postado). Seção 'Spatial Music'. Frase literal: 'Blocks in the world are now able to emit music. This works with our existing audio occlusion features'. Sem conteúdo oficial usando ainda (o texto deixa claro).",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=XI9Fu0deQCY",
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\21_spatial_music.mp4"
+    },
+    "twitter": "🎶 O HYTALE REVELOU BLOCOS QUE EMITEM MÚSICA DE DENTRO DO MUNDO\n\nO vídeo do blog demonstra a tecnologia. A música toca da posição do bloco, vai sumindo conforme você se afasta e fica ABAFADA atrás de paredes, aproveitando o sistema de oclusão de áudio que o jogo já tem\n\nO estúdio avisou que ainda não existe conteúdo oficial usando isso, mas a porta que abre é grande. Taverna com música vazando pela porta, salão de baile, caixa de música escondida em dungeon, palco de show em servidor\n\nSom posicional muda a imersão de um jeito que print não mostra, dá o play com fone 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎶 O Hytale revelou blocos que emitem música de dentro do mundo\n\nO vídeo do blog demonstra a tecnologia. A música toca da posição do bloco, vai sumindo conforme você se afasta e fica ABAFADA atrás de paredes, aproveitando o sistema de oclusão de áudio que o jogo já tem.\n\nO estúdio avisou que ainda não existe conteúdo oficial usando isso, mas a porta que abre é grande. Taverna com música vazando pela porta, salão de baile, caixa de música escondida em dungeon, palco de show em servidor.\n\nSom posicional muda a imersão de um jeito que print não mostra, dá o play com fone 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-x12-asset-editor",
+    "rodada": "2026-07-17 11:13",
+    "emoji": "🛠️",
+    "titulo": "[EXTRA L • domingo noite] O novo Asset Editor pra criadores (VÍDEO)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PRÉVIA, rework em andamento (roadmap sem data). Vídeo 20 (não postado). Seção 'The New Hytale Asset Editor'. Frase literal: 'moving the whole editor UI onto the same NoesisGUI framework as the new game interface, with a dockable asset browser and a new properties panel with better inheritance support'.",
     "midia": {
       "tipo": "video",
       "url": "https://www.youtube.com/watch?v=C46cEEfQm0o",
-      "nota": "VÍDEO baixado em Downloads\\EldrynMidias\\cap1\\20_asset_editor.mp4."
+      "nota": "VÍDEO já baixado em Downloads\\EldrynMidias\\cap1\\20_asset_editor.mp4"
     },
-    "twitter": "🛠️ O ASSET EDITOR DO HYTALE ESTÁ SENDO REFEITO E OS CRIADORES VÃO SENTIR A DIFERENÇA\n\nComo prometido, o estúdio está retrabalhando quase todas as ferramentas, e chegou a vez do editor de assets. A interface inteira está migrando pro mesmo framework NoesisGUI da nova interface do jogo\n\nAs melhorias que apareceram no vídeo 👇\n📂 navegador de assets encaixável onde você quiser na tela\n⚙️ painel de propriedades novo com suporte melhor a herança entre assets\n\nPra quem cria mod, mapa e conteúdo, ferramenta melhor significa produção mais rápida. E esse é só mais um pedaço do rework geral de ferramentas 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🛠️ O Asset Editor do Hytale está sendo refeito e os criadores vão sentir a diferença\n\nComo prometido, o estúdio está retrabalhando quase todas as ferramentas, e chegou a vez do editor de assets. A interface inteira está migrando pro mesmo framework NoesisGUI da nova interface do jogo.\n\nAs melhorias que apareceram no vídeo 👇\n📂 Navegador de assets encaixável onde você quiser na tela\n⚙️ Painel de propriedades novo com suporte melhor a herança entre assets\n\nPra quem cria mod, mapa e conteúdo, ferramenta melhor significa produção mais rápida. E esse é só mais um pedaço do rework geral de ferramentas do jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🛠️ O ASSET EDITOR DO HYTALE ESTÁ SENDO REFEITO E OS CRIADORES VÃO SENTIR A DIFERENÇA\n\nComo prometido, o estúdio está retrabalhando quase todas as ferramentas, e o vídeo do blog mostrou pra onde vai o editor de assets. A interface inteira está migrando pro mesmo framework NoesisGUI da nova interface do jogo\n\nO que já apareceu na prévia 👇\n📂 navegador de assets encaixável onde você quiser na tela\n⚙️ painel de propriedades novo com suporte melhor a herança entre assets\n\nAinda está sem data no roadmap, mas pra quem cria mod, mapa e conteúdo, ferramenta melhor é produção mais rápida 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🛠️ O Asset Editor do Hytale está sendo refeito e os criadores vão sentir a diferença\n\nComo prometido, o estúdio está retrabalhando quase todas as ferramentas, e o vídeo do blog mostrou pra onde vai o editor de assets. A interface inteira está migrando pro mesmo framework NoesisGUI da nova interface do jogo.\n\nO que já apareceu na prévia 👇\n📂 Navegador de assets encaixável onde você quiser na tela\n⚙️ Painel de propriedades novo com suporte melhor a herança entre assets\n\nAinda está sem data no roadmap, mas pra quem cria mod, mapa e conteúdo, ferramenta melhor é produção mais rápida 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   }
 ];
