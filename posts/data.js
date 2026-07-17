@@ -6,6 +6,45 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "2026-07-16-simon-blog-tamanho",
+    "rodada": "2026-07-16 21:22",
+    "emoji": "🤯",
+    "titulo": "Simon revelou o tamanho do blog do Capítulo 1: 28 páginas, 21 vídeos, 37 imagens, 4 mil palavras (resposta no thread do anúncio)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2077750643498869191",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, hype gigante pra véspera do blog. Numa resposta no thread do anúncio, o Simon soltou os números do post de amanhã (17/07 12h Brasília): 28 páginas, 21 vídeos, 37 imagens, 4 mil palavras, ~30 min pra consumir, e ainda tentando cortar texto. Nome do post: 'Primeiro Olhar: Capítulo 1 e Mais', o maior da história do jogo. Ele também prometeu dar prazos aproximados das features. A info dos números tá numa RESPOSTA do Simon no mesmo thread (1h atrás, ~126 likes) — dá pra printar/citar essa resposta.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2077750643498869191",
+      "tweetId": "2077750643498869191",
+      "tweetTexto": "Amanhã vamos publicar o maior post do blog do Hytale até agora, 'Primeiro Olhar: Capítulo 1 e Mais'. [Em resposta no thread, Simon: 28 páginas / 21 vídeos / 37 imagens / 4000 palavras / leva cerca de 30 minutos pra ler/assistir/ver, tentando cortar algumas palavras]",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "Os números (28 páginas etc) estão numa RESPOSTA do Simon no mesmo thread. No X dá pra citar/RT o tweet do anúncio ou a própria resposta. No Meta, printar a resposta dos números (traduzir antes)."
+    },
+    "twitter": "🤯 O BLOG DO CAPÍTULO 1 SAI AMANHÃ E O SIMON JÁ ADIANTOU O TAMANHO DA COISA\n\nSão 28 páginas, 21 vídeos, 37 imagens e 4 mil palavras. Ele mesmo falou que leva uns 30 minutos pra ler e assistir tudo, e que ainda tava tentando cortar parte do texto de tão grande\n\nO post se chama \"Primeiro Olhar, Capítulo 1 e Mais\" e é o maior da história do Hytale. Fora todo esse conteúdo, o Simon prometeu dar uma ideia de prazo aproximado de quando cada novidade vai chegando no jogo\n\nÉ amanhã, 17/07, ao meio dia no horário de Brasília\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🤯 O blog do Capítulo 1 sai amanhã e o Simon já adiantou o tamanho da coisa\n\nSão 28 páginas, 21 vídeos, 37 imagens e 4 mil palavras. Ele mesmo falou que leva uns 30 minutos pra ler e assistir tudo, e que ainda estava tentando cortar parte do texto de tão grande.\n\nO post se chama \"Primeiro Olhar, Capítulo 1 e Mais\" e é o maior da história do Hytale. Fora todo esse conteúdo, o Simon prometeu dar uma ideia de prazo aproximado de quando cada novidade vai chegar no jogo.\n\nÉ amanhã, dia 17/07, ao meio dia no horário de Brasília. Já separa o café.\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "2026-07-16-simon-catadao-respostas",
+    "rodada": "2026-07-16 21:22",
+    "emoji": "👀",
+    "titulo": "Catadão das respostas do Simon no thread do anúncio (investidor, acessibilidade, Cursebreaker, prazos, detalhe das features)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2077750643498869191",
+    "fonteData": "16/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL. Resumão das informações que o Simon soltou respondendo vários comentários no thread do anúncio do blog. Inclui: sem investidor externo (ele banca), acessibilidade, upgrade da edição Cursebreaker ainda disponível, prazos aproximados no blog, nível de detalhe das features. Tudo extraído das respostas dele, escrito do zero. Info nova que a run anterior não pegou.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2077750643498869191",
+      "tweetId": "2077750643498869191",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "As infos são respostas do Simon dentro deste thread. No Meta, printar uma das respostas fortes (a dos números ou a do investidor), traduzindo antes."
+    },
+    "twitter": "👀🔥 RESUMÃO DAS INFORMAÇÕES QUE O SIMON SOLTOU RESPONDENDO A GALERA ANTES DO BLOG\n\n🔹 O post de amanhã é o maior da história do Hytale, 28 páginas com 21 vídeos, 37 imagens e 4 mil palavras, dá uns 30 minutos pra consumir tudo\n\n🔹 Além de mostrar as novidades, o Simon vai dar prazos aproximados de quando cada funcionalidade deve chegar, nada de data cravada mas o suficiente pra saber pra onde o jogo tá indo\n\n🔹 Em algumas features eles entram em detalhe, outras são mais autoexplicativas mesmo\n\n🔹 Ele garantiu que o Hytale não tem investidor externo e não precisa de nenhum, e que ele mesmo tem um fundo grande que pode bancar o jogo se precisar\n\n🔹 Sobre acessibilidade, todo avanço vai ser divulgado o quanto antes, o trabalho na interface ajuda nas melhorias e um dos devs principais é defensor forte do tema\n\n🔹 Quem quer a edição Cursebreaker ainda consegue fazer o upgrade depois dessa atualização, sem pressa, dá pra fazer durante todo o Early Access\n\n🔹 Os últimos meses foram intensos crescendo a equipe e montando a base certa, mas segundo ele salvar o Hytale valeu muito a pena\n\nO blog sai amanhã, 17/07, ao meio dia no horário de Brasília\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👀🔥 Resumão das informações que o Simon soltou respondendo a galera antes do blog\n\n🔹 O post de amanhã é o maior da história do Hytale, 28 páginas com 21 vídeos, 37 imagens e 4 mil palavras\n\n🔹 Além das novidades, o Simon vai dar prazos aproximados de quando cada funcionalidade deve chegar, nada cravado mas o suficiente pra saber pra onde o jogo tá indo\n\n🔹 Ele garantiu que o Hytale não tem investidor externo e não precisa de nenhum, e que ele mesmo tem um fundo grande que pode bancar o jogo se precisar\n\n🔹 Sobre acessibilidade, todo avanço vai ser divulgado o quanto antes e um dos devs principais é defensor forte do tema\n\n🔹 Quem quer a edição Cursebreaker ainda consegue fazer o upgrade depois dessa atualização, dá pra fazer durante todo o Early Access\n\nO blog sai amanhã, 17/07, ao meio dia no horário de Brasília\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "2026-07-16-twitter-trigger-connect4",
     "rodada": "2026-07-16 19:20",
     "emoji": "🎮",
