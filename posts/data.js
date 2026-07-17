@@ -157,5 +157,141 @@ window.ELDRYN_POSTS = [
     },
     "twitter": "📅 O ROADMAP OFICIAL DO HYTALE SAIU COM TODAS AS DATAS, SALVA ESSE POST\n\n🗓️ Capítulo 1 nos próximos 2 a 3 meses\n👁️ Spectator e modo Hardcore em 2 a 3 SEMANAS (Update 6)\n🧩 Mod Browser dentro do jogo em 2 a 3 semanas (Update 6)\n🛗 Plataformas móveis em 2 a 3 semanas (Update 6)\n🪟 Transparência real agendada pro Capítulo 1, talvez antes\n🎮 Minigames nos próximos 2 a 3 meses\n🖥️ Custom UI nova de servidor em 1 a 2 meses\n📦 Carregar objetos em 2 a 3 meses, tech pode vir antes\n🧊 Cubic chunks entrando semanalmente na pre-release\n🎥 Machinima em 2 a 3 meses, talvez antes, vão gravar o trailer do Capítulo 1 nele\n🔨 Rework de crafting no Capítulo 2\n☁️ Nuvens volumétricas, Runeforging e Asset Editor sem data\n\nA data exata do Capítulo 1 sai perto do lançamento. E o blog termina com a frase que resume tudo, HYTALE LIVES 🔥\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
     "meta": "📅 O roadmap oficial do Hytale saiu com todas as datas, salva esse post\n\n🗓️ Capítulo 1 nos próximos 2 a 3 meses\n👁️ Spectator e modo Hardcore em 2 a 3 SEMANAS (Update 6)\n🧩 Mod Browser dentro do jogo em 2 a 3 semanas (Update 6)\n🛗 Plataformas móveis em 2 a 3 semanas (Update 6)\n🪟 Transparência real agendada pro Capítulo 1, talvez antes\n🎮 Minigames nos próximos 2 a 3 meses\n🖥️ Custom UI nova de servidor em 1 a 2 meses\n📦 Carregar objetos em 2 a 3 meses, a tecnologia pode vir antes\n🧊 Cubic chunks entrando semanalmente na pre-release\n🎥 Machinima em 2 a 3 meses, talvez antes, vão gravar o trailer do Capítulo 1 com ele\n🔨 Rework de crafting no Capítulo 2\n☁️ Nuvens volumétricas, Runeforging e rework do Asset Editor ainda sem data\n\nA data exata do Capítulo 1 sai quando estiver perto do lançamento. E o blog termina com a frase que resume o momento, HYTALE LIVES 🔥\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-10-minigames",
+    "rodada": "2026-07-17 11:32",
+    "emoji": "🎮",
+    "titulo": "[10º POST] Minigames com 14 jogos rápidos e código aberto pra todos (VÍDEO) — sábado manhã",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 10º, SÁBADO de manhã. Seção 'Minigames'. Frases literais: 'there are 14 of them! Each one lasts 60 to 120 seconds' / 'We'll be sharing the code and assets behind all minigames' / '13 years with over 45,000,000 unique players'.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=rY-5gdSKedI",
+      "nota": "VÍDEO do YouTube (minigames). Baixado em Downloads\\EldrynMidias\\cap1\\12_minigames.mp4. Imagens de apoio: 5619fdda-1ffc-4a3f-8ef0-21ed2b761eef.png e ae0591d9-c1a2-421c-8422-0ecea5245e42.png"
+    },
+    "twitter": "🎮 O HYTALE VAI TER ABA DE MINIGAMES COM 14 JOGOS RÁPIDOS, E O CÓDIGO VAI SER ABERTO PRA TODO MUNDO\n\nÉ a primeira experiência fora do modo exploração e criativo. Uma coleção de micro jogos de festa, cada um durando de 60 a 120 segundos, e no momento do blog já eram 14 prontos\n\nO plano é uma aba dedicada no menu, você abre o Hytale, aperta Minigames e em segundos está num lobby com os amigos, com hospedagem peer to peer e dedicada\n\nE a parte que muda o jogo pros criadores, eles vão COMPARTILHAR o código e os assets de todos os minigames, incluindo bibliotecas com uma API mais simples pro servidor, moldadas por 13 anos de Hypixel e mais de 45 MILHÕES de jogadores únicos. Modders e donos de servidor vão ser convidados a criar minigames junto 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎮 O Hytale vai ter aba de minigames com 14 jogos rápidos, e o código vai ser aberto pra todo mundo\n\nÉ a primeira experiência fora do modo exploração e criativo. Uma coleção de micro jogos de festa, cada um durando de 60 a 120 segundos, e no momento do blog já eram 14 prontos. A variedade é proposital, o time usa esses jogos pra empurrar os sistemas do Hytale em direções malucas e evoluir a tecnologia.\n\nO plano é uma aba dedicada no menu pra ser o mais simples possível, você abre o Hytale, aperta Minigames e em segundos está num lobby com os amigos, com hospedagem peer to peer e dedicada. No longo prazo eles querem jogos persistentes, PvP e muito mais.\n\nE a parte que muda o jogo pros criadores, eles vão COMPARTILHAR o código e os assets de todos os minigames, incluindo bibliotecas com uma API mais simples pro servidor do Hytale, moldadas por 13 anos fazendo jogos pro servidor Hypixel com mais de 45 MILHÕES de jogadores únicos. Modders e donos de servidor vão ser convidados a criar minigames junto com o estúdio 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-11-mod-browser",
+    "rodada": "2026-07-17 11:31",
+    "emoji": "🧩",
+    "titulo": "[11º POST] Mod Browser dentro do jogo, sem mods pagos (em 2-3 semanas) — sábado tarde",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 11º, SÁBADO à tarde. Seção 'Mod Browser'. Frases literais: 'browse, install, and update mods directly from the Mods tab' / 'there will be no paid mods in the Mod Browser' / 'players will be able to directly support mods and receive unique cosmetics'. Timeline: 2-3 semanas (Update 6).",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/a9766e6e-fbf9-431a-8199-a196e39ea58b.png",
+      "nota": "Print oficial do Mod Browser. Segunda imagem: ac288683-1bc4-4bc8-871b-e27886fd00ff.png (Meta pode carrossel com as duas). Método = URL direta do cdn."
+    },
+    "twitter": "🧩 O MOD BROWSER DENTRO DO JOGO CHEGA EM 2 A 3 SEMANAS E NÃO VAI TER MOD PAGO\n\nVocê vai navegar, instalar e atualizar mods direto da aba Mods do Hytale, sem sair do jogo em momento nenhum\n\nE a política ficou clara no blog. NENHUM mod pago no Mod Browser. Em versões futuras os jogadores vão poder APOIAR os mods que amam e receber cosméticos únicos feitos pelo time oficial do Hytale em troca, mantendo todos os mods gratuitos pra sempre\n\nA meta é crescer isso num ecossistema de recompensas de verdade, onde criador ganha renda, monta equipe e divide os ganhos. Pra quem faz mod, o futuro ficou muito interessante 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🧩 O Mod Browser dentro do jogo chega em 2 a 3 semanas e não vai ter mod pago\n\nVocê vai navegar, instalar e atualizar mods direto da aba Mods do Hytale, sem sair do jogo em momento nenhum.\n\nE a política ficou clara no blog. NENHUM mod pago no Mod Browser. Em versões futuras os jogadores vão poder APOIAR os mods que amam e receber cosméticos únicos feitos pelo time oficial do Hytale em troca, num modelo que mantém todos os mods gratuitos pra sempre.\n\nA meta declarada é crescer isso num ecossistema de recompensas de verdade, onde criador ganha renda, e no futuro modders vão poder montar equipes e dividir os ganhos entre si. Pra quem faz mod, o futuro ficou muito interessante 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-12-spectator-hardcore",
+    "rodada": "2026-07-17 11:30",
+    "emoji": "💀",
+    "titulo": "[12º POST] Modo HARDCORE com morte permanente + Spectator em 2-3 semanas — sábado noite",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 12º, SÁBADO à noite. Seção 'Spectator and Hardcore Mode'. Frases literais: 'Death is permanent. You drop everything you were carrying, and you spend the rest of that world as a spectator, still in the run with your friends' / spectator moddável 'servers and mods can reshape it however they want'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/0de0def8-70a0-4e1d-a797-f8e7b1ac466b.png",
+      "nota": "Imagem oficial da seção Hardcore. Método = URL direta do cdn."
+    },
+    "twitter": "💀 O HYTALE GANHA MODO HARDCORE COM MORTE PERMANENTE EM 2 A 3 SEMANAS\n\nMorreu, acabou. Você derruba tudo que carregava e passa o resto daquele mundo como ESPECTADOR, ainda dentro da run com seus amigos, assistindo eles seguirem sem você\n\nO modo espectador vem junto, preparando o terreno pros boss fights cooperativos e minigames. Se você cair enquanto os amigos continuam, troca entre as visões deles pra achar a ação ou solta a câmera pra voar livre pela cena\n\nE tem um detalhe técnico importante, o spectator é um modo de jogo PADRÃO e moddável. Servidores podem remodelar tudo, mudar controles de câmera, definir o que espectador pode fazer, até criar um que ainda afeta o mundo\n\nA primeira versão do Hardcore é permadeath puro, sem mudança de dificuldade. Depois vêm modos de desafio que crescem a ideia. Funciona solo, em co-op e em servidor dedicado 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "💀 O Hytale ganha modo Hardcore com morte permanente em 2 a 3 semanas\n\nMorreu, acabou. Você derruba tudo que carregava e passa o resto daquele mundo como ESPECTADOR, ainda dentro da run com seus amigos, assistindo eles seguirem sem você.\n\nO modo espectador vem junto, preparando o terreno pros boss fights cooperativos e minigames. Se você cair enquanto os amigos continuam, troca entre as visões deles pra achar a ação ou solta a câmera pra voar livre pela cena.\n\nE tem um detalhe técnico importante, o spectator é um modo de jogo PADRÃO e moddável, em vez de cada servidor inventar o seu. Servidores e mods podem remodelar tudo, mudar os controles de câmera, definir o que o espectador pode fazer e até criar um que ainda afeta o mundo. Um servidor de minigame joga os eliminados direto pra assistir sem escrever uma linha de código de câmera.\n\nA primeira versão do Hardcore é permadeath puro, sem mudança de dificuldade ainda. Depois vêm modos de desafio que crescem a ideia. Funciona solo, em co-op e em servidor dedicado 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-13-mundo-novo",
+    "rodada": "2026-07-17 11:29",
+    "emoji": "🧊",
+    "titulo": "[13º POST] Cubic chunks (altura infinita), nuvens volumétricas e WorldGen V2 (CARROSSEL 7) — domingo manhã",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. ORDEM 13º, DOMINGO de manhã. Seções 'New World Tech' e 'World Generation'. Frases literais: 'it will unlock the capability for infinite world height and depth' / '3D space exploration or worlds with endless caves' / 'We've doubled the size of the level design team working on worldgen'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/f6f40a71-39d9-4002-9c6b-11af36e33bbe.png",
+      "nota": "CARROSSEL — 7 imagens (sneak previews do WorldGen V2), na ordem de postagem: 1) https://cdn.hytale.com/f6f40a71-39d9-4002-9c6b-11af36e33bbe.png 2) https://cdn.hytale.com/0723f76c-7fdc-4670-8b8c-fa5177d03560.png 3) https://cdn.hytale.com/1baa11d1-f3fa-48fe-a289-e3bbd7205024.png 4) https://cdn.hytale.com/3e0ed2df-fc50-4c60-bb9b-16a8e8732de2.png 5) https://cdn.hytale.com/4641e359-d89d-45a3-8263-5ed9d82a078b.png 6) https://cdn.hytale.com/2c3a0526-e100-4261-a743-0eca1e6b5eed.png 7) https://cdn.hytale.com/524d2f96-9105-470b-b128-9b47aa3a4c39.png. No Twitter, vídeo do world tech: Downloads\\EldrynMidias\\cap1\\14_world_tech.mp4 (k7Ia7YhD7Ro) ou a imagem 1."
+    },
+    "twitter": "🧊 O MUNDO DO HYTALE VAI GANHAR ALTURA E PROFUNDIDADE INFINITAS COM OS CUBIC CHUNKS\n\nAté hoje o mundo carrega em colunas do fundo até o topo. O motor está sendo renovado pra um formato totalmente 3D que carrega o mundo em blocos cúbicos ao redor dos jogadores\n\nNo modo exploração eles provavelmente não vão usar altura infinita por decisão de design, mas servidores e minigames vão aproveitar MUITO. O próprio blog cita exploração espacial em 3D e mundos de cavernas sem fim como possibilidades\n\nEnquanto isso o céu ganha nuvens volumétricas de verdade, ainda em experimento, e o WorldGen V2 avança com geração baseada em grafos. Primeiro vêm cavernas procedurais muito mais imersivas, depois dungeons procedurais, vilas e cidades coerentes, rios e estradas\n\nO time de level design de worldgen DOBROU de tamanho e o mundo inteiro está sendo redesenhado. As prévias estão lindas demais 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🧊 O mundo do Hytale vai ganhar altura e profundidade infinitas com os cubic chunks\n\nAté hoje o mundo do jogo carrega em colunas que vão do fundo até o topo. O motor está sendo renovado pra um formato totalmente 3D que carrega o mundo em blocos cúbicos ao redor dos jogadores. O trabalho é incremental, mas destrava altura e profundidade infinitas.\n\nNo modo exploração eles provavelmente não vão usar altura infinita por decisão de design, mas servidores e minigames vão aproveitar MUITO. O próprio blog cita exploração espacial em 3D e mundos de cavernas sem fim como possibilidades pros servidores.\n\nEnquanto isso o céu ganha nuvens volumétricas de verdade, ainda em fase de experimento, e o WorldGen V2 avança com a base de geração por grafos pronta. O plano é destravar primeiro cavernas procedurais muito mais avançadas e imersivas, e depois expandir pra dungeons procedurais, vilas e cidades coerentes, rios e estradas.\n\nO time de level design trabalhando em worldgen DOBROU de tamanho e o mundo inteiro está sendo redesenhado com o V2. Desliza o carrossel pra ver as prévias que eles soltaram, estão lindas demais 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-14-criaturas",
+    "rodada": "2026-07-17 11:28",
+    "emoji": "🦊",
+    "titulo": "[14º POST] Criaturas vivas (corujas que caçam, raposas que te seguem, Kweebecs) (VÍDEO) — domingo tarde",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 14º, DOMINGO à tarde. Seção 'Living Creatures'. Frases literais: 'Birds... sleep in nests, fly and land as a flock' / 'Owls and other birds of prey can even swoop down to hunt smaller creatures' / raposas 'follow you on adventures, stalk prey, sleep beside campfires' / Kweebecs Seedlings/Saplings do Emerald Wilds. Tem até a cabra nova de modelo atualizado.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=sQ9B0Xbat70",
+      "nota": "VÍDEO do YouTube (pássaros). Baixado em Downloads\\EldrynMidias\\cap1\\16_passaros.mp4. Outros: 17_raposas.mp4 e 18_kweebecs.mp4. GIF dos porcos: https://cdn.hytale.com/SMALL-animal-animations.gif e a cabra: 81c85968-2a59-47b4-b5b6-894553e7e349.png"
+    },
+    "twitter": "🦊 O MUNDO DO HYTALE ESTÁ GANHANDO VIDA, CORUJA CAÇANDO, RAPOSA TE SEGUINDO E PÁSSAROS EM BANDO\n\nOs animais estão sendo estudados um por um. Os pássaros vieram primeiro, dormem em ninhos, voam e pousam em bando, fogem quando você chega perto e catam sementes do chão. Corujas e aves de rapina descem em voo rasante pra caçar criaturas menores\n\nAs raposas ganharam comportamentos novos, seguem você na aventura, espreitam presas, dormem do lado da fogueira e brincam com o dono\n\nAté os Kweebecs entraram na dança, os Seedlings brincalhões podem te seguir e os Saplings agem como guardiões que cuidam da fauna e da flora do Emerald Wilds\n\nE os modelos estão sendo atualizados pra um estilo mais expressivo, olha a cabra nova no vídeo e me diz se não é a coisa mais fofa do jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🦊 O mundo do Hytale está ganhando vida, coruja caçando, raposa te seguindo e pássaros em bando\n\nOs animais estão sendo estudados um por um, com modelos, texturas e animações novas num estilo mais expressivo e icônico.\n\nOs pássaros vieram primeiro. Dormem em ninhos, voam e pousam em bando, fogem quando você chega perto e catam sementes que caem no chão. Corujas e aves de rapina descem em voo rasante pra caçar criaturas menores.\n\nAs raposas ganharam comportamentos novos, seguem você na aventura, espreitam presas, dormem do lado da fogueira e brincam com o dono. O design de animais de criação e pets ainda está amadurecendo, mas o trabalho já começou.\n\nAté os Kweebecs entraram na dança, os Seedlings brincalhões podem te seguir por aí e os Saplings agem como guardiões zelosos que cuidam da fauna e da flora do Emerald Wilds. Todas as facções vão ser retrabalhadas nos próximos capítulos.\n\nA meta de curto prazo é expandir domesticação e vida na fazenda. E olha a cabra de modelo novo, a coisa mais fofa do jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-15-crafting-companions",
+    "rodada": "2026-07-17 11:27",
+    "emoji": "🔨",
+    "titulo": "[15º POST] Rework do crafting + COMPANIONS que moram na tua casa (Capítulo 2) — domingo noite",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 15º, DOMINGO à noite. Seções 'Crafting Rework' e Companions. Frases literais: 'reducing the number of benches used for crafting and shifting more of that work into in-world activities like wood chopping and metalworking' / 'introducing Companions that you can invite to move into your home to help out with the busywork'. Planejado pro Capítulo 2.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/e88cec57-79ba-4558-82b6-9e4ab4d60da3.jpg",
+      "nota": "Imagem da seção de crafting. Segunda: 898aef84-9220-4827-ac0d-19479aef21a1.png (companions/casa). Meta pode carrossel com as duas. Método = URL direta do cdn."
+    },
+    "twitter": "🔨 O CRAFTING DO HYTALE VAI MUDAR E VOCÊ VAI TER COMPANIONS MORANDO NA SUA CASA\n\nO estúdio admitiu que destrinchou os problemas do sistema atual de crafting. As mudanças são grandes, MENOS bancadas e mais trabalho acontecendo no próprio mundo, cortando madeira e forjando metal em atividades de verdade\n\nAs áreas de criação vão evoluir e se expandir com o tempo, refletindo as aventuras e escolhas de cada jogador, pra cada cantinho ser único\n\nE a bomba fofa do blog, os COMPANIONS. Você vai poder convidar personagens pra morar na sua casa. Investe uns recursos pro conforto deles e em troca eles cuidam do trabalho chato na rotina própria deles, cada um com manias e talentos diferentes. A visão é você construir uma VILA viva com seus companions\n\nTudo isso está planejado pro Capítulo 2, com playtesters da comunidade já ajudando nos protótipos 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🔨 O crafting do Hytale vai mudar e você vai ter Companions morando na sua casa\n\nO estúdio admitiu que destrinchou os problemas do sistema atual de crafting. As mudanças são grandes, MENOS bancadas e mais trabalho acontecendo no próprio mundo, cortando madeira e forjando metal em atividades de verdade.\n\nAs áreas de criação vão evoluir e se expandir com o tempo, refletindo os tipos de aventura e as escolhas de cada jogador, pra cada espaço parecer realmente seu.\n\nE a bomba fofa do blog, os COMPANIONS. Você vai poder convidar personagens pra morar na sua casa. Investe uns recursos pra deixar eles confortáveis e em troca eles ajudam com o trabalho chato, cada um com rotina, manias e talentos próprios, uns melhores em certas tarefas que outros. A visão declarada é você construir uma VILA viva e habitada com seus companions.\n\nO lado aconchegante de casa e fazenda é prioridade confessa do estúdio. Tudo isso está planejado pro Capítulo 2, com playtesters da comunidade já ajudando nos protótipos 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-16-machinima-extras",
+    "rodada": "2026-07-17 11:26",
+    "emoji": "🎥",
+    "titulo": "[16º POST] Machinima com replays + vitrais + música espacial (os extras técnicos) (VÍDEO) — segunda",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 16º, SEGUNDA (estica a cobertura). Seções 'Machinima', 'Transparency' e 'Spatial Music'. Frases literais: 'record gameplay to create replays that can be edited just like any other Machinima scene' / 'multiple Avatars will be able to collaboratively edit the same scene' / 'stained glass and window blocks will now be possible' / 'Blocks in the world are now able to emit music'.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=XdftKOzpJ8w",
+      "nota": "VÍDEO do YouTube (Machinima novo). Baixado em Downloads\\EldrynMidias\\cap1\\19_machinima.mp4. Outros: 09_transparencia_vitrais.mp4, 10_transparencia_npcs.mp4, 21_spatial_music.mp4."
+    },
+    "twitter": "🎥 O MACHINIMA DO HYTALE VAI GRAVAR SEU GAMEPLAY E TRANSFORMAR EM CENA EDITÁVEL\n\nA ferramenta de animação in-game foi reescrita e a novidade principal é gravar o gameplay pra criar REPLAYS que se editam como qualquer cena. Dá pra vasculhar horas de gravação atrás do momento certo, compor cenas e tocar elas pra jogadores específicos\n\nTudo pensado pra multiplayer, vários Avatares editando a MESMA cena juntos. Serve pra timelapse, cinematic, cutscene de boss fight e até animar plataformas. E o próprio trailer do Capítulo 1 vai ser gravado nessa ferramenta\n\nDe brinde nos extras técnicos, o motor ganhou TRANSPARÊNCIA real, vitral e janela de vidro agora são possíveis, até em partes de NPCs. E os blocos do mundo agora podem EMITIR MÚSICA, que abafa atrás de parede e some com a distância 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎥 O Machinima do Hytale vai gravar seu gameplay e transformar em cena editável\n\nA ferramenta de animação in-game foi reescrita e a novidade principal é gravar o gameplay pra criar REPLAYS que se editam como qualquer cena de Machinima. Dá pra vasculhar horas de conteúdo gravado atrás do momento certo, compor cenas juntas e reproduzir elas pra jogadores específicos.\n\nTudo foi pensado pra multiplayer, com vários Avatares editando a MESMA cena de forma colaborativa. Serve pra timelapse de construção, cinematic de gameplay, cutscene de boss fight e até pra animar plataformas móveis. O estúdio usa as mesmas ferramentas que entrega pra você, e o próprio trailer do Capítulo 1 vai ser gravado no Machinima.\n\nDe brinde nos extras técnicos do blog, o motor ganhou TRANSPARÊNCIA real, vitral e janela de vidro agora são possíveis, inclusive em partes de NPCs e entidades. E os blocos do mundo agora podem EMITIR MÚSICA, que abafa atrás de parede e some conforme você se afasta, abrindo porta pra muita coisa no futuro 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "cap1-17-cosmeticos-ost",
+    "rodada": "2026-07-17 11:25",
+    "emoji": "🎵",
+    "titulo": "[17º POST] Cosméticos goblin de recompensa + música nova Whisperfrost Frontiers (VÍDEO) — segunda noite",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "ORDEM 17º, SEGUNDA à noite (fecha a cobertura). Seções 'Cosmetics and Extras' e 'Spatial Music' (faixa). Frases literais: 'including the goblin cosmetics you'll unlock by completing the chapter' / 'adding more detailed hand and eyelash options in the Avatar Creator' / 'New tracks are also coming to Hytale's OST... from the Whisperfrost Frontiers'.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.youtube.com/watch?v=MHLe66yxlVc",
+      "nota": "VÍDEO do YouTube (faixa nova da OST). Baixado em Downloads\\EldrynMidias\\cap1\\22_ost_whisperfrost.mp4. Imagens de cosméticos pro Meta (carrossel): bd7ff68f, 896670b0, c4431af5, f1b86cf4 (todas cdn.hytale.com)."
+    },
+    "twitter": "🎵 COMPLETAR O CAPÍTULO 1 VAI DESBLOQUEAR COSMÉTICOS GOBLIN, E A TRILHA GANHOU MÚSICA NOVA\n\nUma leva grande de cosméticos vem chegando, incluindo os visuais goblin que você desbloqueia COMPLETANDO o capítulo, os objetivos da tela de capítulos viram recompensas de verdade\n\nO modelo do personagem também melhora, com opções de mãos mais detalhadas e cílios no criador de Avatar, e o estúdio prometeu seguir ouvindo feedback pra mais customização a cada capítulo\n\nE pra fechar, aperta o play, essa é a faixa nova da OST vinda direto das Whisperfrost Frontiers, a região congelada do jogo. O nível da trilha sonora desse jogo segue absurdo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🎵 Completar o Capítulo 1 vai desbloquear cosméticos goblin, e a trilha ganhou música nova\n\nUma leva grande de cosméticos que estava em produção há meses vem chegando, incluindo os visuais goblin que você desbloqueia COMPLETANDO o capítulo. Os objetivos da tela de capítulos viram recompensas de verdade conforme você joga.\n\nO modelo do personagem também melhora, com opções de mãos mais detalhadas e cílios no criador de Avatar, e o estúdio prometeu seguir ouvindo o feedback pra adicionar mais customização e cosméticos a cada capítulo.\n\nE pra fechar a cobertura do maior blog da história do jogo, aperta o play. Essa é a faixa nova da OST vinda direto das Whisperfrost Frontiers, a região congelada do jogo. O nível da trilha sonora segue absurdo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   }
 ];
