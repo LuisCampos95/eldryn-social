@@ -103,9 +103,6 @@
   <h1>⚔️ ELDRYN SOCIAL</h1>
   <p>Rascunhos prontos. Leia, ajuste se quiser e clique pra postar. Nada é publicado sozinho.</p>
 </header>
-<div class="toolbar">
-  <label><input type="checkbox" id="mostrarPostados"> mostrar já postados</label>
-</div>
 <main id="lista"></main>
 <div class="toast" id="toast">Copiado!</div>
 
@@ -129,7 +126,6 @@ window.__initEldryn = function () {
   const posts = (window.ELDRYN_POSTS || []).slice();
   const lista = document.getElementById("lista");
   const toast = document.getElementById("toast");
-  const chkMostrar = document.getElementById("mostrarPostados");
 
   const REDES = [
     { key: "twitter", nome: "🐦 Twitter / X" },
@@ -185,12 +181,12 @@ window.__initEldryn = function () {
     }
     posts.sort((a, b) => (b.rodada || "").localeCompare(a.rodada || ""));
     let rodadaAtual = null;
-    const mostrarPostados = chkMostrar.checked;
+
 
     posts.forEach((p) => {
       const postadoEm = REDES.map(r => lsGet("postado:" + p.id + ":" + r.key, "") === "1");
       const tudoPostado = postadoEm.every(Boolean);
-      if (tudoPostado && !mostrarPostados) return;
+
 
       if (p.rodada !== rodadaAtual) {
         rodadaAtual = p.rodada;
@@ -424,7 +420,7 @@ window.__initEldryn = function () {
     }
   }
 
-  chkMostrar.addEventListener("change", render);
+
   render();
 };
 </script>

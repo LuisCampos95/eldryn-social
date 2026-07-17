@@ -138,9 +138,10 @@ Post de RESUMÃO junta VÁRIAS respostas. NUNCA dar RT/quote de um tweet só (o 
 - Traduzir TUDO que tem tradução natural em PT-BR. Chapter vira **Capítulo**, update vira **atualização**, release vira **lançamento**.
 - Manter no original SOMENTE nomes próprios e termos consagrados na comunidade: Hytale, Early Access, Orbis, Hypixel, nomes de zonas/itens/mobs, nomes de mods.
 
-## Hashtags — POUCAS
-- **Twitter**: 0 ou 1 (#Hytale, e só se couber natural). Nunca lista.
-- **Meta (FB+Insta+grupo)**: 2 no máximo, no fim: #Hytale #HytaleBrasil.
+## Hashtags — em TODO post (Twitter também, pedido do Luis 17/07)
+- **Twitter**: fecha com `#Hytale #HytaleBrasil`, e a linha ⭐ do código vem DEPOIS delas.
+- **Meta (FB+Insta+grupo)**: igual, `#Hytale #HytaleBrasil` no fim (máx 2) e a linha ⭐ depois.
+- Nunca lista grande de hashtags; são essas 2 e pronto.
 
 ## Mídia — OBRIGATÓRIO em todo rascunho
 O Luis NUNCA posta só texto. Todo item precisa de mídia concreta:
