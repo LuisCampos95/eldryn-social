@@ -6,6 +6,43 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1707c-slikey-eve",
+    "rodada": "2026-07-17 15:10",
+    "emoji": "🚀",
+    "titulo": "[MEMBROS • sábado ~14h] Slikey (diretor técnico) quer servidores MMORPG estilo EVE Online com exploração espacial (VÍDEO)",
+    "fonte": "https://x.com/slikey/status/2078192016349929845",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "MEMBRO DO ESTÚDIO. Slikey é o Diretor Técnico do Hytale. Frase literal: 'Before we launched Hytale into Early Access, I posted about my goal for modding would be to allow for EVE Online style MMORPG servers with space exploration. Looking at the blog post you can see we are making good progress to enable these kind of experiences'. Ligado à tech de mundo 3D/cubic chunks do blog (o vídeo é o do New World Tech).",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/slikey/status/2078192016349929845",
+      "tweetId": "2078192016349929845",
+      "tweetTexto": "Before we launched Hytale into Early Access, I posted about my goal for modding would be to allow for EVE Online style MMORPG servers with space exploration. Looking at the blog post you can see we are making good progress to enable these kind of experiences (traducao do X)",
+      "tweetAutor": "Slikey · @slikey",
+      "nota": "Vídeo do New World Tech junto (já baixado em Downloads\\EldrynMidias\\cap1\\14_world_tech.mp4). No X quote/RT do slikey; no Meta usa o vídeo + print traduzido do tweet dele."
+    },
+    "twitter": "🚀 O DIRETOR TÉCNICO DO HYTALE QUER SERVIDORES MMORPG ESTILO EVE ONLINE COM EXPLORAÇÃO ESPACIAL\n\nSlikey, o cabeça técnico do jogo, revelou que antes mesmo do Early Access já tinha como meta pro modding permitir servidores de MMORPG no estilo EVE Online, com exploração do espaço\n\nE segundo ele, o blog do Capítulo 1 mostra progresso de verdade nessa direção. A tecnologia de mundos cúbicos e o formato 3D são exatamente a base que torna esse tipo de servidor gigante possível\n\nImagina um MMORPG espacial inteiro rodando dentro do Hytale, feito pela comunidade. Não é sonho solto, é meta declarada de quem faz o jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🚀 O diretor técnico do Hytale quer servidores MMORPG estilo EVE Online com exploração espacial\n\nSlikey, o cabeça técnico do jogo, revelou que antes mesmo do Early Access já tinha como meta pro modding permitir servidores de MMORPG no estilo EVE Online, com exploração do espaço.\n\nE segundo ele, o blog do Capítulo 1 mostra progresso de verdade nessa direção. A tecnologia de mundos cúbicos e o formato 3D são exatamente a base que torna esse tipo de servidor gigante possível.\n\nImagina um MMORPG espacial inteiro rodando dentro do Hytale, feito pela comunidade. Não é sonho solto, é meta declarada de quem faz o jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "scan1707c-slikey-hires",
+    "rodada": "2026-07-17 15:09",
+    "emoji": "📈",
+    "titulo": "[MEMBROS • domingo ~18h] O estúdio do Hytale contratando som e engine, o time só cresce",
+    "fonte": "https://x.com/slikey/status/2078032255788699896",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "MEMBRO DO ESTÚDIO. Slikey (Diretor Técnico). Frase literal: 'Finalizing two more hires for Hytale in the area of Sound Design and Engine development'. Casa com a fala do blog de que o time cresceu (100+ pessoas). Sinal de saúde do projeto.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/variants/blog_cover_9bd9b4049de8ead4b748003e7c48f604_summer_2022_development_update_header.jpg",
+      "nota": "Tweet só de texto. Melhor mídia: print traduzido do tweet do slikey, ou uma arte do jogo. Sugestão de imagem editada tua de \"contratando\"."
+    },
+    "twitter": "📈 O ESTÚDIO DO HYTALE NÃO PARA DE CRESCER, MAIS DUAS CONTRATAÇÕES A CAMINHO\n\nO diretor técnico Slikey contou que está fechando mais dois nomes pro time, um na área de DESIGN DE SOM e outro em DESENVOLVIMENTO DE ENGINE\n\nCombina com o que o blog do Capítulo 1 já tinha dito, a equipe cresceu muito e não para. No dia em que soltam o maior blog da história, ainda estão reforçando o time pro que vem por aí\n\nDepois de tudo que esse jogo passou, ver o estúdio contratando desse jeito é o melhor sinal possível 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "📈 O estúdio do Hytale não para de crescer, mais duas contratações a caminho\n\nO diretor técnico Slikey contou que está fechando mais dois nomes pro time, um na área de DESIGN DE SOM e outro em DESENVOLVIMENTO DE ENGINE.\n\nCombina com o que o blog do Capítulo 1 já tinha dito, a equipe cresceu muito e não para. No dia em que soltam o maior blog da história do jogo, ainda estão reforçando o time pro que vem por aí.\n\nDepois de tudo que esse jogo passou, ver o estúdio contratando desse jeito é o melhor sinal possível 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "scan1707b-enquete",
     "rodada": "2026-07-17 14:40",
     "emoji": "❓",
