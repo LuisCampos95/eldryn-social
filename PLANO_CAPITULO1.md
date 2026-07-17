@@ -1,10 +1,17 @@
-# 🚨 PLANO DE BATALHA — Blog "Primeiro Olhar: Capítulo 1 e Mais" (SEXTA 17/07, 12h Brasília)
+# 🚨 PLANO DE BATALHA — Blog do Capítulo 1 (SEXTA 17/07, ~12h Brasília)
 
 **O MAIOR blog da história do Hytale.** O Simon já deu o tamanho: **28 páginas, 21 vídeos, 37 imagens, ~4 mil palavras, uns 30 minutos pra ler e assistir tudo** — e ele ainda cortou texto de tão grande. Foco central: a **HISTÓRIA / LORE do Capítulo 1**, que é o que todo mundo mais espera. Os posts do Luis batem +10 mil views, então **precisão é obrigatória** (só o que está no blog, nunca inventar).
 
 **No Facebook e Instagram o Luis é o ÚNICO no Brasil e no mundo postando Hytale** — lá é exclusividade total, dá pra cobrir mais completo (carrossel de imagens no Insta, textos maiores).
 
-Fonte: o post novo aparece em https://hytale.com/news (WebFetch na URL nova). Ler o blog INTEIRO com atenção.
+## ⚡ SER O PRIMEIRO — regra de ouro do dia
+Todo mundo vai sair divulgando adoidado quando o blog cair. **Quem posta primeiro leva a exclusividade e os likes.** Por isso:
+- **ONDA 1 em minutos:** montar e publicar no painel PRIMEIRO só os 2-3 posts mais quentes (breaking + história principal), já com push, pro Luis postar imediatamente. Só depois continuar o resto.
+- **ONDA 2 na sequência:** a cobertura completa (vídeos um a um, sistemas, roadmap, carrossel).
+- **Textos perfeitos de primeira.** O Luis NÃO vai ter tempo de pedir refação. Revisar cada texto contra o checklist do TEMPLATE antes de salvar (sem travessão/dois pontos, manchete forte, fato conferido, código de criador no fim, 1 mídia por post no Twitter).
+
+## Como achar o blog (pela DATA, não pelo nome)
+Não dá pra prever o nome/URL. O Luis só roda DEPOIS que o blog sair, então: pegar em https://hytale.com/news a URL que não está em knownPages do state.json — o post mais novo fica no topo da lista; havendo mais de uma nova, a de data mais recente (julho/2026). Ler o blog INTEIRO (WebFetch em partes se truncar) e extrair do HTML as URLs das mídias (cdn.hytale.com, .mp4, og:image).
 
 ## Regras de mídia (definem como quebrar os posts)
 - **TODO post tem no mínimo 1 mídia.** Sem mídia não posta.
@@ -42,5 +49,6 @@ Fonte: o post novo aparece em https://hytale.com/news (WebFetch na URL nova). Le
 - Vídeo do blog no post: baixar/anexar o vídeo (no Meta) ou linkar/subir; no Twitter, 1 vídeo por post.
 
 ## Execução amanhã
-- Ao meio-dia, rodar a tarefa **eldryn-social-blog-cap1** (só o site, sem Twitter/reddit, pra não perder tempo). Ela lê o blog e monta a barragem seguindo este plano. Depois, as execuções voltam ao normal (a tarefa principal).
-- OU o Luis me chama numa sessão e eu leio o blog e monto tudo na hora, caprichando acima do normal. É o post do ano.
+- Quando o blog sair, rodar a tarefa **eldryn-social-blog-cap1** (só o site, sem Twitter/reddit, pra não perder tempo) OU o Luis chama numa sessão (ele vai usar Fable 5 em modo ultracode). Em ambos os casos: ONDA 1 primeiro (push imediato), ONDA 2 na sequência.
+- Avisos SÓ por PushNotification. NADA de Discord (desativado pelo Luis).
+- Depois desta execução especial, as varreduras voltam ao normal (tarefa principal).
