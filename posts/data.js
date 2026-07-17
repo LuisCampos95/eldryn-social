@@ -6,6 +6,60 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1707b-enquete",
+    "rodada": "2026-07-17 14:40",
+    "emoji": "❓",
+    "titulo": "[VARREDURA 2 • hoje ~21h] Replicar a enquete do Simon (parte favorita do blog)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2078174330681200726",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "O próprio Simon perguntou à comunidade 'What's your favourite part of the Hytale blog post?' (751 likes, 24 mil views em 2h). Replicar a pergunta pra TUA audiência gera comentário fácil, e o plano do pós-blog já previa enquete. Pode quotar o tweet dele ou perguntar direto.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2078174330681200726",
+      "tweetId": "2078174330681200726",
+      "tweetTexto": "What's your favourite part of the Hytale blog post?",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "No X, quote do tweet do Simon com a pergunta em PT. No Meta, postar a pergunta com uma imagem forte do blog (a capa ou o boss)."
+    },
+    "twitter": "❓ ATÉ O SIMON QUER SABER, QUAL FOI A TUA PARTE FAVORITA DO BLOG DO CAPÍTULO 1?\n\nEle mesmo fez a pergunta pra comunidade mundial. Aqui a gente pergunta pra nação brasileira\n\nDungeon com boss de fases? Goblin Breach com o Void? As runas de tornado de fogo? Os minigames? O roadmap com as datas?\n\nComenta aí a tua, a mais votada a gente destaca 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "❓ Até o Simon quer saber, qual foi a TUA parte favorita do blog do Capítulo 1?\n\nEle mesmo fez a pergunta pra comunidade mundial. Aqui a gente pergunta pra nação brasileira.\n\nDungeon com boss de fases? Goblin Breach com o Void? As runas de tornado de fogo? Os minigames? O roadmap com as datas?\n\nComenta aí a tua, a mais votada a gente destaca 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "scan1707b-vr-mod",
+    "rodada": "2026-07-17 14:39",
+    "emoji": "🥽",
+    "titulo": "[VARREDURA 2 • domingo ~15h] Mod de REALIDADE VIRTUAL 1.0 pro Hytale (130 upvotes, VÍDEO)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uyvvjn/hytalevrinjectormod_10/",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "130 upvotes ✓. u/Famous-Discussion-77 lançou a versão 1.0 do hytaleVRInjector, mod que injeta REALIDADE VIRTUAL no Hytale, com vídeo demonstrando. Conteúdo de comunidade raro e chamativo. Abrir o post pra ver o vídeo antes de postar. 🎥",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1uyvvjn/hytalevrinjectormod_10/",
+      "nota": "É VÍDEO no post (v.redd.it). Baixar o vídeo do post original pra anexar. 🎥 u/Famous-Discussion-77"
+    },
+    "twitter": "🥽 FIZERAM UM MOD DE REALIDADE VIRTUAL PRO HYTALE E A VERSÃO 1.0 JÁ SAIU\n\nUm criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando em VR, e mostrou tudo funcionando em vídeo\n\nO jogo nem chegou no Capítulo 1 e a comunidade já tá jogando de headset. O nível de loucura dos modders desse jogo não tem teto\n\n🎥 u/Famous-Discussion-77\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🥽 Fizeram um mod de realidade virtual pro Hytale e a versão 1.0 já saiu\n\nUm criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando em VR, e mostrou tudo funcionando em vídeo.\n\nO jogo nem chegou no Capítulo 1 e a comunidade já está jogando de headset. O nível de loucura dos modders desse jogo não tem teto.\n\n🎥 u/Famous-Discussion-77\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "scan1707b-vending",
+    "rodada": "2026-07-17 14:38",
+    "emoji": "🥤",
+    "titulo": "[VARREDURA 2 • terça ~12h] Máquinas de venda construídas no jogo (73 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uz2cnl/some_vending_machines_i_did/",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "73 upvotes ✓ (acima da régua de 50). u/heavenly-roads construiu máquinas de venda dentro do Hytale, foto. Build criativa leve, boa pra preencher a semana. 📷",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://preview.redd.it/oubkae1u1tdh1.png?width=1200&auto=webp",
+      "nota": "Foto. Baixar em resolução cheia no post original e anexar. 📷 u/heavenly-roads"
+    },
+    "twitter": "🥤 OLHA O CAPRICHO DESSAS MÁQUINAS DE VENDA CONSTRUÍDAS DENTRO DO HYTALE\n\nEnquanto o mundo digere o blog do Capítulo 1, tem criador colocando detalhe urbano no jogo bloco por bloco. O resultado parece cenário de cidade de anime\n\nÉ o tipo de construção pequena que mostra o quanto dá pra dar personalidade a um mapa\n\n📷 u/heavenly-roads\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🥤 Olha o capricho dessas máquinas de venda construídas dentro do Hytale\n\nEnquanto o mundo digere o blog do Capítulo 1, tem criador colocando detalhe urbano no jogo bloco por bloco. O resultado parece cenário de cidade de anime.\n\nÉ o tipo de construção pequena que mostra o quanto dá pra dar personalidade a um mapa.\n\n📷 u/heavenly-roads\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "scan1707-rt-oficial",
     "rodada": "2026-07-17 14:05",
     "emoji": "🎺",
@@ -46,11 +100,11 @@ window.ELDRYN_POSTS = [
     "id": "scan1707-resumao-posblog",
     "rodada": "2026-07-17 14:03",
     "emoji": "👀",
-    "titulo": "[VARREDURA • sábado ~9h] RESUMÃO das respostas do Simon pós-blog (cinemáticas + itemização)",
+    "titulo": "[VARREDURA • sábado ~9h] RESUMÃO ATUALIZADO das respostas do Simon pós-blog (5 fatos)",
     "fonte": "https://x.com/Simon_Hypixel/status/2078155951551492124",
     "fonteData": "17/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "RESUMÃO das respostas do Simon logo após o blog (lidas na timeline dele, ~14h de hoje). Fatos: (1) perguntado se Trigger Volumes vão ativar animações, spawn de NPCs e cinemáticas, respondeu 'yes'; (2) 'Nos capítulos seguintes, faremos muito trabalho de itemização, que virá com mais masmorras / chefes'; (3) números oficiais do anúncio, 20+ vídeos, 30+ artes, 35+ páginas. URLs: .../2078155951551492124 e .../2078155397542584579.",
+    "resumo": "RESUMÃO ATUALIZADO (2ª varredura, ~14h40). Fatos e URLs: (1) Trigger Volumes vão ativar animações, spawn de NPCs e cinemáticas, 'yes' (.../2078155951551492124); (2) itemização nos próximos capítulos com mais masmorras/chefes (.../2078155397542584579); (3) fã chamou o templo de 'Gaia temple' e Simon corrigiu, 'Forgotten Temple*!!' (.../2078179105514635455); (4) sobre objetos móveis abrirem porta pra mods, 'Wait til you see what we do next with this lol' (.../2078174976960610585); (5) números oficiais 20+ vídeos, 30+ artes, 35+ páginas. Simon também perguntou a parte favorita da galera (virou card próprio de enquete).",
     "midia": {
       "tipo": "tweet",
       "url": "https://x.com/Simon_Hypixel/status/2078155397542584579",
@@ -59,8 +113,8 @@ window.ELDRYN_POSTS = [
       "tweetAutor": "Simon · @Simon_Hypixel",
       "nota": "Print traduzido da resposta da itemização (a mais forte) ou quote dela. A resposta do yes das cinemáticas: x.com/Simon_Hypixel/status/2078155951551492124"
     },
-    "twitter": "👀🔥 RESUMÃO DAS RESPOSTAS DO SIMON DEPOIS DO BLOG DO CAPÍTULO 1\n\n🔹 Os Trigger Volumes vão poder ativar animações, spawn de NPCs e até CINEMÁTICAS, confirmado por ele em resposta direta\n\n🔹 Nos capítulos seguintes vem muito trabalho de ITEMIZAÇÃO, acompanhando mais masmorras e mais chefes no jogo\n\n🔹 E os números oficiais do blog fecharam em mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas de conteúdo quando impressas\n\nO homem não para de responder a comunidade nem no dia do maior blog da história 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "👀🔥 RESUMÃO das respostas do Simon depois do blog do Capítulo 1\n\n🔹 Os Trigger Volumes vão poder ativar animações, spawn de NPCs e até CINEMÁTICAS, confirmado por ele em resposta direta\n\n🔹 Nos capítulos seguintes vem muito trabalho de ITEMIZAÇÃO, acompanhando mais masmorras e mais chefes no jogo\n\n🔹 E os números oficiais do blog fecharam em mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas de conteúdo quando impressas\n\nO homem não para de responder a comunidade nem no dia do maior blog da história 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "👀🔥 RESUMÃO DAS RESPOSTAS DO SIMON DEPOIS DO BLOG DO CAPÍTULO 1\n\n🔹 Os Trigger Volumes vão poder ativar animações, spawn de NPCs e até CINEMÁTICAS, confirmado por ele em resposta direta\n\n🔹 Nos capítulos seguintes vem muito trabalho de ITEMIZAÇÃO, acompanhando mais masmorras e mais chefes\n\n🔹 O templo que evolui com os capítulos NÃO é um templo da Gaia, o próprio Simon corrigiu um fã na hora, é o TEMPLO ESQUECIDO\n\n🔹 Sobre os objetos móveis abrindo portas pra mods, ele soltou o tease, espera até ver o que vamos fazer em seguida com isso\n\n🔹 E os números oficiais do blog fecharam em mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas quando impressas\n\nO homem não para de responder a comunidade nem no dia do maior blog da história 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👀🔥 RESUMÃO das respostas do Simon depois do blog do Capítulo 1\n\n🔹 Os Trigger Volumes vão poder ativar animações, spawn de NPCs e até CINEMÁTICAS, confirmado por ele em resposta direta\n\n🔹 Nos capítulos seguintes vem muito trabalho de ITEMIZAÇÃO, acompanhando mais masmorras e mais chefes no jogo\n\n🔹 O templo que evolui com os capítulos NÃO é um templo da Gaia, o próprio Simon corrigiu um fã na hora, é o TEMPLO ESQUECIDO\n\n🔹 Sobre os objetos móveis abrindo portas pra mods, ele soltou o tease, espera até ver o que vamos fazer em seguida com isso\n\n🔹 E os números oficiais do blog fecharam em mais de 20 vídeos, mais de 30 capturas e arte, e mais de 35 páginas quando impressas\n\nO homem não para de responder a comunidade nem no dia do maior blog da história 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
     "id": "scan1707-sphere-fireball",
