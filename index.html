@@ -3,10 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Eldryn Social — Painel de Posts</title>
+<title>Orbis Hytale — Painel de Posts</title>
+<link rel="icon" href="logo.png">
 <style>
   :root {
-    --bg: #0d1526;
+    --bg: #0b1220;
+    --bg2: #0e1830;
     --card: #131f36;
     --card2: #0f1a2e;
     --border: #23324f;
@@ -15,97 +17,113 @@
     --text: #e8ecf4;
     --muted: #8fa0bd;
     --green: #3ecf8e;
-    --orange: #f0a35e;
     --red: #e06c6c;
+    --blue: #7ea6ff;
+    --orange: #f0a35e;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    background: var(--bg);
+    background: radial-gradient(1200px 600px at 50% -100px, #16234a 0%, var(--bg) 60%);
+    background-attachment: fixed;
     color: var(--text);
     font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
-    padding: 24px 16px 80px;
-    max-width: 860px;
+    padding: 0 14px 90px;
+    max-width: 900px;
     margin: 0 auto;
+    min-height: 100vh;
   }
-  header { text-align: center; margin-bottom: 8px; }
-  header h1 { color: var(--gold); font-size: 1.6rem; letter-spacing: 1px; }
-  header p { color: var(--muted); font-size: .9rem; margin-top: 4px; }
-  .toolbar {
-    display: flex; justify-content: center; gap: 12px; align-items: center;
-    margin: 16px 0 24px; flex-wrap: wrap;
-  }
-  .toolbar label { color: var(--muted); font-size: .9rem; cursor: pointer; user-select: none; }
-  .rodada-badge {
-    color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: 1px;
-    margin: 28px 0 10px; display: flex; align-items: center; gap: 10px;
-  }
-  .rodada-badge::after { content: ""; flex: 1; height: 1px; background: var(--border); }
-  .card {
-    background: var(--card); border: 1px solid var(--border); border-radius: 14px;
-    padding: 18px; margin-bottom: 18px; transition: opacity .25s;
-  }
-  .card.tudo-postado { opacity: .38; }
-  .card-head { display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap; }
-  .card-head h2 { font-size: 1.15rem; flex: 1; min-width: 200px; }
-  .badge {
-    font-size: .72rem; padding: 3px 10px; border-radius: 20px; font-weight: 600;
-    text-transform: uppercase; letter-spacing: .5px; white-space: nowrap;
-  }
-  .badge.oficial { background: rgba(62,207,142,.15); color: var(--green); border: 1px solid rgba(62,207,142,.4); }
-  .badge.comunidade { background: rgba(240,163,94,.15); color: var(--orange); border: 1px solid rgba(240,163,94,.4); }
-  .badge.engajamento { background: rgba(126,166,255,.15); color: #7ea6ff; border: 1px solid rgba(126,166,255,.45); }
+  header { text-align: center; padding: 26px 0 6px; }
+  header img.logo { width: 82px; height: 82px; border-radius: 20px; box-shadow: 0 6px 24px rgba(0,0,0,.45); }
+  header h1 { color: var(--gold); font-size: 1.5rem; letter-spacing: 1px; margin-top: 10px; font-weight: 800; }
+  header p { color: var(--muted); font-size: .88rem; margin-top: 4px; }
+
   #abas {
-    position: sticky; top: 0; z-index: 20; display: flex; gap: 8px; flex-wrap: wrap;
-    justify-content: center; padding: 12px 0 16px; margin-bottom: 8px;
-    background: linear-gradient(var(--bg) 70%, transparent);
+    position: sticky; top: 0; z-index: 30; display: flex; gap: 7px; flex-wrap: wrap;
+    justify-content: center; padding: 12px 0 14px; margin-bottom: 6px;
+    background: linear-gradient(var(--bg) 62%, rgba(11,18,32,0));
   }
   .aba {
     background: var(--card2); color: var(--muted); border: 1px solid var(--border);
-    border-radius: 999px; padding: 8px 16px; font-size: .9rem; font-weight: 600;
+    border-radius: 999px; padding: 8px 15px; font-size: .88rem; font-weight: 600;
     cursor: pointer; font-family: inherit; transition: all .15s; white-space: nowrap;
   }
   .aba:hover { border-color: var(--gold-dim); color: var(--text); }
   .aba.ativa { background: var(--gold); color: #14203a; border-color: var(--gold); }
-  .aba .cont { opacity: .7; font-weight: 400; margin-left: 4px; }
-  .resumo { color: var(--muted); font-size: .92rem; margin: 10px 0; line-height: 1.5; }
-  .fonte { font-size: .82rem; margin-bottom: 12px; }
+  .aba .cont { opacity: .7; font-weight: 700; margin-left: 5px; }
+
+  .rodada-badge {
+    color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: 1px;
+    margin: 26px 0 10px; display: flex; align-items: center; gap: 10px;
+  }
+  .rodada-badge::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 16px;
+    padding: 18px; margin-bottom: 18px; transition: opacity .25s, border-color .2s;
+  }
+  .card.tudo-postado { opacity: .5; }
+  .card.tudo-postado:hover { opacity: 1; }
+  .card-head { display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap; }
+  .card-head h2 { font-size: 1.12rem; flex: 1; min-width: 200px; line-height: 1.35; }
+  .badge {
+    font-size: .7rem; padding: 3px 10px; border-radius: 20px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: .5px; white-space: nowrap;
+  }
+  .badge.oficial { background: rgba(62,207,142,.15); color: var(--green); border: 1px solid rgba(62,207,142,.4); }
+  .badge.comunidade { background: rgba(240,163,94,.15); color: var(--orange); border: 1px solid rgba(240,163,94,.4); }
+  .badge.engajamento { background: rgba(126,166,255,.15); color: var(--blue); border: 1px solid rgba(126,166,255,.45); }
+
+  /* status de postagem por rede */
+  .status { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 4px; }
+  .status .chip {
+    display: inline-flex; align-items: center; gap: 6px; cursor: pointer; user-select: none;
+    border-radius: 999px; padding: 6px 13px; font-size: .82rem; font-weight: 700;
+    border: 1.5px solid var(--red); color: var(--red); background: rgba(224,108,108,.08);
+    transition: all .15s;
+  }
+  .status .chip.ok { border-color: var(--green); color: var(--green); background: rgba(62,207,142,.13); }
+  .status .chip:hover { filter: brightness(1.2); }
+  .status .chip .dot { width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+
+  .resumo { color: var(--muted); font-size: .9rem; margin: 8px 0; line-height: 1.5; }
+  .fonte { font-size: .8rem; margin-bottom: 12px; }
   .fonte a { color: var(--gold); text-decoration: none; word-break: break-all; }
   .fonte a:hover { text-decoration: underline; }
-  .midia {
-    background: var(--card2); border: 1px dashed var(--border); border-radius: 10px;
-    padding: 12px; margin-bottom: 14px; font-size: .88rem;
-  }
-  .midia .titulo-midia { color: var(--gold); font-weight: 600; margin-bottom: 6px; font-size: .8rem; text-transform: uppercase; letter-spacing: .5px; }
-  .midia img { max-width: 100%; max-height: 260px; border-radius: 8px; margin-top: 8px; display: block; }
-  .midia .nota { color: var(--muted); margin-top: 6px; }
+
+  .midia { background: var(--card2); border: 1px dashed var(--border); border-radius: 12px; padding: 12px; margin-bottom: 14px; font-size: .86rem; }
+  .midia .titulo-midia { color: var(--gold); font-weight: 700; margin-bottom: 8px; font-size: .78rem; text-transform: uppercase; letter-spacing: .5px; }
+  .galeria { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+  .galeria .item { position: relative; border-radius: 8px; overflow: hidden; background: #0a1220; border: 1px solid var(--border); }
+  .galeria .item img { width: 100%; height: 110px; object-fit: cover; display: block; }
+  .galeria .item .n { position: absolute; top: 4px; left: 4px; background: rgba(0,0,0,.7); color: #fff; font-size: .7rem; font-weight: 700; padding: 1px 7px; border-radius: 10px; }
+  .galeria .item .play { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; color: #fff; text-shadow: 0 2px 8px #000; pointer-events: none; }
+  .midia .nota { color: var(--muted); margin-top: 8px; line-height: 1.45; }
+
   .rede { margin-top: 14px; }
   .rede-head { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
-  .rede-head .nome { font-weight: 600; font-size: .92rem; }
-  .rede-head .contador { color: var(--muted); font-size: .78rem; margin-left: auto; }
+  .rede-head .nome { font-weight: 700; font-size: .9rem; }
+  .rede-head .contador { color: var(--muted); font-size: .76rem; margin-left: auto; }
   .rede-head .contador.estourou { color: var(--red); font-weight: 700; }
   textarea {
     width: 100%; background: var(--card2); color: var(--text);
     border: 1px solid var(--border); border-radius: 10px; padding: 12px;
-    font-family: inherit; font-size: .95rem; line-height: 1.5; resize: vertical;
-    min-height: 90px;
+    font-family: inherit; font-size: .95rem; line-height: 1.5; resize: vertical; min-height: 88px;
   }
   textarea:focus { outline: none; border-color: var(--gold-dim); }
   .acoes { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; align-items: center; }
   button, .btn {
     background: var(--card2); color: var(--text); border: 1px solid var(--border);
-    border-radius: 8px; padding: 8px 14px; font-size: .86rem; cursor: pointer;
+    border-radius: 8px; padding: 8px 14px; font-size: .85rem; cursor: pointer;
     text-decoration: none; display: inline-flex; align-items: center; gap: 6px;
     font-family: inherit; transition: border-color .15s, background .15s;
   }
   button:hover, .btn:hover { border-color: var(--gold-dim); background: #182642; }
   .btn-primario { background: var(--gold); color: #14203a; border-color: var(--gold); font-weight: 700; }
   .btn-primario:hover { background: #e0b95f; border-color: #e0b95f; }
-  .btn-mini { padding: 4px 10px; font-size: .76rem; color: var(--muted); }
-  .postado-toggle { margin-left: auto; display: flex; align-items: center; gap: 5px; color: var(--muted); font-size: .8rem; cursor: pointer; user-select: none; }
-  .postado-toggle input { accent-color: var(--green); cursor: pointer; }
-  .vazio { text-align: center; color: var(--muted); padding: 60px 20px; }
+  .btn-mini { padding: 4px 10px; font-size: .74rem; color: var(--muted); }
+  .vazio { text-align: center; color: var(--muted); padding: 60px 20px; line-height: 1.6; }
   .toast {
-    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(80px);
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(90px);
     background: var(--gold); color: #14203a; font-weight: 700; padding: 10px 22px;
     border-radius: 30px; transition: transform .25s; z-index: 99; font-size: .9rem;
   }
@@ -114,15 +132,15 @@
 </head>
 <body>
 <header>
-  <h1>⚔️ ELDRYN SOCIAL</h1>
-  <p>Rascunhos prontos. Leia, ajuste se quiser e clique pra postar. Nada é publicado sozinho.</p>
+  <img class="logo" src="logo.png" alt="Orbis Hytale">
+  <h1>ORBIS HYTALE</h1>
+  <p>Painel de posts. Leia, ajuste e clique pra postar. Marque o que já postou. Nada sai sozinho.</p>
 </header>
 <nav id="abas"></nav>
 <main id="lista"></main>
 <div class="toast" id="toast">Copiado!</div>
 
 <script>
-  // carrega os dados sempre frescos (sem cache), senão post novo demora a aparecer no celular
   (function () {
     var s = document.createElement("script");
     s.src = "posts/data.js?t=" + Date.now();
@@ -133,17 +151,15 @@
 </script>
 <script>
 window.__initEldryn = function () {
-  // ===== CONFIG =====
   const GRUPO_URL = "https://www.facebook.com/groups/hytalebrasil";
   const META_COMPOSER = "https://business.facebook.com/latest/composer";
-  // ==================
 
   const posts = (window.ELDRYN_POSTS || []).slice();
   const lista = document.getElementById("lista");
   const toast = document.getElementById("toast");
   const abasEl = document.getElementById("abas");
 
-  // categoria de cada card, define em qual aba ele aparece
+  // ---- categorias (abas) ----
   function categoria(p) {
     if (p.confiabilidade === "engajamento") return "engajamento";
     const f = (p.fonte || "").toLowerCase();
@@ -161,61 +177,71 @@ window.__initEldryn = function () {
   ];
   let abaAtiva = (function () { try { return localStorage.getItem("abaAtiva") || "twitter"; } catch (e) { return "twitter"; } })();
 
-  const REDES = [
-    { key: "twitter", nome: "🐦 Twitter / X" },
-    { key: "meta", nome: "📱 Facebook + Instagram + Grupo (Meta Business Suite)" },
+  // ---- redes pra rastrear "postado" ----
+  const NETS = [
+    { key: "twitter", nome: "Twitter", emoji: "🐦" },
+    { key: "facebook", nome: "Face", emoji: "📘" },
+    { key: "instagram", nome: "Insta", emoji: "📸" },
+    { key: "grupo", nome: "Grupo", emoji: "👥" },
   ];
-
-  // compatibilidade com itens antigos que tinham instagram/facebook/grupo separados
-  function textoDaRede(p, key) {
-    if (key === "meta") return p.meta || p.instagram || p.facebook || "";
-    return p[key] || "";
+  function redesDoCard(p) {
+    const temMeta = (p.meta || "").trim().length > 0;
+    return temMeta ? NETS : NETS.filter(n => n.key === "twitter");
   }
 
+  // ---- helpers ----
   function lsGet(k, def) { try { return localStorage.getItem(k) ?? def; } catch (e) { return def; } }
   function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
   function lsDel(k) { try { localStorage.removeItem(k); } catch (e) {} }
+  function postou(id, net) { return lsGet("postou:" + id + ":" + net, "") === "1"; }
 
   function mostrarToast(msg) {
-    toast.textContent = msg;
-    toast.classList.add("mostrar");
+    toast.textContent = msg; toast.classList.add("mostrar");
     setTimeout(() => toast.classList.remove("mostrar"), 1600);
   }
-
   async function copiar(texto) {
-    try {
-      await navigator.clipboard.writeText(texto);
-      mostrarToast("Copiado! 📋");
-    } catch (e) {
-      const ta = document.createElement("textarea");
-      ta.value = texto;
-      document.body.appendChild(ta);
-      ta.select();
-      try { document.execCommand("copy"); mostrarToast("Copiado! 📋"); }
-      catch (e2) { mostrarToast("Não consegui copiar, seleciona e copia manualmente"); }
+    try { await navigator.clipboard.writeText(texto); mostrarToast("Copiado! 📋"); }
+    catch (e) {
+      const ta = document.createElement("textarea"); ta.value = texto; document.body.appendChild(ta); ta.select();
+      try { document.execCommand("copy"); mostrarToast("Copiado! 📋"); } catch (e2) { mostrarToast("Selecione e copie manualmente"); }
       document.body.removeChild(ta);
     }
   }
+  function contarX(t) { return t.replace(/https?:\/\/\S+/g, "x".repeat(23)).length; }
+  function textoMeta(p) { return p.meta || p.instagram || p.facebook || ""; }
 
-  // conta ~caracteres do X: qualquer URL vira 23
-  function contarX(texto) {
-    return texto.replace(/https?:\/\/\S+/g, "x".repeat(23)).length;
+  // data "AAAA-MM-DD HH:MM" -> "DD/MM às HHhMM (Brasília)"
+  function dataBonita(r) {
+    const m = (r || "").match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);
+    if (!m) return r || "?";
+    return m[3] + "/" + m[2] + " às " + m[4] + "h" + m[5];
   }
 
-  // abre o tweet pronto pra tirar print (no X, tocar em Traduzir post antes se estiver em ingles)
-  function abrirTweetParaPrint(midia) {
-    window.open(midia.url, "_blank", "noopener");
+  // coleta TODAS as mídias (imagens + vídeos) da url + nota
+  function coletarMidias(midia) {
+    if (!midia) return [];
+    const txt = (midia.url || "") + "  " + (midia.nota || "");
+    const urls = txt.match(/https?:\/\/[^\s"')]+/g) || [];
+    const out = []; const vistos = new Set();
+    for (let u of urls) {
+      u = u.replace(/[.,]$/, "");
+      if (vistos.has(u)) continue;
+      const low = u.toLowerCase();
+      let tipo = null, thumb = u;
+      const yt = low.match(/(?:youtube\.com\/(?:embed\/|watch\?v=)|youtu\.be\/)([a-z0-9_-]{6,})/i);
+      if (yt) { tipo = "video"; thumb = "https://i.ytimg.com/vi/" + yt[1] + "/hqdefault.jpg"; }
+      else if (/\.(png|jpe?g|webp|gif)(\?|$)/i.test(low) || low.includes("cdn.hytale.com") || low.includes("redd.it") || low.includes("pbs.twimg.com")) { tipo = "imagem"; }
+      if (tipo) { vistos.add(u); out.push({ tipo, url: u, thumb }); }
+    }
+    return out;
   }
 
   function render() {
     lista.innerHTML = "";
-    if (!posts.length) {
-      lista.innerHTML = '<div class="vazio">Nenhum rascunho ainda.<br>As varreduras automáticas vão preencher este painel.</div>';
-      return;
-    }
+    if (!posts.length) { lista.innerHTML = '<div class="vazio">Nenhum rascunho ainda.<br>As varreduras vão preencher aqui.</div>'; abasEl.innerHTML = ""; return; }
     posts.sort((a, b) => (b.rodada || "").localeCompare(a.rodada || ""));
 
-    // barra de abas (contagem por categoria)
+    // barra de abas
     const contagem = {};
     posts.forEach(p => { const c = categoria(p); contagem[c] = (contagem[c] || 0) + 1; });
     abasEl.innerHTML = "";
@@ -224,12 +250,7 @@ window.__initEldryn = function () {
       const btn = document.createElement("button");
       btn.className = "aba" + (a.key === abaAtiva ? " ativa" : "");
       btn.innerHTML = a.nome + ' <span class="cont">' + n + "</span>";
-      btn.addEventListener("click", () => {
-        abaAtiva = a.key;
-        try { localStorage.setItem("abaAtiva", a.key); } catch (e) {}
-        render();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
+      btn.addEventListener("click", () => { abaAtiva = a.key; lsSet("abaAtiva", a.key); render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
       abasEl.appendChild(btn);
     });
 
@@ -237,247 +258,152 @@ window.__initEldryn = function () {
     let rodadaAtual = null;
 
     visiveis.forEach((p) => {
-      const postadoEm = REDES.map(r => lsGet("postado:" + p.id + ":" + r.key, "") === "1");
-      const tudoPostado = postadoEm.every(Boolean);
-
+      const redes = redesDoCard(p);
+      const tudoPostado = redes.every(r => postou(p.id, r.key));
 
       if (p.rodada !== rodadaAtual) {
         rodadaAtual = p.rodada;
         const b = document.createElement("div");
         b.className = "rodada-badge";
-        b.textContent = "varredura " + (p.rodada || "?");
+        b.textContent = dataBonita(p.rodada);
         lista.appendChild(b);
       }
 
       const card = document.createElement("div");
       card.className = "card" + (tudoPostado ? " tudo-postado" : "");
 
+      // cabeçalho
       const head = document.createElement("div");
       head.className = "card-head";
       const h2 = document.createElement("h2");
       h2.textContent = (p.emoji ? p.emoji + " " : "") + p.titulo;
       const badge = document.createElement("span");
-      if (p.confiabilidade === "engajamento") {
-        badge.className = "badge engajamento";
-        badge.textContent = "💬 engajamento";
-      } else {
-        badge.className = "badge " + (p.confiabilidade === "oficial" ? "oficial" : "comunidade");
-        badge.textContent = p.confiabilidade === "oficial" ? "✔ oficial" : "⚠ comunidade — conferir";
-      }
-      head.appendChild(h2);
-      head.appendChild(badge);
+      if (p.confiabilidade === "engajamento") { badge.className = "badge engajamento"; badge.textContent = "💬 engajamento"; }
+      else { badge.className = "badge " + (p.confiabilidade === "oficial" ? "oficial" : "comunidade"); badge.textContent = p.confiabilidade === "oficial" ? "✔ oficial" : "⚠ comunidade"; }
+      head.appendChild(h2); head.appendChild(badge);
       card.appendChild(head);
 
-      if (p.resumo) {
-        const r = document.createElement("p");
-        r.className = "resumo";
-        r.textContent = p.resumo;
-        card.appendChild(r);
-      }
+      // status de postagem por rede (verde = postado)
+      const status = document.createElement("div");
+      status.className = "status";
+      redes.forEach(net => {
+        const chip = document.createElement("span");
+        const ok = postou(p.id, net.key);
+        chip.className = "chip" + (ok ? " ok" : "");
+        chip.innerHTML = '<span class="dot"></span>' + net.emoji + " " + net.nome;
+        chip.title = ok ? "Postado, clique pra desmarcar" : "Ainda não postado, clique quando postar";
+        chip.addEventListener("click", () => {
+          lsSet("postou:" + p.id + ":" + net.key, ok ? "0" : "1");
+          render();
+        });
+        status.appendChild(chip);
+      });
+      card.appendChild(status);
+
+      if (p.resumo) { const r = document.createElement("p"); r.className = "resumo"; r.textContent = p.resumo; card.appendChild(r); }
       if (p.fonte) {
-        const f = document.createElement("p");
-        f.className = "fonte";
-        f.innerHTML = "🔗 Fonte: ";
-        const a = document.createElement("a");
-        a.href = p.fonte; a.target = "_blank"; a.rel = "noopener";
-        a.textContent = p.fonte + (p.fonteData ? " (" + p.fonteData + ")" : "");
-        f.appendChild(a);
-        card.appendChild(f);
+        const f = document.createElement("p"); f.className = "fonte"; f.innerHTML = "🔗 Fonte: ";
+        const a = document.createElement("a"); a.href = p.fonte; a.target = "_blank"; a.rel = "noopener";
+        a.textContent = p.fonte + (p.fonteData ? " (" + p.fonteData + ")" : ""); f.appendChild(a); card.appendChild(f);
       }
 
+      // MÍDIA — mostra TODAS (galeria)
       if (p.midia) {
-        const m = document.createElement("div");
-        m.className = "midia";
-        const t = document.createElement("div");
-        t.className = "titulo-midia";
-        t.textContent = "🖼 Mídia pra anexar";
-        m.appendChild(t);
-        if (p.midia.tipo === "imagem" && p.midia.url) {
-          const linha = document.createElement("div");
-          const abrir = document.createElement("a");
-          abrir.className = "btn btn-mini"; abrir.href = p.midia.url; abrir.target = "_blank"; abrir.rel = "noopener";
-          abrir.textContent = "abrir imagem em tamanho cheio";
-          linha.appendChild(abrir);
-          m.appendChild(linha);
-          const img = document.createElement("img");
-          img.src = p.midia.url; img.alt = "prévia da mídia"; img.loading = "lazy";
-          img.onerror = () => { img.remove(); };
-          m.appendChild(img);
-        } else if (p.midia.tipo === "tweet" && p.midia.url) {
-          // se já existe um print salvo no repo, mostra ele com download; senão, abre o tweet pra printar
-          if (p.midia.print) {
-            const im = document.createElement("img");
-            im.src = p.midia.print; im.alt = "print do tweet"; im.loading = "lazy";
-            im.onerror = () => { im.remove(); };
-            m.appendChild(im);
-            const baixar = document.createElement("a");
-            baixar.className = "btn btn-mini"; baixar.href = p.midia.print;
-            baixar.download = "tweet.png"; baixar.target = "_blank"; baixar.rel = "noopener";
-            baixar.textContent = "⬇ baixar print (pro Face/Insta)";
-            m.appendChild(baixar);
-          } else {
-            const linha = document.createElement("div");
-            linha.style.display = "flex"; linha.style.gap = "8px"; linha.style.flexWrap = "wrap";
-            const abrir = document.createElement("a");
-            abrir.className = "btn btn-mini"; abrir.href = p.midia.url; abrir.target = "_blank"; abrir.rel = "noopener";
-            abrir.textContent = "📸 abrir tweet pra tirar print";
-            linha.appendChild(abrir);
-            const dica = document.createElement("span");
-            dica.className = "btn btn-mini"; dica.style.cursor = "default";
-            dica.textContent = "no X toque em Traduzir post antes do print";
-            linha.appendChild(dica);
-            m.appendChild(linha);
-          }
+        const m = document.createElement("div"); m.className = "midia";
+        const t = document.createElement("div"); t.className = "titulo-midia"; t.textContent = "🖼 Mídia pra anexar"; m.appendChild(t);
+
+        const midias = coletarMidias(p.midia);
+        if (midias.length) {
+          const gal = document.createElement("div"); gal.className = "galeria";
+          midias.forEach((mi, i) => {
+            const item = document.createElement("a");
+            item.className = "item"; item.href = mi.url; item.target = "_blank"; item.rel = "noopener";
+            const img = document.createElement("img"); img.src = mi.thumb; img.loading = "lazy"; img.alt = "mídia " + (i + 1);
+            img.onerror = () => { item.remove(); };
+            item.appendChild(img);
+            if (midias.length > 1) { const n = document.createElement("span"); n.className = "n"; n.textContent = (i + 1); item.appendChild(n); }
+            if (mi.tipo === "video") { const pl = document.createElement("span"); pl.className = "play"; pl.textContent = "▶"; item.appendChild(pl); }
+            gal.appendChild(item);
+          });
+          m.appendChild(gal);
         }
-        if (p.midia.nota) {
-          const n = document.createElement("div");
-          n.className = "nota";
-          n.textContent = p.midia.nota;
-          m.appendChild(n);
+
+        // fonte-tweet sem imagem: fluxo de print
+        if (p.midia.tipo === "tweet" && !midias.length) {
+          const linha = document.createElement("div"); linha.style.display = "flex"; linha.style.gap = "8px"; linha.style.flexWrap = "wrap"; linha.style.marginTop = "4px";
+          const abrir = document.createElement("a"); abrir.className = "btn btn-mini"; abrir.href = p.midia.url; abrir.target = "_blank"; abrir.rel = "noopener";
+          abrir.textContent = "📸 abrir tweet pra tirar print";
+          const dica = document.createElement("span"); dica.className = "btn btn-mini"; dica.style.cursor = "default"; dica.textContent = "no X toque em Traduzir antes";
+          linha.appendChild(abrir); linha.appendChild(dica); m.appendChild(linha);
         }
+        if (p.midia.nota) { const n = document.createElement("div"); n.className = "nota"; n.textContent = p.midia.nota; m.appendChild(n); }
         card.appendChild(m);
       }
 
-      REDES.forEach((rede, idx) => {
-        const original = textoDaRede(p, rede.key);
-        if (!original) return;
-        const bloco = document.createElement("div");
-        bloco.className = "rede";
+      // BLOCOS DE TEXTO por rede de publicação
+      const blocos = [{ key: "twitter", nome: "🐦 Twitter / X", texto: p.twitter || "" }];
+      if (textoMeta(p).trim()) blocos.push({ key: "meta", nome: "📱 Face + Insta + Grupo (Meta Business Suite)", texto: textoMeta(p) });
 
-        const rh = document.createElement("div");
-        rh.className = "rede-head";
-        const nome = document.createElement("span");
-        nome.className = "nome";
-        nome.textContent = rede.nome;
-        rh.appendChild(nome);
-
-        let contador = null;
-        if (rede.key === "twitter" || rede.key === "meta") {
-          contador = document.createElement("span");
-          contador.className = "contador";
-          rh.appendChild(contador);
-        }
+      blocos.forEach((rede) => {
+        const bloco = document.createElement("div"); bloco.className = "rede";
+        const rh = document.createElement("div"); rh.className = "rede-head";
+        const nome = document.createElement("span"); nome.className = "nome"; nome.textContent = rede.nome; rh.appendChild(nome);
+        const contador = document.createElement("span"); contador.className = "contador"; rh.appendChild(contador);
         bloco.appendChild(rh);
 
         const ta = document.createElement("textarea");
         const lsKey = "texto:" + p.id + ":" + rede.key;
-        ta.value = lsGet(lsKey, original);
+        ta.value = lsGet(lsKey, rede.texto);
         function atualizarContador() {
-          if (!contador) return;
           if (rede.key === "twitter") {
-            // X Premium: limite 25 mil; acima de 280 o feed corta com "Mostrar mais"
             let n = contarX(ta.value);
-            if (p.midia && p.midia.tipo === "tweet") n += 24; // URL do quote
-            contador.textContent = "~" + n + "/25000" + (n > 280 ? " · corta com Mostrar mais no feed" : "");
+            if (p.midia && p.midia.tipo === "tweet" && !p.midia.semRT) n += 24;
+            contador.textContent = "~" + n + "/25000" + (n > 280 ? " · corta com Mostrar mais" : "");
             contador.classList.toggle("estourou", n > 25000);
-          } else {
-            // Meta: o mesmo texto vai pro Instagram, que aceita no máximo 2.200
-            const n = ta.value.length;
-            contador.textContent = n + "/2200";
-            contador.classList.toggle("estourou", n > 2200);
-          }
+          } else { const n = ta.value.length; contador.textContent = n + "/2200"; contador.classList.toggle("estourou", n > 2200); }
         }
-        ta.addEventListener("input", () => {
-          lsSet(lsKey, ta.value);
-          atualizarContador();
-        });
-        atualizarContador();
-        bloco.appendChild(ta);
+        ta.addEventListener("input", () => { lsSet(lsKey, ta.value); atualizarContador(); });
+        atualizarContador(); bloco.appendChild(ta);
 
-        const acoes = document.createElement("div");
-        acoes.className = "acoes";
-
+        const acoes = document.createElement("div"); acoes.className = "acoes";
         if (rede.key === "twitter") {
-          // quote/RT só quando a fonte é UM tweet específico e não é resumão (semRT)
           const ehQuote = p.midia && p.midia.tipo === "tweet" && !p.midia.semRT;
-          const btnPostar = document.createElement("a");
-          btnPostar.className = "btn btn-primario";
+          const btnPostar = document.createElement("a"); btnPostar.className = "btn btn-primario";
           btnPostar.textContent = ehQuote ? "🐦 Postar no X (quote)" : "🐦 Postar no X";
           btnPostar.target = "_blank"; btnPostar.rel = "noopener";
           btnPostar.addEventListener("click", () => {
             let url = "https://x.com/intent/post?text=" + encodeURIComponent(ta.value);
-            if (ehQuote && p.midia.url) {
-              url += "&url=" + encodeURIComponent(p.midia.url);
-            }
+            if (ehQuote && p.midia.url) url += "&url=" + encodeURIComponent(p.midia.url);
             btnPostar.href = url;
           });
-          btnPostar.href = "#";
-          acoes.appendChild(btnPostar);
+          btnPostar.href = "#"; acoes.appendChild(btnPostar);
           if (ehQuote && p.midia.tweetId) {
-            const btnRT = document.createElement("a");
-            btnRT.className = "btn";
-            btnRT.href = "https://x.com/intent/retweet?tweet_id=" + p.midia.tweetId;
-            btnRT.target = "_blank"; btnRT.rel = "noopener";
-            btnRT.textContent = "🔁 Só dar RT";
-            acoes.appendChild(btnRT);
+            const btnRT = document.createElement("a"); btnRT.className = "btn";
+            btnRT.href = "https://x.com/intent/retweet?tweet_id=" + p.midia.tweetId; btnRT.target = "_blank"; btnRT.rel = "noopener";
+            btnRT.textContent = "🔁 Só dar RT"; acoes.appendChild(btnRT);
           }
-          if (p.midia && (p.midia.tipo === "imagem" || p.midia.tipo === "print" || p.midia.semRT)) {
-            const aviso = document.createElement("span");
-            aviso.className = "btn btn-mini";
-            aviso.style.cursor = "default";
-            aviso.textContent = "⚠ anexar a imagem/print no composer";
-            acoes.appendChild(aviso);
-          }
-        } else if (rede.key === "meta") {
-          const btnCopiar = document.createElement("button");
-          btnCopiar.className = "btn-primario";
-          btnCopiar.textContent = "📋 Copiar texto";
-          btnCopiar.addEventListener("click", () => copiar(ta.value));
-          acoes.appendChild(btnCopiar);
-          const abrir = document.createElement("a");
-          abrir.className = "btn";
-          abrir.href = META_COMPOSER;
-          abrir.target = "_blank"; abrir.rel = "noopener";
-          abrir.textContent = "abrir Meta Business Suite";
-          acoes.appendChild(abrir);
-          const abrirGrupo = document.createElement("a");
-          abrirGrupo.className = "btn btn-mini";
-          abrirGrupo.href = GRUPO_URL;
-          abrirGrupo.target = "_blank"; abrirGrupo.rel = "noopener";
-          abrirGrupo.textContent = "ver o grupo";
-          acoes.appendChild(abrirGrupo);
-          const lembrete = document.createElement("span");
-          lembrete.className = "btn btn-mini";
-          lembrete.style.cursor = "default";
-          lembrete.textContent = "⚠ um post só pros 3 · postar como Hytale Brasil";
-          acoes.appendChild(lembrete);
+        } else {
+          const btnCopiar = document.createElement("button"); btnCopiar.className = "btn-primario"; btnCopiar.textContent = "📋 Copiar texto";
+          btnCopiar.addEventListener("click", () => copiar(ta.value)); acoes.appendChild(btnCopiar);
+          const abrir = document.createElement("a"); abrir.className = "btn"; abrir.href = META_COMPOSER; abrir.target = "_blank"; abrir.rel = "noopener";
+          abrir.textContent = "abrir Meta Business Suite"; acoes.appendChild(abrir);
+          const abrirGrupo = document.createElement("a"); abrirGrupo.className = "btn btn-mini"; abrirGrupo.href = GRUPO_URL; abrirGrupo.target = "_blank"; abrirGrupo.rel = "noopener";
+          abrirGrupo.textContent = "ver o grupo"; acoes.appendChild(abrirGrupo);
+          const lembrete = document.createElement("span"); lembrete.className = "btn btn-mini"; lembrete.style.cursor = "default";
+          lembrete.textContent = "postar como Orbis Hytale"; acoes.appendChild(lembrete);
         }
-
-        const btnRestaurar = document.createElement("button");
-        btnRestaurar.className = "btn-mini";
-        btnRestaurar.textContent = "restaurar original";
-        btnRestaurar.addEventListener("click", () => {
-          ta.value = original;
-          lsDel(lsKey);
-          atualizarContador();
-        });
-        acoes.appendChild(btnRestaurar);
-
-        const togLabel = document.createElement("label");
-        togLabel.className = "postado-toggle";
-        const tog = document.createElement("input");
-        tog.type = "checkbox";
-        tog.checked = postadoEm[idx];
-        tog.addEventListener("change", () => {
-          lsSet("postado:" + p.id + ":" + rede.key, tog.checked ? "1" : "0");
-          render();
-        });
-        togLabel.appendChild(tog);
-        togLabel.appendChild(document.createTextNode("postado"));
-        acoes.appendChild(togLabel);
-
-        bloco.appendChild(acoes);
-        card.appendChild(bloco);
+        const btnRestaurar = document.createElement("button"); btnRestaurar.className = "btn-mini"; btnRestaurar.textContent = "restaurar";
+        btnRestaurar.addEventListener("click", () => { ta.value = rede.texto; lsDel(lsKey); atualizarContador(); }); acoes.appendChild(btnRestaurar);
+        bloco.appendChild(acoes); card.appendChild(bloco);
       });
 
       lista.appendChild(card);
     });
 
     if (!lista.children.length) {
-      lista.innerHTML = '<div class="vazio">Tudo postado! 🎉<br>Marque "mostrar já postados" pra rever.</div>';
+      lista.innerHTML = '<div class="vazio">Nada nesta aba.<br>Tenta outra aba ou "Tudo".</div>';
     }
   }
-
 
   render();
 };

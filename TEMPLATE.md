@@ -1,4 +1,4 @@
-# Guia de estilo — posts Eldryn/Orbis Hytale
+# Guia de estilo — posts Orbis Hytale
 
 Estilo baseado em @OrbisHytale (página do Luis). Referências de formato (NUNCA copiar texto delas): @CentralHytaleBR e @HytaleAlerts.
 
@@ -70,6 +70,7 @@ Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta
 - SEM EMOJI nenhum.
 - SEM código de criador. SEM cara de release de imprensa. SEM parecer IA.
 - NÃO repetir/resumir a notícia. SEMPRE uma opinião, expectativa, hipótese ou pergunta.
+- **PUXAR DISCUSSÃO DE VERDADE (o mais importante):** comentário raso ("queria que os barcos fossem diferentes") não gera resposta. O bom fecha com um DILEMA ou PERGUNTA ABERTA e concreta que o outro tem vontade de responder. Padrão que funciona: [opinião/cenário curto] + [pergunta tipo "vocês prefeririam X ou Y?" / "o que vocês fariam primeiro?" / "como vocês usariam isso?"]. A pessoa tem que conseguir responder na hora. Ex bom: "...Vocês prefeririam poucos barcos bem feitos ou vários mais simples pra escolher?".
 - **SOAR HUMANO DE VERDADE.** Usar linguagem casual de gamer BR: "pra", "tbm"/"tb", "vc", "mt", "to", "tá", "queria muito que", "tomara que", "faz isso Hytale", "!!". Gramática não precisa ser perfeita. Modelo do que o Luis quer (foi respondido pelo Simon): "queria algo tbm pra suporte, tb amaria ver sendo usadas pra movimentação!!".
 - **PALAVRAS BANIDAS (denunciam IA, NUNCA usar):** hilário, incrível, sensacional, absurdo(a), "de outro nível", "outro patamar", imersão/imersivo, "abre um leque", "o céu é o limite", repertório, cardápio, "no fim das contas", "vale ressaltar", "sem dúvida", "digno de nota", "experiência única", "de tirar o fôlego". Se a frase parece legenda de anúncio, refazer.
 - Teste final: leia em voz alta. Um amigo teu mandaria isso no grupo? Se soa formal/publicitário, está errado.
@@ -84,6 +85,19 @@ Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta
 - "Espero que as runas do Hytale não sejam só pra dano, queria algo pra suporte, e amaria ver usadas pra movimentação, interação com blocos, plantas e outras coisas. #Hytale"
 
 No card, título começa com "[ENGAJAMENTO]" pro Luis identificar; resumo explica de qual novidade partiu.
+
+## 🗣️ VOZ DE FÃ nos posts de NOTÍCIA (site/Twitter/membros) — NÃO é jornal
+A página é de FÃS do Hytale, não é portal de notícia nem release de imprensa. O corpo do post tem que soar como fã empolgado contando a novidade, não como repórter. Vale pro Twitter E pro Meta.
+
+- **PALAVRAS/FÓRMULAS BANIDAS (cheiro de IA/jornal, NUNCA usar):** "revelou", "revelado(a)", "foi revelado", "segundo ele/ela", "de acordo com", "anunciou oficialmente", "em nota", "a produtora informou". Trocar por fala de fã: "saiu no blog que...", "o Slikey contou que...", "eles mostraram...", "apareceu no blog...", "pelo que deu pra ver...".
+- **SEM fecho de publicidade/IA.** Frases-bordão tipo "não é sonho solto, é meta declarada", "o futuro chegou", "prepare-se", "isso muda tudo" — cortar. Terminar com reação real de fã ou pergunta ("já quero ver quem vai encarar 👀", "qual desses você usaria?").
+- **Headline (1ª linha em CAPS) pode continuar**, mas com info concreta, não hype vazio. O que muda é o CORPO, que vira humano.
+- Teste: leia o corpo. Se parece matéria de site de games, refazer até parecer um fã animado explicando pro amigo.
+
+## 🎮 Contexto do servidor Eldryn (usar com cuidado, NÃO fazer média)
+O Luis tem um servidor de Hytale de MINIGAMES chamado **Eldryn**. Isso é pano de fundo, não gancho de propaganda.
+- **NÃO citar "Eldryn" nem o servidor diretamente** nos posts, principalmente em assunto que tenha a ver com servidor/minigame (fica cara de autopromoção). O código de criador BRASIL/HYBR no fim já é a única chamada comercial.
+- Pode escrever como quem MANJA de servidor/minigame (opinião de dono de servidor experiente), mas sem nome e sem "venha jogar no meu server".
 
 ## Tópicos (🔹 ⚔️ 🚪 etc.) — SEMPRE inicial MAIÚSCULA
 Todo item de lista/tópico começa com letra maiúscula depois do emoji. Ex certo: "🔹 Vão existir runas de suporte". Ex ERRADO: "🔹 vão existir runas de suporte". Vale pra Twitter e Meta, todos os bullets. EXCEÇÃO: a linha de crédito "🎥 u/fulano" / "📷 u/fulano" mantém o u/ MINÚSCULO (é username do reddit, não vira U/).

@@ -19,8 +19,8 @@ window.ELDRYN_POSTS = [
       "url": "https://cdn.hytale.com/bd7ff68f-ba30-4149-83b4-b6ac475c4c58.png",
       "nota": "CARROSSEL — 4 imagens, na ordem de postagem: 1) https://cdn.hytale.com/bd7ff68f-ba30-4149-83b4-b6ac475c4c58.png (gótico, punk, coral) 2) https://cdn.hytale.com/896670b0-65b9-4ffa-9815-b89eace6fd04.png (praia, natureza verde, vintage) 3) https://cdn.hytale.com/c4431af5-0bd3-40f5-b910-273a8d329862.png (cosméticos GOBLIN) 4) https://cdn.hytale.com/f1b86cf4-2b4d-40ad-ab65-5b9abe0d6858.png (casual/escolar, moletom HY). No Twitter usar SÓ a 1. Método = URL direta do cdn."
     },
-    "twitter": "👕 O HYTALE MOSTROU AS SKINS NOVAS E TEM ATÉ MOLETOM COM O ESCUDO DO JOGO\n\nO blog revelou uma leva de cosméticos que estava em produção há meses, e o leque é grande\n\n🖤 Visual gótico e punk com corrente e acessório de spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage de vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você desbloqueia COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, a cara do jogo. E o criador de Avatar ainda vai ganhar mão mais detalhada e opção de cílios. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "👕 O Hytale mostrou as skins novas e tem até moletom com o escudo do jogo\n\nO blog revelou uma leva de cosméticos que estava em produção há meses, e o leque é grande\n\n🖤 Visual gótico e punk com corrente e acessório de spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage de vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você desbloqueia COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, com a cara do jogo. E o criador de Avatar ainda vai ganhar mão mais detalhada e opção de cílios pra deixar o personagem mais seu.\n\nDesliza o carrossel pra ver todos. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "👕 O HYTALE MOSTROU AS SKINS NOVAS E TEM ATÉ MOLETOM COM O ESCUDO DO JOGO\n\nSaiu no blog um monte de cosmético que eles vinham trabalhando faz meses, e tem estilo pra todo gosto\n\n🖤 Visual gótico e punk, com corrente e spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage, vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você só pega COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, com a cara do jogo. E o criador de avatar ainda vai ganhar mão mais detalhada e opção de cílios. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👕 O Hytale mostrou as skins novas e tem até moletom com o escudo do jogo\n\nSaiu no blog um monte de cosmético que eles vinham trabalhando faz meses, e tem estilo pra todo gosto\n\n🖤 Visual gótico e punk, com corrente e spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage, vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você só pega COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, com a cara do jogo. E o criador de avatar ainda vai ganhar mão mais detalhada e opção de cílios pra deixar o personagem mais seu.\n\nDesliza o carrossel pra ver todos. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
     "id": "eng-01-barcos-tipos",
@@ -36,7 +36,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Queria muito que os barcos do Hytale fossem diferentes entre si. Uns rápidos pra explorar, outros pra carregar recurso e quem sabe um de combate. Um modelo só pra tudo ia ser meio sem graça #Hytale",
+    "twitter": "Se o Hytale for ter só um tipo de barco eu já fico meio decepcionado. Barco de carga é bem diferente de um de corrida ou de guerra. Vocês prefeririam poucos barcos bem feitos ou vários mais simples pra escolher? #Hytale",
     "meta": ""
   },
   {
@@ -53,7 +53,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Tomara que dê pra deixar o barco com a sua cara no Hytale. Cada jogador com seu porto e sua embarcação ia ficar mt bom nos servidores #Hytale",
+    "twitter": "Barco customizável no Hytale abriria muita porta. Dava pra ter porto de servidor com a frota de cada jogador parada ali. Vocês fariam um pra explorar tranquilo ou já iam direto montar um de PvP naval? #Hytale",
     "meta": ""
   },
   {
@@ -70,7 +70,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O que eu mais quero das runas do Hytale é poder misturar elemento e achar combinação que nem tava prevista. Fogo com gelo dando em algo novo já me ganhou #Hytale",
+    "twitter": "O que me deixou curioso nas runas do Hytale é se vão soltar a mão nas combinações. Fogo com gelo virando algo novo é uma coisa, agora imagina cada mistura com reação própria. Qual combinação vocês testariam primeiro? #Hytale",
     "meta": ""
   },
   {
@@ -87,7 +87,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se der pra usar os gadgets goblin juntos vai ser top demais. Jogar o gancho e sair planando de glider é o tipo de coisa que eu ia passar horas fazendo #Hytale",
+    "twitter": "Os gadgets goblin do Hytale só ficam bons de verdade se der pra combinar. Gancho pra subir e glider pra descer já vira parkour. Vocês usariam mais pra exploração ou pra fugir no meio de uma luta? #Hytale",
     "meta": ""
   },
   {
@@ -104,7 +104,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Espero que os companions do Hytale tenham personalidade e não sejam só NPC de trabalho. Um preguiçoso, um resmungão, ia dar mt mais vida pra casa #Hytale",
+    "twitter": "Se os companions do Hytale forem só um NPC que trabalha, perde a graça. O bom seria cada um com personalidade, um preguiçoso, um resmungão. Vocês iam querer companion útil ou um carismático mesmo que atrapalhe? #Hytale",
     "meta": ""
   },
   {
@@ -121,7 +121,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Com altura infinita chegando no Hytale já to imaginando os servidores. Exploração no espaço, torre que não acaba, a comunidade vai inventar coisa que nem os devs pensaram #Hytale",
+    "twitter": "Altura infinita no Hytale muda tudo pra quem faz servidor. Dá pra ter cidade nas nuvens, mina que não acaba, dungeon pra baixo sem fim. O que vocês construiriam primeiro se pudessem cavar e subir sem limite? #Hytale",
     "meta": ""
   },
   {
@@ -138,7 +138,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se dá pra carregar barril explosivo no Hytale, tomara que dê pra deixar de armadilha. Largar um na porta da base inimiga e explodir de longe ia ser sujo demais no PvP #Hytale",
+    "twitter": "Se dá pra carregar barril explosivo no Hytale, tomara que dê pra deixar de armadilha também. Largar um na entrada da base e detonar de longe muda o PvP inteiro. Vocês usariam mais pra atacar ou pra defender território? #Hytale",
     "meta": ""
   },
   {
@@ -155,7 +155,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O que eu mais espero dos minigames do Hytale é criar o meu e jogar com os amigos sem dor de cabeça. Se for fácil de montar a galera não larga mais #Hytale",
+    "twitter": "Pra mim o que vai segurar a galera no Hytale é a facilidade de montar minigame e chamar os amigos. Se for complicado demais, morre rápido. Que tipo de minigame vocês tentariam criar primeiro? #Hytale",
     "meta": ""
   },
   {
@@ -172,7 +172,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Modo hardcore com morte permanente no Hytale vai ser tenso. Queria muito um ranking de quem aguentou mais tempo vivo, ia dar aquela competição boa #Hytale",
+    "twitter": "Modo hardcore com morte permanente no Hytale ia ser tenso demais. Só que sem um ranking de quem sobreviveu mais tempo perde metade da graça. Vocês encarariam permadeath ou preferem morrer sem punição tão pesada? #Hytale",
     "meta": ""
   },
   {
@@ -189,7 +189,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Espero que o runeforging depois deixe farmar e trocar runa pra montar meu próprio build. Esse tipo de sistema me segura mês caçando a combinação certa #Hytale",
+    "twitter": "O runeforging do Hytale me interessa mais pela parte de farmar e trocar runa pra montar meu próprio build. Esse tipo de sistema me segura semanas. Vocês focariam em build de dano puro ou em utilidade? #Hytale",
     "meta": ""
   },
   {
@@ -206,7 +206,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Bloco que toca música no Hytale me deu uma ideia. Uma taverna no servidor com som saindo de dentro e sumindo quando vc se afasta ia ser mt maneiro #Hytale",
+    "twitter": "O bloco de música do Hytale me deu ideia de taverna com som saindo de dentro e abafando quando você se afasta. Isso melhora demais a ambientação de um servidor. Onde vocês colocariam um bloco desse no mapa? #Hytale",
     "meta": ""
   },
   {
@@ -223,7 +223,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Tomara que o mod browser do Hytale tenha nota e comentário. Saber qual mod presta antes de baixar ajuda demais, ainda mais com a galera criando tanta coisa #Hytale",
+    "twitter": "O mod browser do Hytale só vai prestar de verdade se tiver nota e comentário. Baixar mod no escuro é ruim, ainda mais com tanta gente criando. Vocês confiariam mais na nota da comunidade ou no nome de quem fez? #Hytale",
     "meta": ""
   },
   {
@@ -260,8 +260,8 @@ window.ELDRYN_POSTS = [
       "tweetAutor": "Slikey · @slikey",
       "nota": "Vídeo do New World Tech junto (já baixado em Downloads\\EldrynMidias\\cap1\\14_world_tech.mp4). No X quote/RT do slikey; no Meta usa o vídeo + print traduzido do tweet dele."
     },
-    "twitter": "🚀 O DIRETOR TÉCNICO DO HYTALE QUER SERVIDORES MMORPG ESTILO EVE ONLINE COM EXPLORAÇÃO ESPACIAL\n\nSlikey, o cabeça técnico do jogo, revelou que antes mesmo do Early Access já tinha como meta pro modding permitir servidores de MMORPG no estilo EVE Online, com exploração do espaço\n\nE segundo ele, o blog do Capítulo 1 mostra progresso de verdade nessa direção. A tecnologia de mundos cúbicos e o formato 3D são exatamente a base que torna esse tipo de servidor gigante possível\n\nImagina um MMORPG espacial inteiro rodando dentro do Hytale, feito pela comunidade. Não é sonho solto, é meta declarada de quem faz o jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🚀 O diretor técnico do Hytale quer servidores MMORPG estilo EVE Online com exploração espacial\n\nSlikey, o cabeça técnico do jogo, revelou que antes mesmo do Early Access já tinha como meta pro modding permitir servidores de MMORPG no estilo EVE Online, com exploração do espaço.\n\nE segundo ele, o blog do Capítulo 1 mostra progresso de verdade nessa direção. A tecnologia de mundos cúbicos e o formato 3D são exatamente a base que torna esse tipo de servidor gigante possível.\n\nImagina um MMORPG espacial inteiro rodando dentro do Hytale, feito pela comunidade. Não é sonho solto, é meta declarada de quem faz o jogo 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🚀 O DIRETOR TÉCNICO DO HYTALE QUER QUE A COMUNIDADE CONSIGA FAZER SERVIDOR DE MMORPG ESTILO EVE ONLINE, COM EXPLORAÇÃO ESPACIAL\n\nO Slikey contou que esse já era o plano dele pro modding desde antes do Early Access, e que dá pra ver no blog do Capítulo 1 que o jogo tá indo bem nessa direção\n\nO que segura um servidor gigante desses é a altura infinita e os mundos em 3D de verdade que mostraram agora. É a base que faltava\n\nPensa num MMO espacial inteiro rodando dentro do Hytale, feito por jogador. Já fico curioso pra ver quem vai encarar 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🚀 O diretor técnico do Hytale quer que a comunidade consiga fazer servidor de MMORPG estilo EVE Online, com exploração espacial\n\nO Slikey contou que esse já era o plano dele pro modding desde antes do Early Access, e que dá pra ver no blog do Capítulo 1 que o jogo tá indo bem nessa direção.\n\nO que segura um servidor gigante desses é a altura infinita e os mundos em 3D de verdade que mostraram agora. É a base que faltava.\n\nPensa num MMO espacial inteiro rodando dentro do Hytale, feito por jogador. Já fico curioso pra ver quem vai encarar 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
     "id": "scan1707c-slikey-hires",
@@ -277,8 +277,8 @@ window.ELDRYN_POSTS = [
       "url": "https://cdn.hytale.com/variants/blog_cover_9bd9b4049de8ead4b748003e7c48f604_summer_2022_development_update_header.jpg",
       "nota": "Tweet só de texto. Melhor mídia: print traduzido do tweet do slikey, ou uma arte do jogo. Sugestão de imagem editada tua de \"contratando\"."
     },
-    "twitter": "📈 O ESTÚDIO DO HYTALE NÃO PARA DE CRESCER, MAIS DUAS CONTRATAÇÕES A CAMINHO\n\nO diretor técnico Slikey contou que está fechando mais dois nomes pro time, um na área de DESIGN DE SOM e outro em DESENVOLVIMENTO DE ENGINE\n\nCombina com o que o blog do Capítulo 1 já tinha dito, a equipe cresceu muito e não para. No dia em que soltam o maior blog da história, ainda estão reforçando o time pro que vem por aí\n\nDepois de tudo que esse jogo passou, ver o estúdio contratando desse jeito é o melhor sinal possível 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "📈 O estúdio do Hytale não para de crescer, mais duas contratações a caminho\n\nO diretor técnico Slikey contou que está fechando mais dois nomes pro time, um na área de DESIGN DE SOM e outro em DESENVOLVIMENTO DE ENGINE.\n\nCombina com o que o blog do Capítulo 1 já tinha dito, a equipe cresceu muito e não para. No dia em que soltam o maior blog da história do jogo, ainda estão reforçando o time pro que vem por aí.\n\nDepois de tudo que esse jogo passou, ver o estúdio contratando desse jeito é o melhor sinal possível 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "📈 O TIME DO HYTALE CONTINUA CRESCENDO, VÊM MAIS DUAS CONTRATAÇÕES\n\nO Slikey contou que tá fechando mais dois nomes pro estúdio, um pra DESIGN DE SOM e outro pra DESENVOLVIMENTO DE ENGINE\n\nBate com o que o blog do Capítulo 1 já tinha falado, que a equipe passou de 100 pessoas. E olha que soltaram o maior blog da história do jogo e ainda estão contratando pro que vem por aí\n\nDepois de tudo que o Hytale passou, ver o estúdio crescendo assim é o melhor sinal que a gente podia pedir 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "📈 O time do Hytale continua crescendo, vêm mais duas contratações\n\nO Slikey contou que tá fechando mais dois nomes pro estúdio, um pra DESIGN DE SOM e outro pra DESENVOLVIMENTO DE ENGINE.\n\nBate com o que o blog do Capítulo 1 já tinha falado, que a equipe passou de 100 pessoas. E olha que soltaram o maior blog da história do jogo e ainda estão contratando pro que vem por aí.\n\nDepois de tudo que o Hytale passou, ver o estúdio crescendo assim é o melhor sinal que a gente podia pedir 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
     "id": "scan1707b-enquete",
