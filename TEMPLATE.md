@@ -55,6 +55,9 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 - **REGRA DURA: a manchete SEMPRE diz O ASSUNTO/FATO. Proibido manchete só de hype ("bomba", "surreal", "não vai acreditar") sem a informação. Teste: lendo SÓ a manchete, dá pra saber do que se trata? Se não, refazer.**
 - Manchete SEMPRE em CAPS depois do emoji (nunca começar em minúscula), sem travessão no meio.
 
+## Tópicos (🔹 ⚔️ 🚪 etc.) — SEMPRE inicial MAIÚSCULA
+Todo item de lista/tópico começa com letra maiúscula depois do emoji. Ex certo: "🔹 Vão existir runas de suporte". Ex ERRADO: "🔹 vão existir runas de suporte". Vale pra Twitter e Meta, todos os bullets. EXCEÇÃO: a linha de crédito "🎥 u/fulano" / "📷 u/fulano" mantém o u/ MINÚSCULO (é username do reddit, não vira U/).
+
 ## Conteúdo denso — postar por postar NÃO
 - Todo post precisa de CONTEÚDO REAL. Puxar o máximo de detalhe concreto DO PRÓPRIO texto-fonte (nada inventado): números, nomes, como funciona, o porquê, o que muda pro jogador.
 - Post vago ("ficou lindo, olha") é proibido, mesmo com mídia boa. Se a fonte tem 3 parágrafos sobre o assunto, o post reflete essa riqueza.
