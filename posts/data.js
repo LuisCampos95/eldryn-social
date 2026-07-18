@@ -6,6 +6,108 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "eng-13-sugestao-barcos",
+    "rodada": "2026-07-18 12:31",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Eles leem as sugestões (barcos nº1 virou Planned)",
+    "fonte": "https://hytale.com/suggestions",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Cruza a página oficial de sugestões (barcos 8116 votos = nº1, status Planned) com o blog do Cap 1 mostrando barcos. Prova que o estúdio lê. Pesca é a nº2 (5600). Pergunta = qual sugestão subir.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "A sugestão mais votada do site do Hytale era barco, mais de 8 mil votos, e virou Planned antes do blog mostrar os barcos. Eles leem aquela página mesmo. Pesca tá em segundo com 5600 votos, aposto que vem no combo. Qual sugestão vocês subiriam? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-14-automacao-goblin",
+    "rodada": "2026-07-18 12:31",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Automação (4 mil votos) combinaria com os goblins",
+    "fonte": "https://hytale.com/suggestions",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sugestão de automação tem 4431 votos (colheita, engrenagem, logic). Goblins do Cap 1 são facção de engenhoca. Dilema clássico de survival = automação ajuda ou tira a graça.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Tem uma sugestão de automação com mais de 4 mil votos no site do Hytale, colheita, engrenagem, esteira. E convenhamos, os goblins do Capítulo 1 são a facção perfeita pra trazer isso em forma de maquininha barulhenta. Automação melhora o survival ou tira a graça? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-15-clima-gameplay",
+    "rodada": "2026-07-18 12:31",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Clima afetando gameplay (3600 votos) + glider",
+    "fonte": "https://hytale.com/suggestions",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sugestão de clima com efeito real (3628 votos, chuva enche caldeirão, vento empurra projétil/glider) cruzada com o glider goblin do Cap 1. Pergunta = efeito de clima favorito.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Uma das sugestões mais votadas do Hytale é clima afetando o jogo de verdade, chuva enchendo caldeirão, vento empurrando flecha e glider. Com os gadgets goblin de planar isso ficaria bom demais. Que efeito de clima vocês mais queriam ver funcionando? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-16-cursebreaker-teoria",
+    "rodada": "2026-07-18 12:31",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Teoria de lore (Cursebreaker, Tessa e Kyros)",
+    "fonte": "https://hytale.com/news/2026/1/a-look-at-hytale-s-lore-and-philosophy",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Do blog oficial de lore (jan/2026): Tessa e Kyros voltam, lore cristaliza no Echoes of Orbis, Cursebreaker ligado à transição WorldGen V1→V2. Card de teoria pra fã de lore responder.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "O blog de lore do Hytale falou que Tessa e Kyros voltam e que o lore só vira canon quando a gente entra no Echoes of Orbis. E o tal do Cursebreaker aparece ligado à troca do mundo velho pro novo. Tem teoria boa aí. O que vocês acham que o Cursebreaker quebra de fato? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-17-ovelha-predador",
+    "rodada": "2026-07-18 12:31",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Ovelha predadora (sistema de NPC por template)",
+    "fonte": "https://hytale.com/news/2026/2/npc-technical-rundown",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Do blog técnico de NPCs (fev/2026): trocar Template_Animal_Neutral por Template_Predator transforma ovelha em caçadora, e ela pode carregar arma. Fato curioso + pergunta de combinação bizarra.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "No sistema de NPC do Hytale dá pra pegar uma ovelha, trocar o template de bicho pacífico pra predador e ela vira caçadora, podendo até carregar arma. Servidor de ovelha assassina é questão de tempo. Que combinação bizarra de bicho vocês fariam? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-18-world-designers",
+    "rodada": "2026-07-18 12:31",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] 15+ world designers contratados DA comunidade",
+    "fonte": "https://hytale.com/news/2026/1/the-future-of-world-generation",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Do blog de worldgen (jan/2026): plano de contratar 15+ World Designers vindos da comunidade pós-EA. Chance real pra construtor BR. Pergunta = que mundo montaria pra impressionar.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "O time do Hytale falou que quer contratar mais de 15 world designers vindos da própria comunidade. Construtor BR tem chance real nessa, o worldgen novo nem exige saber programar. Se fosse mandar um portfólio, que tipo de mundo vocês montariam pra impressionar? #Hytale",
+    "meta": ""
+  },
+  {
     "id": "cap1-img8-skins",
     "rodada": "2026-07-17 11:05",
     "emoji": "👕",
@@ -36,7 +138,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se o Hytale for ter só um tipo de barco eu já fico meio decepcionado. Barco de carga é bem diferente de um de corrida ou de guerra. Vocês prefeririam poucos barcos bem feitos ou vários mais simples pra escolher? #Hytale",
+    "twitter": "O barco que mostraram no blog do Capítulo 1 era bem simples, de remo. Pra navegação virar parte do jogo de verdade eu acho que precisa de tipos, um rápido, um de carga, um de guerra. Vocês preferem poucos barcos caprichados ou variedade logo de cara? #Hytale",
     "meta": ""
   },
   {
@@ -53,7 +155,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Barco customizável no Hytale abriria muita porta. Dava pra ter porto de servidor com a frota de cada jogador parada ali. Vocês fariam um pra explorar tranquilo ou já iam direto montar um de PvP naval? #Hytale",
+    "twitter": "Pensando nos barcos do Hytale, se der pra customizar visual e peças a gente vai ver porto de servidor lotado de embarcação única, cada uma com a cara do dono. Eu ia querer um pesqueiro véio todo remendado. Qual estilo vocês fariam? #Hytale",
     "meta": ""
   },
   {
@@ -70,7 +172,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O que me deixou curioso nas runas do Hytale é se vão soltar a mão nas combinações. Fogo com gelo virando algo novo é uma coisa, agora imagina cada mistura com reação própria. Qual combinação vocês testariam primeiro? #Hytale",
+    "twitter": "O Simon confirmou runa de suporte e runas modificadoras que mudam como a habilidade funciona. É o tipo de sistema que rende build que ninguém previu. Se uma runa pode mudar o comportamento da outra, que combinação quebrada vocês iam caçar primeiro? #Hytale",
     "meta": ""
   },
   {
@@ -87,7 +189,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Os gadgets goblin do Hytale só ficam bons de verdade se der pra combinar. Gancho pra subir e glider pra descer já vira parkour. Vocês usariam mais pra exploração ou pra fugir no meio de uma luta? #Hytale",
+    "twitter": "A parte 8 da pre-release liberou colisão dura em entidades e o blog mostrou o jogador em pé em plataforma que se move. Isso é literalmente a base de fase de parkour e obstáculo dentro do Hytale. Quem aí vai montar mapa de corrida quando as ferramentas chegarem? #Hytale",
     "meta": ""
   },
   {
@@ -104,7 +206,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se os companions do Hytale forem só um NPC que trabalha, perde a graça. O bom seria cada um com personalidade, um preguiçoso, um resmungão. Vocês iam querer companion útil ou um carismático mesmo que atrapalhe? #Hytale",
+    "twitter": "Companions vêm no Capítulo 2 ajudando em casa e nas tarefas. Minha esperança é que tenham personalidade, um preguiçoso, um resmungão, um que some e volta com item aleatório. Vocês preferem companion útil ou um carismático que às vezes atrapalha? #Hytale",
     "meta": ""
   },
   {
@@ -121,7 +223,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Altura infinita no Hytale muda tudo pra quem faz servidor. Dá pra ter cidade nas nuvens, mina que não acaba, dungeon pra baixo sem fim. O que vocês construiriam primeiro se pudessem cavar e subir sem limite? #Hytale",
+    "twitter": "Altura e profundidade infinitas mudam o que um servidor de Hytale pode ser. E o blog de worldgen ainda citou dimensões e mundos alternativos mais pra frente. Cidade nas nuvens, abismo sem fim, dungeon vertical. O que vocês construiriam primeiro? #Hytale",
     "meta": ""
   },
   {
@@ -138,7 +240,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se dá pra carregar barril explosivo no Hytale, tomara que dê pra deixar de armadilha também. Largar um na entrada da base e detonar de longe muda o PvP inteiro. Vocês usariam mais pra atacar ou pra defender território? #Hytale",
+    "twitter": "Carregar barril explosivo no braço já tá no Hytale. Agora pensa isso no PvP, levar o barril até a muralha inimiga no meio do tiroteio e detonar. Vira até modo de jogo, um time escolta, outro defende. Vocês iam de ataque ou de defesa? #Hytale",
     "meta": ""
   },
   {
@@ -155,7 +257,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Pra mim o que vai segurar a galera no Hytale é a facilidade de montar minigame e chamar os amigos. Se for complicado demais, morre rápido. Que tipo de minigame vocês tentariam criar primeiro? #Hytale",
+    "twitter": "Os minigames do Hytale vão sair com código aberto pra comunidade mexer. Isso muda tudo pra quem cria servidor, dá pra aprender direto da fonte e montar modo próprio em cima. Que minigame vocês querem ver renascer primeiro? #Hytale",
     "meta": ""
   },
   {
@@ -172,7 +274,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Modo hardcore com morte permanente no Hytale ia ser tenso demais. Só que sem um ranking de quem sobreviveu mais tempo perde metade da graça. Vocês encarariam permadeath ou preferem morrer sem punição tão pesada? #Hytale",
+    "twitter": "Modo hardcore com morte permanente no Hytale vai separar os corajosos. Só acho que precisa de ranking de sobrevivência pra doer bonito, teu nome lá em cima até alguém te passar. Vocês encarariam ou ficam no modo normal mesmo? #Hytale",
     "meta": ""
   },
   {
@@ -189,7 +291,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O runeforging do Hytale me interessa mais pela parte de farmar e trocar runa pra montar meu próprio build. Esse tipo de sistema me segura semanas. Vocês focariam em build de dano puro ou em utilidade? #Hytale",
+    "twitter": "O runeforging me interessa pelo ciclo de farmar runa, trocar com outro jogador e montar build própria. Economia de servidor inteira gira em cima de um sistema desses. Vocês iam focar em build de dano puro ou utilidade pra grupo? #Hytale",
     "meta": ""
   },
   {
@@ -206,7 +308,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O bloco de música do Hytale me deu ideia de taverna com som saindo de dentro e abafando quando você se afasta. Isso melhora demais a ambientação de um servidor. Onde vocês colocariam um bloco desse no mapa? #Hytale",
+    "twitter": "O bloco que toca música de dentro do mundo no Hytale abre coisa boa demais. Taverna com som vazando pela porta, dungeon com música escondida que você encontra pelo ouvido. Onde vocês colocariam um bloco desse? #Hytale",
     "meta": ""
   },
   {
@@ -223,7 +325,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O mod browser do Hytale só vai prestar de verdade se tiver nota e comentário. Baixar mod no escuro é ruim, ainda mais com tanta gente criando. Vocês confiariam mais na nota da comunidade ou no nome de quem fez? #Hytale",
+    "twitter": "O próprio time do Hytale admitiu que distribuição de mod ainda é o ponto fraco e virou prioridade máxima. Pro mod browser prestar eu queria nota, comentário e aviso de dependência quebrada. O que não pode faltar pra vocês? #Hytale",
     "meta": ""
   },
   {

@@ -61,9 +61,13 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 3. **Twitter (ENGAJAMENTO)** → comentários ORIGINAIS de fã, gerados pelo generator de engajamento abaixo. NÃO é resumo de notícia.
 
 ## 💬 GENERATOR DE ENGAJAMENTO (comentarista fã, não resumidor)
-Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta. Age como um fã experiente de Hytale que dá opinião, expectativa, hipótese ou dúvida sobre uma novidade — em vez de resumir a novidade de novo. Um tweet desse tipo, parecido, foi respondido pelo Simon e teve ~200 curtidas; é exatamente isso que queremos.
+Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta. Age como um fã experiente de Hytale que dá opinião, expectativa, hipótese ou dúvida sobre uma novidade — em vez de resumir a novidade de novo. Um tweet desse tipo, parecido, foi respondido pelo Simon e teve ~200 curtidas; é exatamente isso que queremos. É a aba que pode fazer a página crescer de verdade — capricho máximo aqui.
 
-**Como pensar (achar o "gap" sozinho):** o que falta nessa novidade? O que a comunidade ia querer ver? Que possibilidades essa mecânica abre? Que dúvida ela gera? Como impacta gameplay, servidores, mods, construção, exploração, PvP, PvE, RPG, criatividade?
+**PASSO 0 OBRIGATÓRIO: ler `BASE_HYTALE.md`.** Todo comentário nasce de FATO da base (história, lore, sistema, sugestão votada, drama da comunidade) cruzado com a novidade do dia. Comentário sem fato concreto por trás = raso = não gera resposta = não fazer. E no fim de TODA varredura, atualizar a base com os fatos novos descobertos (protocolo tá no topo dela). Base desatualizada = comentário errado.
+
+**Como pensar (achar o "gap" sozinho):** o que falta nessa novidade? O que a comunidade ia querer ver (a página de sugestões diz literalmente, com número de votos)? Que possibilidades essa mecânica abre? Que dúvida ela gera? Como impacta gameplay, servidores, mods, construção, exploração, PvP, PvE, RPG, lore, criatividade? Dá pra cruzar com um fato antigo da base (ex.: sugestão nº1 era barco → blog mostrou barco → "eles leem as sugestões mesmo")?
+
+**Referências e comparações (regra do Luis):** pode trazer referência de OUTROS jogos com moderação, mas **NUNCA comparar o Hytale com jogos semelhantes** (Minecraft, sandbox voxel, rivais) — nem "melhor que", nem "tipo o X". Isso pega muito mal na comunidade. Referência de jogo de outro gênero como inspiração ok (ex. "estilo EVE Online" — o próprio diretor técnico falou).
 
 **Regras do texto de engajamento (DIFERENTE dos outros posts):**
 - CURTO e natural, parecendo jogador BRASILEIRO real escrevendo no Twitter. Nada de texto enorme.
