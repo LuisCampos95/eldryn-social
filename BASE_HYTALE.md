@@ -1,7 +1,7 @@
 # BASE DE CONHECIMENTO HYTALE (documento VIVO)
 
 > **Pra que serve:** memória de longo prazo do projeto Orbis Hytale. TODO comentário de engajamento e todo post nasce consultando esta base. Sem base = comentário raso.
-> **Protocolo de atualização (OBRIGATÓRIO):** toda varredura que descobrir fato novo (blog, tweet de dev, patch, sugestão nova em alta, drama de comunidade) ADICIONA o fato na seção certa com `(fonte, data)`. Nunca apagar fato antigo, só marcar `[SUPERADO: ...]` se mudou. Última atualização geral: **2026-07-18**.
+> **Protocolo de atualização (OBRIGATÓRIO):** toda varredura que descobrir fato novo (blog, tweet de dev, patch, sugestão nova em alta, drama de comunidade) ADICIONA o fato na seção certa com `(fonte, data)`. Nunca apagar fato antigo, só marcar `[SUPERADO: ...]` se mudou. Última atualização geral: **2026-07-18 (varredura noite: Jeb/Simon + Aumo/Runeteria)**.
 
 ---
 
@@ -24,6 +24,8 @@
 - Server source liberado (~fev/2026, prometido 1-2 meses pós-launch, não ofuscado) → plugins Java da comunidade explodiram.
 - **17/07/2026: blog "First Look: Chapter 1 and more"** — o maior blog da história do jogo (ver seção 4).
 - Time: 100+ pessoas e contratando. Simon tirou o 1º fim de semana de folga pós-blog; planejamento do Capítulo 2 começou na semana de 20/07.
+- **18/07/2026 — posicionamento (Simon, x.com/Simon_Hypixel/status/2078502080109834575):** o Jeb (Jens Bergensten, chefe criativo do Minecraft/Mojang) testou o Hytale há ~6 meses (época do EA) e disse que queria o jogo "mais diferente do Minecraft". Simon concordou publicamente ("ele estava certo, e eu disse isso na época; as features que nos tornam únicos ainda não estavam no jogo") e apontou que o blog do Cap 1 mostra o rumo: dungeons feitas à mão com boss de várias fases, habilidades de combate, runeforging, world events, companions no loop de craft. Frase-chave: "queremos ser um RPG mais profundo, uma identidade de aventura mais forte... a gente só por acaso é um jogo de bloco, e estamos só começando". NUNCA usar isso pra COMPARAR os jogos (regra); o ângulo é a identidade própria do Hytale.
+- **18/07/2026 — modding rápido (Aumo/Runeteria, x.com/AumoNamoly/status/2078590684018401653):** Aumo (@AumoNamoly) mostrou vídeo do combate de magos do projeto Runeteria, com habilidades de runa em tempo real; Simon respondeu elogiando ("meu cara vai fazer todas as habilidades das runas antes de a gente chegar lá, trabalho insano"). Prova da velocidade do modding server-side e do estúdio de olho na comunidade.
 - **18/07/2026 — Simon conta que o JEB (Jens Bergensten, chefe criativo do Minecraft/Mojang) testou o Hytale ~6 meses atrás** (época do lançamento do EA) e disse "I'd like it to be more different to Minecraft". Simon concordou ("He was right, and I said it then too"); as features únicas ainda não estavam no jogo. Direção declarada: "deeper RPG, stronger adventure identity... We just happen to be a block game, and we are just getting started". DETALHES NOVOS confirmados nesse tweet: dungeons feitas à mão com boss de MÚLTIPLAS FASES, world events, companions participando do loop de craft. (x.com/Simon_Hypixel/status/2078502080109834575)
 
 ## 3. Lore e mundo (blog oficial de lore, jan/2026 + blogs clássicos 2018-2019)

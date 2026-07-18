@@ -6,6 +6,43 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1807-aumo-runeteria",
+    "rodada": "2026-07-18 19:44",
+    "emoji": "🔥",
+    "titulo": "[MEMBROS/COMUNIDADE • hoje 18h] Modder recria as habilidades de runa (Runeteria) e o Simon elogia (VÍDEO)",
+    "fonte": "https://x.com/AumoNamoly/status/2078590684018401653",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "COMUNIDADE + REAÇÃO DO FUNDADOR. Aumo (@AumoNamoly) postou teaser em VÍDEO do combate de magos do projeto Runeteria, com as runas soltando efeito em tempo real (~230 curtidas). O Simon respondeu: 'meu cara vai fazer todas as habilidades das runas antes de a gente chegar lá 😂 trabalho insano'. Prova viva da velocidade do modding server-side. No X = quote/RT do Aumo; no Meta = baixar o vídeo (login exigido; salvar na hora) + legenda.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/AumoNamoly/status/2078590684018401653",
+      "tweetId": "2078590684018401653",
+      "tweetTexto": "Hoje demos um pequeno teaser do combate de magos que está por vir, no qual tenho trabalhado para Runeteria! Esperamos que vocês gostem, e quem sabe... talvez nosso combate inspire a equipe #Hytale ao preparar o novo combate para o Capítulo 1! (traducao do X)",
+      "tweetAutor": "Aumo · @AumoNamoly",
+      "nota": "VÍDEO (0:37) de combate de magos. No X, dar quote/RT do Aumo. No Meta, baixar o vídeo do tweet (X pede login pra baixar via ferramenta; salve pela tela mesmo) e postar com a legenda. Reação do Simon (elogio) é o gancho. Crédito 🎥 @AumoNamoly."
+    },
+    "twitter": "🔥 UM MODDER TÁ RECRIANDO AS HABILIDADES DE RUNA DO HYTALE E O PRÓPRIO SIMON FICOU IMPRESSIONADO\n\nO Aumo soltou um teaser do combate de magos que ele faz pro projeto Runeteria, com as runas soltando efeito em tempo real. O fundador do Hytale respondeu que o cara vai terminar todas as habilidades antes mesmo do time chegar lá, e chamou de trabalho insano\n\nÉ a comunidade indo na frente e o estúdio de olho. Modding no servidor é isso, coisa boa saindo antes mesmo do recurso oficial 👀\n\n🎥 @AumoNamoly\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "🔥 Um modder tá recriando as habilidades de runa do Hytale e o próprio Simon ficou impressionado\n\nO Aumo soltou um teaser do combate de magos que ele faz pro projeto Runeteria, com as runas soltando efeito em tempo real. O fundador do Hytale respondeu que o cara vai terminar todas as habilidades antes mesmo do time chegar lá, e chamou de trabalho insano.\n\nÉ a comunidade indo na frente e o estúdio de olho. Modding no servidor é exatamente isso, coisa boa saindo antes mesmo do recurso oficial chegar 👀\n\n🎥 @AumoNamoly\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
+    "id": "eng-og-15-modding-velocidade",
+    "rodada": "2026-07-18 19:44",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] A comunidade tá na frente dos próprios devs",
+    "fonte": "https://x.com/AumoNamoly/status/2078590684018401653",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de autoridade a partir da reação do Simon ao Aumo/Runeteria: modding server-side já entrega habilidade de runa completa antes do time terminar. Observação de cena, não pergunta.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade."
+    },
+    "twitter": "O modding no servidor do Hytale já mostra a que veio. Tem gente recriando as habilidades de runa completas antes do time terminar, e o próprio Simon reagiu chamando de trabalho insano. A cena não espera o jogo ficar pronto pra criar coisa séria. #Hytale",
+    "meta": ""
+  },
+  {
     "id": "eng-og-01-visao2018",
     "rodada": "2026-07-18 13:00",
     "emoji": "💬",
