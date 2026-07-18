@@ -6,6 +6,210 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "eng-01-barcos-tipos",
+    "rodada": "2026-07-17 19:20",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Barcos com tipos diferentes",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre os BARCOS revelados no blog. Gap: o blog só mostrou um barco básico. Puxa a discussão de variedade. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Espero que os barcos do Hytale sejam diferentes de verdade entre si. Uns rápidos pra explorar, outros pra carregar recurso e quem sabe um pra combate no mar. Só um modelo pra tudo ia ser sem graça #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-02-barcos-custom",
+    "rodada": "2026-07-17 19:21",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Barcos personalizados + porto",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre os BARCOS. Gap: personalização, ainda não mencionada. Abre ideia de porto/identidade em servidor. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Tomara que dê pra personalizar os barcos no Hytale. Imagina cada jogador com seu porto e uma embarcação com a cara dele, ia dar uma vida absurda pros servidores #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-03-runas-reacoes",
+    "rodada": "2026-07-17 19:22",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Runas e reações elementais",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre as RUNAS reveladas (reações água/raio, tornado de fogo). Gap: criatividade das combinações. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "O que eu mais quero das runas do Hytale é poder combinar elemento e descobrir reação que nem tava prevista. Se misturar fogo e gelo der em algo novo, o combate vira laboratório #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-04-gadgets-combo",
+    "rodada": "2026-07-17 19:23",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Combinar gadgets goblin",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre os GADGETS GOBLIN (gancho, glider, botas foguete). Gap: usar combinados, não mencionado. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Se os gadgets goblin puderem ser usados juntos vai ser lindo. Soltar o gancho, largar no ar e abrir o glider pra planar seria o sonho de mobilidade nesse jogo #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-05-companions",
+    "rodada": "2026-07-17 19:24",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Companions com personalidade",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre os COMPANIONS revelados (ajudam em casa, Cap 2). Gap: personalidade/humor de cada um. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Espero que os companions do Hytale tenham personalidade de verdade e não sejam só NPC de trabalho. Um preguiçoso, um resmungão, um workaholic, isso deixaria a casa viva #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-06-cubic-servidor",
+    "rodada": "2026-07-17 19:25",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Altura infinita e ideias de servidor",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre os CUBIC CHUNKS revelados (altura/profundidade infinita). Gap: o que a comunidade faria com isso. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Com altura infinita chegando no Hytale, já fico imaginando servidor de exploração espacial ou torre que sobe sem fim. A comunidade vai fazer coisa que nem os devs pensaram #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-07-barril-armadilha",
+    "rodada": "2026-07-17 19:26",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Barril explosivo como armadilha",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre CARREGAR OBJETOS revelado (baú, barril explosivo). Gap: uso criativo em PvP. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Se dá pra carregar barril explosivo no Hytale, tomara que dê pra usar como armadilha. Deixar um na entrada da base inimiga e detonar de longe seria hilário no PvP #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-08-minigames-criar",
+    "rodada": "2026-07-17 19:27",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Criar o próprio minigame",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre os MINIGAMES revelados (código aberto pra comunidade). Gap: facilidade de criar o seu. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "O que eu mais espero dos minigames do Hytale é poder criar o meu e chamar os amigos pra jogar sem complicação nenhuma. Se for fácil de montar, a comunidade não para mais #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-09-hardcore-ranking",
+    "rodada": "2026-07-17 19:28",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Ranking no modo Hardcore",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre o modo HARDCORE revelado (permadeath). Gap: ranking de sobrevivência, não mencionado. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Modo hardcore com morte permanente no Hytale vai ser tenso demais. Queria muito um ranking de quem sobreviveu mais tempo, dava um clima de competição saudável #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-10-runeforging",
+    "rodada": "2026-07-17 19:29",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Runeforging e builds próprias",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre o RUNEFORGING citado como futuro. Gap: farmar/trocar runa pra montar build. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Espero que o runeforging depois deixe a gente farmar e trocar runa pra montar um build só nosso. É o tipo de sistema que segura o jogador meses caçando a combinação perfeita #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-11-musica-taverna",
+    "rodada": "2026-07-17 19:20",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Bloco de música e taverna no servidor",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre a SPATIAL MUSIC revelada (bloco emite música, abafa em parede). Gap: uso em ambientação de servidor. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Bloco que toca música no Hytale abre uma ideia que eu amo. Uma taverna no servidor com música saindo de dentro e sumindo conforme você se afasta, imersão de outro nível #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-12-modbrowser-review",
+    "rodada": "2026-07-17 19:21",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Avaliação no Mod Browser",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Sobre o MOD BROWSER revelado (instalar mod no jogo). Gap: avaliação/comentário, não mencionado. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
+    },
+    "twitter": "Tomara que o mod browser do Hytale tenha avaliação e comentário. Saber qual mod presta antes de instalar economiza dor de cabeça, ainda mais com a comunidade criando tanto #Hytale",
+    "meta": ""
+  },
+  {
     "id": "scan1707d-runas-suporte",
     "rodada": "2026-07-17 18:50",
     "emoji": "🛡️",

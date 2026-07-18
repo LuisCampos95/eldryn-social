@@ -55,6 +55,33 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 - **REGRA DURA: a manchete SEMPRE diz O ASSUNTO/FATO. Proibido manchete só de hype ("bomba", "surreal", "não vai acreditar") sem a informação. Teste: lendo SÓ a manchete, dá pra saber do que se trata? Se não, refazer.**
 - Manchete SEMPRE em CAPS depois do emoji (nunca começar em minúscula), sem travessão no meio.
 
+## OS 3 TIPOS DE CONTEÚDO (separar sempre)
+1. **Site (blog oficial)** → posts completos, informativos, cobertura de notícia (o padrão já documentado abaixo: manchete, conteúdo denso, mídia, código de criador).
+2. **Reddit** → resumo das melhores DISCUSSÕES/criações da comunidade (régua de upvotes, crédito ao autor).
+3. **Twitter (ENGAJAMENTO)** → comentários ORIGINAIS de fã, gerados pelo generator de engajamento abaixo. NÃO é resumo de notícia.
+
+## 💬 GENERATOR DE ENGAJAMENTO (comentarista fã, não resumidor)
+Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta. Age como um fã experiente de Hytale que dá opinião, expectativa, hipótese ou dúvida sobre uma novidade — em vez de resumir a novidade de novo. Um tweet desse tipo, parecido, foi respondido pelo Simon e teve ~200 curtidas; é exatamente isso que queremos.
+
+**Como pensar (achar o "gap" sozinho):** o que falta nessa novidade? O que a comunidade ia querer ver? Que possibilidades essa mecânica abre? Que dúvida ela gera? Como impacta gameplay, servidores, mods, construção, exploração, PvP, PvE, RPG, criatividade?
+
+**Regras do texto de engajamento (DIFERENTE dos outros posts):**
+- CURTO e natural, parecendo jogador real escrevendo. Nada de texto enorme.
+- SEM EMOJI nenhum.
+- SEM código de criador. SEM cara de release de imprensa. SEM parecer IA.
+- NÃO repetir/resumir a notícia. SEMPRE uma opinião, expectativa, hipótese ou pergunta.
+- NÃO inventar informação: a opinião parte só do que foi divulgado oficialmente ("espero que os barcos tenham diferenças reais" é ok porque barcos foram anunciados; inventar um recurso que não existe não é).
+- Fecha com #Hytale (só essa hashtag, natural). Sem travessão (—) e sem dois pontos (:).
+- SÓ TWITTER. No card, meta fica vazio ("") — o painel mostra só o bloco do Twitter.
+- Mídia OPCIONAL: se tiver uma imagem OFICIAL que fortaleça o comentário, usa (midia tipo imagem); senão, tweet só texto (sem midia ou midia com url vazia).
+
+**Exemplos (o alvo):**
+- "Espero que os barcos do Hytale tenham diferenças reais entre si. Seria muito legal ter modelos rápidos pra exploração, outros pra transporte de recurso e até alguns pra combate naval. #Hytale"
+- "Tomara que os barcos também possam ser personalizados. Seria incrível construir um porto e cada jogador ter uma embarcação única. #Hytale"
+- "Espero que as runas do Hytale não sejam só pra dano, queria algo pra suporte, e amaria ver usadas pra movimentação, interação com blocos, plantas e outras coisas. #Hytale"
+
+No card, título começa com "[ENGAJAMENTO]" pro Luis identificar; resumo explica de qual novidade partiu.
+
 ## Tópicos (🔹 ⚔️ 🚪 etc.) — SEMPRE inicial MAIÚSCULA
 Todo item de lista/tópico começa com letra maiúscula depois do emoji. Ex certo: "🔹 Vão existir runas de suporte". Ex ERRADO: "🔹 vão existir runas de suporte". Vale pra Twitter e Meta, todos os bullets. EXCEÇÃO: a linha de crédito "🎥 u/fulano" / "📷 u/fulano" mantém o u/ MINÚSCULO (é username do reddit, não vira U/).
 
