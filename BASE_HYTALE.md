@@ -81,7 +81,9 @@
 
 ## 7. Regras de USO desta base no engajamento
 
-- Comentário SEMPRE parte de fato daqui (ou da varredura do dia) + opinião/gancho pessoal. Fato errado = fake news = queima a página.
+- **Voz de AUTORIDADE.** O Luis é a página de Hytale mais antiga do BR, em tese sabe de tudo. Engajamento = TAKE inteligente de quem domina o assunto (observação afiada, leitura de lore, previsão fundamentada, defesa com base no histórico), NUNCA pergunta simples de iniciante ("prefere A ou B?", "o que fariam?"). Pergunta fácil faz a página parecer que não conhece o jogo.
+- Comentário SEMPRE parte de fato daqui (ou da varredura do dia) + leitura/posição própria. Fato errado = fake news = queima a página.
+- **Sugestões (seção 6) = só referência**, não o tema do engajamento. Servem pra sentir o que a comunidade pensa e virar pauta de NOTÍCIA quando mudam de status, não pra girar comentário em torno de "a sugestão mais votada".
 - **NUNCA comparar Hytale com jogos parecidos** (Minecraft, clones voxel, sandbox rivais) — a comunidade odeia e pega mal. Nem "melhor que", nem "tipo o". Referência de jogo de OUTRO gênero pode, com moderação, como inspiração ("estilo EVE Online" ok porque o PRÓPRIO slikey falou).
 - Não vazar termo interno desta base como se fosse oficial em português — traduzir natural (ex.: "cubic chunks" pode falar "altura infinita").
 - Sugestão da comunidade é SUGESTÃO, nunca apresentar como recurso confirmado. "Planned" = planejado pelo estúdio (pode falar que tá planejado).

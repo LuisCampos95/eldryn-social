@@ -6,6 +6,244 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "eng-og-01-visao2018",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Trailer de 2018 finalmente virando jogo",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de OG: dungeon à mão com boss multi-fase era o coração do trailer de 2018. Conecta a espera de 6 anos + quase cancelamento com o que o Cap 1 entregou. Autoridade histórica.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Dungeon feita à mão com chefe de várias fases era o coração do trailer de 2018 do Hytale. Quem tá aqui desde aquela época esperou seis anos e um quase cancelamento pra ver isso sair do papel. O Capítulo 1 entregou justo o que fazia a gente sonhar lá atrás. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-02-engine",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] A volta pra engine antiga foi a decisão certa",
+    "fonte": "https://hytale.com/news/2025/11/hytale-is-saved",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take técnico: reclamaram da volta pro C#/Java em vez do C++ novo, mas foi o que colocou o jogo na mão da gente em janeiro. Defende a escolha com argumento de quem entende o histórico.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Muita gente reclamou quando o Hytale voltou pra engine antiga de C# e Java em vez da nova em C++. Mas foi essa escolha que botou o jogo na nossa mão em janeiro. Perfeição técnica não serve de nada guardada na gaveta por mais três anos. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-03-serverside",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Mod só no servidor é a melhor decisão do jogo",
+    "fonte": "https://hytale.com/news/2025/11/hytale-modding-strategy-and-status",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de design: server-side only / one community one client parece detalhe técnico mas resolve a maior barreira de comunidade modada. Observação afiada, não pergunta.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Todo mod do Hytale roda no servidor, nada no cliente. Parece detalhe técnico, mas é das decisões mais importantes do jogo. Você entra em qualquer servidor sem baixar pack nenhum, e isso sozinho resolve o que sempre afastou o jogador casual de comunidade modada. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-04-worldesigners",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Hobby de construtor virando emprego real",
+    "fonte": "https://hytale.com/news/2026/1/the-future-of-world-generation",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de cena: 15+ world designers contratados da comunidade + gerador sem código. Aponta o ineditismo e chama o construtor BR pra ação, de igual pra igual.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O Hytale quer contratar mais de quinze world designers vindos da própria comunidade, e o gerador novo nem exige programar. É a primeira vez que um estúdio transforma o hobby de construtor em vaga de trabalho de verdade. Tem muito BR com portfólio pra isso. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-05-cursebreaker",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Teoria do Cursebreaker (leitura de lore)",
+    "fonte": "https://hytale.com/news/2026/1/a-look-at-hytale-s-lore-and-philosophy",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Teoria de lore de quem leu tudo: Cursebreaker não é vilão nem herói, é o mundo velho virando o novo (transição WorldGen V1->V2). Convida os nerds de lore a debater a interpretação.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Minha leitura do Cursebreaker é que ele não é vilão nem herói, é o próprio mundo velho virando o novo. O blog de lore falou que o canon só cristaliza quando a gente entra no Echoes of Orbis. A história ainda tá sendo escrita, e a gente faz parte dela. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-06-runameta",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Eles pensam em balance de meta antes do jogo ter meta",
+    "fonte": "https://x.com/Simon_Hypixel",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take técnico: o próprio Slikey levantou o risco de runa de movimento virar pick obrigatório. Elogia o cuidado com balance cedo, mostrando que acompanha a fala dos devs.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O detalhe mais esperto do sistema de runa do Hytale é a preocupação que o próprio Slikey levantou, de runa de movimento virar escolha obrigatória. Eles pensam em balance de meta antes do jogo sequer ter uma meta. Poucos estúdios cuidam disso tão cedo. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-07-npcjson",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Servidor maluco vindo de quem nunca programou",
+    "fonte": "https://hytale.com/news/2026/2/npc-technical-rundown",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de sistema: NPC por template JSON (ovelha vira predador armado sem código) é subestimado. Previsão informada de onde vem a próxima onda de criação.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O sistema de NPC do Hytale é subestimado. Você troca um template em JSON e uma ovelha vira predador que ainda carrega arma, sem escrever uma linha de código. A próxima leva de servidor maluco vai vir de gente que nunca programou na vida. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-08-contrib",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Estúdio aceitando código de fora antes do source",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Observação de quem lê patch notes: MelodicAlbuild e Eearslya creditados nas notas. Aponta o grau raro de abertura do processo de desenvolvimento.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Reparei que as patch notes da pre-release do Hytale já agradecem gente de fora, tipo MelodicAlbuild e Eearslya. Estúdio aceitando contribuição no código antes mesmo de soltar o source completo é um grau de abertura que quase não se vê no mercado. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-09-financiamento",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Dez anos do bolso, sem investidor, é o que garante a visão",
+    "fonte": "https://hytale.com/news/2025/11/hytale-is-saved",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de contexto: Simon e Philippe bancando 10 anos sem investidor significa ninguém cobrando lucro rápido e furando a visão. Leitura madura do modelo do estúdio.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O que mais me deixa tranquilo com o futuro do Hytale é o Simon e o Philippe bancando dez anos do próprio bolso, sem investidor. Ninguém de fora vai chegar cobrando lucro rápido e furando a visão do jogo no meio do caminho. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-10-cubiceve",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Altura infinita é a base do sonho do MMO espacial",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take técnico: cubic chunks + gerador novo é o que viabiliza o MMORPG estilo EVE que o Slikey citou. Liga tech a ambição declarada pelos devs. Referência de outro gênero (EVE), sem comparar com voxel.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Altura e profundidade infinitas no Hytale não é marketing bonito. Com o gerador novo, é o que permite exploração espacial e caverna sem fundo. O próprio Slikey falou que quer MMORPG estilo EVE rodando ali dentro, e agora a base pra isso existe. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-11-companion",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Companion no loop de craft muda a economia de servidor",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Observação que quase todo mundo perdeu: companion entra no craft, não só no combate. Impacto na economia de servidor de RPG. Detalhe de quem lê a fundo.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O detalhe que passou batido no Capítulo 1 é o companion entrar no loop de craft, não só no combate. Isso mexe na economia inteira de um servidor de RPG, porque teu ajudante vira parte da cadeia de produção em vez de ser só um bicho de estimação. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-12-posicionamento",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] O foco sempre foi RPG de aventura, desde o primeiro trailer",
+    "fonte": "https://x.com/Simon_Hypixel/status/2078502080109834575",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Reage à fala do Simon (\"só por acaso somos jogo de bloco, foco é RPG de aventura profundo\"). Reforça que a ambição vem de 2018. Autoridade histórica, sem comparar jogos.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "Gostei do Simon dizer que o Hytale só por acaso é jogo de bloco e o foco real é ser um RPG de aventura profundo. Isso tira o jogo da caixinha em que tentam enfiar ele o tempo todo. A ambição sempre foi essa, desde o primeiro trailer. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-13-minigames",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Minigame oficial open source forma cena de criador",
+    "fonte": "https://hytale.com/news/2025/11/hytale-modding-strategy-and-status",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de criador de servidor: minigames oficiais em código aberto = aprender arquitetura direto da fonte. Explica por que isso constrói uma cena forte.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O Hytale vai soltar os minigames oficiais de código aberto pra comunidade estudar. Pra quem faz servidor isso vale ouro, você aprende a arquitetura direto de quem construiu em vez de bater cabeça no escuro. É assim que se forma uma cena forte de criador. #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "eng-og-14-audiodesign",
+    "rodada": "2026-07-18 13:00",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] Áudio posicional destrava level design pelo ouvido",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de design pouco comentado: som posicional como mecânica de descoberta (pista sonora, segredo pelo ouvido). Observação de quem pensa como criador.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
+    },
+    "twitter": "O bloco de áudio posicional do Hytale destrava um tipo de level design que quase ninguém comentou. Dá pra esconder pista sonora numa dungeon e fazer o jogador achar segredo pelo ouvido. Som virar mecânica de verdade ainda é raro, e agora tá na mão de qualquer criador. #Hytale",
+    "meta": ""
+  },
+  {
     "id": "scan1807-simon-jeb",
     "rodada": "2026-07-18 12:38",
     "emoji": "👑",
@@ -26,108 +264,6 @@ window.ELDRYN_POSTS = [
     "meta": "👑 O chefe criativo do Minecraft jogou Hytale e o Simon contou agora o que ele disse\n\nO Jeb, da Mojang, testou o Hytale uns 6 meses atrás e falou que gostaria que o jogo fosse mais diferente do Minecraft. O Simon concordou, e admitiu que na época as features que fazem o Hytale único ainda nem estavam no jogo.\n\nSó que agora, diz ele, o blog do Capítulo 1 mostra esse caminho na prática\n\n⚔️ Dungeons feitas à mão com chefes de VÁRIAS FASES\n✨ Habilidades de combate e runeforging\n🌍 Eventos de mundo\n🐾 Companions participando do loop de craft\n\nE fechou bonito. Quer um RPG mais profundo, com identidade forte de aventura. Nas palavras dele, nós só por acaso somos um jogo de blocos, e estamos apenas começando 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
   },
   {
-    "id": "eng-13-sugestao-barcos",
-    "rodada": "2026-07-18 12:31",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Eles leem as sugestões (barcos nº1 virou Planned)",
-    "fonte": "https://hytale.com/suggestions",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Cruza a página oficial de sugestões (barcos 8116 votos = nº1, status Planned) com o blog do Cap 1 mostrando barcos. Prova que o estúdio lê. Pesca é a nº2 (5600). Pergunta = qual sugestão subir.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "A sugestão mais votada do site do Hytale era barco, mais de 8 mil votos, e virou Planned antes do blog mostrar os barcos. Eles leem aquela página mesmo. Pesca tá em segundo com 5600 votos, aposto que vem no combo. Qual sugestão vocês subiriam? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-14-automacao-goblin",
-    "rodada": "2026-07-18 12:31",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Automação (4 mil votos) combinaria com os goblins",
-    "fonte": "https://hytale.com/suggestions",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sugestão de automação tem 4431 votos (colheita, engrenagem, logic). Goblins do Cap 1 são facção de engenhoca. Dilema clássico de survival = automação ajuda ou tira a graça.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Tem uma sugestão de automação com mais de 4 mil votos no site do Hytale, colheita, engrenagem, esteira. E convenhamos, os goblins do Capítulo 1 são a facção perfeita pra trazer isso em forma de maquininha barulhenta. Automação melhora o survival ou tira a graça? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-15-clima-gameplay",
-    "rodada": "2026-07-18 12:31",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Clima afetando gameplay (3600 votos) + glider",
-    "fonte": "https://hytale.com/suggestions",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sugestão de clima com efeito real (3628 votos, chuva enche caldeirão, vento empurra projétil/glider) cruzada com o glider goblin do Cap 1. Pergunta = efeito de clima favorito.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Uma das sugestões mais votadas do Hytale é clima afetando o jogo de verdade, chuva enchendo caldeirão, vento empurrando flecha e glider. Com os gadgets goblin de planar isso ficaria bom demais. Que efeito de clima vocês mais queriam ver funcionando? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-16-cursebreaker-teoria",
-    "rodada": "2026-07-18 12:31",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Teoria de lore (Cursebreaker, Tessa e Kyros)",
-    "fonte": "https://hytale.com/news/2026/1/a-look-at-hytale-s-lore-and-philosophy",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Do blog oficial de lore (jan/2026): Tessa e Kyros voltam, lore cristaliza no Echoes of Orbis, Cursebreaker ligado à transição WorldGen V1→V2. Card de teoria pra fã de lore responder.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O blog de lore do Hytale falou que Tessa e Kyros voltam e que o lore só vira canon quando a gente entra no Echoes of Orbis. E o tal do Cursebreaker aparece ligado à troca do mundo velho pro novo. Tem teoria boa aí. O que vocês acham que o Cursebreaker quebra de fato? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-17-ovelha-predador",
-    "rodada": "2026-07-18 12:31",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Ovelha predadora (sistema de NPC por template)",
-    "fonte": "https://hytale.com/news/2026/2/npc-technical-rundown",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Do blog técnico de NPCs (fev/2026): trocar Template_Animal_Neutral por Template_Predator transforma ovelha em caçadora, e ela pode carregar arma. Fato curioso + pergunta de combinação bizarra.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "No sistema de NPC do Hytale dá pra pegar uma ovelha, trocar o template de bicho pacífico pra predador e ela vira caçadora, podendo até carregar arma. Servidor de ovelha assassina é questão de tempo. Que combinação bizarra de bicho vocês fariam? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-18-world-designers",
-    "rodada": "2026-07-18 12:31",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] 15+ world designers contratados DA comunidade",
-    "fonte": "https://hytale.com/news/2026/1/the-future-of-world-generation",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Do blog de worldgen (jan/2026): plano de contratar 15+ World Designers vindos da comunidade pós-EA. Chance real pra construtor BR. Pergunta = que mundo montaria pra impressionar.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa print da página de sugestões ou imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O time do Hytale falou que quer contratar mais de 15 world designers vindos da própria comunidade. Construtor BR tem chance real nessa, o worldgen novo nem exige saber programar. Se fosse mandar um portfólio, que tipo de mundo vocês montariam pra impressionar? #Hytale",
-    "meta": ""
-  },
-  {
     "id": "cap1-img8-skins",
     "rodada": "2026-07-17 11:05",
     "emoji": "👕",
@@ -143,210 +279,6 @@ window.ELDRYN_POSTS = [
     },
     "twitter": "👕 O HYTALE MOSTROU AS SKINS NOVAS E TEM ATÉ MOLETOM COM O ESCUDO DO JOGO\n\nSaiu no blog um monte de cosmético que eles vinham trabalhando faz meses, e tem estilo pra todo gosto\n\n🖤 Visual gótico e punk, com corrente e spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage, vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você só pega COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, com a cara do jogo. E o criador de avatar ainda vai ganhar mão mais detalhada e opção de cílios. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
     "meta": "👕 O Hytale mostrou as skins novas e tem até moletom com o escudo do jogo\n\nSaiu no blog um monte de cosmético que eles vinham trabalhando faz meses, e tem estilo pra todo gosto\n\n🖤 Visual gótico e punk, com corrente e spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage, vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você só pega COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, com a cara do jogo. E o criador de avatar ainda vai ganhar mão mais detalhada e opção de cílios pra deixar o personagem mais seu.\n\nDesliza o carrossel pra ver todos. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
-  },
-  {
-    "id": "eng-01-barcos-tipos",
-    "rodada": "2026-07-17 19:20",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Barcos com tipos diferentes",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre os BARCOS revelados no blog. Gap: o blog só mostrou um barco básico. Puxa a discussão de variedade. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O barco que mostraram no blog do Capítulo 1 era bem simples, de remo. Pra navegação virar parte do jogo de verdade eu acho que precisa de tipos, um rápido, um de carga, um de guerra. Vocês preferem poucos barcos caprichados ou variedade logo de cara? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-02-barcos-custom",
-    "rodada": "2026-07-17 19:21",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Barcos personalizados + porto",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre os BARCOS. Gap: personalização, ainda não mencionada. Abre ideia de porto/identidade em servidor. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Pensando nos barcos do Hytale, se der pra customizar visual e peças a gente vai ver porto de servidor lotado de embarcação única, cada uma com a cara do dono. Eu ia querer um pesqueiro véio todo remendado. Qual estilo vocês fariam? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-03-runas-reacoes",
-    "rodada": "2026-07-17 19:22",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Runas e reações elementais",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre as RUNAS reveladas (reações água/raio, tornado de fogo). Gap: criatividade das combinações. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O Simon confirmou runa de suporte e runas modificadoras que mudam como a habilidade funciona. É o tipo de sistema que rende build que ninguém previu. Se uma runa pode mudar o comportamento da outra, que combinação quebrada vocês iam caçar primeiro? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-04-gadgets-combo",
-    "rodada": "2026-07-17 19:23",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Combinar gadgets goblin",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre os GADGETS GOBLIN (gancho, glider, botas foguete). Gap: usar combinados, não mencionado. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "A parte 8 da pre-release liberou colisão dura em entidades e o blog mostrou o jogador em pé em plataforma que se move. Isso é literalmente a base de fase de parkour e obstáculo dentro do Hytale. Quem aí vai montar mapa de corrida quando as ferramentas chegarem? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-05-companions",
-    "rodada": "2026-07-17 19:24",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Companions com personalidade",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre os COMPANIONS revelados (ajudam em casa, Cap 2). Gap: personalidade/humor de cada um. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Companions vêm no Capítulo 2 ajudando em casa e nas tarefas. Minha esperança é que tenham personalidade, um preguiçoso, um resmungão, um que some e volta com item aleatório. Vocês preferem companion útil ou um carismático que às vezes atrapalha? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-06-cubic-servidor",
-    "rodada": "2026-07-17 19:25",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Altura infinita e ideias de servidor",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre os CUBIC CHUNKS revelados (altura/profundidade infinita). Gap: o que a comunidade faria com isso. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Altura e profundidade infinitas mudam o que um servidor de Hytale pode ser. E o blog de worldgen ainda citou dimensões e mundos alternativos mais pra frente. Cidade nas nuvens, abismo sem fim, dungeon vertical. O que vocês construiriam primeiro? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-07-barril-armadilha",
-    "rodada": "2026-07-17 19:26",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Barril explosivo como armadilha",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre CARREGAR OBJETOS revelado (baú, barril explosivo). Gap: uso criativo em PvP. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Carregar barril explosivo no braço já tá no Hytale. Agora pensa isso no PvP, levar o barril até a muralha inimiga no meio do tiroteio e detonar. Vira até modo de jogo, um time escolta, outro defende. Vocês iam de ataque ou de defesa? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-08-minigames-criar",
-    "rodada": "2026-07-17 19:27",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Criar o próprio minigame",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre os MINIGAMES revelados (código aberto pra comunidade). Gap: facilidade de criar o seu. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Os minigames do Hytale vão sair com código aberto pra comunidade mexer. Isso muda tudo pra quem cria servidor, dá pra aprender direto da fonte e montar modo próprio em cima. Que minigame vocês querem ver renascer primeiro? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-09-hardcore-ranking",
-    "rodada": "2026-07-17 19:28",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Ranking no modo Hardcore",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre o modo HARDCORE revelado (permadeath). Gap: ranking de sobrevivência, não mencionado. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "Modo hardcore com morte permanente no Hytale vai separar os corajosos. Só acho que precisa de ranking de sobrevivência pra doer bonito, teu nome lá em cima até alguém te passar. Vocês encarariam ou ficam no modo normal mesmo? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-10-runeforging",
-    "rodada": "2026-07-17 19:29",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Runeforging e builds próprias",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre o RUNEFORGING citado como futuro. Gap: farmar/trocar runa pra montar build. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O runeforging me interessa pelo ciclo de farmar runa, trocar com outro jogador e montar build própria. Economia de servidor inteira gira em cima de um sistema desses. Vocês iam focar em build de dano puro ou utilidade pra grupo? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-11-musica-taverna",
-    "rodada": "2026-07-17 19:20",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Bloco de música e taverna no servidor",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre a SPATIAL MUSIC revelada (bloco emite música, abafa em parede). Gap: uso em ambientação de servidor. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O bloco que toca música de dentro do mundo no Hytale abre coisa boa demais. Taverna com som vazando pela porta, dungeon com música escondida que você encontra pelo ouvido. Onde vocês colocariam um bloco desse? #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-12-modbrowser-review",
-    "rodada": "2026-07-17 19:21",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Avaliação no Mod Browser",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "17/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Sobre o MOD BROWSER revelado (instalar mod no jogo). Gap: avaliação/comentário, não mencionado. Tweet de opinião pra gerar resposta (sem emoji, sem código, só #Hytale). Só Twitter.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
-    },
-    "twitter": "O próprio time do Hytale admitiu que distribuição de mod ainda é o ponto fraco e virou prioridade máxima. Pro mod browser prestar eu queria nota, comentário e aviso de dependência quebrada. O que não pode faltar pra vocês? #Hytale",
-    "meta": ""
   },
   {
     "id": "scan1707d-runas-suporte",

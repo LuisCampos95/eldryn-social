@@ -60,35 +60,40 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 2. **Reddit** → resumo das melhores DISCUSSÕES/criações da comunidade (régua de upvotes, crédito ao autor).
 3. **Twitter (ENGAJAMENTO)** → comentários ORIGINAIS de fã, gerados pelo generator de engajamento abaixo. NÃO é resumo de notícia.
 
-## 💬 GENERATOR DE ENGAJAMENTO (comentarista fã, não resumidor)
-Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta. Age como um fã experiente de Hytale que dá opinião, expectativa, hipótese ou dúvida sobre uma novidade — em vez de resumir a novidade de novo. Um tweet desse tipo, parecido, foi respondido pelo Simon e teve ~200 curtidas; é exatamente isso que queremos. É a aba que pode fazer a página crescer de verdade — capricho máximo aqui.
+## 💬 GENERATOR DE ENGAJAMENTO (voz de AUTORIDADE, não fã iniciante)
+É a aba que pode fazer a página crescer de verdade e virar referência. Capricho máximo.
 
-**PASSO 0 OBRIGATÓRIO: ler `BASE_HYTALE.md`.** Todo comentário nasce de FATO da base (história, lore, sistema, sugestão votada, drama da comunidade) cruzado com a novidade do dia. Comentário sem fato concreto por trás = raso = não gera resposta = não fazer. E no fim de TODA varredura, atualizar a base com os fatos novos descobertos (protocolo tá no topo dela). Base desatualizada = comentário errado.
+**QUEM ESTÁ FALANDO (o mais importante):** o Luis é a **página de Hytale mais antiga do Brasil**. Em tese ele SABE DE TUDO sobre o jogo (história desde o trailer de 2018, cancelamento e renascimento, lore, tech, decisões de engine, falas dos devs). O comentário tem que soar como alguém que domina o assunto e solta um TAKE INTELIGENTE, não como novato curioso. É essa autoridade que faz o Simon e os hardcore responderem.
 
-**Como pensar (achar o "gap" sozinho):** o que falta nessa novidade? O que a comunidade ia querer ver (a página de sugestões diz literalmente, com número de votos)? Que possibilidades essa mecânica abre? Que dúvida ela gera? Como impacta gameplay, servidores, mods, construção, exploração, PvP, PvE, RPG, lore, criatividade? Dá pra cruzar com um fato antigo da base (ex.: sugestão nº1 era barco → blog mostrou barco → "eles leem as sugestões mesmo")?
+**PROIBIDO deixar pergunta simples/de iniciante em aberto.** Nada de "vocês prefeririam X ou Y?", "o que fariam primeiro?", "como usariam?". Isso faz a página parecer que NÃO conhece o jogo, e é vexame pra quem é referência. O engajamento vem da PROFUNDIDADE do take, não de uma perguntinha fácil.
 
-**Referências e comparações (regra do Luis):** pode trazer referência de OUTROS jogos com moderação, mas **NUNCA comparar o Hytale com jogos semelhantes** (Minecraft, sandbox voxel, rivais) — nem "melhor que", nem "tipo o X". Isso pega muito mal na comunidade. Referência de jogo de outro gênero como inspiração ok (ex. "estilo EVE Online" — o próprio diretor técnico falou).
+**PASSO 0 OBRIGATÓRIO: ler `BASE_HYTALE.md`.** Todo comentário nasce de FATO da base (história, lore, sistema, fala de dev, decisão técnica) que só quem acompanha há anos saca. Sem fato profundo por trás = raso = não fazer. No fim de TODA varredura, atualizar a base (protocolo no topo dela).
 
-**Regras do texto de engajamento (DIFERENTE dos outros posts):**
-- CURTO e natural, parecendo jogador BRASILEIRO real escrevendo no Twitter. Nada de texto enorme.
-- SEM EMOJI nenhum.
-- SEM código de criador. SEM cara de release de imprensa. SEM parecer IA.
-- NÃO repetir/resumir a notícia. SEMPRE uma opinião, expectativa, hipótese ou pergunta.
-- **PUXAR DISCUSSÃO DE VERDADE (o mais importante):** comentário raso ("queria que os barcos fossem diferentes") não gera resposta. O bom fecha com um DILEMA ou PERGUNTA ABERTA e concreta que o outro tem vontade de responder. Padrão que funciona: [opinião/cenário curto] + [pergunta tipo "vocês prefeririam X ou Y?" / "o que vocês fariam primeiro?" / "como vocês usariam isso?"]. A pessoa tem que conseguir responder na hora. Ex bom: "...Vocês prefeririam poucos barcos bem feitos ou vários mais simples pra escolher?".
-- **SOAR HUMANO DE VERDADE.** Usar linguagem casual de gamer BR: "pra", "tbm"/"tb", "vc", "mt", "to", "tá", "queria muito que", "tomara que", "faz isso Hytale", "!!". Gramática não precisa ser perfeita. Modelo do que o Luis quer (foi respondido pelo Simon): "queria algo tbm pra suporte, tb amaria ver sendo usadas pra movimentação!!".
-- **PALAVRAS BANIDAS (denunciam IA, NUNCA usar):** hilário, incrível, sensacional, absurdo(a), "de outro nível", "outro patamar", imersão/imersivo, "abre um leque", "o céu é o limite", repertório, cardápio, "no fim das contas", "vale ressaltar", "sem dúvida", "digno de nota", "experiência única", "de tirar o fôlego". Se a frase parece legenda de anúncio, refazer.
-- Teste final: leia em voz alta. Um amigo teu mandaria isso no grupo? Se soa formal/publicitário, está errado.
-- NÃO inventar informação: a opinião parte só do que foi divulgado oficialmente ("espero que os barcos tenham diferenças reais" é ok porque barcos foram anunciados; inventar um recurso que não existe não é).
-- Fecha com #Hytale (só essa hashtag, natural). Sem travessão (—) e sem dois pontos (:).
-- SÓ TWITTER. No card, meta fica vazio ("") — o painel mostra só o bloco do Twitter.
-- Mídia OPCIONAL: se tiver uma imagem OFICIAL que fortaleça o comentário, usa (midia tipo imagem); senão, tweet só texto (sem midia ou midia com url vazia).
+**O que é um bom take (o alvo):**
+- OBSERVAÇÃO afiada que a maioria não percebeu ("o detalhe que passou batido é o companion entrar no loop de craft, não só no combate").
+- LEITURA/INTERPRETAÇÃO informada de lore ou design ("minha leitura do Cursebreaker é que ele é o mundo velho virando o novo").
+- PREVISÃO fundamentada ("a próxima onda de servidor maluco vem de gente que nunca programou, por causa do NPC em JSON").
+- DEFESA/POSIÇÃO de quem entende o histórico ("reclamaram da volta pra engine antiga, mas foi o que botou o jogo na nossa mão em janeiro").
+- CONEXÃO com o passado que só um OG faz ("dungeon à mão com boss multi-fase era o coração do trailer de 2018").
+O leitor engaja concordando, discordando com argumento, ou completando. Se rolar pergunta, que seja PROVOCAÇÃO inteligente que nem os experts têm resposta óbvia, nunca um menuzinho A/B.
 
-**Exemplos (o alvo):**
-- "Espero que os barcos do Hytale tenham diferenças reais entre si. Seria muito legal ter modelos rápidos pra exploração, outros pra transporte de recurso e até alguns pra combate naval. #Hytale"
-- "Tomara que os barcos também possam ser personalizados. Seria incrível construir um porto e cada jogador ter uma embarcação única. #Hytale"
-- "Espero que as runas do Hytale não sejam só pra dano, queria algo pra suporte, e amaria ver usadas pra movimentação, interação com blocos, plantas e outras coisas. #Hytale"
+**Sugestões da comunidade = só BASE de referência, NÃO o tema.** A página hytale.com/suggestions serve pra saber o que a comunidade pensa e eventualmente virar pauta de NOTÍCIA (mudança de status). O engajamento NÃO é sobre "a sugestão mais votada" nem fica girando em torno de pedido de recurso.
 
-No card, título começa com "[ENGAJAMENTO]" pro Luis identificar; resumo explica de qual novidade partiu.
+**Referências e comparações (regra do Luis):** referência de OUTROS jogos com moderação ok, mas **NUNCA comparar o Hytale com jogos semelhantes** (Minecraft, sandbox voxel, rivais), nem "melhor que", nem "tipo o X". Pega muito mal. Jogo de outro gênero como inspiração ok ("estilo EVE Online", o próprio diretor técnico citou).
+
+**Regras do texto:**
+- CURTO (≤280) e natural, português de brasileiro que manja. SEM EMOJI. SEM código de criador. SEM cara de release.
+- Take INTELIGENTE e que todo mundo entenda (nada hermético demais), mas com substância de quem conhece o jogo a fundo.
+- **PALAVRAS BANIDAS (denunciam IA):** hilário, incrível, sensacional, absurdo(a), "de outro nível", "outro patamar", imersão/imersivo, "abre um leque", "o céu é o limite", repertório, cardápio, "no fim das contas", "vale ressaltar", "sem dúvida", "digno de nota", "de tirar o fôlego", "revelou/revelado". Também não citar o servidor Eldryn.
+- NÃO inventar recurso: o take parte só do que foi divulgado oficialmente ou do histórico real do jogo.
+- Fecha com #Hytale (só essa). Sem travessão (—) e sem dois pontos (:). SÓ TWITTER (meta = "").
+
+**Exemplos (o alvo, voz de autoridade):**
+- "Muita gente reclamou quando o Hytale voltou pra engine antiga de C# e Java em vez da nova em C++. Mas foi essa escolha que botou o jogo na nossa mão em janeiro. Perfeição técnica não serve de nada guardada na gaveta por mais três anos. #Hytale"
+- "Minha leitura do Cursebreaker é que ele não é vilão nem herói, é o próprio mundo velho virando o novo. O blog de lore falou que o canon só cristaliza quando a gente entra no Echoes of Orbis. A história ainda tá sendo escrita. #Hytale"
+- "O sistema de NPC do Hytale é subestimado. Você troca um template em JSON e uma ovelha vira predador que ainda carrega arma, sem escrever código. A próxima leva de servidor maluco vem de gente que nunca programou na vida. #Hytale"
+
+No card, título começa com "[ENGAJAMENTO]"; resumo explica o ângulo/fato que sustenta o take.
 
 ## 🗣️ VOZ DE FÃ nos posts de NOTÍCIA (site/Twitter/membros) — NÃO é jornal
 A página é de FÃS do Hytale, não é portal de notícia nem release de imprensa. O corpo do post tem que soar como fã empolgado contando a novidade, não como repórter. Vale pro Twitter E pro Meta.
