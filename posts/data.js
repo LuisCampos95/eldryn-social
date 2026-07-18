@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "cap1-img8-skins",
+    "rodada": "2026-07-17 11:05",
+    "emoji": "👕",
+    "titulo": "[IMAGEM H • quarta noite] As 4 imagens de SKINS/cosméticos novos do Capítulo 1 (CARROSSEL 4)",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "17/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CARROSSEL. PRÉVIA (cosméticos vêm com o capítulo). Seção 'Cosmetics and Extras'. As 4 imagens de skins que faltavam no painel. Mostram estilos variados (gótico, punk, praia, vintage, natureza), os cosméticos GOBLIN (desbloqueáveis completando o capítulo) e looks casuais/escolares, incluindo um moletom com 'HY'. Frases literais: 'a lot of new cosmetics that have been in the works over the past few months, including the goblin cosmetics you'll unlock by completing the chapter' / 'adding more detailed hand and eyelash options in the Avatar Creator'.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/bd7ff68f-ba30-4149-83b4-b6ac475c4c58.png",
+      "nota": "CARROSSEL — 4 imagens, na ordem de postagem: 1) https://cdn.hytale.com/bd7ff68f-ba30-4149-83b4-b6ac475c4c58.png (gótico, punk, coral) 2) https://cdn.hytale.com/896670b0-65b9-4ffa-9815-b89eace6fd04.png (praia, natureza verde, vintage) 3) https://cdn.hytale.com/c4431af5-0bd3-40f5-b910-273a8d329862.png (cosméticos GOBLIN) 4) https://cdn.hytale.com/f1b86cf4-2b4d-40ad-ab65-5b9abe0d6858.png (casual/escolar, moletom HY). No Twitter usar SÓ a 1. Método = URL direta do cdn."
+    },
+    "twitter": "👕 O HYTALE MOSTROU AS SKINS NOVAS E TEM ATÉ MOLETOM COM O ESCUDO DO JOGO\n\nO blog revelou uma leva de cosméticos que estava em produção há meses, e o leque é grande\n\n🖤 Visual gótico e punk com corrente e acessório de spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage de vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você desbloqueia COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, a cara do jogo. E o criador de Avatar ainda vai ganhar mão mais detalhada e opção de cílios. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👕 O Hytale mostrou as skins novas e tem até moletom com o escudo do jogo\n\nO blog revelou uma leva de cosméticos que estava em produção há meses, e o leque é grande\n\n🖤 Visual gótico e punk com corrente e acessório de spike\n🏖️ Look de praia, camiseta e bermuda\n🌿 Skin de pele verde com flor no cabelo\n👓 Estilo vintage de vestido de bolinha e óculos\n👺 E os cosméticos GOBLIN, que você desbloqueia COMPLETANDO o Capítulo 1\n\nTem até um moletom universitário escrito HY, com a cara do jogo. E o criador de Avatar ainda vai ganhar mão mais detalhada e opção de cílios pra deixar o personagem mais seu.\n\nDesliza o carrossel pra ver todos. Qual desses você usaria? 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "eng-01-barcos-tipos",
     "rodada": "2026-07-17 19:20",
     "emoji": "💬",
