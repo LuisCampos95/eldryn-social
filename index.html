@@ -54,6 +54,19 @@
   .badge.oficial { background: rgba(62,207,142,.15); color: var(--green); border: 1px solid rgba(62,207,142,.4); }
   .badge.comunidade { background: rgba(240,163,94,.15); color: var(--orange); border: 1px solid rgba(240,163,94,.4); }
   .badge.engajamento { background: rgba(126,166,255,.15); color: #7ea6ff; border: 1px solid rgba(126,166,255,.45); }
+  #abas {
+    position: sticky; top: 0; z-index: 20; display: flex; gap: 8px; flex-wrap: wrap;
+    justify-content: center; padding: 12px 0 16px; margin-bottom: 8px;
+    background: linear-gradient(var(--bg) 70%, transparent);
+  }
+  .aba {
+    background: var(--card2); color: var(--muted); border: 1px solid var(--border);
+    border-radius: 999px; padding: 8px 16px; font-size: .9rem; font-weight: 600;
+    cursor: pointer; font-family: inherit; transition: all .15s; white-space: nowrap;
+  }
+  .aba:hover { border-color: var(--gold-dim); color: var(--text); }
+  .aba.ativa { background: var(--gold); color: #14203a; border-color: var(--gold); }
+  .aba .cont { opacity: .7; font-weight: 400; margin-left: 4px; }
   .resumo { color: var(--muted); font-size: .92rem; margin: 10px 0; line-height: 1.5; }
   .fonte { font-size: .82rem; margin-bottom: 12px; }
   .fonte a { color: var(--gold); text-decoration: none; word-break: break-all; }
@@ -104,6 +117,7 @@
   <h1>⚔️ ELDRYN SOCIAL</h1>
   <p>Rascunhos prontos. Leia, ajuste se quiser e clique pra postar. Nada é publicado sozinho.</p>
 </header>
+<nav id="abas"></nav>
 <main id="lista"></main>
 <div class="toast" id="toast">Copiado!</div>
 
@@ -127,6 +141,25 @@ window.__initEldryn = function () {
   const posts = (window.ELDRYN_POSTS || []).slice();
   const lista = document.getElementById("lista");
   const toast = document.getElementById("toast");
+  const abasEl = document.getElementById("abas");
+
+  // categoria de cada card, define em qual aba ele aparece
+  function categoria(p) {
+    if (p.confiabilidade === "engajamento") return "engajamento";
+    const f = (p.fonte || "").toLowerCase();
+    if (f.includes("reddit.com")) return "reddit";
+    if (f.includes("hytale.com")) return "site";
+    if (f.includes("x.com") || f.includes("twitter.com")) return "twitter";
+    return "twitter";
+  }
+  const ABAS = [
+    { key: "twitter", nome: "🐦 Twitter" },
+    { key: "engajamento", nome: "💬 Engajamento" },
+    { key: "reddit", nome: "👽 Reddit" },
+    { key: "site", nome: "📰 Site" },
+    { key: "todos", nome: "Tudo" },
+  ];
+  let abaAtiva = (function () { try { return localStorage.getItem("abaAtiva") || "twitter"; } catch (e) { return "twitter"; } })();
 
   const REDES = [
     { key: "twitter", nome: "🐦 Twitter / X" },
@@ -181,10 +214,29 @@ window.__initEldryn = function () {
       return;
     }
     posts.sort((a, b) => (b.rodada || "").localeCompare(a.rodada || ""));
+
+    // barra de abas (contagem por categoria)
+    const contagem = {};
+    posts.forEach(p => { const c = categoria(p); contagem[c] = (contagem[c] || 0) + 1; });
+    abasEl.innerHTML = "";
+    ABAS.forEach(a => {
+      const n = a.key === "todos" ? posts.length : (contagem[a.key] || 0);
+      const btn = document.createElement("button");
+      btn.className = "aba" + (a.key === abaAtiva ? " ativa" : "");
+      btn.innerHTML = a.nome + ' <span class="cont">' + n + "</span>";
+      btn.addEventListener("click", () => {
+        abaAtiva = a.key;
+        try { localStorage.setItem("abaAtiva", a.key); } catch (e) {}
+        render();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+      abasEl.appendChild(btn);
+    });
+
+    const visiveis = posts.filter(p => abaAtiva === "todos" || categoria(p) === abaAtiva);
     let rodadaAtual = null;
 
-
-    posts.forEach((p) => {
+    visiveis.forEach((p) => {
       const postadoEm = REDES.map(r => lsGet("postado:" + p.id + ":" + r.key, "") === "1");
       const tudoPostado = postadoEm.every(Boolean);
 

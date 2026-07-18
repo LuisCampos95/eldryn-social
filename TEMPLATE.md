@@ -66,10 +66,13 @@ Objetivo: aproximar o perfil da comunidade e dos devs, gerar CONVERSA e resposta
 **Como pensar (achar o "gap" sozinho):** o que falta nessa novidade? O que a comunidade ia querer ver? Que possibilidades essa mecânica abre? Que dúvida ela gera? Como impacta gameplay, servidores, mods, construção, exploração, PvP, PvE, RPG, criatividade?
 
 **Regras do texto de engajamento (DIFERENTE dos outros posts):**
-- CURTO e natural, parecendo jogador real escrevendo. Nada de texto enorme.
+- CURTO e natural, parecendo jogador BRASILEIRO real escrevendo no Twitter. Nada de texto enorme.
 - SEM EMOJI nenhum.
 - SEM código de criador. SEM cara de release de imprensa. SEM parecer IA.
 - NÃO repetir/resumir a notícia. SEMPRE uma opinião, expectativa, hipótese ou pergunta.
+- **SOAR HUMANO DE VERDADE.** Usar linguagem casual de gamer BR: "pra", "tbm"/"tb", "vc", "mt", "to", "tá", "queria muito que", "tomara que", "faz isso Hytale", "!!". Gramática não precisa ser perfeita. Modelo do que o Luis quer (foi respondido pelo Simon): "queria algo tbm pra suporte, tb amaria ver sendo usadas pra movimentação!!".
+- **PALAVRAS BANIDAS (denunciam IA, NUNCA usar):** hilário, incrível, sensacional, absurdo(a), "de outro nível", "outro patamar", imersão/imersivo, "abre um leque", "o céu é o limite", repertório, cardápio, "no fim das contas", "vale ressaltar", "sem dúvida", "digno de nota", "experiência única", "de tirar o fôlego". Se a frase parece legenda de anúncio, refazer.
+- Teste final: leia em voz alta. Um amigo teu mandaria isso no grupo? Se soa formal/publicitário, está errado.
 - NÃO inventar informação: a opinião parte só do que foi divulgado oficialmente ("espero que os barcos tenham diferenças reais" é ok porque barcos foram anunciados; inventar um recurso que não existe não é).
 - Fecha com #Hytale (só essa hashtag, natural). Sem travessão (—) e sem dois pontos (:).
 - SÓ TWITTER. No card, meta fica vazio ("") — o painel mostra só o bloco do Twitter.

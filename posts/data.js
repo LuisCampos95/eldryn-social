@@ -36,7 +36,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Espero que os barcos do Hytale sejam diferentes de verdade entre si. Uns rápidos pra explorar, outros pra carregar recurso e quem sabe um pra combate no mar. Só um modelo pra tudo ia ser sem graça #Hytale",
+    "twitter": "Queria muito que os barcos do Hytale fossem diferentes entre si. Uns rápidos pra explorar, outros pra carregar recurso e quem sabe um de combate. Um modelo só pra tudo ia ser meio sem graça #Hytale",
     "meta": ""
   },
   {
@@ -53,7 +53,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Tomara que dê pra personalizar os barcos no Hytale. Imagina cada jogador com seu porto e uma embarcação com a cara dele, ia dar uma vida absurda pros servidores #Hytale",
+    "twitter": "Tomara que dê pra deixar o barco com a sua cara no Hytale. Cada jogador com seu porto e sua embarcação ia ficar mt bom nos servidores #Hytale",
     "meta": ""
   },
   {
@@ -70,7 +70,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O que eu mais quero das runas do Hytale é poder combinar elemento e descobrir reação que nem tava prevista. Se misturar fogo e gelo der em algo novo, o combate vira laboratório #Hytale",
+    "twitter": "O que eu mais quero das runas do Hytale é poder misturar elemento e achar combinação que nem tava prevista. Fogo com gelo dando em algo novo já me ganhou #Hytale",
     "meta": ""
   },
   {
@@ -87,7 +87,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se os gadgets goblin puderem ser usados juntos vai ser lindo. Soltar o gancho, largar no ar e abrir o glider pra planar seria o sonho de mobilidade nesse jogo #Hytale",
+    "twitter": "Se der pra usar os gadgets goblin juntos vai ser top demais. Jogar o gancho e sair planando de glider é o tipo de coisa que eu ia passar horas fazendo #Hytale",
     "meta": ""
   },
   {
@@ -104,7 +104,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Espero que os companions do Hytale tenham personalidade de verdade e não sejam só NPC de trabalho. Um preguiçoso, um resmungão, um workaholic, isso deixaria a casa viva #Hytale",
+    "twitter": "Espero que os companions do Hytale tenham personalidade e não sejam só NPC de trabalho. Um preguiçoso, um resmungão, ia dar mt mais vida pra casa #Hytale",
     "meta": ""
   },
   {
@@ -121,7 +121,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Com altura infinita chegando no Hytale, já fico imaginando servidor de exploração espacial ou torre que sobe sem fim. A comunidade vai fazer coisa que nem os devs pensaram #Hytale",
+    "twitter": "Com altura infinita chegando no Hytale já to imaginando os servidores. Exploração no espaço, torre que não acaba, a comunidade vai inventar coisa que nem os devs pensaram #Hytale",
     "meta": ""
   },
   {
@@ -138,7 +138,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Se dá pra carregar barril explosivo no Hytale, tomara que dê pra usar como armadilha. Deixar um na entrada da base inimiga e detonar de longe seria hilário no PvP #Hytale",
+    "twitter": "Se dá pra carregar barril explosivo no Hytale, tomara que dê pra deixar de armadilha. Largar um na porta da base inimiga e explodir de longe ia ser sujo demais no PvP #Hytale",
     "meta": ""
   },
   {
@@ -155,7 +155,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "O que eu mais espero dos minigames do Hytale é poder criar o meu e chamar os amigos pra jogar sem complicação nenhuma. Se for fácil de montar, a comunidade não para mais #Hytale",
+    "twitter": "O que eu mais espero dos minigames do Hytale é criar o meu e jogar com os amigos sem dor de cabeça. Se for fácil de montar a galera não larga mais #Hytale",
     "meta": ""
   },
   {
@@ -172,7 +172,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Modo hardcore com morte permanente no Hytale vai ser tenso demais. Queria muito um ranking de quem sobreviveu mais tempo, dava um clima de competição saudável #Hytale",
+    "twitter": "Modo hardcore com morte permanente no Hytale vai ser tenso. Queria muito um ranking de quem aguentou mais tempo vivo, ia dar aquela competição boa #Hytale",
     "meta": ""
   },
   {
@@ -189,7 +189,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Espero que o runeforging depois deixe a gente farmar e trocar runa pra montar um build só nosso. É o tipo de sistema que segura o jogador meses caçando a combinação perfeita #Hytale",
+    "twitter": "Espero que o runeforging depois deixe farmar e trocar runa pra montar meu próprio build. Esse tipo de sistema me segura mês caçando a combinação certa #Hytale",
     "meta": ""
   },
   {
@@ -206,7 +206,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Bloco que toca música no Hytale abre uma ideia que eu amo. Uma taverna no servidor com música saindo de dentro e sumindo conforme você se afasta, imersão de outro nível #Hytale",
+    "twitter": "Bloco que toca música no Hytale me deu uma ideia. Uma taverna no servidor com som saindo de dentro e sumindo quando vc se afasta ia ser mt maneiro #Hytale",
     "meta": ""
   },
   {
@@ -223,7 +223,7 @@ window.ELDRYN_POSTS = [
       "url": "",
       "nota": "Tweet só texto (engajamento). Se quiser, anexa uma imagem oficial do assunto, mas não precisa."
     },
-    "twitter": "Tomara que o mod browser do Hytale tenha avaliação e comentário. Saber qual mod presta antes de instalar economiza dor de cabeça, ainda mais com a comunidade criando tanto #Hytale",
+    "twitter": "Tomara que o mod browser do Hytale tenha nota e comentário. Saber qual mod presta antes de baixar ajuda demais, ainda mais com a galera criando tanta coisa #Hytale",
     "meta": ""
   },
   {
