@@ -6,6 +6,26 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1807-simon-jeb",
+    "rodada": "2026-07-18 12:38",
+    "emoji": "👑",
+    "titulo": "[URGENTE • postar AGORA] Simon conta que o Jeb do Minecraft jogou Hytale há 6 meses e o que ele disse",
+    "fonte": "https://x.com/Simon_Hypixel/status/2078502080109834575",
+    "fonteData": "18/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "QUENTÍSSIMO (postado ~12h35 de hoje, 5 mil views nos primeiros minutos). Simon conta que o Jeb (Jens Bergensten, chefe criativo do Minecraft na Mojang) testou o Hytale há ~6 meses (época do lançamento do Early Access) e disse 'I'd like it to be more different to Minecraft'. Simon CONCORDOU ('He was right, and I said it then too') e admite que as features únicas ainda não estavam no jogo. Diz que o blog do Cap 1 mostra o caminho, com DETALHES NOVOS: 'handcrafted dungeons with multi-phase boss fights, combat abilities, runeforging, world events, companions involved in the crafting loop'. Fecho: 'We want to be a deeper RPG, a stronger adventure identity... We just happen to be a block game, and we are just getting started'. Reportamos a fala DELES, nunca comparar por conta própria.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2078502080109834575",
+      "tweetId": "2078502080109834575",
+      "tweetTexto": "Six months ago, Jeb from Mojang tried Hytale and said \"I'd like it to be more different to Minecraft.\" He was right, and I said it then too. The features that make us unique weren't in the game yet. Hytale and Minecraft will always be compared, but we're not trying to make the same kind of game...",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "nota": "FOTOS DO JEB baixadas no repo (as duas aparecem na galeria): 1) foto real https://luiscampos95.github.io/eldryn-social/img/jeb_wikipedia.jpg (Wikipedia, licença livre) 2) avatar dele no X https://luiscampos95.github.io/eldryn-social/img/jeb_twitter.jpg. No Twitter = quote do tweet do Simon + foto do Jeb. No Meta = print traduzido do tweet + foto do Jeb."
+    },
+    "twitter": "👑 O CHEFE CRIATIVO DO MINECRAFT JOGOU HYTALE E O SIMON CONTOU AGORA O QUE ELE DISSE\n\nO Jeb, da Mojang, testou o Hytale uns 6 meses atrás e falou que gostaria que o jogo fosse mais diferente do Minecraft. O Simon concordou, e admitiu que na época as features que fazem o Hytale único ainda nem estavam no jogo\n\nSó que agora, diz ele, o blog do Capítulo 1 mostra esse caminho na prática\n\n⚔️ Dungeons feitas à mão com chefes de VÁRIAS FASES\n✨ Habilidades de combate e runeforging\n🌍 Eventos de mundo\n🐾 Companions participando do loop de craft\n\nE fechou bonito. Quer um RPG mais profundo, com identidade forte de aventura. Nas palavras dele, nós só por acaso somos um jogo de blocos, e estamos apenas começando 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
+    "meta": "👑 O chefe criativo do Minecraft jogou Hytale e o Simon contou agora o que ele disse\n\nO Jeb, da Mojang, testou o Hytale uns 6 meses atrás e falou que gostaria que o jogo fosse mais diferente do Minecraft. O Simon concordou, e admitiu que na época as features que fazem o Hytale único ainda nem estavam no jogo.\n\nSó que agora, diz ele, o blog do Capítulo 1 mostra esse caminho na prática\n\n⚔️ Dungeons feitas à mão com chefes de VÁRIAS FASES\n✨ Habilidades de combate e runeforging\n🌍 Eventos de mundo\n🐾 Companions participando do loop de craft\n\nE fechou bonito. Quer um RPG mais profundo, com identidade forte de aventura. Nas palavras dele, nós só por acaso somos um jogo de blocos, e estamos apenas começando 👀\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+  },
+  {
     "id": "eng-13-sugestao-barcos",
     "rodada": "2026-07-18 12:31",
     "emoji": "💬",

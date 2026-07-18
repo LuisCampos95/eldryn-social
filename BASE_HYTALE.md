@@ -24,6 +24,7 @@
 - Server source liberado (~fev/2026, prometido 1-2 meses pós-launch, não ofuscado) → plugins Java da comunidade explodiram.
 - **17/07/2026: blog "First Look: Chapter 1 and more"** — o maior blog da história do jogo (ver seção 4).
 - Time: 100+ pessoas e contratando. Simon tirou o 1º fim de semana de folga pós-blog; planejamento do Capítulo 2 começou na semana de 20/07.
+- **18/07/2026 — Simon conta que o JEB (Jens Bergensten, chefe criativo do Minecraft/Mojang) testou o Hytale ~6 meses atrás** (época do lançamento do EA) e disse "I'd like it to be more different to Minecraft". Simon concordou ("He was right, and I said it then too"); as features únicas ainda não estavam no jogo. Direção declarada: "deeper RPG, stronger adventure identity... We just happen to be a block game, and we are just getting started". DETALHES NOVOS confirmados nesse tweet: dungeons feitas à mão com boss de MÚLTIPLAS FASES, world events, companions participando do loop de craft. (x.com/Simon_Hypixel/status/2078502080109834575)
 
 ## 3. Lore e mundo (blog oficial de lore, jan/2026 + blogs clássicos 2018-2019)
 
