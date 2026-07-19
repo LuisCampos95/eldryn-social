@@ -39,6 +39,8 @@
   - Física entrando aos poucos; ele pediu pra imaginar o jogo em 2+ anos.
 - **19/07/2026 — PokéFind (@PokeFindMC, rede de Pokémon, bio "Coming soon to Hytale"):** montarias de Pokémon no Hytale, com vídeo voando de Charizard (x.com/PokeFindMC/status/2057554083460862181); e batalhas de Pokémon melhoradas com troca de ângulo de câmera e movimentação livre durante o combate (x.com/PokeFindMC/status/2052411202718830807). O Luis pediu post citando que o **servidor Eldryn terá um server de Pokémon quando o mod sair** (exceção autorizada à regra de não citar o servidor).
 
+- **19/07/2026 — correção de SEGURANÇA no cliente** (nova entrada nas notas da pré-release, mesma URL do Update 6). Item literal e único do dia: "Fixed a security issue within the Hytale client, more details to follow. (No evidence of active exploitation was found)". Efeito prático, servidores saíram do ar e precisaram atualizar por causa da atualização do cliente. Detalhe interessante, dois dias antes (17/07) eles lançaram a **Bastion Cape**, capa exclusiva pra quem ativa autenticação de dois fatores na conta. NUNCA especular qual era a falha, o estúdio não divulgou.
+
 ## 3. Lore e mundo (blog oficial de lore, jan/2026 + blogs clássicos 2018-2019)
 
 - Mundo = **Orbis**. **Gaia** = avatar/espírito de Orbis. **Varyn** = antagonista ligado ao Void/corrupção.

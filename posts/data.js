@@ -6,6 +6,40 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "patch1907-seguranca-cliente",
+    "rodada": "2026-07-19 19:30",
+    "emoji": "🔒",
+    "titulo": "[PATCH • hoje 19/07] Correção de falha de segurança no cliente do Hytale (servidores precisam atualizar)",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PATCH NOVO na mesma URL das notas da pré-release (Update 6). Entrada nova datada de 19 de julho de 2026, com um único item, literal: 'Fixed a security issue within the Hytale client, more details to follow. (No evidence of active exploitation was found)'. Efeito prático confirmado pelo Luis: servidores saíram do ar por causa da atualização do cliente e precisam ser atualizados. A entrada anterior (17/07, Parte 8, colisão dura + Bastion Cape) já foi coberta. NÃO especular sobre qual era a falha, o estúdio não divulgou.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://cdn.hytale.com/variants/blog_cover_9bd9b4049de8ead4b748003e7c48f604_summer_2022_development_update_header.jpg",
+      "nota": "Sem mídia oficial específica. Sugestão, print da linha nova das notas (19 de julho) ou arte do jogo. Post curto e direto, é aviso de serviço."
+    },
+    "twitter": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou hoje nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou hoje nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "eng-og-16-2fa-capa",
+    "rodada": "2026-07-19 19:30",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] A capa do 2FA dois dias antes da correção de segurança",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take de autoridade ligando dois fatos reais das notas: 17/07 saiu a Bastion Cape, capa exclusiva pra quem liga autenticação de dois fatores; 19/07 saiu a correção de falha de segurança no cliente. Observação, sem acusar nem especular a falha.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento)."
+    },
+    "twitter": "O Hytale deu uma capa exclusiva pra quem liga autenticação de dois fatores, e dois dias depois soltou uma correção de falha de segurança no cliente. Não sei se foi coincidência, mas usar cosmético pra fazer a galera ligar o 2FA foi muito esperto #Hytale",
+    "meta": ""
+  },
+  {
     "id": "red1907-yasquests",
     "rodada": "2026-07-19 15:15",
     "emoji": "🗡️",
