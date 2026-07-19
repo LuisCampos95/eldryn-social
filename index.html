@@ -183,7 +183,8 @@ window.__initEldryn = function () {
   ];
   function redesDoCard(p) {
     const temMeta = (p.meta || "").trim().length > 0;
-    return temMeta ? NETS : NETS.filter(n => n.key === "twitter");
+    const temTw = (p.twitter || "").trim().length > 0;
+    return NETS.filter(n => (n.key === "twitter" ? temTw : temMeta));
   }
 
   // ---- helpers ----
@@ -338,7 +339,8 @@ window.__initEldryn = function () {
       }
 
       // BLOCOS DE TEXTO por rede de publicação
-      const blocos = [{ key: "twitter", nome: "🐦 Twitter / X", texto: p.twitter || "" }];
+      const blocos = [];
+      if ((p.twitter || "").trim()) blocos.push({ key: "twitter", nome: "🐦 Twitter / X", texto: p.twitter });
       if (textoMeta(p).trim()) blocos.push({ key: "meta", nome: "📱 Face + Insta + Grupo (Meta Business Suite)", texto: textoMeta(p) });
 
       blocos.forEach((rede) => {

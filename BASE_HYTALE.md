@@ -28,6 +28,17 @@
 - **18/07/2026 — modding rápido (Aumo/Runeteria, x.com/AumoNamoly/status/2078590684018401653):** Aumo (@AumoNamoly) mostrou vídeo do combate de magos do projeto Runeteria, com habilidades de runa em tempo real; Simon respondeu elogiando ("meu cara vai fazer todas as habilidades das runas antes de a gente chegar lá, trabalho insano"). Prova da velocidade do modding server-side e do estúdio de olho na comunidade.
 - **18/07/2026 — Simon conta que o JEB (Jens Bergensten, chefe criativo do Minecraft/Mojang) testou o Hytale ~6 meses atrás** (época do lançamento do EA) e disse "I'd like it to be more different to Minecraft". Simon concordou ("He was right, and I said it then too"); as features únicas ainda não estavam no jogo. Direção declarada: "deeper RPG, stronger adventure identity... We just happen to be a block game, and we are just getting started". DETALHES NOVOS confirmados nesse tweet: dungeons feitas à mão com boss de MÚLTIPLAS FASES, world events, companions participando do loop de craft. (x.com/Simon_Hypixel/status/2078502080109834575)
 
+- **19/07/2026 — respostas do Simon (x.com/Simon_Hypixel/with_replies), MUITA coisa nova:**
+  - **Capítulo 1 com ETA de 2 a 3 meses** ("Aguarde pelo capítulo 1, ETA de 2 a 3 meses"). Fato mais importante da data.
+  - **Modo difícil OPCIONAL em muitos chefes**, pra pegar "aquela vibe souls" (2 mil curtidas, 48 mil views). Referência citada por ele: **Malenia de Elden Ring** ("extremamente difícil e claramente opcional é divertido").
+  - **Luta épica contra chefe AÉREO planejada** ("estamos planejando ter uma épica luta contra o chefe aéreo, sim").
+  - **Masmorras**: no início lineares e artesanais de A a Z; depois querem **aleatoriedade no layout**. Frase dele: sair de "quero jogar A masmorra dos goblins" pra "quero jogar UMA masmorra dos goblins". Artesanal garante qualidade mas reduz rejogabilidade.
+  - **Inspirações declaradas de RPG**: World of Warcraft (joga desde 2004), FF14, EverQuest, RuneScape, Lineage, Guild Wars, WildStar (ataques bem claros), SWTOR. Também citou Counter Strike (fazia mapas) e Diablo 2. ATENÇÃO: são as inspirações DELE, reportar como fala dele; nunca virar comparação nossa.
+  - **VAGA ABERTA**: quem quiser trabalhar com chefes/masmorras deve se candidatar a **NPC Developer**, título que vai virar **Tech Designer** (249 curtidas).
+  - **VR não é prioridade** ("gostaria que avançássemos mais com a tecnologia de renderização antes de pensar nisso").
+  - Física entrando aos poucos; ele pediu pra imaginar o jogo em 2+ anos.
+- **19/07/2026 — PokéFind (@PokeFindMC, rede de Pokémon, bio "Coming soon to Hytale"):** montarias de Pokémon no Hytale, com vídeo voando de Charizard (x.com/PokeFindMC/status/2057554083460862181); e batalhas de Pokémon melhoradas com troca de ângulo de câmera e movimentação livre durante o combate (x.com/PokeFindMC/status/2052411202718830807). O Luis pediu post citando que o **servidor Eldryn terá um server de Pokémon quando o mod sair** (exceção autorizada à regra de não citar o servidor).
+
 ## 3. Lore e mundo (blog oficial de lore, jan/2026 + blogs clássicos 2018-2019)
 
 - Mundo = **Orbis**. **Gaia** = avatar/espírito de Orbis. **Varyn** = antagonista ligado ao Void/corrupção.

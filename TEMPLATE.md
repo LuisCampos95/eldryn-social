@@ -1,5 +1,32 @@
 # Guia de estilo — posts Orbis Hytale
 
+## 🚫 REGRA Nº1 — CURTO E SECO, SEM BABAR OVO (correção do Luis, 19/07/2026)
+O erro mais grave que eu venho cometendo é **encher linguiça e babar ovo do jogo**. Post de notícia é INFORMAÇÃO, não torcida.
+
+**PROIBIDO (frases de torcedor que o Luis corta):** "é a comunidade indo na frente e o estúdio de olho", "coisa boa saindo antes mesmo do recurso oficial", "o melhor sinal que a gente podia pedir", "não é sonho solto, é meta declarada", "isso muda tudo", "a ambição sempre foi essa", "prova viva de que...", qualquer parágrafo de conclusão emocional, qualquer "👀" de arremate opinativo repetido.
+
+**ESTRUTURA PADRÃO (exatamente como o Luis reescreveu o post do VR):**
+```
+🥽 FIZERAM UM MOD DE REALIDADE VIRTUAL PRO HYTALE
+
+Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando em VR, e mostrou tudo funcionando em vídeo.
+
+🎥 u/Famous-Discussion-77
+
+⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale
+
+#Hytale #HytaleBrasil
+```
+1. **Manchete em CAPS** com o fato concreto.
+2. **UM parágrafo curto** (1 a 2 frases) só com o que aconteceu. Acabou. Não explicar o significado, não projetar futuro, não comemorar.
+3. Crédito (🎥/📷 + @user ou u/user), se houver.
+4. Código de criador.
+5. **Hashtags POR ÚLTIMO** (`#Hytale #HytaleBrasil`).
+
+**Exceção:** RESUMÃO (várias falas do Simon) usa lista de 🔹 com um fato por linha, mesma regra de secura, e também fecha com código e depois hashtags.
+
+**Teste antes de salvar:** dá pra cortar alguma frase sem perder INFORMAÇÃO? Se dá, corta. Se a frase só serve pra dizer que é legal, corta.
+
 Estilo baseado em @OrbisHytale (página do Luis). Referências de formato (NUNCA copiar texto delas): @CentralHytaleBR e @HytaleAlerts.
 
 ## ANTI-PLÁGIO — medo número 1 do Luis

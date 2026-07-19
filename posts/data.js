@@ -6,6 +6,64 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan1907-simon-resumao",
+    "rodada": "2026-07-19 11:38",
+    "emoji": "🚨",
+    "titulo": "[RESUMÃO SIMON • hoje] Capítulo 1 com ETA de 2 a 3 meses, chefe aéreo, modo difícil opcional e vaga aberta",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "RESUMÃO validado nas respostas do Simon nas últimas ~14h (perfil with_replies). Fatos literais: 'Aguarde pelo capítulo 1, ETA de 2 a 3 meses' (44 likes); modo difícil opcional em muitos chefes pra vibe souls (2 mil likes, 48 mil views); Malenia de Elden Ring como referência de opcional; 'estamos planejando ter uma épica luta contra o chefe aéreo, sim' (70 likes); masmorras lineares e artesanais de A a Z no início, depois aleatoriedade de layout, com a frase 'A masmorra dos goblins' vs 'UMA masmorra dos goblins' (71 likes); inspirações WoW desde 2004, FF14, EverQuest, RuneScape, Lineage, Guild Wars, WildStar e SWTOR; vaga de NPC Developer que vira Tech Designer (249 likes, 7 mil views); VR não é prioridade antes de avançar renderização (56 likes); física entrando aos poucos. SEM RT de tweet único (são várias respostas).",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "RESUMÃO de várias respostas, NÃO dar RT de um tweet só. Se quiser mídia, print traduzido da resposta do ETA de 2 a 3 meses ou arte oficial do Capítulo 1."
+    },
+    "twitter": "🚨 O CAPÍTULO 1 DO HYTALE TEM PREVISÃO DE 2 A 3 MESES, E O SIMON SOLTOU UMA LEVA DE DETALHE NOVO\n\n🔹 O Capítulo 1 tem ETA de 2 a 3 meses\n🔹 Muitos chefes vão ter modo difícil OPCIONAL, pra pegar a vibe souls\n🔹 Ele citou a Malenia de Elden Ring como exemplo de desafio opcional bem feito\n🔹 Uma luta épica contra um chefe AÉREO está planejada\n🔹 As masmorras começam lineares e feitas à mão de ponta a ponta\n🔹 Depois elas devem ganhar aleatoriedade no layout, pra sair do \"quero jogar A masmorra dos goblins\" pro \"quero jogar UMA masmorra dos goblins\"\n🔹 As inspirações declaradas são World of Warcraft, que ele joga desde 2004, mais FF14, EverQuest, RuneScape, Lineage, Guild Wars e SWTOR\n🔹 Quem quiser trabalhar com chefes e masmorras pode se candidatar à vaga de NPC Developer, que vai virar Tech Designer\n🔹 VR não é prioridade agora, ele quer avançar a tecnologia de renderização antes\n🔹 A física está entrando aos poucos no jogo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil",
+    "meta": "🚨 O CAPÍTULO 1 DO HYTALE TEM PREVISÃO DE 2 A 3 MESES, E O SIMON SOLTOU UMA LEVA DE DETALHE NOVO\n\n🔹 O Capítulo 1 tem ETA de 2 a 3 meses\n🔹 Muitos chefes vão ter modo difícil OPCIONAL, pra pegar a vibe souls\n🔹 Ele citou a Malenia de Elden Ring como exemplo de desafio opcional bem feito\n🔹 Uma luta épica contra um chefe AÉREO está planejada\n🔹 As masmorras começam lineares e feitas à mão de ponta a ponta\n🔹 Depois elas devem ganhar aleatoriedade no layout, pra sair do \"quero jogar A masmorra dos goblins\" pro \"quero jogar UMA masmorra dos goblins\"\n🔹 As inspirações declaradas são World of Warcraft, que ele joga desde 2004, mais FF14, EverQuest, RuneScape, Lineage, Guild Wars e SWTOR\n🔹 Quem quiser trabalhar com chefes e masmorras pode se candidatar à vaga de NPC Developer, que vai virar Tech Designer\n🔹 VR não é prioridade agora, ele quer avançar a tecnologia de renderização antes\n🔹 A física está entrando aos poucos no jogo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil"
+  },
+  {
+    "id": "scan1907-pokefind-charizard",
+    "rodada": "2026-07-19 11:38",
+    "emoji": "🔥",
+    "titulo": "[COMUNIDADE • pedido do Luis] Montarias de Pokémon no Hytale, voando de Charizard (VÍDEO)",
+    "fonte": "https://x.com/PokeFindMC/status/2057554083460862181",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "PEDIDO DIRETO DO LUIS. PokéFind (@PokeFindMC) postou vídeo das montarias de Pokémon no Hytale, com o jogador voando num Charizard (LeeGod's Charizard Lv.8). Texto literal: 'Exploring the world of @Hytale on the back of your Pokémon. We've been working on Pokémon mounts and flying around feels incredible!'. Eles têm rede de Pokémon e a bio diz 'Coming soon to Hytale'. ESTE CARD CITA O SERVIDOR ELDRYN de propósito (o Luis pediu). Marcar @PokeFindMC.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/PokeFindMC/status/2057554083460862181",
+      "tweetId": "2057554083460862181",
+      "tweetTexto": "Explorando o mundo de @Hytale nas costas do seu Pokémon. Temos trabalhado em montarias de Pokémon e voar por aí parece incrível! #Hytale #HytaleModding (traducao do X)",
+      "tweetAutor": "PokéFind · @PokeFindMC",
+      "nota": "VÍDEO do jogador voando de Charizard. No X, quote/RT do PokeFindMC marcando ele. No Meta, baixar o vídeo e postar marcando @PokeFindMC. Crédito 🎥 @PokeFindMC."
+    },
+    "twitter": "🔥 DÁ PRA VOAR DE CHARIZARD NO HYTALE\n\nO @PokeFindMC mostrou em vídeo as montarias de Pokémon que está desenvolvendo pro Hytale, com o jogador cruzando o mapa nas costas de um Charizard.\n\nImagina explorar Orbis voando de Charizard. Assim que o mod for lançado, o nosso servidor Eldryn vai ter um server de Pokémon.\n\n🎥 @PokeFindMC\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil",
+    "meta": "🔥 DÁ PRA VOAR DE CHARIZARD NO HYTALE\n\nO @PokeFindMC mostrou em vídeo as montarias de Pokémon que está desenvolvendo pro Hytale, com o jogador cruzando o mapa nas costas de um Charizard.\n\nImagina explorar Orbis voando de Charizard. Assim que o mod for lançado, o nosso servidor Eldryn vai ter um server de Pokémon.\n\n🎥 @PokeFindMC\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil"
+  },
+  {
+    "id": "scan1907-pokefind-batalhas",
+    "rodada": "2026-07-19 11:38",
+    "emoji": "⚔️",
+    "titulo": "[SÓ FACE + INSTA • pedido do Luis] Batalhas de Pokémon no Hytale com câmera livre (VÍDEO)",
+    "fonte": "https://x.com/PokeFindMC/status/2052411202718830807",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "PEDIDO DIRETO DO LUIS, SÓ PARA INSTAGRAM E FACEBOOK (sem Twitter, campo twitter vazio de propósito). PokéFind melhorou as batalhas de Pokémon no Hytale com base em feedback. Texto literal: 'You can now swap between camera angles or completely leave the battle camera and move around freely during battles. Still early, but it's coming together fast'.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/PokeFindMC/status/2052411202718830807",
+      "tweetId": "2052411202718830807",
+      "tweetTexto": "Temos melhorado as batalhas de Pokémon no @Hytale com base no feedback. Agora você pode trocar entre ângulos de câmera ou sair completamente da câmera de batalha e se mover livremente durante as batalhas. Ainda no início, mas está evoluindo rápido (traducao do X)",
+      "tweetAutor": "PokéFind · @PokeFindMC",
+      "nota": "SÓ FACE + INSTA. Baixar o vídeo do tweet e postar no Meta marcando @PokeFindMC. NÃO postar no X."
+    },
+    "twitter": "",
+    "meta": "⚔️ AS BATALHAS DE POKÉMON NO HYTALE AGORA DEIXAM VOCÊ ANDAR NO MEIO DA LUTA\n\nO PokéFind melhorou o sistema de batalha depois do feedback da comunidade. Agora dá pra trocar o ângulo de câmera ou sair da câmera de batalha e se movimentar livremente durante o combate.\n\n🎥 @PokeFindMC\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil"
+  },
+  {
     "id": "scan1807-aumo-runeteria",
     "rodada": "2026-07-18 19:44",
     "emoji": "🔥",
@@ -22,8 +80,8 @@ window.ELDRYN_POSTS = [
       "tweetAutor": "Aumo · @AumoNamoly",
       "nota": "VÍDEO (0:37) de combate de magos. No X, dar quote/RT do Aumo. No Meta, baixar o vídeo do tweet (X pede login pra baixar via ferramenta; salve pela tela mesmo) e postar com a legenda. Reação do Simon (elogio) é o gancho. Crédito 🎥 @AumoNamoly."
     },
-    "twitter": "🔥 UM MODDER TÁ RECRIANDO AS HABILIDADES DE RUNA DO HYTALE E O PRÓPRIO SIMON FICOU IMPRESSIONADO\n\nO Aumo soltou um teaser do combate de magos que ele faz pro projeto Runeteria, com as runas soltando efeito em tempo real. O fundador do Hytale respondeu que o cara vai terminar todas as habilidades antes mesmo do time chegar lá, e chamou de trabalho insano\n\nÉ a comunidade indo na frente e o estúdio de olho. Modding no servidor é isso, coisa boa saindo antes mesmo do recurso oficial 👀\n\n🎥 @AumoNamoly\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale",
-    "meta": "🔥 Um modder tá recriando as habilidades de runa do Hytale e o próprio Simon ficou impressionado\n\nO Aumo soltou um teaser do combate de magos que ele faz pro projeto Runeteria, com as runas soltando efeito em tempo real. O fundador do Hytale respondeu que o cara vai terminar todas as habilidades antes mesmo do time chegar lá, e chamou de trabalho insano.\n\nÉ a comunidade indo na frente e o estúdio de olho. Modding no servidor é exatamente isso, coisa boa saindo antes mesmo do recurso oficial chegar 👀\n\n🎥 @AumoNamoly\n\n#Hytale #HytaleBrasil\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale"
+    "twitter": "🔥 UM MODDER ESTÁ RECRIANDO AS HABILIDADES DE RUNA DO HYTALE\n\nO Aumo mostrou em vídeo o combate de magos do projeto Runeteria, com as runas soltando efeito em tempo real. O Simon respondeu que ele vai terminar todas as habilidades antes do time chegar lá e chamou de trabalho insano.\n\n🎥 @AumoNamoly\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil",
+    "meta": "🔥 UM MODDER ESTÁ RECRIANDO AS HABILIDADES DE RUNA DO HYTALE\n\nO Aumo mostrou em vídeo o combate de magos do projeto Runeteria, com as runas soltando efeito em tempo real. O Simon respondeu que ele vai terminar todas as habilidades antes do time chegar lá e chamou de trabalho insano.\n\n🎥 @AumoNamoly\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil"
   },
   {
     "id": "eng-og-15-modding-velocidade",
