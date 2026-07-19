@@ -15,13 +15,13 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 ⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale
 
-#Hytale #HytaleBrasil
+#Hytale #HytaleBrasil #HytaleGame #HytaleNews
 ```
 1. **Manchete em CAPS** com o fato concreto.
 2. **UM parágrafo curto** (1 a 2 frases) só com o que aconteceu. Acabou. Não explicar o significado, não projetar futuro, não comemorar.
 3. Crédito (🎥/📷 + @user ou u/user), se houver.
 4. Código de criador.
-5. **Hashtags POR ÚLTIMO** (`#Hytale #HytaleBrasil`).
+5. **Hashtags POR ÚLTIMO**, sempre as QUATRO (ordem do Luis, 19/07/2026): `#Hytale #HytaleBrasil #HytaleGame #HytaleNews`. Vale pra Twitter, Facebook e Instagram. (ENGAJAMENTO é exceção, fecha só com `#Hytale` pra parecer comentário de gente de verdade.)
 
 **Exceção:** RESUMÃO (várias falas do Simon) usa lista de 🔹 com um fato por linha, mesma regra de secura, e também fecha com código e depois hashtags.
 
@@ -91,6 +91,16 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 É a aba que pode fazer a página crescer de verdade e virar referência. Capricho máximo.
 
 **QUEM ESTÁ FALANDO (o mais importante):** o Luis é a **página de Hytale mais antiga do Brasil**. Em tese ele SABE DE TUDO sobre o jogo (história desde o trailer de 2018, cancelamento e renascimento, lore, tech, decisões de engine, falas dos devs). O comentário tem que soar como alguém que domina o assunto e solta um TAKE INTELIGENTE, não como novato curioso. É essa autoridade que faz o Simon e os hardcore responderem.
+
+**FALAR COMO BRASILEIRO DE VERDADE (correção do Luis, 19/07/2026).** Tem que ser ESPECIALISTA em Hytale MAS falando como o povo fala. O erro que ele flagrou foi eu escrever texto de revista//colunista.
+
+Frase que ele reprovou, com o motivo:
+> "O modding no servidor do Hytale já **mostra a que veio**. (...) **A cena** não espera o jogo ficar pronto pra criar coisa séria."
+> *"mostra a que veio, ngm fala isso nao"* / *"a cena nao espera... cena? ninguem fala assim"*
+
+**EXPRESSÕES BANIDAS (ninguém fala isso no Twitter BR):** "mostra a que veio", "a cena" (no sentido de comunidade/mercado), "minha leitura é que", "sequer", "grau de abertura que não se vê no mercado", "uma leva de", "prova viva", "vale ressaltar", "é subestimado" em tom de crítico, qualquer construção de análise formal.
+
+**COMO FALAR (natural):** "o que eu mais gosto é que...", "muita gente não sabe, mas...", "reparei que...", "pra mim...", "achei muito bom...", "quem já penou com X sabe o tamanho disso", "vai ter servidor muito doido", "a galera já tá fazendo", "prefiro mil vezes X do que Y", "tá", "pra", "vc", "tão", "tipo o fulano". Frase curta e direta. Se você não falaria isso em voz alta pro amigo, reescreve.
 
 **PROIBIDO deixar pergunta simples/de iniciante em aberto.** Nada de "vocês prefeririam X ou Y?", "o que fariam primeiro?", "como usariam?". Isso faz a página parecer que NÃO conhece o jogo, e é vexame pra quem é referência. O engajamento vem da PROFUNDIDADE do take, não de uma perguntinha fácil.
 
