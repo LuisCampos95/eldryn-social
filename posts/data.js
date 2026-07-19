@@ -6,6 +6,108 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "red1907-yasquests",
+    "rodada": "2026-07-19 15:15",
+    "emoji": "🗡️",
+    "titulo": "[COMUNIDADE • 73 upvotes] Mod de missões, habilidades e progressão (YASQuests)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1urme4j/preview_yasquests_a_quest_skill_and_progression/",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE. Post de galeria, 73 upvotes ✓. Título original \"Preview: YASQuests – a quest, skill and progression mod for Hytale\". Tipo de mod que interessa muito a dono de servidor de RPG. Crédito 📷 u/sebastian-io. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1urme4j/preview_yasquests_a_quest_skill_and_progression/",
+      "nota": "Baixar o as IMAGENS da galeria direto do post e postar como mídia própria, creditando 📷 u/sebastian-io. Mesmo texto serve pro X e pro Meta."
+    },
+    "twitter": "🗡️ FIZERAM UM MOD DE MISSÕES E PROGRESSÃO PRO HYTALE\n\nUm criador mostrou a prévia do YASQuests, um mod que junta sistema de missões, habilidades e progressão de personagem dentro do jogo.\n\n📷 u/sebastian-io\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ FIZERAM UM MOD DE MISSÕES E PROGRESSÃO PRO HYTALE\n\nUm criador mostrou a prévia do YASQuests, um mod que junta sistema de missões, habilidades e progressão de personagem dentro do jogo.\n\n📷 u/sebastian-io\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red1907-paulevs-testes",
+    "rodada": "2026-07-19 15:15",
+    "emoji": "🔧",
+    "titulo": "[COMUNIDADE • 83 upvotes] Testes do sistema de modding atual do Hytale",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v01bm2/some_tests_of_current_hytale_modding_system/",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE. Galeria, 83 upvotes ✓. Título original \"Some tests of current Hytale modding system\". paulevs é modder conhecido da cena de voxel. Crédito 📷 u/paulevs-bn. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1v01bm2/some_tests_of_current_hytale_modding_system/",
+      "nota": "Baixar o as IMAGENS da galeria direto do post e postar como mídia própria, creditando 📷 u/paulevs-bn. Mesmo texto serve pro X e pro Meta."
+    },
+    "twitter": "🔧 UM MODDER TESTOU ATÉ ONDE O SISTEMA DE MODS DO HYTALE JÁ CHEGA\n\nEle publicou uma série de testes feitos com o sistema de modding atual do jogo, mostrando o que já dá pra fazer hoje.\n\n📷 u/paulevs-bn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔧 UM MODDER TESTOU ATÉ ONDE O SISTEMA DE MODS DO HYTALE JÁ CHEGA\n\nEle publicou uma série de testes feitos com o sistema de modding atual do jogo, mostrando o que já dá pra fazer hoje.\n\n📷 u/paulevs-bn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red1907-kindred",
+    "rodada": "2026-07-19 15:15",
+    "emoji": "🌸",
+    "titulo": "[COMUNIDADE • 331 upvotes] Kindred Spirit Blossom recriada no Hytale (vídeo)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v01spi/kindred_lamb_spirit_blossom_in_hytale/",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE. Vídeo, 331 upvotes ✓, o post de criação com maior pontuação da semana. Título original \"Kindred Lamb - Spirit Blossom in Hytale\". Crédito 🎥 u/angu_art_. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v01spi/kindred_lamb_spirit_blossom_in_hytale/",
+      "nota": "Baixar o VÍDEO direto do post e postar como mídia própria, creditando 🎥 u/angu_art_. Mesmo texto serve pro X e pro Meta."
+    },
+    "twitter": "🌸 RECRIARAM A KINDRED SPIRIT BLOSSOM DENTRO DO HYTALE\n\nUma artista da comunidade modelou a personagem no jogo e mostrou o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌸 RECRIARAM A KINDRED SPIRIT BLOSSOM DENTRO DO HYTALE\n\nUma artista da comunidade modelou a personagem no jogo e mostrou o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red1907-robo-solda",
+    "rodada": "2026-07-19 15:15",
+    "emoji": "🤖",
+    "titulo": "[COMUNIDADE • 143 upvotes] Robô de solda para projeto de ficção científica (vídeo)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v0owgx/little_welding_robot_for_my_scifi_project/",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE. Vídeo, 143 upvotes ✓, postado há poucas horas. Título original \"Little Welding robot for my Sci-fi Project\". Crédito 🎥 u/bimtom. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v0owgx/little_welding_robot_for_my_scifi_project/",
+      "nota": "Baixar o VÍDEO direto do post e postar como mídia própria, creditando 🎥 u/bimtom. Mesmo texto serve pro X e pro Meta."
+    },
+    "twitter": "🤖 FIZERAM UM ROBÔ DE SOLDA NO HYTALE PRA UM PROJETO DE FICÇÃO CIENTÍFICA\n\nO criador mostrou o robô funcionando em vídeo, feito pra um projeto de ficção científica que ele monta dentro do jogo.\n\n🎥 u/bimtom\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🤖 FIZERAM UM ROBÔ DE SOLDA NO HYTALE PRA UM PROJETO DE FICÇÃO CIENTÍFICA\n\nO criador mostrou o robô funcionando em vídeo, feito pra um projeto de ficção científica que ele monta dentro do jogo.\n\n🎥 u/bimtom\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red1907-bigorna-rp",
+    "rodada": "2026-07-19 15:15",
+    "emoji": "🔨",
+    "titulo": "[COMUNIDADE • 55 upvotes] Bigorna de roleplay em mod de mobília (vídeo)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uvu0r7/roleplay_anvil_added_to_my_furniture_mod/",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE. Vídeo, 55 upvotes ✓. Título original \"Roleplay Anvil added to my furniture mod!\". Antes da régua nova esse tipo de post ficava de fora. Crédito 🎥 u/LadyPaladra. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uvu0r7/roleplay_anvil_added_to_my_furniture_mod/",
+      "nota": "Baixar o VÍDEO direto do post e postar como mídia própria, creditando 🎥 u/LadyPaladra. Mesmo texto serve pro X e pro Meta."
+    },
+    "twitter": "🔨 UM MOD DE MOBÍLIA DO HYTALE GANHOU UMA BIGORNA DE ROLEPLAY\n\nA criadora adicionou a bigorna ao mod de móveis que ela desenvolve e mostrou a peça funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔨 UM MOD DE MOBÍLIA DO HYTALE GANHOU UMA BIGORNA DE ROLEPLAY\n\nA criadora adicionou a bigorna ao mod de móveis que ela desenvolve e mostrou a peça funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red1907-heart-of-life",
+    "rodada": "2026-07-19 15:15",
+    "emoji": "❤️",
+    "titulo": "[COMUNIDADE • 41 upvotes] Heart of Life, um dos primeiros mods do Hytale, atualizado (vídeo)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1utemuf/just_updated_heart_of_life_the_first_hytale_mod_i/",
+    "fonteData": "19/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE. Vídeo, 41 upvotes ✓. Título original \"Just updated Heart of Life, the first Hytale mod I created\". Post que a régua velha de 50 cortava. Crédito 🎥 u/Marggx. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1utemuf/just_updated_heart_of_life_the_first_hytale_mod_i/",
+      "nota": "Baixar o VÍDEO direto do post e postar como mídia própria, creditando 🎥 u/Marggx. Mesmo texto serve pro X e pro Meta."
+    },
+    "twitter": "❤️ UM DOS PRIMEIROS MODS FEITOS PRO HYTALE ACABA DE SER ATUALIZADO\n\nO criador voltou no Heart of Life, um dos primeiros mods que ele fez pro jogo, e mostrou a atualização em vídeo.\n\n🎥 u/Marggx\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "❤️ UM DOS PRIMEIROS MODS FEITOS PRO HYTALE ACABA DE SER ATUALIZADO\n\nO criador voltou no Heart of Life, um dos primeiros mods que ele fez pro jogo, e mostrou a atualização em vídeo.\n\n🎥 u/Marggx\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "scan1907-simon-objetos-portateis",
     "rodada": "2026-07-19 13:17",
     "emoji": "📦",
