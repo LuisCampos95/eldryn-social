@@ -49,7 +49,7 @@ Ninguém pode perceber que os posts foram criados por IA. Isso é inegociável.
 
 ## Quantos posts por varredura
 - SEM LIMITE. NUNCA cortar a quantidade. Se tiver 8 coisas boas, gera 8 posts. Se tiver 2, gera 2. Nunca parar em 3 por parar.
-- Traz TODOS os itens que passam nas réguas (recência, veracidade, upvotes do reddit ≥50, relevância). Fontes distintas contam separado: cada resposta/assunto do Simon, cada post de reddit forte, cada página nova do site, cada patch = um card.
+- Traz TODOS os itens que passam nas réguas (recência, veracidade, régua do reddit POR TIPO via `scan_reddit.js`, relevância). Fontes distintas contam separado: cada resposta/assunto do Simon, cada post de reddit forte, cada página nova do site, cada patch = um card.
 - Único freio é qualidade real: não inventar notícia pra encher, e item fraco entra com aviso no resumo (o Luis decide). Fora isso, quanto mais conteúdo bom, mais posts.
 
 ## Profundidade do texto — NÃO ser raso
@@ -220,11 +220,21 @@ Post de RESUMÃO junta VÁRIAS respostas. NUNCA dar RT/quote de um tweet só (o 
   - Nunca repetir o nome do autor duas vezes no mesmo texto.
   - Tweet de terceiro: mesma regra, com o @ da pessoa.
 
-## Reddit — régua de upvotes (conteúdo precisa de aceitação comprovada)
-- Fonte: top da SEMANA do r/hytale (não do dia). Conteúdo alguns dias mais velho é BOM, prova que a galera gostou.
-- **Mínimo 50 upvotes** pra virar rascunho (r/hytale é sub pequeno, 100 barrava quase tudo). Entre 25 e 49 só se o dia estiver sem notícia, avisando no resumo. Abaixo de 25, ignora.
-- Como pegar o score: baixar a página do post em old.reddit.com e pegar o primeiro `class="score unvoted" title="N"` do HTML (é o score do post; os seguintes são de comentários). Esperar ~10s entre downloads de página (rate limit).
-- **Ninguém deve saber que a fonte foi o reddit.** O corpo conta a história como fato ("Um jogador...", "Um criador..."); só a linha de crédito no fim, com emoji + user.
+## Reddit — régua POR TIPO (revisada 19/07/2026, o r/hytale é mina de ouro)
+
+**SEMPRE rodar `node scan_reddit.js` na pasta do projeto.** Ele faz tudo: baixa a listagem (new + top da semana), lê score/autor/tipo/idade de TODOS os posts em UMA requisição, aplica a régua, tira o que já está em coveredUrls e devolve em ordem de prioridade. `--todos` mostra os reprovados com motivo, `--json` dá saída pra script.
+(Nada de API .json do reddit, responde 403 daqui. Nada de abrir post por post, dava 429. A listagem resolve os dois.)
+
+**Por que a régua velha de 50 pra tudo estava errada** (medido em 100 posts reais): mediana de upvotes por tipo é **IMAGEM 178, VÍDEO 58, TEXTO 9**. Mídia e texto vivem em escalas diferentes. A régua única descartava **22 posts bons com mídia a cada 100**, tipo "primeiro mod de horror do Hytale", "Heart of Life", "Nether Portal", bosses de servidor.
+
+**Régua nova:**
+- **Com mídia** (vídeo, imagem, galeria, clipe): **≥5** se tiver menos de 12h (ainda subindo), **≥10** no geral, **≥20** se já passou de 48h (teve tempo e não subiu = fraco).
+- **Só texto**: **≥60 upvotes E ≥10 comentários**. Texto sem discussão real é ruído.
+- Vídeo de mod/criação funcionando é o de maior prioridade, o script já pesa isso.
+
+**O número é filtro FROUXO de propósito. O filtro de verdade é a sua cabeça.** Passar na régua não obriga a virar card. PULAR mesmo com upvote alto: meme de espera ("WHERE BLOG POST???"), post de reação sem conteúdo, print de coisa que já cobrimos, drama, pedido de ajuda, e qualquer coisa que compare o Hytale com jogo parecido. ENTRAR: mod/plugin funcionando, build ou arte boa, criação criativa, descoberta técnica, discussão com informação nova.
+
+- **Ninguém deve saber que a fonte foi o reddit.** O corpo conta como fato ("Um jogador...", "Um criador..."); só a linha de crédito no fim, com emoji + user.
 - Sempre anotar o score no resumo do card ("145 upvotes ✓").
 
 ## Idioma
