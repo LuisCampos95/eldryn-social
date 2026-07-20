@@ -27,6 +27,9 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 **Teste antes de salvar:** dá pra cortar alguma frase sem perder INFORMAÇÃO? Se dá, corta. Se a frase só serve pra dizer que é legal, corta.
 
+**⏰ NUNCA escrever "hoje", "agora há pouco", "acabou de sair" no texto do post.** O rascunho fica no painel e o Luis pode postar horas ou dias depois, então a data vira mentira sozinha. Já aconteceu, o card do patch de segurança dizia "entrou hoje" e no dia seguinte estava errado. Usar o dia da semana ou a data ("no domingo", "na quinta (17/07)"). "Hoje" só é permitido no TÍTULO do card, que é uso interno do painel.
+**Fuso:** carimbo de rodada e cálculo de data SEMPRE via Node (`new Date().toLocaleString('sv-SE', { timeZone: 'America/Sao_Paulo' })`). NÃO usar `TZ='America/Sao_Paulo' date` no bash do Windows, o TZ é ignorado e ele devolve UTC (3h a mais), o que já quase virou erro de data.
+
 Estilo baseado em @OrbisHytale (página do Luis). Referências de formato (NUNCA copiar texto delas): @CentralHytaleBR e @HytaleAlerts.
 
 ## ANTI-PLÁGIO — medo número 1 do Luis

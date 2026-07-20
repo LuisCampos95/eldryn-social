@@ -6,10 +6,135 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan2007-goblin-breaches",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "🌀",
+    "titulo": "[OFICIAL • destaque] Goblin breaches no Capítulo 1, fendas que abrem no seu mundo (VÍDEO 0:50)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079222604603195800",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, post do Simon com VÍDEO de 50s (2 mil curtidas, 56 mil views). Fatos literais: 'Goblin breaches are coming to Chapter 1'. O vídeo mostra 3 coisas, uma fenda goblin abrindo no mundo do jogador rodando World Gen V1, um portal levando a um mundo goblin rodando World Gen V2, e uma dungeon goblin em mundo instanciado próprio. Contexto dado por ele, o jogo ainda está no V1, então portais são a forma de entregar conteúdo sem pedir pra regenerar mundo ou achar chunks novos, mesma ideia do Ancient Gateway; breaches invertem a lógica, o conteúdo vai até o jogador. Frase de fecho literal: 'Hytale should feel like an open world, not a portal game'. Durante o Early Access vão usar muito portal, depois do V2 usarão com mais parcimônia.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2079222604603195800",
+      "tweetId": "2079222604603195800",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "tweetTexto": "Goblin breaches are coming to Chapter 1! This video shows three things, a goblin breach opens in your world on World Gen V1, a portal takes you to a goblin world running World Gen V2, and we also have a goblin dungeon in its own instanced world. (traducao do X)",
+      "nota": "VÍDEO 0:50 mostrando fenda, portal e dungeon. No X, quote/RT do Simon. No Meta, baixar o vídeo e postar com a legenda."
+    },
+    "twitter": "🌀 O CAPÍTULO 1 VAI TER GOBLIN BREACHES, FENDAS QUE ABREM DENTRO DO SEU PRÓPRIO MUNDO\n\nO Simon mostrou em vídeo três coisas. Uma fenda goblin abrindo no seu mundo atual, um portal levando pra um mundo goblin já rodando o gerador novo, e uma dungeon goblin em mundo separado.\n\nEle explicou o motivo. O jogo ainda roda no gerador antigo, então os portais são o jeito de entregar conteúdo novo sem obrigar ninguém a regenerar o mundo ou sair caçando chunk novo. Com as fendas, em vez de você procurar o conteúdo, o conteúdo aparece perto de você.\n\nO Simon avisou que vão usar bastante portal durante o Early Access, mas que a mão vai ser mais leve depois que o gerador novo virar o mundo de verdade, porque nas palavras dele o Hytale tem que parecer mundo aberto e não um jogo de portal.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌀 O CAPÍTULO 1 VAI TER GOBLIN BREACHES, FENDAS QUE ABREM DENTRO DO SEU PRÓPRIO MUNDO\n\nO Simon mostrou em vídeo três coisas. Uma fenda goblin abrindo no seu mundo atual, um portal levando pra um mundo goblin já rodando o gerador novo, e uma dungeon goblin em mundo separado.\n\nEle explicou o motivo. O jogo ainda roda no gerador antigo, então os portais são o jeito de entregar conteúdo novo sem obrigar ninguém a regenerar o mundo ou sair caçando chunk novo. Com as fendas, em vez de você procurar o conteúdo, o conteúdo aparece perto de você.\n\nO Simon avisou que vão usar bastante portal durante o Early Access, mas que a mão vai ser mais leve depois que o gerador novo virar o mundo de verdade, porque nas palavras dele o Hytale tem que parecer mundo aberto e não um jogo de portal.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "scan2007-alex-engine-dev",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "👨‍💻",
+    "titulo": "[OFICIAL • hoje] Contribuidor da comunidade (@MelodicAlbuild) é contratado como Engine Developer do Hytale",
+    "fonte": "https://x.com/MelodicAlbuild/status/2079242787828965831",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CONFIRMADO na bio dele ('Engine Developer @Hytale') e pelo Simon respondendo 'Welcome to the team! LET'S GO!'. Texto literal do Alex: 'From bothering @ZeroErrors to being asked to join the team, Happy to say I've joined the @Hytale Development Team as an Engine Developer'. 250 curtidas. Fecha o ciclo com duas notícias que já cobrimos, ele é um dos contribuidores creditados nas patch notes (MelodicAlbuild e Eearslya) e é uma das duas contratações anunciadas pelo slikey em 17/07 (Sound Design e Engine). Boa história, voluntário da comunidade virou funcionário.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/MelodicAlbuild/status/2079242787828965831",
+      "tweetId": "2079242787828965831",
+      "tweetAutor": "Alex · @MelodicAlbuild",
+      "tweetTexto": "De encher o saco do @ZeroErrors a ser convidado pro time. Feliz em dizer que entrei pro time de desenvolvimento do @Hytale como Engine Developer. (traducao do X)",
+      "nota": "Post com a arte do logo do Hytale. No X, quote/RT do Alex marcando ele. No Meta, usar a imagem do post. Crédito 📷 @MelodicAlbuild."
+    },
+    "twitter": "👨‍💻 UM CARA DA COMUNIDADE QUE AJUDAVA DE GRAÇA FOI CONTRATADO PELO HYTALE\n\nO Alex já vinha mandando correções e melhorias que apareceram creditadas nas notas de atualização do jogo. Agora ele entrou oficialmente no time como desenvolvedor de engine, e o Simon respondeu dando as boas-vindas.\n\nÉ uma das duas contratações que o diretor técnico tinha anunciado, uma pra som e outra pra engine.\n\n📷 @MelodicAlbuild\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👨‍💻 UM CARA DA COMUNIDADE QUE AJUDAVA DE GRAÇA FOI CONTRATADO PELO HYTALE\n\nO Alex já vinha mandando correções e melhorias que apareceram creditadas nas notas de atualização do jogo. Agora ele entrou oficialmente no time como desenvolvedor de engine, e o Simon respondeu dando as boas-vindas.\n\nÉ uma das duas contratações que o diretor técnico tinha anunciado, uma pra som e outra pra engine.\n\n📷 @MelodicAlbuild\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007-tavern-mytale",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "🏛️",
+    "titulo": "[COMUNIDADE • 277 upvotes] Taverna construída no Hytale (277 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v1avx9/tavern_mytale/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 277 upvotes ✓. Crédito 📷 u/GreenMatias370. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1v1avx9/tavern_mytale/",
+      "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 📷 u/GreenMatias370."
+    },
+    "twitter": "🏛️ CONSTRUÍRAM UMA TAVERNA NO HYTALE QUE PARECE SAÍDA DE UM RPG DE MESA\n\nUm construtor da comunidade mostrou a taverna que ergueu no jogo, com estrutura em madeira e pedra e acabamento nos mínimos detalhes.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏛️ CONSTRUÍRAM UMA TAVERNA NO HYTALE QUE PARECE SAÍDA DE UM RPG DE MESA\n\nUm construtor da comunidade mostrou a taverna que ergueu no jogo, com estrutura em madeira e pedra e acabamento nos mínimos detalhes.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007-runeteria-projeto",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "✨",
+    "titulo": "[COMUNIDADE • 153 upvotes] Primeiro projeto de novo integrante do time Runeteria (153 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v0zf7b/my_first_project_since_joining_the_runeteria_team/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 153 upvotes ✓. Crédito 🎥 u/Alechilles. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v0zf7b/my_first_project_since_joining_the_runeteria_team/",
+      "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 🎥 u/Alechilles."
+    },
+    "twitter": "✨ ELE ENTROU PRO TIME DO RUNETERIA E JÁ MOSTROU O PRIMEIRO TRABALHO EM VÍDEO\n\nO criador contou que esse é o primeiro projeto dele desde que entrou no time do Runeteria, o mesmo mod de magia que o Simon elogiou dias atrás.\n\n🎥 u/Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "✨ ELE ENTROU PRO TIME DO RUNETERIA E JÁ MOSTROU O PRIMEIRO TRABALHO EM VÍDEO\n\nO criador contou que esse é o primeiro projeto dele desde que entrou no time do Runeteria, o mesmo mod de magia que o Simon elogiou dias atrás.\n\n🎥 u/Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007-mods-da-semana",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "🧩",
+    "titulo": "[COMUNIDADE • 108 upvotes] Compilado com os mods da semana (108 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v1mcwb/mods_of_the_week_in_hytale/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 108 upvotes ✓. Crédito 🎥 u/CptJonah. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v1mcwb/mods_of_the_week_in_hytale/",
+      "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 🎥 u/CptJonah."
+    },
+    "twitter": "🧩 SAIU UM COMPILADO COM OS MELHORES MODS DA SEMANA DO HYTALE\n\nUm criador juntou num vídeo só os mods que mais chamaram atenção nos últimos dias, pra quem quer se achar no meio de tanta coisa nova.\n\n🎥 u/CptJonah\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧩 SAIU UM COMPILADO COM OS MELHORES MODS DA SEMANA DO HYTALE\n\nUm criador juntou num vídeo só os mods que mais chamaram atenção nos últimos dias, pra quem quer se achar no meio de tanta coisa nova.\n\n🎥 u/CptJonah\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007-combos-mod",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "⚔️",
+    "titulo": "[COMUNIDADE • 99 upvotes] Combos de combate com mod (99 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v0rc1s/mod_some_combos_i_was_practicing/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 99 upvotes ✓. Crédito 📷 u/TheCyberSlade. Nunca dizer no corpo que a fonte foi o reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1v0rc1s/mod_some_combos_i_was_practicing/",
+      "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 📷 u/TheCyberSlade."
+    },
+    "twitter": "⚔️ UM JOGADOR TÁ TREINANDO COMBOS DE COMBATE COM MOD NO HYTALE\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM JOGADOR TÁ TREINANDO COMBOS DE COMBATE COM MOD NO HYTALE\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "eng-og-17-portal-mundo-aberto",
+    "rodada": "2026-07-20 18:39",
+    "emoji": "💬",
+    "titulo": "[ENGAJAMENTO] \"Mundo aberto, não jogo de portal\"",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079222604603195800",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "Take em cima da fala do Simon sobre usar portal como muleta até o gerador novo ficar pronto, e a promessa de aliviar depois. Mostra que ele pensa no problema antes da galera reclamar.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Tweet só texto (engajamento)."
+    },
+    "twitter": "O Simon falou que vai usar bastante portal no Hytale só até o gerador novo ficar pronto, porque o jogo tem que parecer mundo aberto e não jogo de portal. Achei bom demais ele já admitir isso antes da galera começar a reclamar #Hytale",
+    "meta": ""
+  },
+  {
     "id": "patch1907-seguranca-cliente",
     "rodada": "2026-07-19 19:30",
     "emoji": "🔒",
-    "titulo": "[PATCH • hoje 19/07] Correção de falha de segurança no cliente do Hytale (servidores precisam atualizar)",
+    "titulo": "[PATCH • domingo 19/07] Correção de falha de segurança no cliente do Hytale (servidores precisam atualizar)",
     "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
     "fonteData": "19/07/2026",
     "confiabilidade": "oficial",
@@ -19,8 +144,8 @@ window.ELDRYN_POSTS = [
       "url": "https://cdn.hytale.com/variants/blog_cover_9bd9b4049de8ead4b748003e7c48f604_summer_2022_development_update_header.jpg",
       "nota": "Sem mídia oficial específica. Sugestão, print da linha nova das notas (19 de julho) ou arte do jogo. Post curto e direto, é aviso de serviço."
     },
-    "twitter": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou hoje nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou hoje nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "eng-og-16-2fa-capa",
