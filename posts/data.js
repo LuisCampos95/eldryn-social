@@ -6,6 +6,82 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x2107-hydekit",
+    "rodada": "2026-07-21 16:32",
+    "emoji": "🛠️",
+    "titulo": "[X] Hydekit, editor de assets independente",
+    "fonte": "https://x.com/rawafelo/status/2079361012155695236",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "DA BUSCA DO TWITTER. Ferramenta independente de criação de assets, notícia grande pra quem faz mod. O Luis postou esse na mão porque a varredura não pegou. Crédito 📷 @rawafelo.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/rawafelo/status/2079361012155695236",
+      "tweetAutor": "@rawafelo",
+      "tweetTexto": "Passei os últimos meses tentando juntar a criação de assets do @Hytale num lugar só. O Hydekit é um editor independente para modelos, texturas, UVs, materiais, animação e som. Está pronto para os primeiros usuários. (traducao do X)",
+      "nota": "Post com mídia do editor. No X, quote/RT marcando @rawafelo. No Meta, usar a imagem/vídeo do post."
+    },
+    "twitter": "🛠️ CRIARAM UM EDITOR DE ASSETS COMPLETO PRO HYTALE\n\nChama Hydekit e junta num programa só a criação de modelo, textura, UV, material, animação e som. O criador passou meses nisso e liberou pros primeiros usuários, dizendo que quer o retorno deles pra decidir o que vem depois.\n\n📷 @rawafelo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛠️ CRIARAM UM EDITOR DE ASSETS COMPLETO PRO HYTALE\n\nChama Hydekit e junta num programa só a criação de modelo, textura, UV, material, animação e som. O criador passou meses nisso e liberou pros primeiros usuários, dizendo que quer o retorno deles pra decidir o que vem depois.\n\n📷 @rawafelo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x2107-fisica-rapier",
+    "rodada": "2026-07-21 16:32",
+    "emoji": "⚙️",
+    "titulo": "[X] Física no Hytale com a engine Rapier",
+    "fonte": "https://x.com/LionPaYT/status/2079565321514496306",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "DA BUSCA DO TWITTER. Teste técnico de física com engine externa. O Luis postou esse na mão porque a varredura não pegou. Crédito 🎥 @LionPaYT.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/LionPaYT/status/2079565321514496306",
+      "tweetAutor": "@LionPaYT",
+      "tweetTexto": "Primeiros testes de física no Hytale usando a engine Rapier do Rust! As colisões com o mundo ainda não estão funcionando, mas estão em progresso. (traducao do X)",
+      "nota": "VÍDEO dos testes. No X, quote/RT marcando @LionPaYT. No Meta, baixar o vídeo."
+    },
+    "twitter": "⚙️ UM PROGRAMADOR ESTÁ TESTANDO FÍSICA DE VERDADE NO HYTALE\n\nEle mostrou os primeiros testes usando a Rapier, uma engine de física feita em Rust. A colisão com o mundo ainda não funciona, e ele avisou que segue trabalhando nisso.\n\n🎥 @LionPaYT\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚙️ UM PROGRAMADOR ESTÁ TESTANDO FÍSICA DE VERDADE NO HYTALE\n\nEle mostrou os primeiros testes usando a Rapier, uma engine de física feita em Rust. A colisão com o mundo ainda não funciona, e ele avisou que segue trabalhando nisso.\n\n🎥 @LionPaYT\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x2107-moar-furniture",
+    "rodada": "2026-07-21 16:32",
+    "emoji": "🪑",
+    "titulo": "[X] Mod de mobília perto de 6 mil downloads",
+    "fonte": "https://x.com/RedGindew",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "DA BUSCA DO TWITTER. Marca de downloads de um mod da comunidade. Tinha só 1 curtida no X, exatamente o tipo de post que o filtro de curtidas cortava. Crédito 📷 @RedGindew.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/RedGindew",
+      "tweetAutor": "@RedGindew",
+      "tweetTexto": "O Moar Furniture está quase em 6000 downloads! Muito obrigada a todos por brincarem com a minha mobília esquisita! (traducao do X)",
+      "nota": "Post com print do contador de downloads e imagem do mod. No X, quote/RT marcando @RedGindew. No Meta, usar a imagem."
+    },
+    "twitter": "🪑 MOD DE MOBÍLIA CHEGANDO EM 6 MIL DOWNLOADS\n\nA criadora do Moar Furniture comemorou a marca e agradeceu quem usa. Ela contou que o Hytale tomou conta da vida dela e que se diverte fazendo conjunto de móvel e item aleatório.\n\n📷 @RedGindew\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪑 MOD DE MOBÍLIA CHEGANDO EM 6 MIL DOWNLOADS\n\nA criadora do Moar Furniture comemorou a marca e agradeceu quem usa. Ela contou que o Hytale tomou conta da vida dela e que se diverte fazendo conjunto de móvel e item aleatório.\n\n📷 @RedGindew\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x2107-astryx-pets",
+    "rodada": "2026-07-21 16:32",
+    "emoji": "🐕",
+    "titulo": "[X] Mod de pets com pinscher de combate",
+    "fonte": "https://x.com/AstryxWorld",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "DA BUSCA DO TWITTER. Mod de pets em desenvolvimento. Também tinha engajamento baixo no X. Crédito 📷 @AstryxWorld.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/AstryxWorld",
+      "tweetAutor": "@AstryxWorld",
+      "tweetTexto": "Novo pet de combate Pinscher para o nosso futuro mod de pets (traducao do X)",
+      "nota": "Post com imagem do pet. No X, quote/RT marcando @AstryxWorld. No Meta, usar a imagem."
+    },
+    "twitter": "🐕 VEM AÍ UM MOD DE PETS DE COMBATE PRO HYTALE\n\nO time do Astryx World mostrou o pinscher, um dos bichos de combate do mod de pets que estão preparando.\n\n📷 @AstryxWorld\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐕 VEM AÍ UM MOD DE PETS DE COMBATE PRO HYTALE\n\nO time do Astryx World mostrou o pinscher, um dos bichos de combate do mod de pets que estão preparando.\n\n📷 @AstryxWorld\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x2107-void-arena",
     "rodada": "2026-07-21 10:33",
     "emoji": "🌌",
@@ -21,8 +97,8 @@ window.ELDRYN_POSTS = [
       "tweetTexto": "Prévia de um cenário que fiz para a futura arena do vazio, estilo rogue-like, do Runeteria! (traducao do X)",
       "nota": "VÍDEO. No X, quote/RT marcando @draakkin_. No Meta, baixar o vídeo e publicar creditando @draakkin_."
     },
-    "twitter": "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE\n\nO criador soltou uma prévia em vídeo do cenário que fez pra arena do vazio do Runeteria, o mesmo projeto de magia que o Simon elogiou dias atrás.\n\n🎥 @draakkin_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE\n\nO criador soltou uma prévia em vídeo do cenário que fez pra arena do vazio do Runeteria, o mesmo projeto de magia que o Simon elogiou dias atrás.\n\n🎥 @draakkin_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🌌 ARENA FLUTUANDO NO VAZIO NO HYTALE\n\nO criador soltou uma prévia em vídeo do cenário que fez pra arena do vazio do Runeteria, o mesmo projeto de magia que o Simon elogiou dias atrás.\n\n🎥 @draakkin_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌌 ARENA FLUTUANDO NO VAZIO NO HYTALE\n\nO criador soltou uma prévia em vídeo do cenário que fez pra arena do vazio do Runeteria, o mesmo projeto de magia que o Simon elogiou dias atrás.\n\n🎥 @draakkin_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "x2107-labirinto-dia160",
@@ -40,8 +116,8 @@ window.ELDRYN_POSTS = [
       "tweetTexto": "Eu adiciono coisas novas no meu mod de labirinto do Hytale todo dia! Dia 160 (traducao do X)",
       "nota": "VÍDEO. No X, quote/RT marcando @lunaronin777. No Meta, baixar o vídeo e publicar creditando @lunaronin777."
     },
-    "twitter": "🧱 TEM UM CRIADOR QUE ADICIONA ALGO NOVO NO MOD DELE DE HYTALE TODO SANTO DIA HÁ 160 DIAS\n\nEle mantém um mod de labirinto e publica a novidade de cada dia em vídeo curto. O contador já passou do dia 160.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🧱 TEM UM CRIADOR QUE ADICIONA ALGO NOVO NO MOD DELE DE HYTALE TODO SANTO DIA HÁ 160 DIAS\n\nEle mantém um mod de labirinto e publica a novidade de cada dia em vídeo curto. O contador já passou do dia 160.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🧱 160 DIAS SEGUIDOS MEXENDO NO MESMO MOD\n\nEle mantém um mod de labirinto e publica a novidade de cada dia em vídeo curto. O contador já passou do dia 160.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧱 160 DIAS SEGUIDOS MEXENDO NO MESMO MOD\n\nEle mantém um mod de labirinto e publica a novidade de cada dia em vídeo curto. O contador já passou do dia 160.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2107-mundo-genv2",
@@ -58,8 +134,8 @@ window.ELDRYN_POSTS = [
       "semRT": true,
       "nota": "Resposta de texto. Melhor mídia, print traduzido da resposta dele, ou a imagem do mapa de Orbis que apareceu na pergunta."
     },
-    "twitter": "🌍 VOCÊ NÃO VAI PERDER SEU MUNDO QUANDO O GERADOR NOVO DO HYTALE CHEGAR\n\nPerguntaram pro Simon se vale a pena começar um mundo agora, já que o World Gen V2 está vindo. Ele respondeu que estão planejando dar opções pra ir pro mundo novo e também voltar pro mundo antigo, mas que vai ter limitação no que dá pra fazer e no que dá pra levar de um pro outro.\n\nEle avisou também que o World Gen V2 vai ser muito, muito diferente do gerador atual.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🌍 VOCÊ NÃO VAI PERDER SEU MUNDO QUANDO O GERADOR NOVO DO HYTALE CHEGAR\n\nPerguntaram pro Simon se vale a pena começar um mundo agora, já que o World Gen V2 está vindo. Ele respondeu que estão planejando dar opções pra ir pro mundo novo e também voltar pro mundo antigo, mas que vai ter limitação no que dá pra fazer e no que dá pra levar de um pro outro.\n\nEle avisou também que o World Gen V2 vai ser muito, muito diferente do gerador atual.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🌍 VOCÊ NÃO VAI PERDER SEU MUNDO NO GERADOR NOVO\n\nPerguntaram pro Simon se vale a pena começar um mundo agora, já que o World Gen V2 está vindo. Ele respondeu que estão planejando dar opções pra ir pro mundo novo e também voltar pro mundo antigo, mas que vai ter limitação no que dá pra fazer e no que dá pra levar de um pro outro.\n\nEle avisou também que o World Gen V2 vai ser muito, muito diferente do gerador atual.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌍 VOCÊ NÃO VAI PERDER SEU MUNDO NO GERADOR NOVO\n\nPerguntaram pro Simon se vale a pena começar um mundo agora, já que o World Gen V2 está vindo. Ele respondeu que estão planejando dar opções pra ir pro mundo novo e também voltar pro mundo antigo, mas que vai ter limitação no que dá pra fazer e no que dá pra levar de um pro outro.\n\nEle avisou também que o World Gen V2 vai ser muito, muito diferente do gerador atual.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2107-runas-sem-gear",
@@ -76,8 +152,8 @@ window.ELDRYN_POSTS = [
       "semRT": true,
       "nota": "Resposta de texto. Melhor mídia, print traduzido da resposta ou a imagem oficial das runas do blog do Capítulo 1."
     },
-    "twitter": "🔮 AS RUNAS DO HYTALE NÃO VÃO FICAR EM ARMA NEM EM ARMADURA\n\nPerguntaram ao Simon se daria pra encaixar runa no equipamento, tipo uma runa de ar no elmo pra respirar embaixo d'água. Ele respondeu que runa não vai em equipamento nem em arma, porque não querem criar uma meta de ficar trocando de item o tempo todo.\n\nEle também citou as habilidades de runa como uma das partes que mais o empolgam no que vem por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🔮 AS RUNAS DO HYTALE NÃO VÃO FICAR EM ARMA NEM EM ARMADURA\n\nPerguntaram ao Simon se daria pra encaixar runa no equipamento, tipo uma runa de ar no elmo pra respirar embaixo d'água. Ele respondeu que runa não vai em equipamento nem em arma, porque não querem criar uma meta de ficar trocando de item o tempo todo.\n\nEle também citou as habilidades de runa como uma das partes que mais o empolgam no que vem por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🔮 RUNAS NÃO VÃO EM ARMA NEM ARMADURA\n\nPerguntaram ao Simon se daria pra encaixar runa no equipamento, tipo uma runa de ar no elmo pra respirar embaixo d'água. Ele respondeu que runa não vai em equipamento nem em arma, porque não querem criar uma meta de ficar trocando de item o tempo todo.\n\nEle também citou as habilidades de runa como uma das partes que mais o empolgam no que vem por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔮 RUNAS NÃO VÃO EM ARMA NEM ARMADURA\n\nPerguntaram ao Simon se daria pra encaixar runa no equipamento, tipo uma runa de ar no elmo pra respirar embaixo d'água. Ele respondeu que runa não vai em equipamento nem em arma, porque não querem criar uma meta de ficar trocando de item o tempo todo.\n\nEle também citou as habilidades de runa como uma das partes que mais o empolgam no que vem por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2107-simon-resumao2",
@@ -94,8 +170,8 @@ window.ELDRYN_POSTS = [
       "semRT": true,
       "nota": "RESUMÃO de várias falas, NÃO dar RT de tweet único."
     },
-    "twitter": "🚨 O SIMON PASSOU A NOITE RESPONDENDO A COMUNIDADE E SOLTOU MUITA COISA SOBRE O FUTURO DO HYTALE\n\n🔹 Perguntaram se vale a pena criar um mundo novo agora ou esperar. Ele respondeu que vale jogar os capítulos do early access, porque eles podem sumir depois de cumprirem o papel deles, mas que quem consegue esperar deveria começar o mundo mesmo no Capítulo 3\n🔹 O jogo está passando por uma reescrita completa do renderizador, o que deve trazer bastante melhoria. Ele avisou que é um trabalho enorme e que não tem prazo nenhum pra isso\n🔹 Sobre a durabilidade dos itens, ele foi direto e disse que o sistema atual está ruim e vai ser refeito mais pra frente\n🔹 Perguntaram se o modo aventura vai ter classes prontas, tipo guerreiro e mago. Ele disse que não vai precisar de classe, porque o sistema novo de habilidades já cobre esse papel\n🔹 Um jogador pediu pra não colocarem voo livre, dizendo que isso estraga o jogo. O Simon concordou, e disse que voar deve ficar liberado só dentro de masmorras e instâncias mais pra frente\n🔹 Ele quer melhorar bastante os itens e o loot, mas avisou que essa parte leva tempo\n🔹 Perguntaram se as ferramentas de machinima servem só pra replay e timelapse. Ele confirmou que dá pra fazer filme de verdade com elas\n🔹 Todos os capítulos do jogo vão ter masmorras\n🔹 Vão existir modos de PvP, mas ele ainda não garante nada competitivo\n🔹 O canal do YouTube volta a ficar ativo quando o Capítulo 1 estiver perto, porque por enquanto ele nem quer que as pessoas venham conhecer o jogo ainda\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🚨 O SIMON PASSOU A NOITE RESPONDENDO A COMUNIDADE E SOLTOU MUITA COISA SOBRE O FUTURO DO HYTALE\n\n🔹 Perguntaram se vale a pena criar um mundo novo agora ou esperar. Ele respondeu que vale jogar os capítulos do early access, porque eles podem sumir depois de cumprirem o papel deles, mas que quem consegue esperar deveria começar o mundo mesmo no Capítulo 3\n🔹 O jogo está passando por uma reescrita completa do renderizador, o que deve trazer bastante melhoria. Ele avisou que é um trabalho enorme e que não tem prazo nenhum pra isso\n🔹 Sobre a durabilidade dos itens, ele foi direto e disse que o sistema atual está ruim e vai ser refeito mais pra frente\n🔹 Perguntaram se o modo aventura vai ter classes prontas, tipo guerreiro e mago. Ele disse que não vai precisar de classe, porque o sistema novo de habilidades já cobre esse papel\n🔹 Um jogador pediu pra não colocarem voo livre, dizendo que isso estraga o jogo. O Simon concordou, e disse que voar deve ficar liberado só dentro de masmorras e instâncias mais pra frente\n🔹 Ele quer melhorar bastante os itens e o loot, mas avisou que essa parte leva tempo\n🔹 Perguntaram se as ferramentas de machinima servem só pra replay e timelapse. Ele confirmou que dá pra fazer filme de verdade com elas\n🔹 Todos os capítulos do jogo vão ter masmorras\n🔹 Vão existir modos de PvP, mas ele ainda não garante nada competitivo\n🔹 O canal do YouTube volta a ficar ativo quando o Capítulo 1 estiver perto, porque por enquanto ele nem quer que as pessoas venham conhecer o jogo ainda\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🚨 O SIMON RESPONDEU MEIO MUNDO SOBRE O FUTURO DO HYTALE\n\n🔹 Perguntaram se vale a pena criar um mundo novo agora ou esperar. Ele respondeu que vale jogar os capítulos do early access, porque eles podem sumir depois de cumprirem o papel deles, mas que quem consegue esperar deveria começar o mundo mesmo no Capítulo 3\n🔹 O jogo está passando por uma reescrita completa do renderizador, o que deve trazer bastante melhoria. Ele avisou que é um trabalho enorme e que não tem prazo nenhum pra isso\n🔹 Sobre a durabilidade dos itens, ele foi direto e disse que o sistema atual está ruim e vai ser refeito mais pra frente\n🔹 Perguntaram se o modo aventura vai ter classes prontas, tipo guerreiro e mago. Ele disse que não vai precisar de classe, porque o sistema novo de habilidades já cobre esse papel\n🔹 Um jogador pediu pra não colocarem voo livre, dizendo que isso estraga o jogo. O Simon concordou, e disse que voar deve ficar liberado só dentro de masmorras e instâncias mais pra frente\n🔹 Ele quer melhorar bastante os itens e o loot, mas avisou que essa parte leva tempo\n🔹 Perguntaram se as ferramentas de machinima servem só pra replay e timelapse. Ele confirmou que dá pra fazer filme de verdade com elas\n🔹 Todos os capítulos do jogo vão ter masmorras\n🔹 Vão existir modos de PvP, mas ele ainda não garante nada competitivo\n🔹 O canal do YouTube volta a ficar ativo quando o Capítulo 1 estiver perto, porque por enquanto ele nem quer que as pessoas venham conhecer o jogo ainda\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚨 O SIMON RESPONDEU MEIO MUNDO SOBRE O FUTURO DO HYTALE\n\n🔹 Perguntaram se vale a pena criar um mundo novo agora ou esperar. Ele respondeu que vale jogar os capítulos do early access, porque eles podem sumir depois de cumprirem o papel deles, mas que quem consegue esperar deveria começar o mundo mesmo no Capítulo 3\n🔹 O jogo está passando por uma reescrita completa do renderizador, o que deve trazer bastante melhoria. Ele avisou que é um trabalho enorme e que não tem prazo nenhum pra isso\n🔹 Sobre a durabilidade dos itens, ele foi direto e disse que o sistema atual está ruim e vai ser refeito mais pra frente\n🔹 Perguntaram se o modo aventura vai ter classes prontas, tipo guerreiro e mago. Ele disse que não vai precisar de classe, porque o sistema novo de habilidades já cobre esse papel\n🔹 Um jogador pediu pra não colocarem voo livre, dizendo que isso estraga o jogo. O Simon concordou, e disse que voar deve ficar liberado só dentro de masmorras e instâncias mais pra frente\n🔹 Ele quer melhorar bastante os itens e o loot, mas avisou que essa parte leva tempo\n🔹 Perguntaram se as ferramentas de machinima servem só pra replay e timelapse. Ele confirmou que dá pra fazer filme de verdade com elas\n🔹 Todos os capítulos do jogo vão ter masmorras\n🔹 Vão existir modos de PvP, mas ele ainda não garante nada competitivo\n🔹 O canal do YouTube volta a ficar ativo quando o Capítulo 1 estiver perto, porque por enquanto ele nem quer que as pessoas venham conhecer o jogo ainda\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2007c-simon-fio-resumao",
@@ -114,8 +190,8 @@ window.ELDRYN_POSTS = [
       "semRT": true,
       "nota": "RESUMÃO de várias falas, NÃO dar RT de um tweet só. Melhor mídia, o VÍDEO das rocket boots (x.com/Simon_Hypixel/status/2079370437511860678) ou a imagem da área nova do post de abertura do fio."
     },
-    "twitter": "🚨 O SIMON ABRIU UM FIO DE PERGUNTAS E RESPONDEU MEIO MUNDO SOBRE O FUTURO DO HYTALE\n\n🔹 O Capítulo 1 segue previsto pra daqui 2 a 3 meses\n🔹 Assim que ele souber a data exata, vai publicar um teaser ou trailer do capítulo\n🔹 As botas de foguete estão confirmadas pro Capítulo 1, e a justificativa que ele deu foi simplesmente porque é divertido\n🔹 Os Capítulos 2 e 3 já têm recursos e temas travados, e ele acha que o 3 vai ser o favorito dele\n🔹 Coisa de MMO como buscador de dungeon e guilda não está nos planos, por causa do desafio técnico e da parte de anti-cheat\n🔹 Mas ele disse que servidores conseguem fazer isso tranquilo, e que quer explorar mecânicas com pegada de MMO mais pra frente\n🔹 A reação ao blog do Capítulo 1 foi melhor do que ele esperava, e isso confirmou pra equipe que dá pra ousar mais nos elementos de RPG\n🔹 Ele avisou que o jogo vai mudar drasticamente nos próximos meses e anos, e que esse é o caminho mais difícil, mas o certo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🚨 O SIMON ABRIU UM FIO DE PERGUNTAS E RESPONDEU MEIO MUNDO SOBRE O FUTURO DO HYTALE\n\n🔹 O Capítulo 1 segue previsto pra daqui 2 a 3 meses\n🔹 Assim que ele souber a data exata, vai publicar um teaser ou trailer do capítulo\n🔹 As botas de foguete estão confirmadas pro Capítulo 1, e a justificativa que ele deu foi simplesmente porque é divertido\n🔹 Os Capítulos 2 e 3 já têm recursos e temas travados, e ele acha que o 3 vai ser o favorito dele\n🔹 Coisa de MMO como buscador de dungeon e guilda não está nos planos, por causa do desafio técnico e da parte de anti-cheat\n🔹 Mas ele disse que servidores conseguem fazer isso tranquilo, e que quer explorar mecânicas com pegada de MMO mais pra frente\n🔹 A reação ao blog do Capítulo 1 foi melhor do que ele esperava, e isso confirmou pra equipe que dá pra ousar mais nos elementos de RPG\n🔹 Ele avisou que o jogo vai mudar drasticamente nos próximos meses e anos, e que esse é o caminho mais difícil, mas o certo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🚨 SIMON ABRE FIO E RESPONDE O FUTURO DO HYTALE\n\n🔹 O Capítulo 1 segue previsto pra daqui 2 a 3 meses\n🔹 Assim que ele souber a data exata, vai publicar um teaser ou trailer do capítulo\n🔹 As botas de foguete estão confirmadas pro Capítulo 1, e a justificativa que ele deu foi simplesmente porque é divertido\n🔹 Os Capítulos 2 e 3 já têm recursos e temas travados, e ele acha que o 3 vai ser o favorito dele\n🔹 Coisa de MMO como buscador de dungeon e guilda não está nos planos, por causa do desafio técnico e da parte de anti-cheat\n🔹 Mas ele disse que servidores conseguem fazer isso tranquilo, e que quer explorar mecânicas com pegada de MMO mais pra frente\n🔹 A reação ao blog do Capítulo 1 foi melhor do que ele esperava, e isso confirmou pra equipe que dá pra ousar mais nos elementos de RPG\n🔹 Ele avisou que o jogo vai mudar drasticamente nos próximos meses e anos, e que esse é o caminho mais difícil, mas o certo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚨 SIMON ABRE FIO E RESPONDE O FUTURO DO HYTALE\n\n🔹 O Capítulo 1 segue previsto pra daqui 2 a 3 meses\n🔹 Assim que ele souber a data exata, vai publicar um teaser ou trailer do capítulo\n🔹 As botas de foguete estão confirmadas pro Capítulo 1, e a justificativa que ele deu foi simplesmente porque é divertido\n🔹 Os Capítulos 2 e 3 já têm recursos e temas travados, e ele acha que o 3 vai ser o favorito dele\n🔹 Coisa de MMO como buscador de dungeon e guilda não está nos planos, por causa do desafio técnico e da parte de anti-cheat\n🔹 Mas ele disse que servidores conseguem fazer isso tranquilo, e que quer explorar mecânicas com pegada de MMO mais pra frente\n🔹 A reação ao blog do Capítulo 1 foi melhor do que ele esperava, e isso confirmou pra equipe que dá pra ousar mais nos elementos de RPG\n🔹 Ele avisou que o jogo vai mudar drasticamente nos próximos meses e anos, e que esse é o caminho mais difícil, mas o certo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007b-mithril-boss",
@@ -131,8 +207,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1uzmhry/endless_leveling_server_boss_mithril_temple_guard/",
       "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/Airijko."
     },
-    "twitter": "🐉 UM SERVIDOR DE HYTALE CRIOU UM CHEFE PRÓPRIO CHAMADO GUARDIÃO DO TEMPLO DE MITHRIL\n\nO criador mostrou em vídeo a luta contra o chefe que ele fez para o servidor de progressão que mantém.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🐉 UM SERVIDOR DE HYTALE CRIOU UM CHEFE PRÓPRIO CHAMADO GUARDIÃO DO TEMPLO DE MITHRIL\n\nO criador mostrou em vídeo a luta contra o chefe que ele fez para o servidor de progressão que mantém.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🐉 SERVIDOR CRIOU O PRÓPRIO CHEFE NO HYTALE\n\nO criador mostrou em vídeo a luta contra o chefe que ele fez para o servidor de progressão que mantém.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐉 SERVIDOR CRIOU O PRÓPRIO CHEFE NO HYTALE\n\nO criador mostrou em vídeo a luta contra o chefe que ele fez para o servidor de progressão que mantém.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007b-spyglass",
@@ -148,8 +224,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1uu9w79/i_added_spyglasses_using_the_new_features_from_v6/",
       "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/LadyPaladra."
     },
-    "twitter": "🔭 FIZERAM UMA LUNETA NO HYTALE USANDO OS RECURSOS QUE ACABARAM DE CHEGAR NA PRÉ-RELEASE\n\nA criadora aproveitou as novidades da atualização 6 pra montar a luneta e mostrou o item funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🔭 FIZERAM UMA LUNETA NO HYTALE USANDO OS RECURSOS QUE ACABARAM DE CHEGAR NA PRÉ-RELEASE\n\nA criadora aproveitou as novidades da atualização 6 pra montar a luneta e mostrou o item funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🔭 FIZERAM UMA LUNETA COM OS RECURSOS NOVOS\n\nA criadora aproveitou as novidades da atualização 6 pra montar a luneta e mostrou o item funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔭 FIZERAM UMA LUNETA COM OS RECURSOS NOVOS\n\nA criadora aproveitou as novidades da atualização 6 pra montar a luneta e mostrou o item funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007b-moeda-3d",
@@ -165,8 +241,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1uzjd9n/created_a_3d_coin_assets_in_hytale/",
       "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 📷 u/Vergelsxtn."
     },
-    "twitter": "🪙 UM CRIADOR MODELOU MOEDAS EM 3D PRO HYTALE\n\nEle fez o conjunto de moedas do zero pensando em economia de servidor e mostrou o resultado final.\n\n📷 u/Vergelsxtn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🪙 UM CRIADOR MODELOU MOEDAS EM 3D PRO HYTALE\n\nEle fez o conjunto de moedas do zero pensando em economia de servidor e mostrou o resultado final.\n\n📷 u/Vergelsxtn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🪙 MOEDAS EM 3D FEITAS PRO HYTALE\n\nEle fez o conjunto de moedas do zero pensando em economia de servidor e mostrou o resultado final.\n\n📷 u/Vergelsxtn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪙 MOEDAS EM 3D FEITAS PRO HYTALE\n\nEle fez o conjunto de moedas do zero pensando em economia de servidor e mostrou o resultado final.\n\n📷 u/Vergelsxtn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007b-opera",
@@ -182,8 +258,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1uxipvq/my_sister_rumi_and_i_made_bird_tm_opera_o_in/",
       "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/angu_art_."
     },
-    "twitter": "🎭 DUAS IRMÃS RECRIARAM UM PERSONAGEM INTEIRO DENTRO DO HYTALE\n\nElas contaram que fizeram o projeto juntas e mostraram o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🎭 DUAS IRMÃS RECRIARAM UM PERSONAGEM INTEIRO DENTRO DO HYTALE\n\nElas contaram que fizeram o projeto juntas e mostraram o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🎭 DUAS IRMÃS RECRIARAM UM PERSONAGEM NO HYTALE\n\nElas contaram que fizeram o projeto juntas e mostraram o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎭 DUAS IRMÃS RECRIARAM UM PERSONAGEM NO HYTALE\n\nElas contaram que fizeram o projeto juntas e mostraram o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007b-samurai",
@@ -199,8 +275,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1uu24nv/modded_ffxi_samurai_relic/",
       "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/_Fused_."
     },
-    "twitter": "🗡️ UM JOGADOR TROUXE UMA ARMADURA DE SAMURAI PRO HYTALE USANDO MOD\n\nEle montou o visual completo do samurai com mod e mostrou como ficou dentro do jogo.\n\n🎥 u/_Fused_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🗡️ UM JOGADOR TROUXE UMA ARMADURA DE SAMURAI PRO HYTALE USANDO MOD\n\nEle montou o visual completo do samurai com mod e mostrou como ficou dentro do jogo.\n\n🎥 u/_Fused_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🗡️ ARMADURA DE SAMURAI CHEGOU NO HYTALE VIA MOD\n\nEle montou o visual completo do samurai com mod e mostrou como ficou dentro do jogo.\n\n🎥 u/_Fused_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ ARMADURA DE SAMURAI CHEGOU NO HYTALE VIA MOD\n\nEle montou o visual completo do samurai com mod e mostrou como ficou dentro do jogo.\n\n🎥 u/_Fused_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2007-goblin-breaches",
@@ -219,8 +295,8 @@ window.ELDRYN_POSTS = [
       "tweetTexto": "Goblin breaches are coming to Chapter 1! This video shows three things, a goblin breach opens in your world on World Gen V1, a portal takes you to a goblin world running World Gen V2, and we also have a goblin dungeon in its own instanced world. (traducao do X)",
       "nota": "VÍDEO 0:50 mostrando fenda, portal e dungeon. No X, quote/RT do Simon. No Meta, baixar o vídeo e postar com a legenda."
     },
-    "twitter": "🌀 O CAPÍTULO 1 VAI TER GOBLIN BREACHES, FENDAS QUE ABREM DENTRO DO SEU PRÓPRIO MUNDO\n\nO Simon mostrou em vídeo três coisas. Uma fenda goblin abrindo no seu mundo atual, um portal levando pra um mundo goblin já rodando o gerador novo, e uma dungeon goblin em mundo separado.\n\nEle explicou o motivo. O jogo ainda roda no gerador antigo, então os portais são o jeito de entregar conteúdo novo sem obrigar ninguém a regenerar o mundo ou sair caçando chunk novo. Com as fendas, em vez de você procurar o conteúdo, o conteúdo aparece perto de você.\n\nO Simon avisou que vão usar bastante portal durante o Early Access, mas que a mão vai ser mais leve depois que o gerador novo virar o mundo de verdade, porque nas palavras dele o Hytale tem que parecer mundo aberto e não um jogo de portal.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🌀 O CAPÍTULO 1 VAI TER GOBLIN BREACHES, FENDAS QUE ABREM DENTRO DO SEU PRÓPRIO MUNDO\n\nO Simon mostrou em vídeo três coisas. Uma fenda goblin abrindo no seu mundo atual, um portal levando pra um mundo goblin já rodando o gerador novo, e uma dungeon goblin em mundo separado.\n\nEle explicou o motivo. O jogo ainda roda no gerador antigo, então os portais são o jeito de entregar conteúdo novo sem obrigar ninguém a regenerar o mundo ou sair caçando chunk novo. Com as fendas, em vez de você procurar o conteúdo, o conteúdo aparece perto de você.\n\nO Simon avisou que vão usar bastante portal durante o Early Access, mas que a mão vai ser mais leve depois que o gerador novo virar o mundo de verdade, porque nas palavras dele o Hytale tem que parecer mundo aberto e não um jogo de portal.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🌀 GOBLIN BREACHES VÃO ABRIR NO SEU MUNDO\n\nO Simon mostrou em vídeo três coisas. Uma fenda goblin abrindo no seu mundo atual, um portal levando pra um mundo goblin já rodando o gerador novo, e uma dungeon goblin em mundo separado.\n\nEle explicou o motivo. O jogo ainda roda no gerador antigo, então os portais são o jeito de entregar conteúdo novo sem obrigar ninguém a regenerar o mundo ou sair caçando chunk novo. Com as fendas, em vez de você procurar o conteúdo, o conteúdo aparece perto de você.\n\nO Simon avisou que vão usar bastante portal durante o Early Access, mas que a mão vai ser mais leve depois que o gerador novo virar o mundo de verdade, porque nas palavras dele o Hytale tem que parecer mundo aberto e não um jogo de portal.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌀 GOBLIN BREACHES VÃO ABRIR NO SEU MUNDO\n\nO Simon mostrou em vídeo três coisas. Uma fenda goblin abrindo no seu mundo atual, um portal levando pra um mundo goblin já rodando o gerador novo, e uma dungeon goblin em mundo separado.\n\nEle explicou o motivo. O jogo ainda roda no gerador antigo, então os portais são o jeito de entregar conteúdo novo sem obrigar ninguém a regenerar o mundo ou sair caçando chunk novo. Com as fendas, em vez de você procurar o conteúdo, o conteúdo aparece perto de você.\n\nO Simon avisou que vão usar bastante portal durante o Early Access, mas que a mão vai ser mais leve depois que o gerador novo virar o mundo de verdade, porque nas palavras dele o Hytale tem que parecer mundo aberto e não um jogo de portal.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2007-alex-engine-dev",
@@ -239,8 +315,8 @@ window.ELDRYN_POSTS = [
       "tweetTexto": "De encher o saco do @ZeroErrors a ser convidado pro time. Feliz em dizer que entrei pro time de desenvolvimento do @Hytale como Engine Developer. (traducao do X)",
       "nota": "Post com a arte do logo do Hytale. No X, quote/RT do Alex marcando ele. No Meta, usar a imagem do post. Crédito 📷 @MelodicAlbuild."
     },
-    "twitter": "👨‍💻 UM CARA DA COMUNIDADE QUE AJUDAVA DE GRAÇA FOI CONTRATADO PELO HYTALE\n\nO Alex já vinha mandando correções e melhorias que apareceram creditadas nas notas de atualização do jogo. Agora ele entrou oficialmente no time como desenvolvedor de engine, e o Simon respondeu dando as boas-vindas.\n\nÉ uma das duas contratações que o diretor técnico tinha anunciado, uma pra som e outra pra engine.\n\n📷 @MelodicAlbuild\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "👨‍💻 UM CARA DA COMUNIDADE QUE AJUDAVA DE GRAÇA FOI CONTRATADO PELO HYTALE\n\nO Alex já vinha mandando correções e melhorias que apareceram creditadas nas notas de atualização do jogo. Agora ele entrou oficialmente no time como desenvolvedor de engine, e o Simon respondeu dando as boas-vindas.\n\nÉ uma das duas contratações que o diretor técnico tinha anunciado, uma pra som e outra pra engine.\n\n📷 @MelodicAlbuild\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "👨‍💻 VOLUNTÁRIO DA COMUNIDADE FOI CONTRATADO PELO HYTALE\n\nO Alex já vinha mandando correções e melhorias que apareceram creditadas nas notas de atualização do jogo. Agora ele entrou oficialmente no time como desenvolvedor de engine, e o Simon respondeu dando as boas-vindas.\n\nÉ uma das duas contratações que o diretor técnico tinha anunciado, uma pra som e outra pra engine.\n\n📷 @MelodicAlbuild\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👨‍💻 VOLUNTÁRIO DA COMUNIDADE FOI CONTRATADO PELO HYTALE\n\nO Alex já vinha mandando correções e melhorias que apareceram creditadas nas notas de atualização do jogo. Agora ele entrou oficialmente no time como desenvolvedor de engine, e o Simon respondeu dando as boas-vindas.\n\nÉ uma das duas contratações que o diretor técnico tinha anunciado, uma pra som e outra pra engine.\n\n📷 @MelodicAlbuild\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007-tavern-mytale",
@@ -256,8 +332,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1v1avx9/tavern_mytale/",
       "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 📷 u/GreenMatias370."
     },
-    "twitter": "🏛️ CONSTRUÍRAM UMA TAVERNA NO HYTALE QUE PARECE SAÍDA DE UM RPG DE MESA\n\nUm construtor da comunidade mostrou a taverna que ergueu no jogo, com estrutura em madeira e pedra e acabamento nos mínimos detalhes.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🏛️ CONSTRUÍRAM UMA TAVERNA NO HYTALE QUE PARECE SAÍDA DE UM RPG DE MESA\n\nUm construtor da comunidade mostrou a taverna que ergueu no jogo, com estrutura em madeira e pedra e acabamento nos mínimos detalhes.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🏛️ A TAVERNA MAIS CAPRICHADA QUE JÁ VI NO HYTALE\n\nUm construtor da comunidade mostrou a taverna que ergueu no jogo, com estrutura em madeira e pedra e acabamento nos mínimos detalhes.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏛️ A TAVERNA MAIS CAPRICHADA QUE JÁ VI NO HYTALE\n\nUm construtor da comunidade mostrou a taverna que ergueu no jogo, com estrutura em madeira e pedra e acabamento nos mínimos detalhes.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007-runeteria-projeto",
@@ -273,8 +349,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1v0zf7b/my_first_project_since_joining_the_runeteria_team/",
       "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 🎥 u/Alechilles."
     },
-    "twitter": "✨ ELE ENTROU PRO TIME DO RUNETERIA E JÁ MOSTROU O PRIMEIRO TRABALHO EM VÍDEO\n\nO criador contou que esse é o primeiro projeto dele desde que entrou no time do Runeteria, o mesmo mod de magia que o Simon elogiou dias atrás.\n\n🎥 u/Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "✨ ELE ENTROU PRO TIME DO RUNETERIA E JÁ MOSTROU O PRIMEIRO TRABALHO EM VÍDEO\n\nO criador contou que esse é o primeiro projeto dele desde que entrou no time do Runeteria, o mesmo mod de magia que o Simon elogiou dias atrás.\n\n🎥 u/Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "✨ ENTROU NO TIME DO RUNETERIA E JÁ ENTREGOU\n\nO criador contou que esse é o primeiro projeto dele desde que entrou no time do Runeteria, o mesmo mod de magia que o Simon elogiou dias atrás.\n\n🎥 u/Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "✨ ENTROU NO TIME DO RUNETERIA E JÁ ENTREGOU\n\nO criador contou que esse é o primeiro projeto dele desde que entrou no time do Runeteria, o mesmo mod de magia que o Simon elogiou dias atrás.\n\n🎥 u/Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007-mods-da-semana",
@@ -290,8 +366,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1v1mcwb/mods_of_the_week_in_hytale/",
       "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 🎥 u/CptJonah."
     },
-    "twitter": "🧩 SAIU UM COMPILADO COM OS MELHORES MODS DA SEMANA DO HYTALE\n\nUm criador juntou num vídeo só os mods que mais chamaram atenção nos últimos dias, pra quem quer se achar no meio de tanta coisa nova.\n\n🎥 u/CptJonah\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🧩 SAIU UM COMPILADO COM OS MELHORES MODS DA SEMANA DO HYTALE\n\nUm criador juntou num vídeo só os mods que mais chamaram atenção nos últimos dias, pra quem quer se achar no meio de tanta coisa nova.\n\n🎥 u/CptJonah\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🧩 SAIU O COMPILADO DOS MODS DA SEMANA\n\nUm criador juntou num vídeo só os mods que mais chamaram atenção nos últimos dias, pra quem quer se achar no meio de tanta coisa nova.\n\n🎥 u/CptJonah\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧩 SAIU O COMPILADO DOS MODS DA SEMANA\n\nUm criador juntou num vídeo só os mods que mais chamaram atenção nos últimos dias, pra quem quer se achar no meio de tanta coisa nova.\n\n🎥 u/CptJonah\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red2007-combos-mod",
@@ -307,8 +383,8 @@ window.ELDRYN_POSTS = [
       "url": "https://www.reddit.com/r/hytale/comments/1v0rc1s/mod_some_combos_i_was_practicing/",
       "nota": "Baixar a mídia direto do post e publicar como mídia própria, creditando 📷 u/TheCyberSlade."
     },
-    "twitter": "⚔️ UM JOGADOR TÁ TREINANDO COMBOS DE COMBATE COM MOD NO HYTALE\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⚔️ UM JOGADOR TÁ TREINANDO COMBOS DE COMBATE COM MOD NO HYTALE\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⚔️ TREINANDO COMBOS DE COMBATE COM MOD\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ TREINANDO COMBOS DE COMBATE COM MOD\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "patch1907-seguranca-cliente",
@@ -324,8 +400,8 @@ window.ELDRYN_POSTS = [
       "url": "https://cdn.hytale.com/variants/blog_cover_9bd9b4049de8ead4b748003e7c48f604_summer_2022_development_update_header.jpg",
       "nota": "Sem mídia oficial específica. Sugestão, print da linha nova das notas (19 de julho) ou arte do jogo. Post curto e direto, é aviso de serviço."
     },
-    "twitter": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🔒 HYTALE CORRIGIU FALHA DE SEGURANÇA NO CLIENTE\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔒 HYTALE CORRIGIU FALHA DE SEGURANÇA NO CLIENTE\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "red1907-yasquests",

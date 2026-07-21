@@ -17,7 +17,11 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 #Hytale #HytaleBrasil #HytaleGame #HytaleNews
 ```
-1. **Manchete em CAPS** com o fato concreto.
+1. **Manchete em CAPS, CURTA (máximo ~60 caracteres)** com o fato concreto. Correção do Luis (21/07/2026): *"os títulos estão muito grandes, o título precisa chamar atenção da galera e ter as infos certas, o resto coloca no texto abaixo"*. A manchete carrega SÓ o gancho principal; detalhe, número e explicação vão pro parágrafo.
+   - ❌ "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE"
+   - ✅ "🌌 ARENA FLUTUANDO NO VAZIO NO HYTALE"
+   - ❌ "🧱 TEM UM CRIADOR QUE ADICIONA ALGO NOVO NO MOD DELE TODO SANTO DIA HÁ 160 DIAS"
+   - ✅ "🧱 160 DIAS SEGUIDOS MEXENDO NO MESMO MOD"
 2. **UM parágrafo curto** (1 a 2 frases) só com o que aconteceu. Acabou. Não explicar o significado, não projetar futuro, não comemorar.
 3. Crédito (🎥/📷 + @user ou u/user), se houver.
 4. Código de criador.
@@ -198,10 +202,18 @@ Só olhar o perfil dos funcionários é POUCO. O X tem muita coisa boa de Hytale
 `from:Simon_Hypixel filter:replies since:AAAA-MM-DD`
 Isso lista TODAS as respostas dele numa página só, em vez de rolar o perfil infinitamente. Quando ele abre fio de perguntas, saem dezenas de fatos novos de uma vez. **Foi assim que saíram as respostas de runas, World Gen V2, renderizador e capítulos do EA.** Rodar SEMPRE.
 
-**Buscas pra achar conteúdo da comunidade:**
-- `Hytale filter:media min_faves:30 -filter:replies` (criações com tração)
-- `#HytaleModding filter:media` e `#Hytale filter:media`
-- `Hytale (mod OR build OR made OR plugin OR server) filter:media min_faves:20`
+**⚠️ BUSCA DA COMUNIDADE, VERSÃO CORRIGIDA (21/07/2026).** O Luis teve que postar na mão o Hydekit (@rawafelo) e os testes de física com a Rapier (@LionPaYT) porque a varredura não viu. Diagnóstico dos DOIS erros que eu cometia:
+
+1. **`min_faves` era o pior de todos. NUNCA MAIS USAR.** Criador técnico pequeno posta coisa excelente com 1 ou 2 curtidas. O Moar Furniture chegando em 6 mil downloads tinha 1 curtida. Filtrar por curtida joga fora exatamente o ouro. **A régua é a MINHA cabeça, não o número.**
+2. **Buscar só `#HytaleModding` é estreito demais.** O Hydekit não usa hashtag nenhuma, só menciona `@Hytale`. Muita gente marca a conta em vez de usar hashtag.
+
+**A BUSCA CERTA (rodar toda varredura, aba Mais recentes):**
+```
+(#Hytale OR @Hytale) filter:media -filter:replies -from:Simon_Hypixel -from:Hytale -from:OrbisHytale -from:Comu_HytaleBR -from:CentralHytaleBR -from:HytaleAlerts
+```
+Sem piso de curtidas, pegando hashtag E menção, e cortando os oficiais (que já vêm por outro caminho) e os concorrentes. Complementar com `#HytaleModding filter:media -filter:replies` e `#HytaleMods filter:media`.
+
+**Rolar várias telas, não só a primeira.** O feed é cronológico, então o bom pode estar na terceira tela. Ignorar VTuber/streamer que só cita o jogo de passagem.
 - Por dev: `from:slikey`, `from:DevSlashNulled`, `from:ItsBuddhaCat`, `from:MelodicAlbuild` (contratado 20/07), `from:ZeroErrors`
 - Assunto específico: `from:Simon_Hypixel <palavra>` (ex.: worldgen, runes, dungeon)
 
