@@ -25,6 +25,9 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 **Exceção:** RESUMÃO (várias falas do Simon) usa lista de 🔹 com um fato por linha, mesma regra de secura, e também fecha com código e depois hashtags.
 
+**🧵 JUNTAR AS FALAS DO SIMON NUM POST SÓ (regra do Luis, 20/07/2026).** Quando o Simon solta várias respostas/tweets no mesmo dia, o certo é UM RESUMÃO com 🔹, e não vários cards separados. Palavras dele: *"é melhor juntar os tweets do simon em um só post do que criar um monte de post sem conteúdo de fato"*. Card fino (uma resposta curta virando post inteiro) compete com os outros e enfraquece a página.
+**Quando ainda vale card próprio:** o tweet tem conteúdo que se sustenta sozinho, tipo anúncio de recurso COM VÍDEO e explicação longa (ex.: goblin breaches). Teste, se o post ficaria com uma frase e nada mais, ele é linha de resumão, não é card.
+
 **Teste antes de salvar:** dá pra cortar alguma frase sem perder INFORMAÇÃO? Se dá, corta. Se a frase só serve pra dizer que é legal, corta.
 
 **⏰ NUNCA escrever "hoje", "agora há pouco", "acabou de sair" no texto do post.** O rascunho fica no painel e o Luis pode postar horas ou dias depois, então a data vira mentira sozinha. Já aconteceu, o card do patch de segurança dizia "entrou hoje" e no dia seguinte estava errado. Usar o dia da semana ou a data ("no domingo", "na quinta (17/07)"). "Hoje" só é permitido no TÍTULO do card, que é uso interno do painel.

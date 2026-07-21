@@ -6,64 +6,109 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "scan2007b-teaser-capitulo1",
-    "rodada": "2026-07-20 23:04",
-    "emoji": "🎬",
-    "titulo": "[OFICIAL • agora há pouco] Simon promete teaser/trailer do Capítulo 1 quando tiver a data exata",
-    "fonte": "https://x.com/Simon_Hypixel/status/2079385720163045694",
-    "fonteData": "20/07/2026",
-    "confiabilidade": "oficial",
-    "resumo": "OFICIAL, resposta do Simon minutos atrás no fio aberto de perguntas. Frase literal: 'Chapter 1 is scheduled within the next 2-3 months like explained in the blog post, as soon as I know the exact date I'll post a teaser/trailer for it.' Confirma de novo a janela de 2 a 3 meses e ANUNCIA que haverá teaser/trailer. Primeira vez que ele fala em trailer do capítulo.",
-    "midia": {
-      "tipo": "tweet",
-      "url": "https://x.com/Simon_Hypixel/status/2079385720163045694",
-      "tweetId": "2079385720163045694",
-      "tweetAutor": "Simon · @Simon_Hypixel",
-      "tweetTexto": "O Capítulo 1 está previsto para os próximos 2 a 3 meses, como explicado no blog. Assim que eu souber a data exata, vou postar um teaser ou trailer dele. (traducao do X)",
-      "nota": "Resposta curta, sem mídia própria. No X, quote/RT do Simon. No Meta, print traduzido da resposta dele ou arte oficial do Capítulo 1."
-    },
-    "twitter": "🎬 O SIMON VAI SOLTAR UM TEASER OU TRAILER DO CAPÍTULO 1 ASSIM QUE SOUBER A DATA EXATA\n\nPerguntaram quando o Capítulo 1 chega e ele respondeu que segue previsto pra daqui 2 a 3 meses, como o blog já tinha dito. E completou que, assim que souber a data certa, publica um teaser ou trailer do capítulo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🎬 O SIMON VAI SOLTAR UM TEASER OU TRAILER DO CAPÍTULO 1 ASSIM QUE SOUBER A DATA EXATA\n\nPerguntaram quando o Capítulo 1 chega e ele respondeu que segue previsto pra daqui 2 a 3 meses, como o blog já tinha dito. E completou que, assim que souber a data certa, publica um teaser ou trailer do capítulo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "scan2007b-rocket-boots",
-    "rodada": "2026-07-20 23:04",
-    "emoji": "🚀",
-    "titulo": "[OFICIAL • hoje] Rocket boots confirmadas para o Capítulo 1 (VÍDEO 0:20)",
-    "fonte": "https://x.com/Simon_Hypixel/status/2079370437511860678",
-    "fonteData": "20/07/2026",
-    "confiabilidade": "oficial",
-    "resumo": "OFICIAL, post do Simon com VÍDEO de 20s (1 mil curtidas, 20 mil views). Frase literal: 'Rocket boots are coming to Hytale for Chapter 1! The deep game design reason is simple, it's fun. That's it.' Item novo confirmado pro capítulo.",
-    "midia": {
-      "tipo": "tweet",
-      "url": "https://x.com/Simon_Hypixel/status/2079370437511860678",
-      "tweetId": "2079370437511860678",
-      "tweetAutor": "Simon · @Simon_Hypixel",
-      "tweetTexto": "Botas de foguete estão chegando ao Hytale no Capítulo 1! A razão profunda de game design é simples, é divertido. É isso. (traducao do X)",
-      "nota": "VÍDEO 0:20 com as botas em uso. No X, quote/RT do Simon. No Meta, baixar o vídeo e postar com a legenda."
-    },
-    "twitter": "🚀 O CAPÍTULO 1 VAI TER BOTAS DE FOGUETE, E O MOTIVO DADO PELO SIMON FOI SÓ PORQUE É DIVERTIDO\n\nEle mostrou as rocket boots em vídeo e disse que a razão de design por trás delas é simples, é divertido, e é isso.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🚀 O CAPÍTULO 1 VAI TER BOTAS DE FOGUETE, E O MOTIVO DADO PELO SIMON FOI SÓ PORQUE É DIVERTIDO\n\nEle mostrou as rocket boots em vídeo e disse que a razão de design por trás delas é simples, é divertido, e é isso.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "scan2007b-fio-perguntas",
-    "rodada": "2026-07-20 23:04",
-    "emoji": "🗣️",
-    "titulo": "[OFICIAL • agora] Simon abre fio de perguntas e diz que o Hytale vai mudar drasticamente",
+    "id": "scan2007c-simon-fio-resumao",
+    "rodada": "2026-07-20 23:22",
+    "emoji": "🚨",
+    "titulo": "[RESUMÃO SIMON • segunda 20/07] Fio de perguntas, teaser do Cap 1, rocket boots, Capítulos 2 e 3 e MMO",
     "fonte": "https://x.com/Simon_Hypixel/status/2079384963594506339",
     "fonteData": "20/07/2026",
     "confiabilidade": "oficial",
-    "resumo": "OFICIAL, post do Simon de poucos minutos, com imagem de uma área nova (árvores azuladas). Frases literais: 'The reaction to the Chapter 1 blog post has been beyond positive, and honestly a big relief. It confirms we can get creative and lean into the RPG elements we all love' / 'Hytale is going to drastically change in the coming months and years. It's the hardest path to take, but the right one!' / 'If you have any questions about the game's future, feel free to comment here, and I will be actively replying!'. O fio está VIVO e rendendo várias respostas dele, vale voltar nele na próxima varredura pra um resumão.",
+    "resumo": "RESUMÃO (junta os tweets do Simon do dia num post só, a pedido do Luis, em vez de vários cards finos). Todas as falas foram lidas direto no perfil dele. Literais: 'Chapter 1 is scheduled within the next 2-3 months like explained in the blog post, as soon as I know the exact date I'll post a teaser/trailer for it' (x.com/Simon_Hypixel/status/2079385720163045694); 'Rocket boots are coming to Hytale for Chapter 1! The deep game design reason is simple, it's fun. That's it' (status/2079370437511860678, VÍDEO 0:20, 1 mil curtidas); 'Plans are ongoing now, and some features and themes are already locked in for chapters 2 and 3. Chapter 3 is probably going to be my favorite!'; sobre MMO, 'it would come with many technical challenges and anti-cheat logistics... I can see servers doing that quite easily... I do have some MMO-esque mechanics I want to explore in the future though!'; e o post de abertura do fio, 'The reaction to the Chapter 1 blog post has been beyond positive... Hytale is going to drastically change in the coming months and years. It's the hardest path to take, but the right one!' (status/2079384963594506339). SEM RT de tweet único, são várias falas.",
     "midia": {
       "tipo": "tweet",
       "url": "https://x.com/Simon_Hypixel/status/2079384963594506339",
       "tweetId": "2079384963594506339",
       "tweetAutor": "Simon · @Simon_Hypixel",
-      "tweetTexto": "A reação ao blog do Capítulo 1 foi mais que positiva, e honestamente um grande alívio. Confirma que podemos ousar e apostar nos elementos de RPG que todos amamos. O Hytale vai mudar drasticamente nos próximos meses e anos. (traducao do X)",
-      "nota": "O post tem uma imagem de área nova com árvores azuladas. No X, quote/RT. No Meta, usar a imagem do post."
+      "semRT": true,
+      "nota": "RESUMÃO de várias falas, NÃO dar RT de um tweet só. Melhor mídia, o VÍDEO das rocket boots (x.com/Simon_Hypixel/status/2079370437511860678) ou a imagem da área nova do post de abertura do fio."
     },
-    "twitter": "🗣️ O SIMON ABRIU UM FIO PRA RESPONDER PERGUNTAS SOBRE O FUTURO DO HYTALE\n\nEle disse que a reação ao blog do Capítulo 1 foi melhor do que esperava e que isso confirma que dá pra ousar mais nos elementos de RPG. Avisou também que o jogo vai mudar drasticamente nos próximos meses e anos, que é o caminho mais difícil mas o certo, e se colocou à disposição pra responder quem comentar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🗣️ O SIMON ABRIU UM FIO PRA RESPONDER PERGUNTAS SOBRE O FUTURO DO HYTALE\n\nEle disse que a reação ao blog do Capítulo 1 foi melhor do que esperava e que isso confirma que dá pra ousar mais nos elementos de RPG. Avisou também que o jogo vai mudar drasticamente nos próximos meses e anos, que é o caminho mais difícil mas o certo, e se colocou à disposição pra responder quem comentar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🚨 O SIMON ABRIU UM FIO DE PERGUNTAS E RESPONDEU MEIO MUNDO SOBRE O FUTURO DO HYTALE\n\n🔹 O Capítulo 1 segue previsto pra daqui 2 a 3 meses\n🔹 Assim que ele souber a data exata, vai publicar um teaser ou trailer do capítulo\n🔹 As botas de foguete estão confirmadas pro Capítulo 1, e a justificativa que ele deu foi simplesmente porque é divertido\n🔹 Os Capítulos 2 e 3 já têm recursos e temas travados, e ele acha que o 3 vai ser o favorito dele\n🔹 Coisa de MMO como buscador de dungeon e guilda não está nos planos, por causa do desafio técnico e da parte de anti-cheat\n🔹 Mas ele disse que servidores conseguem fazer isso tranquilo, e que quer explorar mecânicas com pegada de MMO mais pra frente\n🔹 A reação ao blog do Capítulo 1 foi melhor do que ele esperava, e isso confirmou pra equipe que dá pra ousar mais nos elementos de RPG\n🔹 Ele avisou que o jogo vai mudar drasticamente nos próximos meses e anos, e que esse é o caminho mais difícil, mas o certo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚨 O SIMON ABRIU UM FIO DE PERGUNTAS E RESPONDEU MEIO MUNDO SOBRE O FUTURO DO HYTALE\n\n🔹 O Capítulo 1 segue previsto pra daqui 2 a 3 meses\n🔹 Assim que ele souber a data exata, vai publicar um teaser ou trailer do capítulo\n🔹 As botas de foguete estão confirmadas pro Capítulo 1, e a justificativa que ele deu foi simplesmente porque é divertido\n🔹 Os Capítulos 2 e 3 já têm recursos e temas travados, e ele acha que o 3 vai ser o favorito dele\n🔹 Coisa de MMO como buscador de dungeon e guilda não está nos planos, por causa do desafio técnico e da parte de anti-cheat\n🔹 Mas ele disse que servidores conseguem fazer isso tranquilo, e que quer explorar mecânicas com pegada de MMO mais pra frente\n🔹 A reação ao blog do Capítulo 1 foi melhor do que ele esperava, e isso confirmou pra equipe que dá pra ousar mais nos elementos de RPG\n🔹 Ele avisou que o jogo vai mudar drasticamente nos próximos meses e anos, e que esse é o caminho mais difícil, mas o certo\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007b-mithril-boss",
+    "rodada": "2026-07-20 23:22",
+    "emoji": "🐉",
+    "titulo": "[COMUNIDADE • 43 upvotes] Boss de servidor, o Guardião do Templo de Mithril (43 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uzmhry/endless_leveling_server_boss_mithril_temple_guard/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 43 upvotes ✓. Crédito 🎥 u/Airijko. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uzmhry/endless_leveling_server_boss_mithril_temple_guard/",
+      "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/Airijko."
+    },
+    "twitter": "🐉 UM SERVIDOR DE HYTALE CRIOU UM CHEFE PRÓPRIO CHAMADO GUARDIÃO DO TEMPLO DE MITHRIL\n\nO criador mostrou em vídeo a luta contra o chefe que ele fez para o servidor de progressão que mantém.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐉 UM SERVIDOR DE HYTALE CRIOU UM CHEFE PRÓPRIO CHAMADO GUARDIÃO DO TEMPLO DE MITHRIL\n\nO criador mostrou em vídeo a luta contra o chefe que ele fez para o servidor de progressão que mantém.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007b-spyglass",
+    "rodada": "2026-07-20 23:22",
+    "emoji": "🔭",
+    "titulo": "[COMUNIDADE • 49 upvotes] Luneta feita com os recursos novos da pré-release (49 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uu9w79/i_added_spyglasses_using_the_new_features_from_v6/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 49 upvotes ✓. Crédito 🎥 u/LadyPaladra. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uu9w79/i_added_spyglasses_using_the_new_features_from_v6/",
+      "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/LadyPaladra."
+    },
+    "twitter": "🔭 FIZERAM UMA LUNETA NO HYTALE USANDO OS RECURSOS QUE ACABARAM DE CHEGAR NA PRÉ-RELEASE\n\nA criadora aproveitou as novidades da atualização 6 pra montar a luneta e mostrou o item funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔭 FIZERAM UMA LUNETA NO HYTALE USANDO OS RECURSOS QUE ACABARAM DE CHEGAR NA PRÉ-RELEASE\n\nA criadora aproveitou as novidades da atualização 6 pra montar a luneta e mostrou o item funcionando em vídeo.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007b-moeda-3d",
+    "rodada": "2026-07-20 23:22",
+    "emoji": "🪙",
+    "titulo": "[COMUNIDADE • 83 upvotes] Moedas em 3D criadas para o jogo (83 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uzjd9n/created_a_3d_coin_assets_in_hytale/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 83 upvotes ✓. Crédito 📷 u/Vergelsxtn. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1uzjd9n/created_a_3d_coin_assets_in_hytale/",
+      "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 📷 u/Vergelsxtn."
+    },
+    "twitter": "🪙 UM CRIADOR MODELOU MOEDAS EM 3D PRO HYTALE\n\nEle fez o conjunto de moedas do zero pensando em economia de servidor e mostrou o resultado final.\n\n📷 u/Vergelsxtn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪙 UM CRIADOR MODELOU MOEDAS EM 3D PRO HYTALE\n\nEle fez o conjunto de moedas do zero pensando em economia de servidor e mostrou o resultado final.\n\n📷 u/Vergelsxtn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007b-opera",
+    "rodada": "2026-07-20 23:22",
+    "emoji": "🎭",
+    "titulo": "[COMUNIDADE • 67 upvotes] Dupla de irmãs recria personagem no jogo (67 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uxipvq/my_sister_rumi_and_i_made_bird_tm_opera_o_in/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 67 upvotes ✓. Crédito 🎥 u/angu_art_. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uxipvq/my_sister_rumi_and_i_made_bird_tm_opera_o_in/",
+      "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/angu_art_."
+    },
+    "twitter": "🎭 DUAS IRMÃS RECRIARAM UM PERSONAGEM INTEIRO DENTRO DO HYTALE\n\nElas contaram que fizeram o projeto juntas e mostraram o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎭 DUAS IRMÃS RECRIARAM UM PERSONAGEM INTEIRO DENTRO DO HYTALE\n\nElas contaram que fizeram o projeto juntas e mostraram o resultado em vídeo.\n\n🎥 u/angu_art_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "red2007b-samurai",
+    "rodada": "2026-07-20 23:22",
+    "emoji": "🗡️",
+    "titulo": "[COMUNIDADE • 44 upvotes] Armadura de samurai feita com mod (44 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uu24nv/modded_ffxi_samurai_relic/",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 44 upvotes ✓. Crédito 🎥 u/_Fused_. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uu24nv/modded_ffxi_samurai_relic/",
+      "nota": "Baixar a mídia do post e publicar como mídia própria, creditando 🎥 u/_Fused_."
+    },
+    "twitter": "🗡️ UM JOGADOR TROUXE UMA ARMADURA DE SAMURAI PRO HYTALE USANDO MOD\n\nEle montou o visual completo do samurai com mod e mostrou como ficou dentro do jogo.\n\n🎥 u/_Fused_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ UM JOGADOR TROUXE UMA ARMADURA DE SAMURAI PRO HYTALE USANDO MOD\n\nEle montou o visual completo do samurai com mod e mostrou como ficou dentro do jogo.\n\n🎥 u/_Fused_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "scan2007-goblin-breaches",
