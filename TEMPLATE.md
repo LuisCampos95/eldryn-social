@@ -17,11 +17,12 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 #Hytale #HytaleBrasil #HytaleGame #HytaleNews
 ```
-1. **Manchete em CAPS, CURTA (máximo ~60 caracteres)** com o fato concreto. Correção do Luis (21/07/2026): *"os títulos estão muito grandes, o título precisa chamar atenção da galera e ter as infos certas, o resto coloca no texto abaixo"*. A manchete carrega SÓ o gancho principal; detalhe, número e explicação vão pro parágrafo.
-   - ❌ "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE"
+1. **Manchete em CAPS** com o fato concreto. Correção do Luis (21/07/2026): *"os títulos estão muito grandes, o título precisa chamar atenção da galera e ter as infos certas, o resto coloca no texto abaixo"*. E o esclarecimento dele depois: **"não é que não podem ser grandes, podem sim se for necessário, mas você tava criando TODOS extremamente grandes"**.
+   - **Padrão = curta e direta** (~40 a 60 caracteres). Manchete longa é EXCEÇÃO, só quando o fato precisa mesmo (ex.: *"⚙️ CHEGOU UM MOD DE AUTOMAÇÃO PRO HYTALE E ELE JÁ FAZ FAZENDA RODAR SOZINHA"*, 75 chars, porque "mod de automação" + "roda sozinha" são as duas infos que fazem clicar).
+   - O erro era o VÍCIO, todas gigantes. Varia, a maioria curta e uma ou outra longa quando vale.
+   - ❌ "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE" (enrolação)
    - ✅ "🌌 ARENA FLUTUANDO NO VAZIO NO HYTALE"
-   - ❌ "🧱 TEM UM CRIADOR QUE ADICIONA ALGO NOVO NO MOD DELE TODO SANTO DIA HÁ 160 DIAS"
-   - ✅ "🧱 160 DIAS SEGUIDOS MEXENDO NO MESMO MOD"
+   - Teste, cada palavra da manchete está puxando o clique? Se a palavra só explica, ela é do corpo.
 2. **UM parágrafo curto** (1 a 2 frases) só com o que aconteceu. Acabou. Não explicar o significado, não projetar futuro, não comemorar.
 3. Crédito (🎥/📷 + @user ou u/user), se houver.
 4. Código de criador.

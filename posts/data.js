@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x2107-orbitech-automacao",
+    "rodada": "2026-07-21 16:49",
+    "emoji": "⚙️",
+    "titulo": "[MOD • pedido do Luis] Orbitech, mod de automação (6 vídeos já baixados)",
+    "fonte": "https://www.curseforge.com/hytale/mods/orbitech",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DE AUTOMAÇÃO, pedido direto do Luis. Dados da página do CurseForge, atualizado em 21/07/2026, versão Orbitech-Plugin-0.5.18.jar pro jogo 0.5, em BETA. Autor Edilan mais 6 colaboradores (Hiruka_Haruka, JKL1995, Gina5FPS, TerrorTN, NiTRi0UX, Valexator). Descrição literal do mod, 'combines kinetic, magic and other systems together to bring an immersive, technology to automate your world'. Sistemas, bancadas (Mortar and Pestle, Engineering Bench, Woodcutter's Bench), engrenagens em 3 tiers (madeira, refinada, metal) com eixos multinível, máquinas cinéticas (Mechanical Press, Mechanical Mixer, Milling Stone, Packager), movimentação de item (chutes, projectors, esteiras, caixas portáteis, Soul Bind Crates) e ferramentas (chave inglesa, Magic Goggles, Adamantite Cage pra capturar Living Spark e Frozen Spark). Wiki em wiki.hytalemodding.dev/mod/orbitech e Discord próprios. 6 VÍDEOS JÁ BAIXADOS em C\\Users\\luisf\\Downloads\\EldrynMidias\\orbitech (todos H.264 1080p com áudio AAC, prontos pro Insta e Face).",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.curseforge.com/hytale/mods/orbitech",
+      "nota": "VÍDEOS JÁ BAIXADOS na pasta C\\Users\\luisf\\Downloads\\EldrynMidias\\orbitech. São 6, na ordem sugerida de uso, 1) orbitech_1_trailer.mp4 (trailer de 1min07, o melhor pra abrir o post), 2) orbitech_2_farm_gelo_azul.mp4 (fazenda de gelo azul 100% automática, 1min42), 3) orbitech_3_farm_po_e_tecido.mp4 (pó de minério e tecido, 1min57), 4) orbitech_5_fornalha_automatica.mp4 (fornalha automática, 1min11), 5) orbitech_4_linha_de_producao.mp4 (linha de produção, 36s, ótimo pra Reels), 6) orbitech_6_engrenagens.mp4 (engrenagens e manivela, 6s). Sugestão, no Twitter usar o trailer; no Insta e Face postar o trailer ou um carrossel de vídeo com o trailer mais a fazenda de gelo azul. Crédito 🎥 @OrbitechMod."
+    },
+    "twitter": "⚙️ CHEGOU UM MOD DE AUTOMAÇÃO PRO HYTALE E ELE JÁ FAZ FAZENDA RODAR SOZINHA\n\nO Orbitech junta engrenagem, energia cinética e magia pra automatizar produção. Tem eixo e engrenagem em três níveis (madeira, refinada e metal), prensa, misturador, moinho e empacotador, além de esteira, calha e filtro pra mover item de um lado pro outro.\n\nTambém vêm caixas portáteis que carregam muita coisa num slot só, chave inglesa pra ajustar bloco e um óculos que mostra a informação de cada peça. Nos vídeos dá pra ver fazenda de gelo azul, de pó de minério e de fornalha funcionando sem ninguém mexer.\n\nO mod está em beta, é feito pelo Edilan com mais seis pessoas, e já tem wiki e Discord próprios.\n\n🎥 @OrbitechMod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚙️ CHEGOU UM MOD DE AUTOMAÇÃO PRO HYTALE E ELE JÁ FAZ FAZENDA RODAR SOZINHA\n\nO Orbitech junta engrenagem, energia cinética e magia pra automatizar produção. Tem eixo e engrenagem em três níveis (madeira, refinada e metal), prensa, misturador, moinho e empacotador, além de esteira, calha e filtro pra mover item de um lado pro outro.\n\nTambém vêm caixas portáteis que carregam muita coisa num slot só, chave inglesa pra ajustar bloco e um óculos que mostra a informação de cada peça. Nos vídeos dá pra ver fazenda de gelo azul, de pó de minério e de fornalha funcionando sem ninguém mexer.\n\nO mod está em beta, é feito pelo Edilan com mais seis pessoas, e já tem wiki e Discord próprios.\n\n🎥 @OrbitechMod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x2107-hydekit",
     "rodada": "2026-07-21 16:32",
     "emoji": "🛠️",
