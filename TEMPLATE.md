@@ -93,8 +93,16 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 2. **Reddit** → criações e discussões fortes da comunidade (régua por tipo via `scan_reddit.js`, crédito ao autor).
 3. **Twitter (devs e comunidade)** → notícia vinda do Simon, dos funcionários e das criações que a galera posta. TUDO é notícia; não existe mais post de opinião/engajamento.
 
-## ❌ ENGAJAMENTO (DESATIVADO em 20/07/2026)
-O Luis pediu pra ENCERRAR a aba de engajamento e focar 100% em NOTÍCIA. Não gerar mais comentários de opinião/fã. Todo esforço da varredura vai pra trazer MAIS notícia (mais fontes, mais devs, mais criações da comunidade). Os cards antigos de engajamento foram apagados do painel e a aba foi removida.
+## ❓ ABA DE PERGUNTAS (reformulada 21/07/2026, conta pessoal @misterenders)
+A antiga aba de "engajamento" foi rejeitada pelo Luis duas vezes, e o motivo era estrutural: **eu escrevia AFIRMAÇÃO, ele queria PERGUNTA.** Palavras dele, *"precisam ser perguntas pros donos e dev do hytale e tbm questionamentos aleatórios para todos pra engajar de fato"*.
+
+**Vai pra conta PESSOAL dele, @misterenders, NÃO pra @OrbisHytale.** Logo: sem código de criador, sem as 4 hashtags, sem cara de página. Fecha só com `#Hytale`.
+
+**Dois tipos, sempre com ponto de interrogação de verdade:**
+1. **PERGUNTA PRO DEV** (marca @Simon_Hypixel ou o dev certo). Tem que PARTIR DE ALGO QUE ELE MESMO JÁ RESPONDEU e avançar um passo, que é o que dá chance real de resposta. Ex.: ele disse que runa não vai em equipamento pra evitar troca de item, então a pergunta natural é se o runeforging vai deixar salvar mais de um build.
+2. **PERGUNTA PRA COMUNIDADE**. Aberta, fácil de responder na hora, de preferência com o Luis dando a resposta dele junto pra puxar conversa. Ex.: "qual foi a primeira coisa que vocês construíram? a minha foi uma casa de terra horrorosa".
+
+**PROIBIDO:** afirmação disfarçada de post, take de autoridade, pergunta que já foi respondida publicamente (checar a BASE antes), e pergunta genérica sem contexto do jogo.
 
 ## 🗣️ VOZ DE FÃ nos posts de NOTÍCIA (site/Twitter/membros) — NÃO é jornal
 A página é de FÃS do Hytale, não é portal de notícia nem release de imprensa. O corpo do post tem que soar como fã empolgado contando a novidade, não como repórter. Vale pro Twitter E pro Meta.
@@ -183,6 +191,23 @@ Post de RESUMÃO junta VÁRIAS respostas. NUNCA dar RT/quote de um tweet só (o 
   - O crédito aparece UMA VEZ SÓ, na ÚLTIMA linha do texto, no formato: `🎥 u/fulano` (🎥 se a mídia é vídeo, 📷 se é foto). SEM a palavra "Créditos", só o emoji e o user. No Meta, essa linha vem ANTES das hashtags.
   - Nunca repetir o nome do autor duas vezes no mesmo texto.
   - Tweet de terceiro: mesma regra, com o @ da pessoa.
+
+## 🐦 VASCULHAR O TWITTER DE VERDADE (pedido do Luis, 21/07/2026)
+Só olhar o perfil dos funcionários é POUCO. O X tem muita coisa boa de Hytale e a gente estava perdendo. Usar a BUSCA, na aba **Mais recentes**:
+
+**A busca que mais rende (respostas do Simon):**
+`from:Simon_Hypixel filter:replies since:AAAA-MM-DD`
+Isso lista TODAS as respostas dele numa página só, em vez de rolar o perfil infinitamente. Quando ele abre fio de perguntas, saem dezenas de fatos novos de uma vez. **Foi assim que saíram as respostas de runas, World Gen V2, renderizador e capítulos do EA.** Rodar SEMPRE.
+
+**Buscas pra achar conteúdo da comunidade:**
+- `Hytale filter:media min_faves:30 -filter:replies` (criações com tração)
+- `#HytaleModding filter:media` e `#Hytale filter:media`
+- `Hytale (mod OR build OR made OR plugin OR server) filter:media min_faves:20`
+- Por dev: `from:slikey`, `from:DevSlashNulled`, `from:ItsBuddhaCat`, `from:MelodicAlbuild` (contratado 20/07), `from:ZeroErrors`
+- Assunto específico: `from:Simon_Hypixel <palavra>` (ex.: worldgen, runes, dungeon)
+
+**Limites conhecidos:** a busca do X NÃO indexa bem resposta muito recente por palavra-chave (procurar "noesis" pode não achar mesmo existindo). Pra assunto quente, usar `filter:replies` + ler a lista, não confiar na palavra-chave.
+**Regra:** ignorar posts do próprio @OrbisHytale, dos concorrentes, e conteúdo sem mídia que não traga fato novo. Todo criador citado leva crédito (🎥/📷 + @user).
 
 ## Reddit — régua POR TIPO (revisada 19/07/2026, o r/hytale é mina de ouro)
 
