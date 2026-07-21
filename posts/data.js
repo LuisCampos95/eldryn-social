@@ -6,6 +6,66 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan2007b-teaser-capitulo1",
+    "rodada": "2026-07-20 23:04",
+    "emoji": "🎬",
+    "titulo": "[OFICIAL • agora há pouco] Simon promete teaser/trailer do Capítulo 1 quando tiver a data exata",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079385720163045694",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, resposta do Simon minutos atrás no fio aberto de perguntas. Frase literal: 'Chapter 1 is scheduled within the next 2-3 months like explained in the blog post, as soon as I know the exact date I'll post a teaser/trailer for it.' Confirma de novo a janela de 2 a 3 meses e ANUNCIA que haverá teaser/trailer. Primeira vez que ele fala em trailer do capítulo.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2079385720163045694",
+      "tweetId": "2079385720163045694",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "tweetTexto": "O Capítulo 1 está previsto para os próximos 2 a 3 meses, como explicado no blog. Assim que eu souber a data exata, vou postar um teaser ou trailer dele. (traducao do X)",
+      "nota": "Resposta curta, sem mídia própria. No X, quote/RT do Simon. No Meta, print traduzido da resposta dele ou arte oficial do Capítulo 1."
+    },
+    "twitter": "🎬 O SIMON VAI SOLTAR UM TEASER OU TRAILER DO CAPÍTULO 1 ASSIM QUE SOUBER A DATA EXATA\n\nPerguntaram quando o Capítulo 1 chega e ele respondeu que segue previsto pra daqui 2 a 3 meses, como o blog já tinha dito. E completou que, assim que souber a data certa, publica um teaser ou trailer do capítulo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎬 O SIMON VAI SOLTAR UM TEASER OU TRAILER DO CAPÍTULO 1 ASSIM QUE SOUBER A DATA EXATA\n\nPerguntaram quando o Capítulo 1 chega e ele respondeu que segue previsto pra daqui 2 a 3 meses, como o blog já tinha dito. E completou que, assim que souber a data certa, publica um teaser ou trailer do capítulo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "scan2007b-rocket-boots",
+    "rodada": "2026-07-20 23:04",
+    "emoji": "🚀",
+    "titulo": "[OFICIAL • hoje] Rocket boots confirmadas para o Capítulo 1 (VÍDEO 0:20)",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079370437511860678",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, post do Simon com VÍDEO de 20s (1 mil curtidas, 20 mil views). Frase literal: 'Rocket boots are coming to Hytale for Chapter 1! The deep game design reason is simple, it's fun. That's it.' Item novo confirmado pro capítulo.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2079370437511860678",
+      "tweetId": "2079370437511860678",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "tweetTexto": "Botas de foguete estão chegando ao Hytale no Capítulo 1! A razão profunda de game design é simples, é divertido. É isso. (traducao do X)",
+      "nota": "VÍDEO 0:20 com as botas em uso. No X, quote/RT do Simon. No Meta, baixar o vídeo e postar com a legenda."
+    },
+    "twitter": "🚀 O CAPÍTULO 1 VAI TER BOTAS DE FOGUETE, E O MOTIVO DADO PELO SIMON FOI SÓ PORQUE É DIVERTIDO\n\nEle mostrou as rocket boots em vídeo e disse que a razão de design por trás delas é simples, é divertido, e é isso.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚀 O CAPÍTULO 1 VAI TER BOTAS DE FOGUETE, E O MOTIVO DADO PELO SIMON FOI SÓ PORQUE É DIVERTIDO\n\nEle mostrou as rocket boots em vídeo e disse que a razão de design por trás delas é simples, é divertido, e é isso.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "scan2007b-fio-perguntas",
+    "rodada": "2026-07-20 23:04",
+    "emoji": "🗣️",
+    "titulo": "[OFICIAL • agora] Simon abre fio de perguntas e diz que o Hytale vai mudar drasticamente",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079384963594506339",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, post do Simon de poucos minutos, com imagem de uma área nova (árvores azuladas). Frases literais: 'The reaction to the Chapter 1 blog post has been beyond positive, and honestly a big relief. It confirms we can get creative and lean into the RPG elements we all love' / 'Hytale is going to drastically change in the coming months and years. It's the hardest path to take, but the right one!' / 'If you have any questions about the game's future, feel free to comment here, and I will be actively replying!'. O fio está VIVO e rendendo várias respostas dele, vale voltar nele na próxima varredura pra um resumão.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Simon_Hypixel/status/2079384963594506339",
+      "tweetId": "2079384963594506339",
+      "tweetAutor": "Simon · @Simon_Hypixel",
+      "tweetTexto": "A reação ao blog do Capítulo 1 foi mais que positiva, e honestamente um grande alívio. Confirma que podemos ousar e apostar nos elementos de RPG que todos amamos. O Hytale vai mudar drasticamente nos próximos meses e anos. (traducao do X)",
+      "nota": "O post tem uma imagem de área nova com árvores azuladas. No X, quote/RT. No Meta, usar a imagem do post."
+    },
+    "twitter": "🗣️ O SIMON ABRIU UM FIO PRA RESPONDER PERGUNTAS SOBRE O FUTURO DO HYTALE\n\nEle disse que a reação ao blog do Capítulo 1 foi melhor do que esperava e que isso confirma que dá pra ousar mais nos elementos de RPG. Avisou também que o jogo vai mudar drasticamente nos próximos meses e anos, que é o caminho mais difícil mas o certo, e se colocou à disposição pra responder quem comentar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗣️ O SIMON ABRIU UM FIO PRA RESPONDER PERGUNTAS SOBRE O FUTURO DO HYTALE\n\nEle disse que a reação ao blog do Capítulo 1 foi melhor do que esperava e que isso confirma que dá pra ousar mais nos elementos de RPG. Avisou também que o jogo vai mudar drasticamente nos próximos meses e anos, que é o caminho mais difícil mas o certo, e se colocou à disposição pra responder quem comentar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "scan2007-goblin-breaches",
     "rodada": "2026-07-20 18:39",
     "emoji": "🌀",
@@ -114,23 +174,6 @@ window.ELDRYN_POSTS = [
     "meta": "⚔️ UM JOGADOR TÁ TREINANDO COMBOS DE COMBATE COM MOD NO HYTALE\n\nEle mostrou as sequências de golpe que vem treinando usando o mod de combate que desenvolve.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "eng-og-17-portal-mundo-aberto",
-    "rodada": "2026-07-20 18:39",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] \"Mundo aberto, não jogo de portal\"",
-    "fonte": "https://x.com/Simon_Hypixel/status/2079222604603195800",
-    "fonteData": "20/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take em cima da fala do Simon sobre usar portal como muleta até o gerador novo ficar pronto, e a promessa de aliviar depois. Mostra que ele pensa no problema antes da galera reclamar.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento)."
-    },
-    "twitter": "O Simon falou que vai usar bastante portal no Hytale só até o gerador novo ficar pronto, porque o jogo tem que parecer mundo aberto e não jogo de portal. Achei bom demais ele já admitir isso antes da galera começar a reclamar #Hytale",
-    "meta": ""
-  },
-  {
     "id": "patch1907-seguranca-cliente",
     "rodada": "2026-07-19 19:30",
     "emoji": "🔒",
@@ -146,23 +189,6 @@ window.ELDRYN_POSTS = [
     },
     "twitter": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🔒 O HYTALE CORRIGIU UMA FALHA DE SEGURANÇA NO CLIENTE DO JOGO\n\nA correção entrou no domingo nas notas da pré-release. O estúdio disse que não encontrou nenhum sinal de que a falha tenha sido explorada e que vai dar mais detalhes depois. Quem tem servidor precisa atualizar pra voltar ao ar.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "eng-og-16-2fa-capa",
-    "rodada": "2026-07-19 19:30",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] A capa do 2FA dois dias antes da correção de segurança",
-    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
-    "fonteData": "19/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de autoridade ligando dois fatos reais das notas: 17/07 saiu a Bastion Cape, capa exclusiva pra quem liga autenticação de dois fatores; 19/07 saiu a correção de falha de segurança no cliente. Observação, sem acusar nem especular a falha.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento)."
-    },
-    "twitter": "O Hytale deu uma capa exclusiva pra quem liga autenticação de dois fatores, e dois dias depois soltou uma correção de falha de segurança no cliente. Não sei se foi coincidência, mas usar cosmético pra fazer a galera ligar o 2FA foi muito esperto #Hytale",
-    "meta": ""
   },
   {
     "id": "red1907-yasquests",
@@ -363,261 +389,6 @@ window.ELDRYN_POSTS = [
     },
     "twitter": "🔥 UM MODDER ESTÁ RECRIANDO AS HABILIDADES DE RUNA DO HYTALE\n\nO Aumo mostrou em vídeo o combate de magos do projeto Runeteria, com as runas soltando efeito em tempo real. O Simon respondeu que ele vai terminar todas as habilidades antes do time chegar lá e chamou de trabalho insano.\n\n🎥 @AumoNamoly\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🔥 UM MODDER ESTÁ RECRIANDO AS HABILIDADES DE RUNA DO HYTALE\n\nO Aumo mostrou em vídeo o combate de magos do projeto Runeteria, com as runas soltando efeito em tempo real. O Simon respondeu que ele vai terminar todas as habilidades antes do time chegar lá e chamou de trabalho insano.\n\n🎥 @AumoNamoly\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "eng-og-15-modding-velocidade",
-    "rodada": "2026-07-18 19:44",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] A comunidade tá na frente dos próprios devs",
-    "fonte": "https://x.com/AumoNamoly/status/2078590684018401653",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de autoridade a partir da reação do Simon ao Aumo/Runeteria: modding server-side já entrega habilidade de runa completa antes do time terminar. Observação de cena, não pergunta.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade."
-    },
-    "twitter": "Tem um cara recriando as habilidades de runa do Hytale sozinho e o Simon já respondeu chamando de trabalho insano. O jogo nem entregou isso ainda e a galera já tá fazendo. É por isso que mod rodando no servidor é tão bom #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-01-visao2018",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Trailer de 2018 finalmente virando jogo",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de OG: dungeon à mão com boss multi-fase era o coração do trailer de 2018. Conecta a espera de 6 anos + quase cancelamento com o que o Cap 1 entregou. Autoridade histórica.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Dungeon feita à mão com boss de várias fases era o que mais me deixava doido no trailer de 2018. Seis anos, um cancelamento no meio do caminho, e agora tá vindo no Capítulo 1. Quem tá aqui desde aquela época sabe o tamanho disso #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-02-engine",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] A volta pra engine antiga foi a decisão certa",
-    "fonte": "https://hytale.com/news/2025/11/hytale-is-saved",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take técnico: reclamaram da volta pro C#/Java em vez do C++ novo, mas foi o que colocou o jogo na mão da gente em janeiro. Defende a escolha com argumento de quem entende o histórico.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Todo mundo reclamou quando o Hytale voltou pra engine velha de C# e Java em vez da nova em C++. Mas foi por causa disso que a gente tá jogando desde janeiro. Prefiro mil vezes jogo na mão agora do que jogo perfeito daqui três anos #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-03-serverside",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Mod só no servidor é a melhor decisão do jogo",
-    "fonte": "https://hytale.com/news/2025/11/hytale-modding-strategy-and-status",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de design: server-side only / one community one client parece detalhe técnico mas resolve a maior barreira de comunidade modada. Observação afiada, não pergunta.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "O que eu mais gosto no Hytale é que mod roda tudo no servidor, nada no cliente. Vc entra em qualquer server e já tá jogando, sem baixar pack nenhum. Quem já penou pra instalar mod sabe o tamanho disso #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-04-worldesigners",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Hobby de construtor virando emprego real",
-    "fonte": "https://hytale.com/news/2026/1/the-future-of-world-generation",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de cena: 15+ world designers contratados da comunidade + gerador sem código. Aponta o ineditismo e chama o construtor BR pra ação, de igual pra igual.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "O Hytale falou que quer contratar mais de quinze world designers da própria comunidade, e o gerador novo nem precisa saber programar. Tem construtor BR que faz coisa melhor que muita gente por aí. Se você constrói bem, vale tentar #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-05-cursebreaker",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Teoria do Cursebreaker (leitura de lore)",
-    "fonte": "https://hytale.com/news/2026/1/a-look-at-hytale-s-lore-and-philosophy",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Teoria de lore de quem leu tudo: Cursebreaker não é vilão nem herói, é o mundo velho virando o novo (transição WorldGen V1->V2). Convida os nerds de lore a debater a interpretação.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Pra mim o Cursebreaker não é vilão nem herói, é o mundo velho virando o novo mesmo. O blog de lore falou que a história só vira canon quando a gente entrar no Echoes of Orbis. Ou seja, ainda tá tudo em aberto #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-06-runameta",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Eles pensam em balance de meta antes do jogo ter meta",
-    "fonte": "https://x.com/Simon_Hypixel",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take técnico: o próprio Slikey levantou o risco de runa de movimento virar pick obrigatório. Elogia o cuidado com balance cedo, mostrando que acompanha a fala dos devs.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Achei muito bom o Slikey já ter falado do risco de runa de movimento virar escolha obrigatória. O jogo nem tem meta formada e eles já tão pensando nisso. Poucos estúdios se preocupam com isso tão cedo #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-07-npcjson",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Servidor maluco vindo de quem nunca programou",
-    "fonte": "https://hytale.com/news/2026/2/npc-technical-rundown",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de sistema: NPC por template JSON (ovelha vira predador armado sem código) é subestimado. Previsão informada de onde vem a próxima onda de criação.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Muita gente não sabe, mas dá pra pegar uma ovelha no Hytale, trocar um template no JSON e ela vira predadora que ainda carrega arma. Sem programar nada. Vai ter servidor muito doido feito por gente que nunca escreveu código #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-08-contrib",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Estúdio aceitando código de fora antes do source",
-    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Observação de quem lê patch notes: MelodicAlbuild e Eearslya creditados nas notas. Aponta o grau raro de abertura do processo de desenvolvimento.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Reparei que as patch notes do Hytale já agradecem gente de fora, tipo o MelodicAlbuild e o Eearslya. Estúdio aceitando código da comunidade assim é raro demais, ainda mais antes de soltar o source completo #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-09-financiamento",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Dez anos do bolso, sem investidor, é o que garante a visão",
-    "fonte": "https://hytale.com/news/2025/11/hytale-is-saved",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de contexto: Simon e Philippe bancando 10 anos sem investidor significa ninguém cobrando lucro rápido e furando a visão. Leitura madura do modelo do estúdio.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "O que me deixa mais tranquilo com o Hytale é o Simon e o Philippe bancando dez anos do próprio bolso. Sem investidor atrás cobrando lucro rápido, ninguém vai chegar mandando furar a visão do jogo #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-10-cubiceve",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Altura infinita é a base do sonho do MMO espacial",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take técnico: cubic chunks + gerador novo é o que viabiliza o MMORPG estilo EVE que o Slikey citou. Liga tech a ambição declarada pelos devs. Referência de outro gênero (EVE), sem comparar com voxel.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Altura infinita no Hytale não é só falação de marketing. Com o gerador novo dá pra fazer caverna sem fundo e até exploração espacial. O Slikey mesmo falou que quer MMO estilo EVE rodando dentro do jogo #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-11-companion",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Companion no loop de craft muda a economia de servidor",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Observação que quase todo mundo perdeu: companion entra no craft, não só no combate. Impacto na economia de servidor de RPG. Detalhe de quem lê a fundo.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "O detalhe que quase ninguém comentou do Capítulo 1 é o companion entrar no craft, não só na luta. Num servidor de RPG isso mexe na economia toda, teu ajudante vira parte da produção em vez de ser só bicho de estimação #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-12-posicionamento",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] O foco sempre foi RPG de aventura, desde o primeiro trailer",
-    "fonte": "https://x.com/Simon_Hypixel/status/2078502080109834575",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Reage à fala do Simon (\"só por acaso somos jogo de bloco, foco é RPG de aventura profundo\"). Reforça que a ambição vem de 2018. Autoridade histórica, sem comparar jogos.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Gostei do Simon falar que o Hytale só por acaso é jogo de bloco e o foco mesmo é ser um RPG de aventura. Tira o jogo daquela caixinha que tentam enfiar ele desde sempre #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-13-minigames",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Minigame oficial open source forma cena de criador",
-    "fonte": "https://hytale.com/news/2025/11/hytale-modding-strategy-and-status",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de criador de servidor: minigames oficiais em código aberto = aprender arquitetura direto da fonte. Explica por que isso constrói uma cena forte.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Os minigames oficiais do Hytale vão sair de código aberto pra comunidade mexer. Quem faz servidor vai poder aprender direto de quem construiu, em vez de ficar quebrando cabeça sozinho #Hytale",
-    "meta": ""
-  },
-  {
-    "id": "eng-og-14-audiodesign",
-    "rodada": "2026-07-18 13:00",
-    "emoji": "💬",
-    "titulo": "[ENGAJAMENTO] Áudio posicional destrava level design pelo ouvido",
-    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
-    "fonteData": "18/07/2026",
-    "confiabilidade": "engajamento",
-    "resumo": "Take de design pouco comentado: som posicional como mecânica de descoberta (pista sonora, segredo pelo ouvido). Observação de quem pensa como criador.",
-    "midia": {
-      "tipo": "nenhuma",
-      "url": "",
-      "nota": "Tweet só texto (engajamento). Take de autoridade, sem imagem obrigatória."
-    },
-    "twitter": "Ninguém tá falando disso, mas dá pra usar o bloco de música do Hytale pra esconder pista sonora numa dungeon e o jogador achar segredo de ouvido. Som virar mecânica assim é raro de ver #Hytale",
-    "meta": ""
   },
   {
     "id": "scan1807-simon-jeb",
