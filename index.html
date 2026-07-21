@@ -71,6 +71,9 @@
   }
   .badge.oficial { background: rgba(62,207,142,.15); color: var(--green); border: 1px solid rgba(62,207,142,.4); }
   .badge.comunidade { background: rgba(240,163,94,.15); color: var(--orange); border: 1px solid rgba(240,163,94,.4); }
+  .badge.midia-video { background: rgba(126,166,255,.18); color: var(--blue); border: 1px solid rgba(126,166,255,.5); }
+  .badge.midia-imagem { background: rgba(62,207,142,.15); color: var(--green); border: 1px solid rgba(62,207,142,.45); }
+  .badge.midia-texto { background: rgba(224,108,108,.13); color: var(--red); border: 1px solid rgba(224,108,108,.45); }
 
   /* status de postagem por rede */
   .status { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 4px; }
@@ -178,6 +181,23 @@ window.__initEldryn = function () {
     { key: "twitter", nome: "Twitter", emoji: "🐦" },
     { key: "meta", nome: "Face + Insta + Grupo", emoji: "📱" },
   ];
+  // Tipo de midia do card. Insta e Face SO aceitam post com midia, entao isso
+  // fica em destaque no topo pro Luis saber na hora o que da pra publicar onde.
+  function tipoMidia(p) {
+    const m = p.midia || {};
+    const t = (m.tipo || "").toLowerCase();
+    const nota = (m.nota || "") + " " + (m.url || "");
+    const ehVideo = t === "video" || /\bv[ií]deo\b|v\.redd\.it|youtu/i.test(nota);
+    if (t === "tweet") {
+      if (/\bv[ií]deo\b/i.test(nota)) return { classe: "video", rotulo: "🎥 vídeo" };
+      if (/imagem|foto|print|galeria|arte/i.test(nota)) return { classe: "imagem", rotulo: "🖼️ imagem" };
+      return { classe: "texto", rotulo: "📝 só texto" };
+    }
+    if (ehVideo) return { classe: "video", rotulo: "🎥 vídeo" };
+    if (t === "imagem" || t === "galeria") return { classe: "imagem", rotulo: "🖼️ imagem" };
+    return { classe: "texto", rotulo: "📝 só texto" };
+  }
+
   function redesDoCard(p) {
     const temMeta = (p.meta || "").trim().length > 0;
     const temTw = (p.twitter || "").trim().length > 0;
@@ -272,10 +292,15 @@ window.__initEldryn = function () {
       head.className = "card-head";
       const h2 = document.createElement("h2");
       h2.textContent = (p.emoji ? p.emoji + " " : "") + p.titulo;
+      // tipo de midia em destaque (Insta e Face so aceitam post com midia)
+      const tm = tipoMidia(p);
+      const badgeMidia = document.createElement("span");
+      badgeMidia.className = "badge midia-" + tm.classe;
+      badgeMidia.textContent = tm.rotulo;
       const badge = document.createElement("span");
       badge.className = "badge " + (p.confiabilidade === "oficial" ? "oficial" : "comunidade");
       badge.textContent = p.confiabilidade === "oficial" ? "✔ oficial" : "⚠ comunidade";
-      head.appendChild(h2); head.appendChild(badge);
+      head.appendChild(h2); head.appendChild(badgeMidia); head.appendChild(badge);
       card.appendChild(head);
 
       // status de postagem por rede (verde = postado)

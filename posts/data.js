@@ -6,6 +6,44 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x2107-void-arena",
+    "rodada": "2026-07-21 10:33",
+    "emoji": "🌌",
+    "titulo": "[COMUNIDADE X] Arena void de rogue-like do Runeteria (117 curtidas, vídeo 0:44)",
+    "fonte": "https://x.com/draakkin_/status/2079297294109675717",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE achada na BUSCA DO TWITTER (#HytaleModding filter:media), primeira colheita por esse caminho. 117 curtidas, 4 mil views, vídeo de 44s. Terceiro card do universo Runeteria, que virou o projeto de comunidade mais forte do momento. Crédito 🎥 @draakkin_.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/draakkin_/status/2079297294109675717",
+      "tweetAutor": "@draakkin_",
+      "tweetTexto": "Prévia de um cenário que fiz para a futura arena do vazio, estilo rogue-like, do Runeteria! (traducao do X)",
+      "nota": "VÍDEO. No X, quote/RT marcando @draakkin_. No Meta, baixar o vídeo e publicar creditando @draakkin_."
+    },
+    "twitter": "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE\n\nO criador soltou uma prévia em vídeo do cenário que fez pra arena do vazio do Runeteria, o mesmo projeto de magia que o Simon elogiou dias atrás.\n\n🎥 @draakkin_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌌 MOSTRARAM A ARENA FLUTUANDO NO VAZIO QUE VAI ENTRAR NUM MODO ROGUE-LIKE DO HYTALE\n\nO criador soltou uma prévia em vídeo do cenário que fez pra arena do vazio do Runeteria, o mesmo projeto de magia que o Simon elogiou dias atrás.\n\n🎥 @draakkin_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x2107-labirinto-dia160",
+    "rodada": "2026-07-21 10:33",
+    "emoji": "🧱",
+    "titulo": "[COMUNIDADE X] Mod de labirinto com 160 dias seguidos de atualização (vídeo)",
+    "fonte": "https://x.com/lunaronin777",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE achada na BUSCA DO TWITTER (#HytaleModding filter:media), primeira colheita por esse caminho. Vídeo de 22s. Engajamento baixo no X, mas a história é forte, 160 dias seguidos sem falhar. Conferir o post do dia no perfil antes de publicar, porque o contador sobe todo dia. Crédito 🎥 @lunaronin777.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/lunaronin777",
+      "tweetAutor": "@lunaronin777",
+      "tweetTexto": "Eu adiciono coisas novas no meu mod de labirinto do Hytale todo dia! Dia 160 (traducao do X)",
+      "nota": "VÍDEO. No X, quote/RT marcando @lunaronin777. No Meta, baixar o vídeo e publicar creditando @lunaronin777."
+    },
+    "twitter": "🧱 TEM UM CRIADOR QUE ADICIONA ALGO NOVO NO MOD DELE DE HYTALE TODO SANTO DIA HÁ 160 DIAS\n\nEle mantém um mod de labirinto e publica a novidade de cada dia em vídeo curto. O contador já passou do dia 160.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧱 TEM UM CRIADOR QUE ADICIONA ALGO NOVO NO MOD DELE DE HYTALE TODO SANTO DIA HÁ 160 DIAS\n\nEle mantém um mod de labirinto e publica a novidade de cada dia em vídeo curto. O contador já passou do dia 160.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "scan2107-mundo-genv2",
     "rodada": "2026-07-21 00:21",
     "emoji": "🌍",
