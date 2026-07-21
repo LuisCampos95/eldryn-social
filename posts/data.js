@@ -6,6 +6,196 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "scan2107-mundo-genv2",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "🌍",
+    "titulo": "[OFICIAL] Dá pra jogar agora sem perder o mundo no World Gen V2, com limitações",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, respostas do Simon no fio de perguntas. Literal 1: 'We are planning to offer some options to go to the new world and also return to your old world, but there will be limitations on what you can do and bring between the worlds.' Literal 2, sobre o layout do mapa mudar: 'World Gen V2 will be very very different'. Responde a dúvida mais comum da comunidade agora, se vale começar mundo antes do V2. NÃO afirmar que nada se perde, ele falou em LIMITAÇÕES.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "Resposta de texto. Melhor mídia, print traduzido da resposta dele, ou a imagem do mapa de Orbis que apareceu na pergunta."
+    },
+    "twitter": "🌍 VOCÊ NÃO VAI PERDER SEU MUNDO QUANDO O GERADOR NOVO DO HYTALE CHEGAR\n\nPerguntaram pro Simon se vale a pena começar um mundo agora, já que o World Gen V2 está vindo. Ele respondeu que estão planejando dar opções pra ir pro mundo novo e também voltar pro mundo antigo, mas que vai ter limitação no que dá pra fazer e no que dá pra levar de um pro outro.\n\nEle avisou também que o World Gen V2 vai ser muito, muito diferente do gerador atual.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌍 VOCÊ NÃO VAI PERDER SEU MUNDO QUANDO O GERADOR NOVO DO HYTALE CHEGAR\n\nPerguntaram pro Simon se vale a pena começar um mundo agora, já que o World Gen V2 está vindo. Ele respondeu que estão planejando dar opções pra ir pro mundo novo e também voltar pro mundo antigo, mas que vai ter limitação no que dá pra fazer e no que dá pra levar de um pro outro.\n\nEle avisou também que o World Gen V2 vai ser muito, muito diferente do gerador atual.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "scan2107-runas-sem-gear",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "🔮",
+    "titulo": "[OFICIAL] Runas não vão em arma nem armadura, pra não virar meta de troca de equipamento",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL. Pergunta do @CrimsonMage4 sobre colocar runa em armadura (ex, runa de ar no elmo pra respirar embaixo d'água). Resposta literal do Simon: 'Runes will not be on gear nor weapons, dont want to create a gear swap meta'. Em outra resposta ele listou o que mais o empolga, literal: 'The rune skills, itemization, boss fights, wgv2 exploration, future physics features, companions/automation'.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "Resposta de texto. Melhor mídia, print traduzido da resposta ou a imagem oficial das runas do blog do Capítulo 1."
+    },
+    "twitter": "🔮 AS RUNAS DO HYTALE NÃO VÃO FICAR EM ARMA NEM EM ARMADURA\n\nPerguntaram ao Simon se daria pra encaixar runa no equipamento, tipo uma runa de ar no elmo pra respirar embaixo d'água. Ele respondeu que runa não vai em equipamento nem em arma, porque não querem criar uma meta de ficar trocando de item o tempo todo.\n\nEle também citou as habilidades de runa como uma das partes que mais o empolgam no que vem por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔮 AS RUNAS DO HYTALE NÃO VÃO FICAR EM ARMA NEM EM ARMADURA\n\nPerguntaram ao Simon se daria pra encaixar runa no equipamento, tipo uma runa de ar no elmo pra respirar embaixo d'água. Ele respondeu que runa não vai em equipamento nem em arma, porque não querem criar uma meta de ficar trocando de item o tempo todo.\n\nEle também citou as habilidades de runa como uma das partes que mais o empolgam no que vem por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "scan2107-simon-resumao2",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "🚨",
+    "titulo": "[RESUMÃO SIMON] Reescrita do renderizador, durabilidade, classes, voo, machinima, PvP e capítulos do EA",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "RESUMÃO das respostas do Simon no fio (todas lidas direto no perfil). Literais: 'The game is undergoing a render rewrite, and you can expect many improvements afterward. It's a massive undertaking, so no ETA'; 'Durability sucks right now we will revisit later'; 'No class archetype required with the new abilities feature tbh'; 'I really want to add better itemization / loot but its gonna take a bit of time'; 'Yeah' (sobre todos os capítulos terem masmorras); 'I agree, however we can do flying in some dungeons/instances later'; 'Yes' (machinima pra filmagem de verdade); 'We will do some pvp games but I'm not sure we are going to do competitive yet'; 'We do plan to revive the channel as we get closer to chapter 1 release'; 'once we are done, they might be gone, as they would have served their purpose. I would still wait for Chapter 3 if you can'.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "RESUMÃO de várias falas, NÃO dar RT de tweet único."
+    },
+    "twitter": "🚨 O SIMON PASSOU A NOITE RESPONDENDO A COMUNIDADE E SOLTOU MUITA COISA SOBRE O FUTURO DO HYTALE\n\n🔹 O jogo está passando por uma reescrita do renderizador, e ele avisou que é um trabalho enorme, sem prazo\n🔹 A durabilidade dos itens vai ser revista, nas palavras dele o sistema atual está ruim\n🔹 Não vai precisar escolher classe, porque o sistema novo de habilidades cobre esse papel\n🔹 Ele quer melhorar bastante os itens e o loot, mas disse que isso leva tempo\n🔹 Todos os capítulos vão ter masmorras\n🔹 Voar não entra no jogo aberto, mas pode rolar dentro de masmorras e instâncias mais pra frente\n🔹 As ferramentas de machinima vão servir pra fazer filme de verdade, não só replay e timelapse\n🔹 Vão ter modos de PvP, mas ele ainda não garante nada competitivo\n🔹 O canal do YouTube volta a ficar ativo quando o Capítulo 1 estiver mais perto\n🔹 E ele disse que os capítulos do early access podem sumir depois de cumprirem o papel deles, e que se der pra esperar, ele esperaria o Capítulo 3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚨 O SIMON PASSOU A NOITE RESPONDENDO A COMUNIDADE E SOLTOU MUITA COISA SOBRE O FUTURO DO HYTALE\n\n🔹 O jogo está passando por uma reescrita do renderizador, e ele avisou que é um trabalho enorme, sem prazo\n🔹 A durabilidade dos itens vai ser revista, nas palavras dele o sistema atual está ruim\n🔹 Não vai precisar escolher classe, porque o sistema novo de habilidades cobre esse papel\n🔹 Ele quer melhorar bastante os itens e o loot, mas disse que isso leva tempo\n🔹 Todos os capítulos vão ter masmorras\n🔹 Voar não entra no jogo aberto, mas pode rolar dentro de masmorras e instâncias mais pra frente\n🔹 As ferramentas de machinima vão servir pra fazer filme de verdade, não só replay e timelapse\n🔹 Vão ter modos de PvP, mas ele ainda não garante nada competitivo\n🔹 O canal do YouTube volta a ficar ativo quando o Capítulo 1 estiver mais perto\n🔹 E ele disse que os capítulos do early access podem sumir depois de cumprirem o papel deles, e que se der pra esperar, ele esperaria o Capítulo 3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "perg-01-runeforging-build",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA DEV • conta pessoal @misterenders] Boa @Simon_Hypixel. Já que runa não vai em equipamento pra...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo DEV. Marca o Simon e parte de algo que ele mesmo respondeu, pra ter chance real de resposta. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Boa @Simon_Hypixel. Já que runa não vai em equipamento pra não virar troca de item toda hora, dá pra saber se o runeforging vai deixar salvar mais de um build e alternar entre eles, ou vai ser um por vez? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-02-mundo-antigo",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA DEV • conta pessoal @misterenders] Sobre poder ir pro mundo novo e voltar pro antigo depois d...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo DEV. Marca o Simon e parte de algo que ele mesmo respondeu, pra ter chance real de resposta. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Sobre poder ir pro mundo novo e voltar pro antigo depois do World Gen V2, uma dúvida que muita gente tem aqui. As construções que a gente faz agora continuam de pé no mundo antigo, ou ele vira só um arquivo pra visitar? @Simon_Hypixel #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-03-capitulos-ea",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA DEV • conta pessoal @misterenders] O @Simon_Hypixel falou que os capítulos do early access po...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo DEV. Marca o Simon e parte de algo que ele mesmo respondeu, pra ter chance real de resposta. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "O @Simon_Hypixel falou que os capítulos do early access podem sumir depois de cumprirem o papel deles. Quem jogou na época vai ficar com algum registro, tipo conquista ou cosmético, ou some tudo mesmo? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-04-modo-dificil",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA DEV • conta pessoal @misterenders] Já que vão ter chefes com modo difícil opcional, fica a pe...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo DEV. Marca o Simon e parte de algo que ele mesmo respondeu, pra ter chance real de resposta. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Já que vão ter chefes com modo difícil opcional, fica a pergunta pro @Simon_Hypixel. A recompensa vai ser diferente nesse modo ou o prêmio é só a treta em si? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-05-primeira-construcao",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA COMUNIDADE • conta pessoal @misterenders] Qual foi a primeira coisa que vocês construíram no Hytale?...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo COMUNIDADE. Pergunta aberta, qualquer um consegue responder na hora. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Qual foi a primeira coisa que vocês construíram no Hytale? A minha foi uma casa de terra horrorosa que eu até hoje não tive coragem de derrubar #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-06-mundo-antigo-guardado",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA COMUNIDADE • conta pessoal @misterenders] Sinceramente agora, quem aqui ainda tem guardado o mundo q...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo COMUNIDADE. Pergunta aberta, qualquer um consegue responder na hora. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Sinceramente agora, quem aqui ainda tem guardado o mundo que criou no primeiro dia de early access? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-07-capitulo2-desejo",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA COMUNIDADE • conta pessoal @misterenders] Se vocês pudessem escolher UMA coisa pra entrar no Capítul...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo COMUNIDADE. Pergunta aberta, qualquer um consegue responder na hora. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Se vocês pudessem escolher UMA coisa pra entrar no Capítulo 2 e já sair travada, o que seria? #Hytale",
+    "meta": ""
+  },
+  {
+    "id": "perg-08-primeira-coisa-cap1",
+    "rodada": "2026-07-21 00:21",
+    "emoji": "❓",
+    "titulo": "[PERGUNTA COMUNIDADE • conta pessoal @misterenders] Quando o Capítulo 1 cair, qual vai ser a primeira coisa qu...",
+    "fonte": "https://x.com/Simon_Hypixel/with_replies",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "engajamento",
+    "resumo": "PERGUNTA pra postar da CONTA PESSOAL @misterenders, NÃO da @OrbisHytale. Tipo COMUNIDADE. Pergunta aberta, qualquer um consegue responder na hora. Sem código de criador e sem as 4 hashtags, porque é conta pessoal.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Só texto."
+    },
+    "twitter": "Quando o Capítulo 1 cair, qual vai ser a primeira coisa que vocês vão fazer? Eu vou direto atrás da masmorra dos goblins #Hytale",
+    "meta": ""
+  },
+  {
     "id": "scan2007c-simon-fio-resumao",
     "rodada": "2026-07-20 23:22",
     "emoji": "🚨",

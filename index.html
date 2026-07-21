@@ -70,6 +70,7 @@
     text-transform: uppercase; letter-spacing: .5px; white-space: nowrap;
   }
   .badge.oficial { background: rgba(62,207,142,.15); color: var(--green); border: 1px solid rgba(62,207,142,.4); }
+  .badge.perguntas { background: rgba(126,166,255,.15); color: var(--blue); border: 1px solid rgba(126,166,255,.45); }
   .badge.comunidade { background: rgba(240,163,94,.15); color: var(--orange); border: 1px solid rgba(240,163,94,.4); }
 
   /* status de postagem por rede */
@@ -159,6 +160,7 @@ window.__initEldryn = function () {
 
   // ---- categorias (abas) ----
   function categoria(p) {
+    if (p.confiabilidade === "engajamento") return "perguntas";
     const f = (p.fonte || "").toLowerCase();
     if (f.includes("reddit.com")) return "reddit";
     if (f.includes("hytale.com")) return "site";
@@ -169,6 +171,7 @@ window.__initEldryn = function () {
     { key: "twitter", nome: "🐦 Devs & Comunidade" },
     { key: "reddit", nome: "👽 Reddit" },
     { key: "site", nome: "📰 Site" },
+    { key: "perguntas", nome: "❓ Perguntas (@misterenders)" },
     { key: "todos", nome: "Tudo" },
   ];
   let abaAtiva = (function () { try { return localStorage.getItem("abaAtiva") || "twitter"; } catch (e) { return "twitter"; } })();
@@ -273,8 +276,8 @@ window.__initEldryn = function () {
       const h2 = document.createElement("h2");
       h2.textContent = (p.emoji ? p.emoji + " " : "") + p.titulo;
       const badge = document.createElement("span");
-      badge.className = "badge " + (p.confiabilidade === "oficial" ? "oficial" : "comunidade");
-      badge.textContent = p.confiabilidade === "oficial" ? "✔ oficial" : "⚠ comunidade";
+      if (p.confiabilidade === "engajamento") { badge.className = "badge perguntas"; badge.textContent = "❓ conta pessoal"; }
+      else { badge.className = "badge " + (p.confiabilidade === "oficial" ? "oficial" : "comunidade"); badge.textContent = p.confiabilidade === "oficial" ? "✔ oficial" : "⚠ comunidade"; }
       head.appendChild(h2); head.appendChild(badge);
       card.appendChild(head);
 
