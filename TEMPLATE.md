@@ -25,6 +25,13 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 **Exceção:** RESUMÃO (várias falas do Simon) usa lista de 🔹 com um fato por linha, mesma regra de secura, e também fecha com código e depois hashtags.
 
+**📌 CADA LINHA DO RESUMÃO PRECISA DE CONTEXTO (correção do Luis, 21/07/2026).** Resposta solta não informa nada, porque o leitor não viu a pergunta. Erro real que ele pegou:
+> ❌ "🔹 E ele disse que os capítulos do early access podem sumir depois de cumprirem o papel deles, e que se der pra esperar, ele esperaria o Capítulo 3"
+> *"esperar o quê? no caso o contexto era esperar pra criar um mundo novo, mas você não colocou, então como quem tá lendo vai saber?"*
+> ✅ "🔹 Perguntaram se vale a pena criar um mundo novo agora ou esperar. Ele respondeu que vale jogar os capítulos do early access, porque eles podem sumir depois de cumprirem o papel deles, mas que quem consegue esperar deveria começar o mundo mesmo no Capítulo 3"
+
+Fórmula da linha: **[o que foi perguntado] + [o que ele respondeu]**. Quando a resposta for curta ou for um "sim/não", o contexto é obrigatório, senão a linha não significa nada sozinha. Teste, ler a linha isolada, sem saber do fio. Dá pra entender? Se não, falta contexto.
+
 **🧵 JUNTAR AS FALAS DO SIMON NUM POST SÓ (regra do Luis, 20/07/2026).** Quando o Simon solta várias respostas/tweets no mesmo dia, o certo é UM RESUMÃO com 🔹, e não vários cards separados. Palavras dele: *"é melhor juntar os tweets do simon em um só post do que criar um monte de post sem conteúdo de fato"*. Card fino (uma resposta curta virando post inteiro) compete com os outros e enfraquece a página.
 **Quando ainda vale card próprio:** o tweet tem conteúdo que se sustenta sozinho, tipo anúncio de recurso COM VÍDEO e explicação longa (ex.: goblin breaches). Teste, se o post ficaria com uma frase e nada mais, ele é linha de resumão, não é card.
 
@@ -93,16 +100,8 @@ O objetivo é dar CURIOSIDADE de ler. A manchete tem que carregar a informação
 2. **Reddit** → criações e discussões fortes da comunidade (régua por tipo via `scan_reddit.js`, crédito ao autor).
 3. **Twitter (devs e comunidade)** → notícia vinda do Simon, dos funcionários e das criações que a galera posta. TUDO é notícia; não existe mais post de opinião/engajamento.
 
-## ❓ ABA DE PERGUNTAS (reformulada 21/07/2026, conta pessoal @misterenders)
-A antiga aba de "engajamento" foi rejeitada pelo Luis duas vezes, e o motivo era estrutural: **eu escrevia AFIRMAÇÃO, ele queria PERGUNTA.** Palavras dele, *"precisam ser perguntas pros donos e dev do hytale e tbm questionamentos aleatórios para todos pra engajar de fato"*.
-
-**Vai pra conta PESSOAL dele, @misterenders, NÃO pra @OrbisHytale.** Logo: sem código de criador, sem as 4 hashtags, sem cara de página. Fecha só com `#Hytale`.
-
-**Dois tipos, sempre com ponto de interrogação de verdade:**
-1. **PERGUNTA PRO DEV** (marca @Simon_Hypixel ou o dev certo). Tem que PARTIR DE ALGO QUE ELE MESMO JÁ RESPONDEU e avançar um passo, que é o que dá chance real de resposta. Ex.: ele disse que runa não vai em equipamento pra evitar troca de item, então a pergunta natural é se o runeforging vai deixar salvar mais de um build.
-2. **PERGUNTA PRA COMUNIDADE**. Aberta, fácil de responder na hora, de preferência com o Luis dando a resposta dele junto pra puxar conversa. Ex.: "qual foi a primeira coisa que vocês construíram? a minha foi uma casa de terra horrorosa".
-
-**PROIBIDO:** afirmação disfarçada de post, take de autoridade, pergunta que já foi respondida publicamente (checar a BASE antes), e pergunta genérica sem contexto do jogo.
+## ❌ PERGUNTAS / ENGAJAMENTO — ENCERRADO DE VEZ (21/07/2026)
+Tentei duas vezes (takes de autoridade e depois perguntas pro @misterenders) e o Luis reprovou as duas. NÃO gerar mais nada desse tipo, nem aba, nem card. Foco 100% em NOTÍCIA.
 
 ## 🗣️ VOZ DE FÃ nos posts de NOTÍCIA (site/Twitter/membros) — NÃO é jornal
 A página é de FÃS do Hytale, não é portal de notícia nem release de imprensa. O corpo do post tem que soar como fã empolgado contando a novidade, não como repórter. Vale pro Twitter E pro Meta.
