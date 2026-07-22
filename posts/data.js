@@ -6,6 +6,26 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x2107-hycreator",
+    "rodada": "2026-07-22 18:51",
+    "emoji": "🛠️",
+    "titulo": "[X] HyCreator, editor de assets sem mexer em JSON",
+    "fonte": "https://x.com/Lewai_/status/2079809657166614657",
+    "fonteData": "22/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "DA BUSCA DO TWITTER (perfil dos criadores, Aumo/Runeteria repostou). AUTOR @Lewai_ (NÃO é o Aumo, ele só deu RT). Post gigante, 125 curtidas, 2 vídeos (2:11 e 0:35). HyCreator é um editor de assets moderno pro Hytale. Frase-chave, 'The whole point is removing as much friction as possible between you and what you want to create. No more hand-editing raw JSON'. Abre qualquer asset vanilla (release ou pre-release, direto do install ou do shared source) e de mod, com formulário, autocomplete, validação apontando o campo quebrado, quick open, find in files, rename que atualiza referências, fork de asset vanilla com a cadeia de dependência, diff contra o vanilla. Preview 3D de modelo e NPC com equipamento e animação, partícula, prefab e item previstos dentro do editor, gerador de ícone igual ao do jogo. Cérebro de NPC como node graph, simulador de comportamento em alpha rodando as regras reais da engine (tiradas do server source). Editores visuais de droplist, receita e CAE, e droplist com o algoritmo real de sorteio ('simulate 10k rolls'). Format-preserving saves (git diff só mostra o que você mudou), backups automáticos. Portátil, exe de ~10 MB. Apps companheiros, Prefab Studio, WorldGenV2 Studio e Particle Editor. Integra com Blockbench. Créditos do nome pro @DemoHytale e do ícone pro @Starky_TV. É o SEGUNDO editor de assets forte (o outro é o Hydekit, @rawafelo, já cardado). Crédito 🎥 @Lewai_.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Lewai_/status/2079809657166614657",
+      "tweetId": "2079809657166614657",
+      "tweetAutor": "Lewai · @Lewai_",
+      "tweetTexto": "Passei alguns meses construindo o HyCreator, um editor de assets moderno pro Hytale. Itens, receitas, droplists, comportamento de NPC, Encounter Managers, UI custom, prévia 3D ao vivo, simuladores exatos da engine, deploy num clique. O ponto é acabar com a edição de JSON na mão. Sai em breve. (traducao do X)",
+      "nota": "Post com 2 vídeos (2:11 e 0:35) mostrando o editor. No X, quote/RT marcando @Lewai_ (NÃO o Aumo). Baixar vídeo do X pede login, se quiser eu tento pegar o cookie. No Meta, usar os vídeos ou um print da tela do editor. Crédito 🎥 @Lewai_."
+    },
+    "twitter": "🛠️ FIZERAM UM EDITOR QUE ACABA COM A EDIÇÃO DE JSON NA MÃO NO HYTALE\n\nChama HyCreator e abre qualquer arquivo do jogo ou do seu mod em formulário, com preenchimento automático e aviso apontando o campo que está quebrado. Dá pra ver modelo e NPC em 3D com equipamento e animação, girar em volta e passar quadro a quadro, e o cérebro do NPC aparece como um mapa visual no lugar do JSON aninhado.\n\nEle traz ainda editor visual de receita e de droplist, com um simulador que roda o sorteio real do jogo pra mostrar a chance de drop que o jogador vai ter de verdade. É um programa portátil de uns 10 MB, sem instalar, salva os arquivos sem bagunçar o resto, e o criador avisou que ainda vai dar trabalho mas que solta em breve.\n\n🎥 @Lewai_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛠️ FIZERAM UM EDITOR QUE ACABA COM A EDIÇÃO DE JSON NA MÃO NO HYTALE\n\nChama HyCreator e abre qualquer arquivo do jogo ou do seu mod em formulário, com preenchimento automático e aviso apontando o campo que está quebrado. Dá pra ver modelo e NPC em 3D com equipamento e animação, girar em volta e passar quadro a quadro, e o cérebro do NPC aparece como um mapa visual no lugar do JSON aninhado.\n\nEle traz ainda editor visual de receita e de droplist, com um simulador que roda o sorteio real do jogo pra mostrar a chance de drop que o jogador vai ter de verdade. É um programa portátil de uns 10 MB, sem instalar, salva os arquivos sem bagunçar o resto, e o criador avisou que ainda vai dar trabalho mas que solta em breve.\n\n🎥 @Lewai_\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "r2107-armor-display",
     "rodada": "2026-07-21 23:27",
     "emoji": "🛡️",
