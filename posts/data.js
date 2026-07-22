@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "r2107-armor-display",
+    "rodada": "2026-07-21 23:27",
+    "emoji": "🛡️",
+    "titulo": "[COMUNIDADE • 42 upvotes] Suporte pra exibir armas e armaduras",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v1h52m/i_made_a_cool_way_to_display_your_armors_and/",
+    "fonteData": "21/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 42 upvotes ✓. Título original 'I made a cool way to display your armors and weapons!'. Da LadyPaladra, a mesma criadora do mod de mobília (bigorna de roleplay). Suporte de parede pra pendurar equipamento e decorar. Crédito 📷 u/LadyPaladra. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1v1h52m/i_made_a_cool_way_to_display_your_armors_and/",
+      "nota": "Baixar a imagem do post e publicar creditando 📷 u/LadyPaladra."
+    },
+    "twitter": "🛡️ FIZERAM UM JEITO DE EXIBIR SUAS ARMAS E ARMADURAS NO HYTALE\n\nA criadora do mod de mobília montou um suporte que deixa pendurar armadura e arma na parede pra decorar a base. Fica tipo uma sala de troféus.\n\n📷 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛡️ FIZERAM UM JEITO DE EXIBIR SUAS ARMAS E ARMADURAS NO HYTALE\n\nA criadora do mod de mobília montou um suporte que deixa pendurar armadura e arma na parede pra decorar a base. Fica tipo uma sala de troféus.\n\n📷 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x2107-orbitech-automacao",
     "rodada": "2026-07-21 16:49",
     "emoji": "⚙️",
