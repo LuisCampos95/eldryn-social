@@ -200,8 +200,10 @@ Post de RESUMÃO junta VÁRIAS respostas. NUNCA dar RT/quote de um tweet só (o 
 Só olhar o perfil dos funcionários é POUCO. O X tem muita coisa boa de Hytale e a gente estava perdendo. Usar a BUSCA, na aba **Mais recentes**:
 
 **A busca que mais rende (respostas do Simon):**
-`from:Simon_Hypixel filter:replies since:AAAA-MM-DD`
-Isso lista TODAS as respostas dele numa página só, em vez de rolar o perfil infinitamente. Quando ele abre fio de perguntas, saem dezenas de fatos novos de uma vez. **Foi assim que saíram as respostas de runas, World Gen V2, renderizador e capítulos do EA.** Rodar SEMPRE.
+`from:Simon_Hypixel filter:replies` (sem `since`, aba Mais recentes, do mais novo pro mais velho)
+Isso lista TODAS as respostas dele numa página só, em vez de rolar o perfil infinitamente. Quando ele abre fio de perguntas, saem dezenas de fatos novos de uma vez. **Foi assim que saíram runas, World Gen V2, renderizador, capítulos do EA e o primeiro chefe.** Rodar SEMPRE.
+
+**⚠️ ERRO QUE O LUIS PEGOU (21/07/2026): abandonar o fio cedo.** Eu vi "14h atrás" na primeira resposta e assumi que era tudo velho, entreguei 1 post só. Ele reclamou, com razão. O fio do Simon é CONTÍNUO, ele responde por dias. **SEMPRE rolar o fio inteiro e ABRIR cada resposta com substância pra pegar o contexto (a pergunta que ele respondeu).** Separar o joio, "sure", "yeah", "love the series", "you tell me!" são filler e não viram nada; mas no meio deles vem fato novo real (foi assim que achei o primeiro chefe de 3 fases). Nunca parar na primeira tela.
 
 **⚠️ BUSCA DA COMUNIDADE, VERSÃO CORRIGIDA (21/07/2026).** O Luis teve que postar na mão o Hydekit (@rawafelo) e os testes de física com a Rapier (@LionPaYT) porque a varredura não viu. Diagnóstico dos DOIS erros que eu cometia:
 

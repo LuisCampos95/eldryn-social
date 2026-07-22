@@ -6,6 +6,41 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x2107-primeiro-chefe",
+    "emoji": "⚔️",
+    "titulo": "[OFICIAL] Primeiro chefe do Hytale tem luta de 3 fases",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079947601789522421",
+    "fonteData": "22/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, post do Simon (590 curtidas, 14 mil views). Texto literal, '3-phase boss fight / optional hard mode / the first of many bosses to come to Hytale'. Confirma a estrutura do PRIMEIRO chefe do jogo, três fases e modo difícil opcional, e sinaliza que virão vários. Amarra com o que ele já tinha falado sobre chefes com modo difícil opcional e vibe souls. No thread, o Aumo perguntou 'hard mode confirmed?' e o Simon respondeu 'you tell me!' (confirmação bem humorada).",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Post de texto. No X, quote/RT. No Meta, print traduzido da resposta do Simon ou uma arte de chefe do jogo. (Sem mídia própria confirmada no post.)"
+    },
+    "twitter": "⚔️ O PRIMEIRO CHEFE DO HYTALE VAI TER LUTA DE 3 FASES\n\nO Simon adiantou que o primeiro chefe do jogo tem batalha em três fases e um modo difícil opcional pra quem quiser encarar mais osso. E ele avisou que é só o começo, chamou de o primeiro de muitos chefes que vêm por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ O PRIMEIRO CHEFE DO HYTALE VAI TER LUTA DE 3 FASES\n\nO Simon adiantou que o primeiro chefe do jogo tem batalha em três fases e um modo difícil opcional pra quem quiser encarar mais osso. E ele avisou que é só o começo, chamou de o primeiro de muitos chefes que vêm por aí.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x2107-nave-outerwilds",
+    "emoji": "🚀",
+    "titulo": "[X] Build da nave de Outer Wilds no Hytale",
+    "fonte": "https://x.com/ZeaBotLVL/status/2080033451604947019",
+    "fonteData": "22/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, da busca do X. ZeaBot (@ZeaBotLVL), 23 curtidas, imagem. Build recriando a nave do jogo Outer Wilds no Hytale. Texto literal, 'The Outer Wilds Ship - A build on #hytale. With more time, I think the entity tool could add so many smaller details here'. É recriação de outro jogo dentro do Hytale (fan build), não comparação. Crédito 📷 @ZeaBotLVL.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/ZeaBotLVL/status/2080033451604947019",
+      "tweetId": "2080033451604947019",
+      "tweetAutor": "ZeaBot · @ZeaBotLVL",
+      "tweetTexto": "A nave de Outer Wilds, uma build no #hytale. Com mais tempo, acho que a entity tool poderia adicionar muitos detalhes menores aqui (traducao do X)",
+      "nota": "Post com imagem da build. No X, quote/RT marcando @ZeaBotLVL. No Meta, usar a imagem. Crédito 📷 @ZeaBotLVL."
+    },
+    "twitter": "🚀 RECRIARAM A NAVE DE OUTER WILDS DENTRO DO HYTALE\n\nUm construtor montou a nave do jogo Outer Wilds com os blocos e a Entity Tool. Ele comentou que, com mais tempo, dá pra encher de detalhe pequeno usando a ferramenta.\n\n📷 @ZeaBotLVL\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚀 RECRIARAM A NAVE DE OUTER WILDS DENTRO DO HYTALE\n\nUm construtor montou a nave do jogo Outer Wilds com os blocos e a Entity Tool. Ele comentou que, com mais tempo, dá pra encher de detalhe pequeno usando a ferramenta.\n\n📷 @ZeaBotLVL\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x2107-hycreator",
     "rodada": "2026-07-22 18:51",
     "emoji": "🛠️",
