@@ -67,6 +67,12 @@ Ninguém pode perceber que os posts foram criados por IA. Isso é inegociável.
 
 ## Quantos posts por varredura
 - SEM LIMITE. NUNCA cortar a quantidade. Se tiver 8 coisas boas, gera 8 posts. Se tiver 2, gera 2. Nunca parar em 3 por parar.
+
+**🔥 O ERRO MAIS GRAVE (Luis, 21/07/2026): PENEIRAR DEMAIS e voltar com 1 post.** *"eu vou postar o quê? você precisa ter capacidade de achar coisas boas... reddit tá cheio de boas coisas, twitter também, e você não traz nada."*
+- **CONTEÚDO NÃO EXPIRA.** Build, mod, arte, recriação de personagem, veículo, fazenda, servidor, tudo isso é ótimo pra postar MESMO com dias de idade. NÃO descartar por "é velho" nem por "não é novidade de hoje". A página precisa de conteúdo pra postar, ponto.
+- **Não confundir "notícia" com "conteúdo".** Notícia oficial (Simon, blog) é uma fatia. O grosso do que o Luis posta é CRIAÇÃO DA COMUNIDADE, e disso o Reddit e o X estão cheios. Cada build, cada mod, cada arte = um card.
+- **A régua é qualidade, não ineditismo.** Só pular meme de espera ("WHERE BLOG POST"), pergunta de meta, reclamação de suporte, hype de blog que já saiu, e comparação com jogo semelhante. Todo o RESTO que for criação de verdade VIRA CARD.
+- Rodar `node scan_reddit.js --json` e cardar TODAS as criações que ainda não foram cobertas, não só as de hoje. O backlog é ouro.
 - Traz TODOS os itens que passam nas réguas (recência, veracidade, régua do reddit POR TIPO via `scan_reddit.js`, relevância). Fontes distintas contam separado: cada resposta/assunto do Simon, cada post de reddit forte, cada página nova do site, cada patch = um card.
 - Único freio é qualidade real: não inventar notícia pra encher, e item fraco entra com aviso no resumo (o Luis decide). Fora isso, quanto mais conteúdo bom, mais posts.
 
