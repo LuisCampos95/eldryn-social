@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "site2307-compilado-update6",
+    "rodada": "2026-07-23 15:32",
+    "emoji": "🚀",
+    "titulo": "[COMPILADO] Tudo do Update 6 da pré-release (9 partes)",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "COMPILADÃO/RETROSPECTIVA de todo o ciclo Update 6 da pré-release (9 partes, maio a julho 2026). Pedido do Luis, parágrafo de principais + tópicos, pra gerar ansiedade. Destaques por parte, Parte 2 (presets de paleta de bloco), Parte 4 (Color Tool no criativo), Parte 7 (giroscópio + World Events pra modder), Parte 8 (colisão dura em entidades = parkour/plataformas, Bastion Cape por 2FA em 17/07, e a correção de segurança/RCE em 22/07), Parte 9 (Modo Hardcore + docs novas). Partes 3, 5 e 6 foram só correções. Post grande, twitter completo + meta condensado.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Post de retrospectiva. Sugestão de mídia, uma arte oficial do Hytale ou um carrossel/montagem com print de cada destaque (Modo Hardcore, Color Tool, giroscópio, Bastion Cape). No X, post único longo. No Meta, versão condensada com uma imagem forte."
+    },
+    "twitter": "🚀 TUDO QUE JÁ CHEGOU NA PRÉ-RELEASE DO UPDATE 6 DO HYTALE\n\nA pré-release do Update 6 virou um monstro. Foram nove partes de atualização em poucas semanas, e cada uma trouxe coisa nova que logo vai chegar pra todo mundo. Juntei aqui tudo de mais importante que já entrou, e olha o tamanho do que vem por aí.\n\n🎮 MODO HARDCORE\n• Pra quem quer desafio de verdade. Só liga em mundo novo, sem volta. Quando morre você não renasce, larga tudo e vira espectador.\n\n🏃 PLATAFORMAS E ARMADILHAS\n• Entidades ganharam colisão dura, dá pra ficar em cima e ser empurrado por elas. É a base pra fase de parkour, muralha que se move e cilada pra invasor.\n\n🎯 CONTROLES POR GIROSCÓPIO\n• Quem tem DualSense ou Switch Pro agora pode mirar movimentando o próprio controle.\n\n🎨 FERRAMENTA DE COR NO CRIATIVO\n• Uma ferramenta nova pra pintar bloco, fazer gradiente suave e aplicar sombreamento, com três modos diferentes.\n\n🧱 PRESETS DE PALETA DE BLOCO\n• Agora dá pra salvar suas paletas de construção e carregar de volta quando quiser, com editor e conta-gotas de cor.\n\n🖤 BASTION CAPE\n• Uma capa exclusiva que só pode ser usada por quem ativa a autenticação em dois fatores na conta.\n\n🔒 SEGURANÇA REFORÇADA\n• Corrigiram uma falha séria no cliente no mesmo dia em que descobriram e blindaram o resto do código. Renderam a maior recompensa de segurança do jogo, 20 mil dólares pro pesquisador.\n\n📚 DOCUMENTAÇÃO NOVA\n• O site de documentação ganhou tema novo e novos domínios pra quem cria conteúdo.\n\n🛠️ PRA QUEM FAZ MOD\n• Sistema de World Events pra eventos dinâmicos, itens e blocos que tocam música com áudio posicional, modo espectador de servidor, e o protocolo compilando direto do shared source com o .NET 10.\n\nE isso fora dezenas e dezenas de correções em combate, mundo, criativo e desempenho. Quando esse pacote todo fechar e chegar pra todo mundo, o Hytale vai dar um salto e tanto 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚀 TUDO QUE JÁ CHEGOU NA PRÉ-RELEASE DO UPDATE 6 DO HYTALE\n\nA pré-release do Update 6 virou um monstro. Foram nove partes em poucas semanas, cada uma com coisa nova que logo chega pra todo mundo. Olha o tamanho do que vem por aí.\n\n🎮 Modo Hardcore, sem respawn e só em mundo novo.\n🏃 Plataformas e armadilhas com colisão dura, a base pra parkour.\n🎯 Controles por giroscópio no DualSense e no Switch Pro.\n🎨 Ferramenta de Cor no Criativo, com gradiente e sombreamento.\n🧱 Presets de paleta de bloco pra salvar suas construções.\n🖤 Bastion Cape, capa exclusiva de quem ativa o 2FA.\n🔒 Segurança reforçada, com a maior recompensa do jogo paga por uma falha corrigida no mesmo dia.\n📚 Site de documentação novo.\n🛠️ Pra modder, World Events, itens e blocos que tocam música, e modo espectador de servidor.\n\nE isso fora dezenas de correções em combate, mundo, criativo e desempenho. Quando esse pacote fechar, o jogo vai dar um salto e tanto 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "patch2307-parte9-hardcore",
     "emoji": "🎮",
     "titulo": "[PATCH • hoje 23/07] Parte 9 do Update 6, modo hardcore chegou",
