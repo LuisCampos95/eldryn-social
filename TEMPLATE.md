@@ -72,7 +72,13 @@ Ninguém pode perceber que os posts foram criados por IA. Isso é inegociável.
 - **CONTEÚDO NÃO EXPIRA.** Build, mod, arte, recriação de personagem, veículo, fazenda, servidor, tudo isso é ótimo pra postar MESMO com dias de idade. NÃO descartar por "é velho" nem por "não é novidade de hoje". A página precisa de conteúdo pra postar, ponto.
 - **Não confundir "notícia" com "conteúdo".** Notícia oficial (Simon, blog) é uma fatia. O grosso do que o Luis posta é CRIAÇÃO DA COMUNIDADE, e disso o Reddit e o X estão cheios. Cada build, cada mod, cada arte = um card.
 - **A régua é qualidade, não ineditismo.** Só pular meme de espera ("WHERE BLOG POST"), pergunta de meta, reclamação de suporte, hype de blog que já saiu, e comparação com jogo semelhante. Todo o RESTO que for criação de verdade VIRA CARD.
-- Rodar `node scan_reddit.js --json` e cardar TODAS as criações que ainda não foram cobertas, não só as de hoje. O backlog é ouro.
+- Rodar `node scan_reddit.js --json` e cardar as criações que ainda não foram cobertas, não só as de hoje. O backlog é ouro.
+
+**⚖️ MAS CURAR POR QUALIDADE, NÃO DESPEJAR VOLUME (correção do Luis, 21/07/2026).** Ele reprovou um lote inteiro de Reddit, *"achei esses posts horríveis, não usei nenhum"*. O erro foi o oposto do anterior, eu enchi de coisa FRACA (primeira construção de novato, depósito de vegetais, build com 24 upvotes). Página grande NÃO posta isso.
+- **A barra é "isso impressiona?".** Pergunta antes de cardar, um seguidor pararia o scroll nisso? O Luis postaria com orgulho? Se é morno, NÃO vai.
+- **Fonte de qualidade = TOP DO MÊS**, não só o "new". `curl old.reddit.com/r/hytale/top/?t=month` traz as builds e mods que a comunidade elegeu (200+ upvotes). É lá que estão a acrópole de Orbis, o mod Combat Revolution, o Zoro, a calculadora 3D, o chalé com Entity Tool. Preferir SEMPRE o top do mês pra criação.
+- **Cortar por engajamento nas builds da comunidade:** mira em 200+ upvotes pra criação de comunidade. Abaixo disso, só se for excepcional de olhar. (Isso é DIFERENTE da régua de descoberta do scan, que é frouxa de propósito; aqui é a régua de CURADORIA, que é dura.)
+- Volume vem de ter MUITA coisa boa, não de baixar a barra. Melhor 8 posts que ele posta do que 20 que ele joga fora.
 - Traz TODOS os itens que passam nas réguas (recência, veracidade, régua do reddit POR TIPO via `scan_reddit.js`, relevância). Fontes distintas contam separado: cada resposta/assunto do Simon, cada post de reddit forte, cada página nova do site, cada patch = um card.
 - Único freio é qualidade real: não inventar notícia pra encher, e item fraco entra com aviso no resumo (o Luis decide). Fora isso, quanto mais conteúdo bom, mais posts.
 

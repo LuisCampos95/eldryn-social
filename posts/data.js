@@ -6,140 +6,174 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "rb-entitytool",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🏗️",
-    "titulo": "[COMUNIDADE • 84 upvotes] Construção feita com a Entity Tool",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1v383ro/i_really_love_so_much_the_entity_tool/",
-    "fonteData": "21/07/2026",
+    "id": "q-combat-revolution",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "⚔️",
+    "titulo": "[COMUNIDADE • 800 upvotes] Mod Combat Revolution ganhou atualização",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uhb60j/mod_combat_revolution_update/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 84 upvotes ✓. Crédito 📷 u/Small_Pea_5540. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 800 upvotes (top do mês) ✓. Crédito 📷 u/TheCyberSlade. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1v383ro/i_really_love_so_much_the_entity_tool/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Small_Pea_5540."
+      "url": "https://www.reddit.com/r/hytale/comments/1uhb60j/mod_combat_revolution_update/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/TheCyberSlade."
     },
-    "twitter": "🏗️ OLHA O QUE DÁ PRA FAZER COM A ENTITY TOOL DO HYTALE\n\nUm construtor mostrou uma criação montada com a Entity Tool e disse que ama demais a ferramenta.\n\n📷 u/Small_Pea_5540\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🏗️ OLHA O QUE DÁ PRA FAZER COM A ENTITY TOOL DO HYTALE\n\nUm construtor mostrou uma criação montada com a Entity Tool e disse que ama demais a ferramenta.\n\n📷 u/Small_Pea_5540\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⚔️ O COMBAT REVOLUTION, MOD QUE REFAZ O COMBATE DO HYTALE, RECEBEU UMA GRANDE ATUALIZAÇÃO\n\nO criador mostrou a nova versão do mod, que reformula o sistema de luta do jogo com golpes e mecânicas próprias.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ O COMBAT REVOLUTION, MOD QUE REFAZ O COMBATE DO HYTALE, RECEBEU UMA GRANDE ATUALIZAÇÃO\n\nO criador mostrou a nova versão do mod, que reformula o sistema de luta do jogo com golpes e mecânicas próprias.\n\n📷 u/TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-zoo-zumbi",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🧟",
-    "titulo": "[COMUNIDADE • 107 upvotes] Zoológico com zumbis nas jaulas",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1v2e5kz/are_zombies_too_dangerous_for_my_zoo/",
-    "fonteData": "21/07/2026",
+    "id": "q-acropole",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🏛️",
+    "titulo": "[COMUNIDADE • 663 upvotes] Acrópole antiga de Orbis (build)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uibr7u/ancient_acropolis_of_orbis/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 107 upvotes ✓. Crédito 📷 u/TheCryptidMenagerie. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 663 upvotes (top do mês) ✓. Crédito 📷 u/GreenMatias370. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1v2e5kz/are_zombies_too_dangerous_for_my_zoo/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/TheCryptidMenagerie."
+      "url": "https://www.reddit.com/r/hytale/comments/1uibr7u/ancient_acropolis_of_orbis/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/GreenMatias370."
     },
-    "twitter": "🧟 MONTARAM UM ZOOLÓGICO NO HYTALE E BOTARAM ZUMBIS NUMA JAULA\n\nUm jogador construiu um zoológico e brincou perguntando se os zumbis não são perigosos demais pra ficar em exposição.\n\n📷 u/TheCryptidMenagerie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🧟 MONTARAM UM ZOOLÓGICO NO HYTALE E BOTARAM ZUMBIS NUMA JAULA\n\nUm jogador construiu um zoológico e brincou perguntando se os zumbis não são perigosos demais pra ficar em exposição.\n\n📷 u/TheCryptidMenagerie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🏛️ CONSTRUÍRAM UMA ACRÓPOLE ANTIGA DE ORBIS QUE PARECE RUÍNA DE VERDADE\n\nO construtor ergueu uma acrópole em pedra no tema do mundo do Hytale, com colunas e escadaria caprichadas.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏛️ CONSTRUÍRAM UMA ACRÓPOLE ANTIGA DE ORBIS QUE PARECE RUÍNA DE VERDADE\n\nO construtor ergueu uma acrópole em pedra no tema do mundo do Hytale, com colunas e escadaria caprichadas.\n\n📷 u/GreenMatias370\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-adam-ragnarok",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🗿",
-    "titulo": "[COMUNIDADE • 56 upvotes] Adam de Record of Ragnarok recriado",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1uzdeky/adam_from_record_of_ragnarok_in_hytale/",
-    "fonteData": "21/07/2026",
+    "id": "q-thatched-cottage",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🛖",
+    "titulo": "[COMUNIDADE • 522 upvotes] Chalé de palha feito com a Entity Tool",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uhuwg4/thatched_cottage_built_with_the_entity_tool/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 56 upvotes ✓. Crédito 📷 u/Yoren_Aijin. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 522 upvotes (top do mês) ✓. Crédito 📷 u/HyCaptain. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1uzdeky/adam_from_record_of_ragnarok_in_hytale/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Yoren_Aijin."
+      "url": "https://www.reddit.com/r/hytale/comments/1uhuwg4/thatched_cottage_built_with_the_entity_tool/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/HyCaptain."
     },
-    "twitter": "🗿 RECRIARAM O ADAM DE RECORD OF RAGNAROK NO HYTALE\n\nUm criador modelou o personagem dentro do jogo e mostrou o resultado.\n\n📷 u/Yoren_Aijin\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🗿 RECRIARAM O ADAM DE RECORD OF RAGNAROK NO HYTALE\n\nUm criador modelou o personagem dentro do jogo e mostrou o resultado.\n\n📷 u/Yoren_Aijin\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🛖 FIZERAM UM CHALÉ DE PALHA NO HYTALE SÓ COM A ENTITY TOOL\n\nO construtor montou a casa inteira usando a Entity Tool, com telhado de palha e acabamento rústico.\n\n📷 u/HyCaptain\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛖 FIZERAM UM CHALÉ DE PALHA NO HYTALE SÓ COM A ENTITY TOOL\n\nO construtor montou a casa inteira usando a Entity Tool, com telhado de palha e acabamento rústico.\n\n📷 u/HyCaptain\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-dante",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "😈",
-    "titulo": "[COMUNIDADE • 53 upvotes] Dante recriado no Hytale",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1uzqwxo/i_tried_making_dante/",
-    "fonteData": "21/07/2026",
+    "id": "q-creature",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🐲",
+    "titulo": "[COMUNIDADE • 467 upvotes] Criatura original desenhada no jogo",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uqyzai/tried_designing_my_own_creature/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 53 upvotes ✓. Crédito 📷 u/Axis9876. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 467 upvotes (top do mês) ✓. Crédito 📷 u/rappenem. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1uzqwxo/i_tried_making_dante/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Axis9876."
+      "url": "https://www.reddit.com/r/hytale/comments/1uqyzai/tried_designing_my_own_creature/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/rappenem."
     },
-    "twitter": "😈 UM JOGADOR RECRIOU O DANTE DENTRO DO HYTALE\n\nEle contou que tentou fazer o personagem no jogo e mostrou como ficou.\n\n📷 u/Axis9876\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "😈 UM JOGADOR RECRIOU O DANTE DENTRO DO HYTALE\n\nEle contou que tentou fazer o personagem no jogo e mostrou como ficou.\n\n📷 u/Axis9876\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🐲 UM CRIADOR DESENHOU A PRÓPRIA CRIATURA DENTRO DO HYTALE\n\nEle modelou um bicho original do zero e mostrou o resultado, no capricho de quem podia ser bicho oficial.\n\n📷 u/rappenem\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐲 UM CRIADOR DESENHOU A PRÓPRIA CRIATURA DENTRO DO HYTALE\n\nEle modelou um bicho original do zero e mostrou o resultado, no capricho de quem podia ser bicho oficial.\n\n📷 u/rappenem\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-persistent-world",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🌐",
-    "titulo": "[COMUNIDADE • 23 upvotes] Mundo persistente customizado (paulevs)",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1v0zinr/сustom_persistent_world_how_it_looks_in_the_game/",
-    "fonteData": "21/07/2026",
+    "id": "q-wildmutt",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "👽",
+    "titulo": "[COMUNIDADE • 456 upvotes] Mod de Ben 10 com o Wildmutt remodelado",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1umse5j/wildmutt_remodel_lets_g000_ben_10_hytale_mod/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 23 upvotes ✓. Crédito 🎥 u/paulevs-bn. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 456 upvotes (top do mês) ✓. Crédito 🎥 u/nuggified. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "video",
-      "url": "https://www.reddit.com/r/hytale/comments/1v0zinr/сustom_persistent_world_how_it_looks_in_the_game/",
-      "nota": "Baixar a VÍDEO do post e publicar como mídia própria, creditando 🎥 u/paulevs-bn."
+      "url": "https://www.reddit.com/r/hytale/comments/1umse5j/wildmutt_remodel_lets_g000_ben_10_hytale_mod/",
+      "nota": "Baixar a VÍDEO do post e publicar como mídia própria, creditando 🎥 u/nuggified."
     },
-    "twitter": "🌐 UM MODDER MOSTROU O MUNDO PERSISTENTE CUSTOMIZADO QUE ESTÁ FAZENDO\n\nO paulevs, modder conhecido da comunidade, publicou um vídeo mostrando como ficou o mundo persistente que ele desenvolve pro Hytale.\n\n🎥 u/paulevs-bn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🌐 UM MODDER MOSTROU O MUNDO PERSISTENTE CUSTOMIZADO QUE ESTÁ FAZENDO\n\nO paulevs, modder conhecido da comunidade, publicou um vídeo mostrando como ficou o mundo persistente que ele desenvolve pro Hytale.\n\n🎥 u/paulevs-bn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "👽 TEM UM MOD DE BEN 10 NO HYTALE E O WILDMUTT FICOU PERFEITO\n\nO criador mostrou em vídeo o Wildmutt remodelado pro mod de Ben 10 que ele desenvolve.\n\n🎥 u/nuggified\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👽 TEM UM MOD DE BEN 10 NO HYTALE E O WILDMUTT FICOU PERFEITO\n\nO criador mostrou em vídeo o Wildmutt remodelado pro mod de Ben 10 que ele desenvolve.\n\n🎥 u/nuggified\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-vegetais",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🥕",
-    "titulo": "[COMUNIDADE • 65 upvotes] Depósito de vegetais construído",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1uvxd23/now_we_have_somewhere_to_store_the_vegetables/",
-    "fonteData": "21/07/2026",
+    "id": "q-japan",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "⛩️",
+    "titulo": "[COMUNIDADE • 450 upvotes] Pacote de construções japonesas",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uv65xm/japan_things_for_hytale/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 65 upvotes ✓. Crédito 📷 u/Livid-Implement3795. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 450 upvotes (top do mês) ✓. Crédito 📷 u/sora_sabi. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1uvxd23/now_we_have_somewhere_to_store_the_vegetables/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Livid-Implement3795."
+      "url": "https://www.reddit.com/r/hytale/comments/1uv65xm/japan_things_for_hytale/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/sora_sabi."
     },
-    "twitter": "🥕 CONSTRUÍRAM UM DEPÓSITO SÓ PROS VEGETAIS NO HYTALE\n\nUm jogador montou um armazém organizado pra guardar a colheita e mostrou o resultado.\n\n📷 u/Livid-Implement3795\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🥕 CONSTRUÍRAM UM DEPÓSITO SÓ PROS VEGETAIS NO HYTALE\n\nUm jogador montou um armazém organizado pra guardar a colheita e mostrou o resultado.\n\n📷 u/Livid-Implement3795\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⛩️ FIZERAM UM PACOTE DE CONSTRUÇÕES JAPONESAS PRO HYTALE\n\nO criador montou um conjunto de peças de tema japonês pra usar nas construções, com muito capricho nos detalhes.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛩️ FIZERAM UM PACOTE DE CONSTRUÇÕES JAPONESAS PRO HYTALE\n\nO criador montou um conjunto de peças de tema japonês pra usar nas construções, com muito capricho nos detalhes.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-pandora-veiculo",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🚜",
-    "titulo": "[COMUNIDADE • 24 upvotes] Veículo de Avatar recriado no Hytale",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1uvv3jn/avatar_frontiers_of_pandora_rda_logistics_vehicle/",
-    "fonteData": "21/07/2026",
+    "id": "q-zoro",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🗡️",
+    "titulo": "[COMUNIDADE • 287 upvotes] Roronoa Zoro recriado no Hytale",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1ug3lnz/i_made_roronoa_zoro_from_one_piece/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 24 upvotes ✓. Crédito 📷 u/Jazzlike-Lychee5244. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 287 upvotes (top do mês) ✓. Crédito 📷 u/Netherzapdos. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1uvv3jn/avatar_frontiers_of_pandora_rda_logistics_vehicle/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Jazzlike-Lychee5244."
+      "url": "https://www.reddit.com/r/hytale/comments/1ug3lnz/i_made_roronoa_zoro_from_one_piece/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Netherzapdos."
     },
-    "twitter": "🚜 RECRIARAM UM VEÍCULO DE AVATAR DENTRO DO HYTALE\n\nUm construtor montou o veículo de logística da RDA, do jogo Avatar Frontiers of Pandora, usando os blocos do Hytale.\n\n📷 u/Jazzlike-Lychee5244\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🚜 RECRIARAM UM VEÍCULO DE AVATAR DENTRO DO HYTALE\n\nUm construtor montou o veículo de logística da RDA, do jogo Avatar Frontiers of Pandora, usando os blocos do Hytale.\n\n📷 u/Jazzlike-Lychee5244\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🗡️ RECRIARAM O RORONOA ZORO DE ONE PIECE DENTRO DO HYTALE\n\nO criador modelou o personagem no jogo, com as três espadas e tudo, e mostrou como ficou.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ RECRIARAM O RORONOA ZORO DE ONE PIECE DENTRO DO HYTALE\n\nO criador modelou o personagem no jogo, com as três espadas e tudo, e mostrou como ficou.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "rb-first-build",
-    "rodada": "2026-07-22 19:25",
-    "emoji": "🏡",
-    "titulo": "[COMUNIDADE • 52 upvotes] Primeira construção de um jogador",
-    "fonte": "https://www.reddit.com/r/hytale/comments/1v3ad1o/my_first_build_in_hytale/",
-    "fonteData": "21/07/2026",
+    "id": "q-calculator",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🧮",
+    "titulo": "[COMUNIDADE • 268 upvotes] Calculadora gráfica 3D funcional",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uu6502/3d_graphing_calculator_with_hexcode_lol/",
+    "fonteData": "2026-07",
     "confiabilidade": "comunidade",
-    "resumo": "CRIAÇÃO DA COMUNIDADE, 52 upvotes ✓. Crédito 📷 u/Firm-Manufacturer247. Estava parada no backlog, conteúdo bom não expira. Nunca dizer no corpo que veio do reddit.",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 268 upvotes (top do mês) ✓. Crédito 🎥 u/RiprodStudios. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1uu6502/3d_graphing_calculator_with_hexcode_lol/",
+      "nota": "Baixar a VÍDEO do post e publicar como mídia própria, creditando 🎥 u/RiprodStudios."
+    },
+    "twitter": "🧮 UM JOGADOR MONTOU UMA CALCULADORA GRÁFICA 3D FUNCIONANDO DENTRO DO HYTALE\n\nUsando a lógica do jogo, ele construiu uma calculadora que desenha gráficos em 3D de verdade e mostrou rodando em vídeo.\n\n🎥 u/RiprodStudios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧮 UM JOGADOR MONTOU UMA CALCULADORA GRÁFICA 3D FUNCIONANDO DENTRO DO HYTALE\n\nUsando a lógica do jogo, ele construiu uma calculadora que desenha gráficos em 3D de verdade e mostrou rodando em vídeo.\n\n🎥 u/RiprodStudios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "q-metroid",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🔴",
+    "titulo": "[COMUNIDADE • 254 upvotes] Itens que aparecem no estilo Metroid",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1ueldyt/metroid_style_pick_up_items/",
+    "fonteData": "2026-07",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 254 upvotes (top do mês) ✓. Crédito 🎥 u/Emmanuel-Dyz89. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1ueldyt/metroid_style_pick_up_items/",
+      "nota": "Baixar a VÍDEO do post e publicar como mídia própria, creditando 🎥 u/Emmanuel-Dyz89."
+    },
+    "twitter": "🔴 FIZERAM ITENS QUE APARECEM NO ESTILO METROID NO HYTALE\n\nO criador mostrou em vídeo um mod onde os itens surgem com aquela animação clássica de pegar upgrade em Metroid.\n\n🎥 u/Emmanuel-Dyz89\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔴 FIZERAM ITENS QUE APARECEM NO ESTILO METROID NO HYTALE\n\nO criador mostrou em vídeo um mod onde os itens surgem com aquela animação clássica de pegar upgrade em Metroid.\n\n🎥 u/Emmanuel-Dyz89\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "q-vending",
+    "rodada": "2026-07-23 11:14",
+    "emoji": "🥤",
+    "titulo": "[COMUNIDADE • 224 upvotes] Máquinas de venda decorativas",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1uz2cnl/some_vending_machines_i_did/",
+    "fonteData": "2026-07",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO FORTE DA COMUNIDADE, 224 upvotes (top do mês) ✓. Crédito 📷 u/heavenly-roads. Conteúdo de qualidade, o tipo que a página deve postar. Nunca dizer no corpo que veio do reddit.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.reddit.com/r/hytale/comments/1v3ad1o/my_first_build_in_hytale/",
-      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/Firm-Manufacturer247."
+      "url": "https://www.reddit.com/r/hytale/comments/1uz2cnl/some_vending_machines_i_did/",
+      "nota": "Baixar a imagem do post e publicar como mídia própria, creditando 📷 u/heavenly-roads."
     },
-    "twitter": "🏡 A PRIMEIRA CONSTRUÇÃO DESSE JOGADOR NO HYTALE\n\nUm jogador compartilhou a primeira coisa que construiu no jogo. Todo mundo começou assim um dia.\n\n📷 u/Firm-Manufacturer247\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🏡 A PRIMEIRA CONSTRUÇÃO DESSE JOGADOR NO HYTALE\n\nUm jogador compartilhou a primeira coisa que construiu no jogo. Todo mundo começou assim um dia.\n\n📷 u/Firm-Manufacturer247\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🥤 FIZERAM UMAS MÁQUINAS DE REFRIGERANTE PRO HYTALE QUE FICARAM LINDAS\n\nO criador montou um conjunto de máquinas de venda pra decorar cenário urbano, com visual bem acabado.\n\n📷 u/heavenly-roads\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🥤 FIZERAM UMAS MÁQUINAS DE REFRIGERANTE PRO HYTALE QUE FICARAM LINDAS\n\nO criador montou um conjunto de máquinas de venda pra decorar cenário urbano, com visual bem acabado.\n\n📷 u/heavenly-roads\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "x2107-primeiro-chefe",
