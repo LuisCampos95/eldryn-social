@@ -30,6 +30,10 @@ Um criador da comunidade lançou o hytaleVRInjector, que coloca o jogo rodando e
 
 **Exceção:** RESUMÃO (várias falas do Simon) usa lista de 🔹 com um fato por linha, mesma regra de secura, e também fecha com código e depois hashtags.
 
+**🐛 TODO card PRECISA de `rodada` (bug pego pelo Luis, 23/07/2026).** Card sem `rodada` fica com data `undefined` e o painel mostra um grupo SEM DATA quebrado no fim da página. Sempre incluir `rodada` (carimbo `new Date().toLocaleString('sv-SE',{timeZone:'America/Sao_Paulo'}).slice(0,16)`). Depois de gerar, conferir, `posts.filter(x=>!x.rodada).length` tem que ser 0.
+
+**🧾 PATCH NOTES = post GRANDE no formato do Luis** (modelo, x.com/OrbisHytale/status/2075236836398477632). Estrutura, TÍTULO em CAPS "HYTALE PRÉ-RELEASE (UPDATE 6 PARTE N)", 1 parágrafo de intro, seções em CAPS com bullets `•` (DESTAQUE, COMBATE, MUNDO, CORREÇÕES com subgrupos, PARA MODDERS), pode ter emojis nos cabeçalhos. Cobrir TODOS os pontos, agrupando/resumindo as listas longas (principalmente a parte de modder). O TWITTER leva a versão completa (X Premium aguenta); o META leva uma versão CONDENSADA sob 2200 (destaque + highlights). Sem travessão e sem dois pontos, mesmo aqui.
+
 **📌 CADA LINHA DO RESUMÃO PRECISA DE CONTEXTO (correção do Luis, 21/07/2026).** Resposta solta não informa nada, porque o leitor não viu a pergunta. Erro real que ele pegou:
 > ❌ "🔹 E ele disse que os capítulos do early access podem sumir depois de cumprirem o papel deles, e que se der pra esperar, ele esperaria o Capítulo 3"
 > *"esperar o quê? no caso o contexto era esperar pra criar um mundo novo, mas você não colocou, então como quem tá lendo vai saber?"*
