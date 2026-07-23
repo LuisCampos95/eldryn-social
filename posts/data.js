@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "site2307-compilado-cap1",
+    "rodada": "2026-07-23 15:45",
+    "emoji": "⚔️",
+    "titulo": "[COMPILADO] Tudo que vem no Capítulo 1 do Hytale",
+    "fonte": "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "COMPILADÃO/RETROSPECTIVA de tudo que foi anunciado pro Capítulo 1 (blog First Look de 17/07 + falas do Simon no X). Pedido do Luis, gerar ansiedade. Cobre goblins (facção, dungeon Templo Esquecido, fendas, cosméticos), primeiro chefe de 3 fases, runas/runeforging, barcos, carregar objetos, rocket boots, música posicional, minigames open source, mod browser, cubic chunks + WorldGen V2 + nuvens volumétricas, cosméticos + avatar, e prévia dos companions. ETA 2-3 meses, trailer prometido. Post grande, twitter completo + meta condensado.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Post de retrospectiva/hype do Capítulo 1. Sugestão de mídia, a arte oficial de capa do blog do Capítulo 1 ou um carrossel com uma imagem de cada destaque (goblins, barcos, runas, skins). No X, post único longo. No Meta, versão condensada com a arte de capa."
+    },
+    "twitter": "⚔️ TUDO QUE VEM NO CAPÍTULO 1 DO HYTALE\n\nO Capítulo 1 é o maior conteúdo da história do jogo, e o blog de prévia mostrou o tamanho da coisa. Tá previsto pra daqui 2 a 3 meses e o Simon prometeu um trailer quando a data fechar. Juntei aqui tudo que vem, e já prepara o coração.\n\n👺 GOBLINS\n• A nova facção do capítulo, com elites de personalidade própria e o Templo Esquecido pra explorar. As fendas goblin abrem dentro do seu mundo, e tem cosmético goblin que você desbloqueia completando o capítulo.\n\n⚔️ CHEFES\n• O primeiro chefe é uma luta de três fases com modo difícil opcional, e o Simon já avisou que é só o primeiro de muitos.\n\n🔮 RUNAS E RUNEFORGING\n• Um sistema de habilidades por runa, com runas modificadoras que mudam como a habilidade funciona e até runa de suporte. Runa não vai em arma nem armadura, pra não virar troca de item toda hora.\n\n⛵ BARCOS\n• A sugestão mais votada da comunidade virando realidade. Dá pra navegar de verdade pelo mundo.\n\n🧳 CARREGAR OBJETOS\n• Pegar baú, barril explosivo e mais coisas no braço, com física de carga. É a base pra armadilha e quebra-cabeça.\n\n🚀 ROCKET BOOTS\n• Botas de foguete, e nas palavras do Simon a razão é simples, é divertido.\n\n🎵 MÚSICA POSICIONAL\n• Um bloco que toca música do ponto onde está e abafa quando você se afasta ou tem parede no meio.\n\n🕹️ MINIGAMES\n• Os minigames oficiais chegam de código aberto pra comunidade estudar e montar o seu por cima.\n\n🧩 MOD BROWSER\n• Dá pra instalar mod direto de dentro do jogo, sem sair pra procurar.\n\n🌍 MUNDO NOVO\n• Altura e profundidade infinitas de verdade, o WorldGen V2 que vai ser muito diferente e nuvens volumétricas.\n\n👕 VISUAL\n• Uma leva de cosméticos novos, de gótico a moletom com o escudo do jogo, e o criador de avatar ganha mão mais detalhada e opção de cílios.\n\n🤝 COMPANIONS\n• Prévia dos ajudantes que entram no loop de craft, não só no combate. Eles chegam pra valer no Capítulo 2.\n\nE o Simon já avisou que o jogo vai mudar drasticamente nos próximos meses. O Capítulo 1 é só o começo 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ TUDO QUE VEM NO CAPÍTULO 1 DO HYTALE\n\nO Capítulo 1 é o maior conteúdo da história do jogo. Previsto pra daqui 2 a 3 meses, com trailer a caminho. Olha tudo que vem por aí.\n\n👺 Goblins, a nova facção, com dungeon, fendas no seu mundo e cosméticos próprios.\n⚔️ O primeiro chefe é uma luta de três fases, e é só o primeiro de muitos.\n🔮 Runas e runeforging, com runas modificadoras e de suporte.\n⛵ Barcos, a sugestão mais votada da comunidade.\n🧳 Carregar objetos no braço, com física de carga.\n🚀 Botas de foguete, porque é divertido.\n🎵 Bloco de música posicional.\n🕹️ Minigames oficiais de código aberto.\n🧩 Mod browser dentro do jogo.\n🌍 Altura infinita, WorldGen V2 e nuvens volumétricas.\n👕 Cosméticos novos e avatar mais detalhado.\n🤝 Prévia dos companions no loop de craft.\n\nO Simon já avisou, o jogo vai mudar drasticamente. Isso é só o começo 👀\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "site2307-compilado-update6",
     "rodada": "2026-07-23 15:32",
     "emoji": "🚀",
