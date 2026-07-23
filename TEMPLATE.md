@@ -208,6 +208,17 @@ Post de RESUMÃO junta VÁRIAS respostas. NUNCA dar RT/quote de um tweet só (o 
   - Nunca repetir o nome do autor duas vezes no mesmo texto.
   - Tweet de terceiro: mesma regra, com o @ da pessoa.
 
+## 📰 SITE, checar o CONTEÚDO da página de patch, não só URLs novas (erro grave, 23/07/2026)
+O Luis pegou que eu perdi a **Parte 9 do Update 6 (Modo Hardcore)** e o detalhe da **falha de segurança**. Motivo do erro, eu só olhava se aparecia URL NOVA em /news, mas **patch notes atualizam na MESMA URL** (`pre-release-patch-notes-update-6`), acumulando entradas por data no topo. Uma Parte nova nunca vai aparecer como URL nova.
+
+**SEMPRE fazer (toda varredura):**
+```
+curl -s -A "Mozilla/5.0" "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6" | \
+  grep -oiE 'Update 6 Part [0-9]+|July [0-9]+, 2026|Hardcore|security'
+```
+Ler a ENTRADA MAIS NOVA (topo, com a data mais recente) e comparar com `ultimoPatchVisto` no state.json. Se a data/Parte for mais nova, é POST (lista completa, post único longo). Conferir também se surgiu uma URL de patch de update SEGUINTE (update-7 etc).
+**E ler o CORPO inteiro**, não só a manchete, uma linha curta pode ser enorme (a de 19/07 era só "Fixed a security issue" e virou a maior história do mês, um RCE de 20 mil dólares de bounty).
+
 ## 🐦 VASCULHAR O TWITTER DE VERDADE (pedido do Luis, 21/07/2026)
 Só olhar o perfil dos funcionários é POUCO. O X tem muita coisa boa de Hytale e a gente estava perdendo. Usar a BUSCA, na aba **Mais recentes**:
 

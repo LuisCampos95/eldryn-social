@@ -6,6 +6,41 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "patch2307-parte9-hardcore",
+    "emoji": "🎮",
+    "titulo": "[PATCH • hoje 23/07] Parte 9 do Update 6, modo hardcore chegou",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PATCH NOVO na mesma URL das notas da pré-release. Entrada 'Pre-Release (Update 6 Part 9), July 23, 2026'. DESTAQUE, Hardcore Mode. Literal, só ativa ao criar mundo novo e não muda depois; sem respawn, o avatar larga tudo e vira Spectator (invisível pros não-espectadores, sem interagir); comando /spectate pros ops. Também, site de documentação com tema novo e domínios docs.hytale.com e pre-release.docs.hytale.com; combate (stamina recarrega meio segundo mais rápido após guardar, primeiros dois golpes da adaga com dano um pouco maior); worldgen (blend suave de cor entre biomas); item (terra vira duas meia-lajes na Builder's Workbench); muitas correções, incluindo a piada 'the stars at night had begun to break' agora corrigida. Contribuidor creditado, NoctuaAstrum. Amarra com a fala do Simon sobre hardcore/permadeath. ultimoPatchVisto anterior era 19/07 (segurança).",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Post de patch. No X, post único. No Meta, print da entrada da Parte 9 das notas ou uma arte de mundo hardcore. Aviso de serviço, sem mídia própria obrigatória."
+    },
+    "twitter": "🎮 O MODO HARDCORE CHEGOU NO HYTALE\n\nSaiu a Parte 9 da atualização 6 na pré-release e o destaque é o modo hardcore. Ele só pode ser ligado na hora de criar um mundo novo e não dá pra mudar depois. Quando você morre não renasce, larga tudo que estava carregando e vira espectador, invisível pros outros e sem poder mexer no mundo.\n\nA atualização também trouxe domínio novo pro site de documentação, ajustes de combate como a stamina voltando mais rápido depois de defender, mistura suave de cor entre os biomas e a opção de transformar bloco de terra em meia laje. Eles ainda corrigiram um bug em que as estrelas da noite estavam quebrando.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎮 O MODO HARDCORE CHEGOU NO HYTALE\n\nSaiu a Parte 9 da atualização 6 na pré-release e o destaque é o modo hardcore. Ele só pode ser ligado na hora de criar um mundo novo e não dá pra mudar depois. Quando você morre não renasce, larga tudo que estava carregando e vira espectador, invisível pros outros e sem poder mexer no mundo.\n\nA atualização também trouxe domínio novo pro site de documentação, ajustes de combate como a stamina voltando mais rápido depois de defender, mistura suave de cor entre os biomas e a opção de transformar bloco de terra em meia laje. Eles ainda corrigiram um bug em que as estrelas da noite estavam quebrando.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x2307-rce-bounty",
+    "emoji": "🔒",
+    "titulo": "[OFICIAL] Falha de RCE no cliente rendeu bounty de 20 mil (maior da história)",
+    "fonte": "https://x.com/DevSlashNulled/status/2080048379363569792",
+    "fonteData": "22/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, do dev @DevSlashNulled (406 curtidas, 29 mil views). Contexto da correção de segurança do dia 19/07. FATOS, o time de segurança foi alertado no domingo passado de uma vulnerabilidade no cliente; a falha estava em como o cliente tratava certas imagens PNG enviadas por um servidor; um servidor malicioso ou comprometido podia mandar um PNG preparado e, no pior caso, RODAR CÓDIGO na máquina do jogador conectado (RCE). Corrigido no MESMO DIA (build Hytale 0.5.7 20), SEM evidência de uso contra jogadores. Bounty de 20 MIL DÓLARES, o maior já pago pelo jogo, via Bugcrowd. Reforçaram todo o código e criaram novos processos. Detalhe técnico (0x90), integer overflow no cálculo de tamanho do PNG -> buffer overflow -> cadeia de objetos falsos em C#/NativeAOT que alcançava um helper do Sentry capaz de chamar CreateProcessW e abrir cmd.exe (PoC abriu a calculadora). WRITEUP COMPLETO do pesquisador @0x90sh, https://0x90.sh/threads/how-a-png-became-a-20-000-hytale-rce.57/. Programa de divulgação de vulnerabilidade em hytale.com/security. Passkeys também entraram nas contas do Hytale (20/07). NÃO ser alarmista, a falha JÁ foi corrigida e ninguém foi afetado.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/DevSlashNulled/status/2080048379363569792",
+      "tweetId": "2080048379363569792",
+      "tweetAutor": "DevSlashNull (Eli) · @DevSlashNulled",
+      "tweetTexto": "Domingo passado pagamos a maior recompensa até agora, 20 mil dólares. O time de segurança do Hytale foi alertado de uma vulnerabilidade no cliente. A falha estava em como o cliente tratava certas imagens PNG enviadas por um servidor. Um servidor malicioso podia, no pior caso, rodar código na máquina do jogador. Corrigimos no mesmo dia, sem evidência de uso contra jogadores. (traducao do X)",
+      "nota": "VIDEO DA POC JA BAIXADO em CUsersluisfDownloadsEldrynMidiashytale-rce\rce_poc_calc_1080p.mp4 (33s, 1080p, 4 MB, pronto pro Insta e Face). Mostra um servidor remoto abrindo a calculadora na maquina do jogador, a prova do RCE. No X, quote/RT do @DevSlashNulled ou o video. Writeup tecnico completo do pesquisador em 0x90.sh/threads/how-a-png-became-a-20-000-hytale-rce.57 (o Luis pediu). Ao postar o video, deixar claro que a falha JA foi corrigida."
+    },
+    "twitter": "🔒 ACHARAM UMA FALHA QUE DEIXAVA UM SERVIDOR HACKEAR O PC DE QUEM JOGAVA HYTALE\n\nO time de segurança do Hytale foi avisado de uma falha no cliente do jogo. Um servidor malicioso conseguia mandar uma imagem PNG preparada e, no pior caso, rodar código na máquina de quem estava conectado. Eles corrigiram no mesmo dia e não acharam nenhum sinal de que algum jogador tenha sido atingido.\n\nO pesquisador que encontrou a falha ganhou 20 mil dólares, o maior prêmio de segurança já pago pelo jogo, e publicou a explicação técnica completa. De quebra, o estúdio reforçou o resto do código pra pegar esse tipo de coisa mais cedo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔒 ACHARAM UMA FALHA QUE DEIXAVA UM SERVIDOR HACKEAR O PC DE QUEM JOGAVA HYTALE\n\nO time de segurança do Hytale foi avisado de uma falha no cliente do jogo. Um servidor malicioso conseguia mandar uma imagem PNG preparada e, no pior caso, rodar código na máquina de quem estava conectado. Eles corrigiram no mesmo dia e não acharam nenhum sinal de que algum jogador tenha sido atingido.\n\nO pesquisador que encontrou a falha ganhou 20 mil dólares, o maior prêmio de segurança já pago pelo jogo, e publicou a explicação técnica completa. De quebra, o estúdio reforçou o resto do código pra pegar esse tipo de coisa mais cedo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "q-combat-revolution",
     "rodada": "2026-07-23 11:14",
     "emoji": "⚔️",
