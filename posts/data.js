@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "patch2407-hotfix-transparencia",
+    "rodada": "2026-07-24 13:08",
+    "emoji": "🔧",
+    "titulo": "[PATCH • hoje 24/07] Hotfix, revertida a renderização nova de transparência",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "24/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "HOTFIX novo na página das notas da pré-release (Update 6). Entrada de 24 de julho de 2026, item único e literal: 'Reverted some changes to the rendering of transparent effects while we work out various performance/stability issues.' Ou seja, reverteram a renderização nova de superfícies transparentes (que tinha entrado nas partes anteriores) por causa de problemas de desempenho e estabilidade; vão retrabalhar e trazer de volta. Post curto, aviso de serviço. ultimoPatchVisto anterior era 23/07 (Parte 9).",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "nota": "Hotfix pequeno. No X, post único curto. No Meta, sem mídia obrigatória, ou print da linha das notas. Aviso de serviço."
+    },
+    "twitter": "🔧 O HYTALE DESFEZ A MUDANÇA DE TRANSPARÊNCIA QUE TAVA DANDO PROBLEMA\n\nNuma correção de hoje na pré-release, o estúdio voltou atrás na renderização nova de efeitos transparentes, que estava causando questão de desempenho e estabilidade. Eles vão retrabalhar e trazer de volta depois. Quem estava com lag ou travando em cima de coisa transparente deve sentir melhora.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔧 O HYTALE DESFEZ A MUDANÇA DE TRANSPARÊNCIA QUE TAVA DANDO PROBLEMA\n\nNuma correção de hoje na pré-release, o estúdio voltou atrás na renderização nova de efeitos transparentes, que estava causando questão de desempenho e estabilidade. Eles vão retrabalhar e trazer de volta depois. Quem estava com lag ou travando em cima de coisa transparente deve sentir melhora.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x23-dino-raptor",
     "rodada": "2026-07-24 09:41",
     "emoji": "🦖",
