@@ -6,6 +6,57 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "r23-golem-mob",
+    "rodada": "2026-07-24 09:31",
+    "emoji": "🗿",
+    "titulo": "[COMUNIDADE • 164 upvotes] Golem original no estilo do Hytale",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v4i3tk/first_time_trying_a_hytalestyled_mob_pretty_happy/",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 164 upvotes ✓, fresca. Crédito 📷 u/Reijvi. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1v4i3tk/first_time_trying_a_hytalestyled_mob_pretty_happy/",
+      "nota": "Baixar a imagem do post e publicar creditando 📷 u/Reijvi."
+    },
+    "twitter": "🗿 UM CRIADOR FEZ SEU PRIMEIRO MOB NO ESTILO DO HYTALE E MANDOU MUITO BEM\n\nEle modelou um golem original seguindo a cara do jogo e ficou bem satisfeito com o resultado. Parece bicho que já podia estar no jogo.\n\n📷 u/Reijvi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗿 UM CRIADOR FEZ SEU PRIMEIRO MOB NO ESTILO DO HYTALE E MANDOU MUITO BEM\n\nEle modelou um golem original seguindo a cara do jogo e ficou bem satisfeito com o resultado. Parece bicho que já podia estar no jogo.\n\n📷 u/Reijvi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "r23-journey-armas",
+    "rodada": "2026-07-24 09:31",
+    "emoji": "⚔️",
+    "titulo": "[COMUNIDADE • 39 upvotes] Mod Journey mostrou suas 10 armas",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v421qk/all_10_weapons_showcase_journey_mod/",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 39 upvotes ✓, fresca. Crédito 🎥 u/AceOfRoyalSuites. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v421qk/all_10_weapons_showcase_journey_mod/",
+      "nota": "Baixar a VÍDEO do post e publicar creditando 🎥 u/AceOfRoyalSuites."
+    },
+    "twitter": "⚔️ UM MOD DE HYTALE MOSTROU AS 10 ARMAS DELE FUNCIONANDO EM VÍDEO\n\nO mod Journey soltou um showcase com as dez armas que ele adiciona, cada uma com o próprio estilo de golpe.\n\n🎥 u/AceOfRoyalSuites\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD DE HYTALE MOSTROU AS 10 ARMAS DELE FUNCIONANDO EM VÍDEO\n\nO mod Journey soltou um showcase com as dez armas que ele adiciona, cada uma com o próprio estilo de golpe.\n\n🎥 u/AceOfRoyalSuites\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "r23-bioma-subaquatico",
+    "rodada": "2026-07-24 09:31",
+    "emoji": "🌊",
+    "titulo": "[COMUNIDADE • 16 upvotes] Bioma subaquático pensado pro WorldGen V2",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v4ftn8/underwater_biome_prepare_for_worldgen_v2/",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 16 upvotes ✓, fresca. Crédito 📷 u/PhillipPilgrim. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.reddit.com/r/hytale/comments/1v4ftn8/underwater_biome_prepare_for_worldgen_v2/",
+      "nota": "Baixar a imagem do post e publicar creditando 📷 u/PhillipPilgrim."
+    },
+    "twitter": "🌊 JÁ ESTÃO PREPARANDO BIOMA SUBAQUÁTICO PRO WORLDGEN V2 DO HYTALE\n\nUm criador montou um bioma debaixo d água pensando no gerador de mundo novo que vem por aí, e o resultado ficou bonito.\n\n📷 u/PhillipPilgrim\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌊 JÁ ESTÃO PREPARANDO BIOMA SUBAQUÁTICO PRO WORLDGEN V2 DO HYTALE\n\nUm criador montou um bioma debaixo d água pensando no gerador de mundo novo que vem por aí, e o resultado ficou bonito.\n\n📷 u/PhillipPilgrim\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "site2307-compilado-cap1",
     "rodada": "2026-07-23 15:45",
     "emoji": "⚔️",
