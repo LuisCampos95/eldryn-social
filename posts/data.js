@@ -6,6 +6,26 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x23-dino-raptor",
+    "rodada": "2026-07-24 09:41",
+    "emoji": "🦖",
+    "titulo": "[X] Dino Raptor piñata modelado no Blockbench",
+    "fonte": "https://x.com/cyberaxe/status/2080542612457680960",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, da #Hytale no X. CyberAxe (@cyberaxe, criador verificado, dev de Hytale/Bedrock). Modelo de dino raptor com tema piñata feito no Blockbench, colorido e com partes que brilham (GIF girando o modelo). Texto original 'Hytale - Pinata Dino Rapter - Blockbench' com #hytale #blockbench #pinata #rapter #hytalemodding #hytalemodels. Crédito 🎥 @cyberaxe.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/cyberaxe/status/2080542612457680960",
+      "tweetId": "2080542612457680960",
+      "tweetAutor": "CyberAxe · @cyberaxe",
+      "tweetTexto": "Hytale - Pinata Dino Rapter - Blockbench (traducao do X)",
+      "nota": "GIF girando o modelo do dino. No X, quote/RT marcando @cyberaxe. No Meta, salvar o GIF/vídeo do post. Crédito 🎥 @cyberaxe."
+    },
+    "twitter": "🦖 UM CRIADOR FEZ UM DINO RAPTOR PIÑATA BRILHANTE PRO HYTALE\n\nO CyberAxe modelou no Blockbench um dino raptor com visual de piñata, todo colorido e com detalhe que brilha nas costas. Ficou com cara de mob que renderia uma boa luta.\n\n🎥 @cyberaxe\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🦖 UM CRIADOR FEZ UM DINO RAPTOR PIÑATA BRILHANTE PRO HYTALE\n\nO CyberAxe modelou no Blockbench um dino raptor com visual de piñata, todo colorido e com detalhe que brilha nas costas. Ficou com cara de mob que renderia uma boa luta.\n\n🎥 @cyberaxe\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "r23-golem-mob",
     "rodada": "2026-07-24 09:31",
     "emoji": "🗿",
