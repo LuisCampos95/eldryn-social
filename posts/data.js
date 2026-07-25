@@ -6,6 +6,63 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x24-simon-financiamento",
+    "rodada": "2026-07-25 11:08",
+    "emoji": "💰",
+    "titulo": "[OFICIAL] Simon explica como banca o Hytale sozinho por anos",
+    "fonte": "https://x.com/Simon_Hypixel/status/2080356090080895325",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, resposta do Simon (179 curtidas, 3 mil views). Literal: 'Unique situation for us, as I can fund it myself for many years! Some insight is that back in 2020, when I sold Hytale to Riot Games, I invested everything in the big crash and did very well in the years that followed. I now own several businesses and an investment fund. That strategy also allowed me to buy back the game.' Mais: 'there are many other ways to fund the game if needs be; I'm not worried about funding at all. Right now, my only focus is on making a good game.' E o fecho: 'Hytale is my retirement passion project; think of it as if I bought a sports team and I'm having a good time! I don't really enjoy traveling and retirement was very boring to me. I am having the best time of my life right now.' Amarra com o compromisso dos 10 anos de financiamento próprio.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "Resposta de texto. No X, quote/RT do Simon. No Meta, print traduzido da resposta dele."
+    },
+    "twitter": "💰 O SIMON EXPLICOU COMO CONSEGUE BANCAR O HYTALE SOZINHO POR ANOS\n\nPerguntaram como o jogo se sustenta sem investidor. Ele contou que, quando vendeu o Hytale pra Riot em 2020, investiu tudo na grande queda do mercado e se deu muito bem nos anos seguintes. Atualmente tem várias empresas e um fundo de investimento, e foi essa estratégia que permitiu comprar o jogo de volta.\n\nEle disse que não está nem um pouco preocupado com dinheiro e que o foco único agora é fazer um bom jogo. E fechou de um jeito bonito, chamando o Hytale de projeto de paixão da aposentadoria dele, comparando com quem compra um time de futebol pra se divertir. Nas palavras dele, está vivendo a melhor fase da vida.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💰 O SIMON EXPLICOU COMO CONSEGUE BANCAR O HYTALE SOZINHO POR ANOS\n\nPerguntaram como o jogo se sustenta sem investidor. Ele contou que, quando vendeu o Hytale pra Riot em 2020, investiu tudo na grande queda do mercado e se deu muito bem nos anos seguintes. Atualmente tem várias empresas e um fundo de investimento, e foi essa estratégia que permitiu comprar o jogo de volta.\n\nEle disse que não está nem um pouco preocupado com dinheiro e que o foco único agora é fazer um bom jogo. E fechou de um jeito bonito, chamando o Hytale de projeto de paixão da aposentadoria dele, comparando com quem compra um time de futebol pra se divertir. Nas palavras dele, está vivendo a melhor fase da vida.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x24-mjolnir-clima",
+    "rodada": "2026-07-25 11:08",
+    "emoji": "⚡",
+    "titulo": "[X] Mjolnir que muda o clima ao usar (StarkyMods)",
+    "fonte": "https://x.com/Starky_TV",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, do X. Starky/StarkyMods (@Starky_TV, verificado, 4.172 seguidores). Vídeo, 190 curtidas na versão repostada pelo HytaleAlerts. Texto literal dele: 'I reworked a cool ability of Mjolnir! Also, big abilities now trigger the weather to visually change temporarily!' e o anúncio 'A full rework of the moveset for Mjolnir and Cap's Shield is in the works with the amazing @TheCyberSlade'. Crédito 🎥 @Starky_TV.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Starky_TV",
+      "tweetAutor": "Starky / StarkyMods · @Starky_TV",
+      "tweetTexto": "Refiz uma habilidade legal do Mjolnir! E agora habilidades grandes fazem o clima mudar visualmente por um tempo. (traducao do X)",
+      "nota": "VÍDEO do Mjolnir mudando o clima. Post de 23/07 no perfil do @Starky_TV. No X, quote/RT marcando ele. No Meta, baixar o vídeo. Crédito 🎥 @Starky_TV."
+    },
+    "twitter": "⚡ UM MOD DE HYTALE FEZ O MJOLNIR MUDAR O CLIMA QUANDO VOCÊ USA\n\nO criador refez uma das habilidades do martelo no mod dele, e agora as habilidades grandes alteram o tempo na hora, mudando o visual do céu enquanto duram. Ele avisou que vem uma reformulação completa dos golpes do Mjolnir e do escudo do Capitão, feita junto com outro modder.\n\n🎥 @Starky_TV\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚡ UM MOD DE HYTALE FEZ O MJOLNIR MUDAR O CLIMA QUANDO VOCÊ USA\n\nO criador refez uma das habilidades do martelo no mod dele, e agora as habilidades grandes alteram o tempo na hora, mudando o visual do céu enquanto duram. Ele avisou que vem uma reformulação completa dos golpes do Mjolnir e do escudo do Capitão, feita junto com outro modder.\n\n🎥 @Starky_TV\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x24-asterud-personagens",
+    "rodada": "2026-07-25 11:08",
+    "emoji": "🎭",
+    "titulo": "[X] Elenco de personagens 3D quase completo (Asterud)",
+    "fonte": "https://x.com/Asterudus/status/2080941133576761559",
+    "fonteData": "24/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, do X. Asterud (@Asterudus, artista 3D que trabalha em Blender e Blockbench, 495 seguidores). 62 curtidas, imagem + vídeo curto do modelo girando. Literal: 'Another character model is ready! Only one left from the starting roster, and after that I'll start animating them'. Crédito 🎥 @Asterudus.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Asterudus/status/2080941133576761559",
+      "tweetId": "2080941133576761559",
+      "tweetAutor": "Asterud · @Asterudus",
+      "tweetTexto": "Mais um modelo de personagem pronto! Falta só um do elenco inicial, e depois disso começo a animar todos (traducao do X)",
+      "nota": "Imagem do personagem no jogo + vídeo de 5s do modelo. No X, quote/RT marcando @Asterudus. No Meta, usar a imagem ou o vídeo."
+    },
+    "twitter": "🎭 UM ARTISTA 3D ESTÁ MODELANDO UM ELENCO INTEIRO DE PERSONAGENS PRO HYTALE\n\nO Asterud mostrou mais um personagem pronto e disse que falta só um pra fechar o elenco inicial. Depois disso ele começa a animar todos.\n\n🎥 @Asterudus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎭 UM ARTISTA 3D ESTÁ MODELANDO UM ELENCO INTEIRO DE PERSONAGENS PRO HYTALE\n\nO Asterud mostrou mais um personagem pronto e disse que falta só um pra fechar o elenco inicial. Depois disso ele começa a animar todos.\n\n🎥 @Asterudus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "r24-japones",
     "rodada": "2026-07-25 10:57",
     "emoji": "🇯🇵",
