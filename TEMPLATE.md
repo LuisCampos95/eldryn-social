@@ -253,11 +253,12 @@ Sem piso de curtidas, pegando hashtag E menção, e cortando os oficiais (que j�
 ## 🔧 CURSEFORGE — scan de mods (novo, 24/07/2026, aba "Mods" do painel)
 Toda varredura, checar `https://www.curseforge.com/hytale/mods` (curl dá 403, usar WebFetch ou o Chrome). Objetivo, achar MOD pra postar. Cards de mod vão pra aba **Mods** do painel (categoria = fonte contém `curseforge`).
 
-**Curadoria (regra do Luis):** o povo do Hytale JÁ conhece os campeões, então:
-- **PULAR os "todo mundo já conhece"** (BetterMap, EyeSpy, RPG Leveling do Zuxaw) e as utilities chatas (Simply Trash, Lucky Mining, Grab From Far, Advanced Item Info, MultipleHUD, Hytalor, Perfect Utils). Não rende post.
-- **PRIORIDADE = mod NOVO** (recém-criado ou update grande recente). Ordenar por `?sortBy=recently-updated` ou `recently-created`.
-- **Também vale famoso INTERESSANTE** que o povo curte (arma, chefe, masmorra, movimento, RPG, magia, pet). Ex bons já postados, Endgame & QoL, Zephyr (ninja), Perfect Parries (souls), Wan's Wonder Weapons, Major Dungeons, MMO Skill Tree, Animal Husbandry.
-- A aba Mods é pra ENCHER e AGENDAR ao longo da semana, então pode trazer vários de uma vez.
+**Curadoria (regra do Luis, corrigida 25/07/2026):** o povo do Hytale JÁ conhece os campeões, ninguém curte post de mod famoso. Erro que o Luis cortou, postar os famosões que só ATUALIZARAM recente (Endgame & QoL é "o mod mais famoso de Hytale", Zephyr, Perfect Parries, Wan's, Major Dungeons, MMO Skill Tree, Animal Husbandry). NÃO postar nenhum desses.
+- **ORDENAR SEMPRE por Creation Date** (recém-criados), NUNCA por recently-updated. Na tela do Chrome, dropdown "Relevancy" → "Creation Date" (a URL `?sortBy=creation+date`). O sortBy via URL sozinho reverte pra relevancy, tem que clicar no dropdown.
+- **PRIORIDADE = mod RECÉM-CRIADO** (data de criação dos últimos dias), mesmo com poucos downloads. Fresco = ninguém conhece ainda = rende post.
+- **PULAR** os "todo mundo já conhece" (BetterMap, EyeSpy, RPG Leveling do Zuxaw, e os famosões acima) e utilities/server-tools chatas (Simply Trash, Lucky Mining, Grab From Far, Advanced Item Info, MultipleHUD, Hytalor, Perfect Utils, admin, auth, antixray, durability, PM GUI, e update de compat de mod alheio).
+- **O que RENDE:** mod jogável/visual (arma, chefe, masmorra, movimento, RPG, magia, pet, economia, decoração/móvel, bicho, construção, cosmético com efeito). Pode ter downloads, contanto que seja recém-criado e não um dos famosões.
+- A aba Mods é pra ENCHER e AGENDAR ao longo da semana (1 por dia), então pode trazer vários de uma vez.
 
 **Formato do card de mod:** manchete CAPS ("um mod faz X no Hytale") + 1 parágrafo do que ele faz + linha `🔧 Mod do <Autor>` + código + hashtags. Slug real via os links `/hytale/mods/<slug>` da página. Mídia = print/vídeo da galeria do CurseForge (avisar na nota); se tiver trailer no YouTube, dá pra baixar como fez o Orbitech.
 
