@@ -103,7 +103,14 @@
     "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
     "https://www.curseforge.com/hytale/mods/major-dungeons",
     "https://www.curseforge.com/hytale/mods/mmo-skill-tree",
-    "https://www.curseforge.com/hytale/mods/simple-enchantments"
+    "https://www.curseforge.com/hytale/mods/simple-enchantments",
+    "https://www.curseforge.com/hytale/mods/talemonpokemon",
+    "https://www.curseforge.com/hytale/mods/glymerabees",
+    "https://www.curseforge.com/hytale/mods/pyretale-gilded-dreams",
+    "https://www.curseforge.com/hytale/mods/curios-comforts",
+    "https://www.curseforge.com/hytale/mods/stencil-crafting",
+    "https://www.curseforge.com/hytale/mods/mr-greens-mining-helmet",
+    "https://www.curseforge.com/hytale/mods/merties-mixology"
   ],
   "knownPages": [
     "https://hytale.com/game",
@@ -194,5 +201,5 @@
     "https://hytale.com/news/2026/7/first-look-chapter-1-and-more"
   ],
   "ultimoPatchVisto": "2026-07-24 (hotfix, revertida transparencia por perf/estabilidade)",
-  "lastRun": "2026-07-25T11:23:04-03:00"
+  "lastRun": "2026-07-25T11:57:14-03:00"
 }

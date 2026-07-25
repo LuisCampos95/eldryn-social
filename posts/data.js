@@ -6,140 +6,123 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "mod-endgame-qol",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "🏰",
-    "titulo": "[MOD • NOVO] UM MOD ADICIONA UM ENDGAME INTEIRO AO HYTALE",
-    "fonte": "https://www.curseforge.com/hytale/mods/endgame-qol",
-    "fonteData": "23/07/2026",
+    "id": "mod-talemon-pokemon",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "🔴",
+    "titulo": "[MOD • NOVO] SAIU UM MOD DE POKÉMON PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/talemonpokemon",
+    "fonteData": "24/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (NOVO). Autor Lewaii. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/endgame-qol. Crédito 🔧 Lewaii.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 24/07/2026, poucos downloads, ninguém conhece ainda). Autor talemon. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/talemonpokemon. Crédito 🔧 talemon.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/endgame-qol",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/endgame-qol) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Lewaii."
+      "url": "https://www.curseforge.com/hytale/mods/talemonpokemon",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/talemonpokemon) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 talemon."
     },
-    "twitter": "🏰 UM MOD ADICIONA UM ENDGAME INTEIRO AO HYTALE\n\nO Endgame & QoL chegou na versão 5.0 e traz três chefes de várias fases, seis inimigos elite, duas masmorras temáticas e uma dimensão nova, a Void Realm. É do Lewaii, o mesmo criador do editor HyCreator.\n\n🔧 Mod do Lewaii\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🏰 UM MOD ADICIONA UM ENDGAME INTEIRO AO HYTALE\n\nO Endgame & QoL chegou na versão 5.0 e traz três chefes de várias fases, seis inimigos elite, duas masmorras temáticas e uma dimensão nova, a Void Realm. É do Lewaii, o mesmo criador do editor HyCreator.\n\n🔧 Mod do Lewaii\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE\n\nDá pra explorar o mundo, capturar e treinar Pokémon, batalhar contra os selvagens, evoluir seu time e colher Apricorn pra virar treinador. Tá no comecinho mas já dá pra jogar.\n\n🔧 Mod do talemon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE\n\nDá pra explorar o mundo, capturar e treinar Pokémon, batalhar contra os selvagens, evoluir seu time e colher Apricorn pra virar treinador. Tá no comecinho mas já dá pra jogar.\n\n🔧 Mod do talemon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "mod-zephyr",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "🥷",
-    "titulo": "[MOD • NOVO] CHEGOU UM MOD DE MOBILIDADE NINJA PRO HYTALE",
-    "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-    "fonteData": "03/07/2026",
+    "id": "mod-glymerabees",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "🐝",
+    "titulo": "[MOD • NOVO] CHEGOU UM MOD DE ABELHAS DE VERDADE NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/glymerabees",
+    "fonteData": "24/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (NOVO). Autor narwhals. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/zephyr. Crédito 🔧 narwhals.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 24/07/2026, poucos downloads, ninguém conhece ainda). Autor GlymeraCraft. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/glymerabees. Crédito 🔧 GlymeraCraft.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/zephyr",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/zephyr) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 narwhals."
+      "url": "https://www.curseforge.com/hytale/mods/glymerabees",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/glymerabees) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 GlymeraCraft."
     },
-    "twitter": "🥷 CHEGOU UM MOD DE MOBILIDADE NINJA PRO HYTALE\n\nO Zephyr reformula a movimentação com planador, pulo duplo, pulo na parede e gancho. Vira parkour e fuga rápida dentro do jogo.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🥷 CHEGOU UM MOD DE MOBILIDADE NINJA PRO HYTALE\n\nO Zephyr reformula a movimentação com planador, pulo duplo, pulo na parede e gancho. Vira parkour e fuga rápida dentro do jogo.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🐝 CHEGOU UM MOD DE ABELHAS DE VERDADE NO HYTALE\n\nAs abelhas polinizam as flores, enchem a colmeia de mel e você colhe favo, faz poção de cura de mel e vela em 11 cores. Ainda dá pra montar máquina voadora com bloco de mel grudento.\n\n🔧 Mod do GlymeraCraft\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐝 CHEGOU UM MOD DE ABELHAS DE VERDADE NO HYTALE\n\nAs abelhas polinizam as flores, enchem a colmeia de mel e você colhe favo, faz poção de cura de mel e vela em 11 cores. Ainda dá pra montar máquina voadora com bloco de mel grudento.\n\n🔧 Mod do GlymeraCraft\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "mod-animal-husbandry",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "🐄",
-    "titulo": "[MOD • NOVO] UM MOD NOVO DEIXA DOMESTICAR, CRIAR E TREINAR BICHOS",
-    "fonte": "https://www.curseforge.com/hytale/mods/alecs-animal-husbandry",
-    "fonteData": "30/06/2026",
-    "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (NOVO). Autor alechilles. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/alecs-animal-husbandry. Crédito 🔧 alechilles.",
-    "midia": {
-      "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/alecs-animal-husbandry",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/alecs-animal-husbandry) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 alechilles."
-    },
-    "twitter": "🐄 UM MOD NOVO DEIXA DOMESTICAR, CRIAR E TREINAR BICHOS NO HYTALE\n\nO Alec’s Animal Husbandry deixa domesticar animal, reproduzir, cuidar e até treinar bestas como pet de combate. É do alechilles, um dos criadores por trás do Runeteria.\n\n🔧 Mod do alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🐄 UM MOD NOVO DEIXA DOMESTICAR, CRIAR E TREINAR BICHOS NO HYTALE\n\nO Alec’s Animal Husbandry deixa domesticar animal, reproduzir, cuidar e até treinar bestas como pet de combate. É do alechilles, um dos criadores por trás do Runeteria.\n\n🔧 Mod do alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "mod-perfect-parries",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "🗡️",
-    "titulo": "[MOD • POPULAR] TEM UM MOD QUE TRAZ O PARRY ESTILO SOULS PRO HYTALE",
-    "fonte": "https://www.curseforge.com/hytale/mods/perfect-parries",
+    "id": "mod-pyretale-economia",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "💰",
+    "titulo": "[MOD • NOVO] UM MOD TRAZ ECONOMIA COMPLETA DE JOGADOR PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/pyretale-gilded-dreams",
     "fonteData": "22/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor narwhals. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/perfect-parries. Crédito 🔧 narwhals.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 22/07/2026, poucos downloads, ninguém conhece ainda). Autor Sollomon666. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/pyretale-gilded-dreams. Crédito 🔧 Sollomon666.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/perfect-parries",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/perfect-parries) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 narwhals."
+      "url": "https://www.curseforge.com/hytale/mods/pyretale-gilded-dreams",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/pyretale-gilded-dreams) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Sollomon666."
     },
-    "twitter": "🗡️ TEM UM MOD QUE TRAZ O PARRY ESTILO SOULS PRO HYTALE\n\nNo Perfect Parries, se você bloqueia no instante exato do golpe você não perde stamina, reflete parte do dano e ainda pode atordoar o inimigo. Pra quem curte combate difícil.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🗡️ TEM UM MOD QUE TRAZ O PARRY ESTILO SOULS PRO HYTALE\n\nNo Perfect Parries, se você bloqueia no instante exato do golpe você não perde stamina, reflete parte do dano e ainda pode atordoar o inimigo. Pra quem curte combate difícil.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "💰 UM MOD TRAZ ECONOMIA COMPLETA DE JOGADOR PRO HYTALE\n\nO PyreTale Gilded Dreams põe loja com NPC vendedor de verdade, banco que rende com imposto e casa de leilão ao vivo pra brigar nos lances. Dá pra configurar quanto de ouro os NPCs dropam e ainda tem mercador andarilho.\n\n🔧 Mod do Sollomon666\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💰 UM MOD TRAZ ECONOMIA COMPLETA DE JOGADOR PRO HYTALE\n\nO PyreTale Gilded Dreams põe loja com NPC vendedor de verdade, banco que rende com imposto e casa de leilão ao vivo pra brigar nos lances. Dá pra configurar quanto de ouro os NPCs dropam e ainda tem mercador andarilho.\n\n🔧 Mod do Sollomon666\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "mod-wans-weapons",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "🔮",
-    "titulo": "[MOD • POPULAR] UM MOD ENCHE O HYTALE DE ARMAS MÁGICAS ÚNICAS",
-    "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-    "fonteData": "03/07/2026",
+    "id": "mod-curios-comforts",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "🛋️",
+    "titulo": "[MOD • NOVO] UM MOD ENCHE O HYTALE DE MÓVEL PRA DECORAR",
+    "fonte": "https://www.curseforge.com/hytale/mods/curios-comforts",
+    "fonteData": "22/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor WanMine. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/wans-wonder-weapons. Crédito 🔧 WanMine.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 22/07/2026, poucos downloads, ninguém conhece ainda). Autor Romandibule. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/curios-comforts. Crédito 🔧 Romandibule.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/wans-wonder-weapons) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 WanMine."
+      "url": "https://www.curseforge.com/hytale/mods/curios-comforts",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/curios-comforts) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Romandibule."
     },
-    "twitter": "🔮 UM MOD ENCHE O HYTALE DE ARMAS MÁGICAS ÚNICAS\n\nO Wan’s Wonder Weapons traz uma coleção de relíquias que misturam poder elemental e magia negra, cada uma com efeito próprio.\n\n🔧 Mod do WanMine\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🔮 UM MOD ENCHE O HYTALE DE ARMAS MÁGICAS ÚNICAS\n\nO Wan’s Wonder Weapons traz uma coleção de relíquias que misturam poder elemental e magia negra, cada uma com efeito próprio.\n\n🔧 Mod do WanMine\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🛋️ UM MOD ENCHE O HYTALE DE MÓVEL PRA DECORAR\n\nO Curios & Comforts serve tanto pra mobiliar uma casinha simples quanto pra transformar uma mansão inteira, e tem móvel de sobra pra taverna também.\n\n🔧 Mod do Romandibule\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛋️ UM MOD ENCHE O HYTALE DE MÓVEL PRA DECORAR\n\nO Curios & Comforts serve tanto pra mobiliar uma casinha simples quanto pra transformar uma mansão inteira, e tem móvel de sobra pra taverna também.\n\n🔧 Mod do Romandibule\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "mod-major-dungeons",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "⚔️",
-    "titulo": "[MOD • POPULAR] UM MOD ADICIONA MASMORRAS INSTANCIADAS COM LOOT NOVO",
-    "fonte": "https://www.curseforge.com/hytale/mods/major-dungeons",
-    "fonteData": "02/07/2026",
+    "id": "mod-stencil-crafting",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "🧱",
+    "titulo": "[MOD • NOVO] UM MOD MUDA O JEITO DE CONSTRUIR NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/stencil-crafting",
+    "fonteData": "25/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor MAJOR76. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/major-dungeons. Crédito 🔧 MAJOR76.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 25/07/2026, poucos downloads, ninguém conhece ainda). Autor CodeCreature. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/stencil-crafting. Crédito 🔧 CodeCreature.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/major-dungeons",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/major-dungeons) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 MAJOR76."
+      "url": "https://www.curseforge.com/hytale/mods/stencil-crafting",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/stencil-crafting) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 CodeCreature."
     },
-    "twitter": "⚔️ UM MOD ADICIONA MASMORRAS INSTANCIADAS COM LOOT NOVO\n\nO Major Dungeons traz masmorras customizadas com armas, armaduras e montarias exclusivas pra quem encara e completa.\n\n🔧 Mod do MAJOR76\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⚔️ UM MOD ADICIONA MASMORRAS INSTANCIADAS COM LOOT NOVO\n\nO Major Dungeons traz masmorras customizadas com armas, armaduras e montarias exclusivas pra quem encara e completa.\n\n🔧 Mod do MAJOR76\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🧱 UM MOD MUDA O JEITO DE CONSTRUIR NO HYTALE\n\nO Stencil Crafting traz construção por estrutura, sem precisar de bancada de móvel nem builder. A coleta de recurso é simples e você já monta.\n\n🔧 Mod do CodeCreature\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧱 UM MOD MUDA O JEITO DE CONSTRUIR NO HYTALE\n\nO Stencil Crafting traz construção por estrutura, sem precisar de bancada de móvel nem builder. A coleta de recurso é simples e você já monta.\n\n🔧 Mod do CodeCreature\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "mod-mmo-skilltree",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "🌳",
-    "titulo": "[MOD • POPULAR] UM MOD TRANSFORMA O HYTALE NUM RPG COM ÁRVORE DE HAB",
-    "fonte": "https://www.curseforge.com/hytale/mods/mmo-skill-tree",
-    "fonteData": "10/07/2026",
+    "id": "mod-mining-helmet",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "⛏️",
+    "titulo": "[MOD • NOVO] UM MOD DÁ CAPACETE DE MINERADOR COM LUZ NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/mr-greens-mining-helmet",
+    "fonteData": "22/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor ziggfreed. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/mmo-skill-tree. Crédito 🔧 ziggfreed.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 22/07/2026, poucos downloads, ninguém conhece ainda). Autor MrGreenGames. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/mr-greens-mining-helmet. Crédito 🔧 MrGreenGames.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/mmo-skill-tree",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/mmo-skill-tree) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 ziggfreed."
+      "url": "https://www.curseforge.com/hytale/mods/mr-greens-mining-helmet",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/mr-greens-mining-helmet) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 MrGreenGames."
     },
-    "twitter": "🌳 UM MOD TRANSFORMA O HYTALE NUM RPG COM ÁRVORE DE HABILIDADES\n\nO MMO Skill Tree adiciona progressão de RPG com hotbar de habilidades e uma árvore de skills pra você montar o próprio build.\n\n🔧 Mod do ziggfreed\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🌳 UM MOD TRANSFORMA O HYTALE NUM RPG COM ÁRVORE DE HABILIDADES\n\nO MMO Skill Tree adiciona progressão de RPG com hotbar de habilidades e uma árvore de skills pra você montar o próprio build.\n\n🔧 Mod do ziggfreed\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⛏️ UM MOD DÁ CAPACETE DE MINERADOR COM LUZ NO HYTALE\n\nCansou de encher a caverna de tocha? O capacete solta um halo de luz em volta de você enquanto explora, deixando as mãos livres pra minerar e achar minério no escuro.\n\n🔧 Mod do MrGreenGames\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛏️ UM MOD DÁ CAPACETE DE MINERADOR COM LUZ NO HYTALE\n\nCansou de encher a caverna de tocha? O capacete solta um halo de luz em volta de você enquanto explora, deixando as mãos livres pra minerar e achar minério no escuro.\n\n🔧 Mod do MrGreenGames\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-    "id": "mod-simple-enchantments",
-    "rodada": "2026-07-25 11:23",
-    "emoji": "✨",
-    "titulo": "[MOD • POPULAR] UM MOD TRAZ MESA DE ENCANTAMENTO PRO HYTALE",
-    "fonte": "https://www.curseforge.com/hytale/mods/simple-enchantments",
-    "fonteData": "01/06/2026",
+    "id": "mod-mixology",
+    "rodada": "2026-07-25 11:57",
+    "emoji": "🍹",
+    "titulo": "[MOD • NOVO] UM MOD DEIXA VOCÊ FAZER COQUETEL DE FRUTA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/merties-mixology",
+    "fonteData": "23/07/2026",
     "confiabilidade": "comunidade",
-    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor Herolias. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/simple-enchantments. Crédito 🔧 Herolias.",
+    "resumo": "MOD NOVO DO CURSEFORGE (criado 23/07/2026, poucos downloads, ninguém conhece ainda). Autor Mertie. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/merties-mixology. Crédito 🔧 Mertie.",
     "midia": {
       "tipo": "imagem",
-      "url": "https://www.curseforge.com/hytale/mods/simple-enchantments",
-      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/simple-enchantments) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Herolias."
+      "url": "https://www.curseforge.com/hytale/mods/merties-mixology",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/merties-mixology) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Mertie."
     },
-    "twitter": "✨ UM MOD TRAZ MESA DE ENCANTAMENTO PRO HYTALE\n\nO Simple Enchantments adiciona uma mesa de encantamento e uma variedade de encantamentos pros seus itens.\n\n🔧 Mod do Herolias\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "✨ UM MOD TRAZ MESA DE ENCANTAMENTO PRO HYTALE\n\nO Simple Enchantments adiciona uma mesa de encantamento e uma variedade de encantamentos pros seus itens.\n\n🔧 Mod do Herolias\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🍹 UM MOD DEIXA VOCÊ FAZER COQUETEL DE FRUTA NO HYTALE\n\nNo Mertie’s Mixology você monta coquetel artesanal de fruta no seu balcão de bar e serve em taça especial.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🍹 UM MOD DEIXA VOCÊ FAZER COQUETEL DE FRUTA NO HYTALE\n\nNo Mertie’s Mixology você monta coquetel artesanal de fruta no seu balcão de bar e serve em taça especial.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "x24-simon-financiamento",
