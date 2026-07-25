@@ -6,6 +6,41 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x25-simon-worldgen-v2",
+    "rodada": "2026-07-25 14:50",
+    "emoji": "🌍",
+    "titulo": "[OFICIAL] Simon fala do World Gen V2 e dos mundos instanciados",
+    "fonte": "https://x.com/Simon_Hypixel/status/2079386900968636853",
+    "fonteData": "20/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, respostas do Simon sobre World Gen V2 (20/07, 4,1 mil views, 183 curtidas; e 21/07, 3,3 mil views, 195 curtidas). Literal 20/07, \"World Gen V2 will take a few chapters, I suspect; however, the team has been making great progress so far. Until then, we will have to rely on instances to let players experience World Gen V2. Which means the new world content will be limited to instanced worlds, we don't want to spend too much time on World Gen V1 as it would slow us down. That being said, we making new tech like Goblin Breach and others to change up the old world.\" E 21/07, \"World Gen V2 will be very very different.\" No X, resumão das respostas dele (sem RT de um só). No Meta, print traduzido.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "Resumão de 2 respostas do Simon (20 e 21/07). No X, texto próprio. No Meta, print traduzido das respostas dele."
+    },
+    "twitter": "🌍 O SIMON EXPLICOU COMO VAI SER O MUNDO NOVO DO HYTALE ATÉ O WORLD GEN V2 FICAR PRONTO\n\nPerguntaram da geração de mundo nova e ele respondeu que o World Gen V2 ainda vai levar alguns capítulos pra ficar pronto, mas que o time tá avançando bem. Até lá, o jeito de experimentar o V2 vai ser por instância, então o conteúdo do mundo novo fica limitado a mundos instanciados por enquanto.\n\nEle contou que não querem gastar tempo demais mexendo no World Gen V1 pra não atrasar o resto, e que por isso estão criando tecnologia nova tipo a Brecha Goblin pra ir mudando o mundo antigo. Em outra resposta ele resumiu o V2 numa frase, vai ser muito muito diferente.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌍 O SIMON EXPLICOU COMO VAI SER O MUNDO NOVO DO HYTALE ATÉ O WORLD GEN V2 FICAR PRONTO\n\nPerguntaram da geração de mundo nova e ele respondeu que o World Gen V2 ainda vai levar alguns capítulos pra ficar pronto, mas que o time tá avançando bem. Até lá, o jeito de experimentar o V2 vai ser por instância, então o conteúdo do mundo novo fica limitado a mundos instanciados por enquanto.\n\nEle contou que não querem gastar tempo demais mexendo no World Gen V1 pra não atrasar o resto, e que por isso estão criando tecnologia nova tipo a Brecha Goblin pra ir mudando o mundo antigo. Em outra resposta ele resumiu o V2 numa frase, vai ser muito muito diferente.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x25-worldgen-v2-explicado",
+    "rodada": "2026-07-25 14:50",
+    "emoji": "🗺️",
+    "titulo": "[SITE] O que é o World Gen V2 (editor de nós, Orbis, World Designers)",
+    "fonte": "https://hytale.com/news/2026/1/the-future-of-world-generation",
+    "fonteData": "05/01/2026",
+    "confiabilidade": "oficial",
+    "resumo": "EXPLICADÃO do World Gen V2 pra AGENDAR. Base, blog oficial \"The Future of World Generation\" (Dan & Amber) + respostas recentes do Simon. Pontos, V1 (2016-2020, protótipo, roda no lançamento) x V2 (desde 2021, substitui o V1, vira Orbis); editor de nós visual sem código, live-reload; sistema de padrões/heurística (árvore marca caverna); biomas de Orbis compartilhados; mods multithread; futuro (rio/caminho procedural, masmorra/ruína gerada, fauna, cachoeira); Simon \"redefine o gênero\" + 15+ World Designers da comunidade; Portais mostram pedaços de Orbis na Exploração. Mídia, pegar imagens/vídeos do blog (botão Download All Images & Videos) pra Insta e Face.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://hytale.com/news/2026/1/the-future-of-world-generation",
+      "nota": "Pegar as artes/vídeos dos biomas no próprio blog (tem botão Download All Images & Videos no fim do post) pra usar como mídia no Insta e Face."
+    },
+    "twitter": "🌍 ENTENDA O WORLD GEN V2, A NOVA GERAÇÃO DE MUNDO DO HYTALE\n\nO Hytale tem dois geradores de mundo. O V1 foi feito de 2016 a 2020 como protótipo e é o que roda no modo Exploração no lançamento, com vários biomas prontos. O V2 tá em desenvolvimento desde 2021 pra derrubar as barreiras do antigo, e quando ficar pronto ele substitui o V1 de vez e vira o mundo de Orbis.\n\nO que muda de verdade é o controle. No V2 qualquer pessoa consegue criar e editar geração de mundo sem saber programar, num editor de nós visual que recarrega o mundo ao vivo dentro do jogo. Dá pra mexer no terreno, nos materiais, nos biomas e em onde cada coisa nasce.\n\nTem um sistema de padrões esperto também. Dá pra configurar, por exemplo, uma árvore de folha escura que só nasce em cima de caverna, e aí o próprio mapa avisa onde tem caverna e recurso raro embaixo.\n\nTodos os biomas que eles usam em Orbis vão ser compartilhados com a comunidade pra ver, mexer e misturar com criação própria. E os mods de geração rodam com várias threads automaticamente.\n\nPra frente eles querem colocar rio e caminho procedural, arquitetura gerada pra masmorra e ruína, fauna que cresce sozinha, cachoeira e mais. O Simon chamou isso de virada que redefine o gênero e falou que vão contratar mais de 15 World Designers vindos da comunidade.\n\nEnquanto o V2 não fica pronto, dá pra ver pedaços de Orbis através de Portais no modo Exploração.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌍 ENTENDA O WORLD GEN V2, A NOVA GERAÇÃO DE MUNDO DO HYTALE\n\nO Hytale tem dois geradores. O V1 (2016 a 2020) é o que roda no modo Exploração agora. O V2, em desenvolvimento desde 2021, vai substituir o V1 e virar o mundo de Orbis quando ficar pronto.\n\nA grande mudança é o controle. No V2 qualquer pessoa cria e edita geração de mundo sem programar, num editor visual de nós que recarrega ao vivo no jogo. Dá pra mandar uma árvore de folha escura nascer só em cima de caverna, e aí o mapa mostra onde tem recurso raro embaixo.\n\nTodos os biomas de Orbis vão ser compartilhados com a comunidade. Pra frente vem rio e caminho procedural, masmorra e ruína geradas, fauna que cresce sozinha e cachoeira. O Simon disse que isso redefine o gênero e que vão contratar mais de 15 World Designers da comunidade.\n\nAté o V2 ficar pronto, dá pra ver pedaços de Orbis pelos Portais no modo Exploração.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "mod-talemon-pokemon",
     "rodada": "2026-07-25 11:57",
     "emoji": "🔴",
