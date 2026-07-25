@@ -6,6 +6,40 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "r24-japones",
+    "rodada": "2026-07-25 10:57",
+    "emoji": "🇯🇵",
+    "titulo": "[COMUNIDADE • 383 upvotes] Aula de japonês dentro do Hytale (383 upvotes)",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v5boto/learning_japanese_in_hytale/",
+    "fonteData": "24/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 383 upvotes ✓, fresca. Crédito 🎥 u/sora_sabi. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v5boto/learning_japanese_in_hytale/",
+      "nota": "Baixar o VÍDEO do post e publicar creditando 🎥 u/sora_sabi."
+    },
+    "twitter": "🇯🇵 TEM GENTE ENSINANDO JAPONÊS DENTRO DO HYTALE\n\nO mesmo criador do pacote de construções japonesas montou uma cena pra ensinar japonês usando o cenário do jogo, e o vídeo bombou na comunidade.\n\n🎥 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🇯🇵 TEM GENTE ENSINANDO JAPONÊS DENTRO DO HYTALE\n\nO mesmo criador do pacote de construções japonesas montou uma cena pra ensinar japonês usando o cenário do jogo, e o vídeo bombou na comunidade.\n\n🎥 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "r24-warhorns",
+    "rodada": "2026-07-25 10:57",
+    "emoji": "📯",
+    "titulo": "[COMUNIDADE • 23 upvotes] Novidade grande a caminho no mod The Warhorns",
+    "fonte": "https://www.reddit.com/r/hytale/comments/1v5ug3q/something_big_is_coming_to_the_warhorns_mod/",
+    "fonteData": "24/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE, 23 upvotes ✓, fresca. Crédito 🎥 u/LadyPaladra. Nunca dizer no corpo que veio do reddit.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://www.reddit.com/r/hytale/comments/1v5ug3q/something_big_is_coming_to_the_warhorns_mod/",
+      "nota": "Baixar o VÍDEO do post e publicar creditando 🎥 u/LadyPaladra."
+    },
+    "twitter": "📯 O MOD THE WARHORNS TÁ PREPARANDO UMA NOVIDADE GRANDE\n\nA criadora soltou uma prévia em vídeo do que vem por aí no mod, e avisou que é coisa grande. Ela é a mesma por trás do mod de mobília e do suporte de armas.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "📯 O MOD THE WARHORNS TÁ PREPARANDO UMA NOVIDADE GRANDE\n\nA criadora soltou uma prévia em vídeo do que vem por aí no mod, e avisou que é coisa grande. Ela é a mesma por trás do mod de mobília e do suporte de armas.\n\n🎥 u/LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "patch2407-hotfix-transparencia",
     "rodada": "2026-07-24 13:08",
     "emoji": "🔧",
