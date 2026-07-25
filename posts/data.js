@@ -6,6 +6,142 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-endgame-qol",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "🏰",
+    "titulo": "[MOD • NOVO] UM MOD ADICIONA UM ENDGAME INTEIRO AO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/endgame-qol",
+    "fonteData": "23/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (NOVO). Autor Lewaii. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/endgame-qol. Crédito 🔧 Lewaii.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/endgame-qol",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/endgame-qol) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Lewaii."
+    },
+    "twitter": "🏰 UM MOD ADICIONA UM ENDGAME INTEIRO AO HYTALE\n\nO Endgame & QoL chegou na versão 5.0 e traz três chefes de várias fases, seis inimigos elite, duas masmorras temáticas e uma dimensão nova, a Void Realm. É do Lewaii, o mesmo criador do editor HyCreator.\n\n🔧 Mod do Lewaii\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏰 UM MOD ADICIONA UM ENDGAME INTEIRO AO HYTALE\n\nO Endgame & QoL chegou na versão 5.0 e traz três chefes de várias fases, seis inimigos elite, duas masmorras temáticas e uma dimensão nova, a Void Realm. É do Lewaii, o mesmo criador do editor HyCreator.\n\n🔧 Mod do Lewaii\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-zephyr",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "🥷",
+    "titulo": "[MOD • NOVO] CHEGOU UM MOD DE MOBILIDADE NINJA PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
+    "fonteData": "03/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (NOVO). Autor narwhals. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/zephyr. Crédito 🔧 narwhals.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/zephyr",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/zephyr) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 narwhals."
+    },
+    "twitter": "🥷 CHEGOU UM MOD DE MOBILIDADE NINJA PRO HYTALE\n\nO Zephyr reformula a movimentação com planador, pulo duplo, pulo na parede e gancho. Vira parkour e fuga rápida dentro do jogo.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🥷 CHEGOU UM MOD DE MOBILIDADE NINJA PRO HYTALE\n\nO Zephyr reformula a movimentação com planador, pulo duplo, pulo na parede e gancho. Vira parkour e fuga rápida dentro do jogo.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-animal-husbandry",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "🐄",
+    "titulo": "[MOD • NOVO] UM MOD NOVO DEIXA DOMESTICAR, CRIAR E TREINAR BICHOS",
+    "fonte": "https://www.curseforge.com/hytale/mods/alecs-animal-husbandry",
+    "fonteData": "30/06/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (NOVO). Autor alechilles. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/alecs-animal-husbandry. Crédito 🔧 alechilles.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/alecs-animal-husbandry",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/alecs-animal-husbandry) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 alechilles."
+    },
+    "twitter": "🐄 UM MOD NOVO DEIXA DOMESTICAR, CRIAR E TREINAR BICHOS NO HYTALE\n\nO Alec’s Animal Husbandry deixa domesticar animal, reproduzir, cuidar e até treinar bestas como pet de combate. É do alechilles, um dos criadores por trás do Runeteria.\n\n🔧 Mod do alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐄 UM MOD NOVO DEIXA DOMESTICAR, CRIAR E TREINAR BICHOS NO HYTALE\n\nO Alec’s Animal Husbandry deixa domesticar animal, reproduzir, cuidar e até treinar bestas como pet de combate. É do alechilles, um dos criadores por trás do Runeteria.\n\n🔧 Mod do alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-perfect-parries",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "🗡️",
+    "titulo": "[MOD • POPULAR] TEM UM MOD QUE TRAZ O PARRY ESTILO SOULS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/perfect-parries",
+    "fonteData": "22/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor narwhals. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/perfect-parries. Crédito 🔧 narwhals.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/perfect-parries",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/perfect-parries) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 narwhals."
+    },
+    "twitter": "🗡️ TEM UM MOD QUE TRAZ O PARRY ESTILO SOULS PRO HYTALE\n\nNo Perfect Parries, se você bloqueia no instante exato do golpe você não perde stamina, reflete parte do dano e ainda pode atordoar o inimigo. Pra quem curte combate difícil.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ TEM UM MOD QUE TRAZ O PARRY ESTILO SOULS PRO HYTALE\n\nNo Perfect Parries, se você bloqueia no instante exato do golpe você não perde stamina, reflete parte do dano e ainda pode atordoar o inimigo. Pra quem curte combate difícil.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-wans-weapons",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "🔮",
+    "titulo": "[MOD • POPULAR] UM MOD ENCHE O HYTALE DE ARMAS MÁGICAS ÚNICAS",
+    "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
+    "fonteData": "03/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor WanMine. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/wans-wonder-weapons. Crédito 🔧 WanMine.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/wans-wonder-weapons) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 WanMine."
+    },
+    "twitter": "🔮 UM MOD ENCHE O HYTALE DE ARMAS MÁGICAS ÚNICAS\n\nO Wan’s Wonder Weapons traz uma coleção de relíquias que misturam poder elemental e magia negra, cada uma com efeito próprio.\n\n🔧 Mod do WanMine\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔮 UM MOD ENCHE O HYTALE DE ARMAS MÁGICAS ÚNICAS\n\nO Wan’s Wonder Weapons traz uma coleção de relíquias que misturam poder elemental e magia negra, cada uma com efeito próprio.\n\n🔧 Mod do WanMine\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-major-dungeons",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "⚔️",
+    "titulo": "[MOD • POPULAR] UM MOD ADICIONA MASMORRAS INSTANCIADAS COM LOOT NOVO",
+    "fonte": "https://www.curseforge.com/hytale/mods/major-dungeons",
+    "fonteData": "02/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor MAJOR76. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/major-dungeons. Crédito 🔧 MAJOR76.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/major-dungeons",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/major-dungeons) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 MAJOR76."
+    },
+    "twitter": "⚔️ UM MOD ADICIONA MASMORRAS INSTANCIADAS COM LOOT NOVO\n\nO Major Dungeons traz masmorras customizadas com armas, armaduras e montarias exclusivas pra quem encara e completa.\n\n🔧 Mod do MAJOR76\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD ADICIONA MASMORRAS INSTANCIADAS COM LOOT NOVO\n\nO Major Dungeons traz masmorras customizadas com armas, armaduras e montarias exclusivas pra quem encara e completa.\n\n🔧 Mod do MAJOR76\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mmo-skilltree",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "🌳",
+    "titulo": "[MOD • POPULAR] UM MOD TRANSFORMA O HYTALE NUM RPG COM ÁRVORE DE HAB",
+    "fonte": "https://www.curseforge.com/hytale/mods/mmo-skill-tree",
+    "fonteData": "10/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor ziggfreed. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/mmo-skill-tree. Crédito 🔧 ziggfreed.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mmo-skill-tree",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/mmo-skill-tree) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 ziggfreed."
+    },
+    "twitter": "🌳 UM MOD TRANSFORMA O HYTALE NUM RPG COM ÁRVORE DE HABILIDADES\n\nO MMO Skill Tree adiciona progressão de RPG com hotbar de habilidades e uma árvore de skills pra você montar o próprio build.\n\n🔧 Mod do ziggfreed\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌳 UM MOD TRANSFORMA O HYTALE NUM RPG COM ÁRVORE DE HABILIDADES\n\nO MMO Skill Tree adiciona progressão de RPG com hotbar de habilidades e uma árvore de skills pra você montar o próprio build.\n\n🔧 Mod do ziggfreed\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-simple-enchantments",
+    "rodada": "2026-07-25 11:23",
+    "emoji": "✨",
+    "titulo": "[MOD • POPULAR] UM MOD TRAZ MESA DE ENCANTAMENTO PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/simple-enchantments",
+    "fonteData": "01/06/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (POPULAR). Autor Herolias. Post pra AGENDAR na semana. Baixar print ou vídeo da galeria do mod no CurseForge pra usar no Insta e Face. Página, https://www.curseforge.com/hytale/mods/simple-enchantments. Crédito 🔧 Herolias.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/simple-enchantments",
+      "nota": "Pegar a arte/print ou um vídeo da galeria do mod no CurseForge (https://www.curseforge.com/hytale/mods/simple-enchantments) pra postar como mídia. Se o mod tiver trailer no YouTube, dá pra baixar. Crédito 🔧 Herolias."
+    },
+    "twitter": "✨ UM MOD TRAZ MESA DE ENCANTAMENTO PRO HYTALE\n\nO Simple Enchantments adiciona uma mesa de encantamento e uma variedade de encantamentos pros seus itens.\n\n🔧 Mod do Herolias\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "✨ UM MOD TRAZ MESA DE ENCANTAMENTO PRO HYTALE\n\nO Simple Enchantments adiciona uma mesa de encantamento e uma variedade de encantamentos pros seus itens.\n\n🔧 Mod do Herolias\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x24-simon-financiamento",
     "rodada": "2026-07-25 11:08",
     "emoji": "💰",

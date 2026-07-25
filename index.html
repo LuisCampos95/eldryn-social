@@ -163,6 +163,7 @@ window.__initEldryn = function () {
   // ---- categorias (abas) ----
   function categoria(p) {
     const f = (p.fonte || "").toLowerCase();
+    if (f.includes("curseforge")) return "mods";
     if (f.includes("reddit.com")) return "reddit";
     if (f.includes("hytale.com")) return "site";
     if (f.includes("x.com") || f.includes("twitter.com")) return "twitter";
@@ -171,6 +172,7 @@ window.__initEldryn = function () {
   const ABAS = [
     { key: "twitter", nome: "🐦 Devs & Comunidade" },
     { key: "reddit", nome: "👽 Reddit" },
+    { key: "mods", nome: "🔧 Mods" },
     { key: "site", nome: "📰 Site" },
     { key: "todos", nome: "Tudo" },
   ];

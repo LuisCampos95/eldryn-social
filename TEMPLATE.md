@@ -250,6 +250,17 @@ Sem piso de curtidas, pegando hashtag E menção, e cortando os oficiais (que j�
 **Limites conhecidos:** a busca do X NÃO indexa bem resposta muito recente por palavra-chave (procurar "noesis" pode não achar mesmo existindo). Pra assunto quente, usar `filter:replies` + ler a lista, não confiar na palavra-chave.
 **Regra:** ignorar posts do próprio @OrbisHytale, dos concorrentes, e conteúdo sem mídia que não traga fato novo. Todo criador citado leva crédito (🎥/📷 + @user).
 
+## 🔧 CURSEFORGE — scan de mods (novo, 24/07/2026, aba "Mods" do painel)
+Toda varredura, checar `https://www.curseforge.com/hytale/mods` (curl dá 403, usar WebFetch ou o Chrome). Objetivo, achar MOD pra postar. Cards de mod vão pra aba **Mods** do painel (categoria = fonte contém `curseforge`).
+
+**Curadoria (regra do Luis):** o povo do Hytale JÁ conhece os campeões, então:
+- **PULAR os "todo mundo já conhece"** (BetterMap, EyeSpy, RPG Leveling do Zuxaw) e as utilities chatas (Simply Trash, Lucky Mining, Grab From Far, Advanced Item Info, MultipleHUD, Hytalor, Perfect Utils). Não rende post.
+- **PRIORIDADE = mod NOVO** (recém-criado ou update grande recente). Ordenar por `?sortBy=recently-updated` ou `recently-created`.
+- **Também vale famoso INTERESSANTE** que o povo curte (arma, chefe, masmorra, movimento, RPG, magia, pet). Ex bons já postados, Endgame & QoL, Zephyr (ninja), Perfect Parries (souls), Wan's Wonder Weapons, Major Dungeons, MMO Skill Tree, Animal Husbandry.
+- A aba Mods é pra ENCHER e AGENDAR ao longo da semana, então pode trazer vários de uma vez.
+
+**Formato do card de mod:** manchete CAPS ("um mod faz X no Hytale") + 1 parágrafo do que ele faz + linha `🔧 Mod do <Autor>` + código + hashtags. Slug real via os links `/hytale/mods/<slug>` da página. Mídia = print/vídeo da galeria do CurseForge (avisar na nota); se tiver trailer no YouTube, dá pra baixar como fez o Orbitech.
+
 ## Reddit — régua POR TIPO (revisada 19/07/2026, o r/hytale é mina de ouro)
 
 **SEMPRE rodar `node scan_reddit.js` na pasta do projeto.** Ele faz tudo: baixa a listagem (new + top da semana), lê score/autor/tipo/idade de TODOS os posts em UMA requisição, aplica a régua, tira o que já está em coveredUrls e devolve em ordem de prioridade. `--todos` mostra os reprovados com motivo, `--json` dá saída pra script.
