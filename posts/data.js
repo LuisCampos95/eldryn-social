@@ -6,6 +6,91 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-cozy-fishing",
+    "rodada": "2026-07-26 16:17",
+    "emoji": "🎣",
+    "titulo": "[MOD • JOIA] UM MOD TRAZ PESCA RELAXANTE PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/cozy-tales-fishing",
+    "fonteData": "726 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 726 downloads, ninguem conhece ainda, e bom). Autor Hexvane. Post pra AGENDAR na semana. MIDIA JA BAIXADA em midia/mods/cozy-tales-fishing/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Hexvane.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/cozy-tales-fishing",
+      "nota": "MIDIA JA BAIXADA em midia/mods/cozy-tales-fishing/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Hexvane."
+    },
+    "twitter": "🎣 UM MOD TRAZ PESCA RELAXANTE PRO HYTALE\n\nO Cozy Tales Fishing é um mod de pesca tranquilo, com uma pescaria baseada em sombra pra quem só quer relaxar jogando. É a primeira parte da série Cozy Tales.\n\n🔧 Mod do Hexvane\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎣 UM MOD TRAZ PESCA RELAXANTE PRO HYTALE\n\nO Cozy Tales Fishing é um mod de pesca tranquilo, com uma pescaria baseada em sombra pra quem só quer relaxar jogando. É a primeira parte da série Cozy Tales.\n\n🔧 Mod do Hexvane\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mitchys-claws",
+    "rodada": "2026-07-26 16:17",
+    "emoji": "🐾",
+    "titulo": "[MOD • JOIA] UM MOD ADICIONA 8 ARMAS DE GARRA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/mitchys-claws-defenders",
+    "fonteData": "115 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 115 downloads, ninguem conhece ainda, e bom). Autor Mitchy_Modding. Post pra AGENDAR na semana. MIDIA JA BAIXADA em midia/mods/mitchys-claws-defenders/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mitchy_Modding.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mitchys-claws-defenders",
+      "nota": "MIDIA JA BAIXADA em midia/mods/mitchys-claws-defenders/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mitchy_Modding."
+    },
+    "twitter": "🐾 UM MOD ADICIONA 8 ARMAS DE GARRA NO HYTALE\n\nO Mitchy’s Claws & Defenders traz 8 garras novas pra usar como arma ou na mão secundária, mais defensores experimentais pra segurar na outra mão.\n\n🔧 Mod do Mitchy_Modding\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐾 UM MOD ADICIONA 8 ARMAS DE GARRA NO HYTALE\n\nO Mitchy’s Claws & Defenders traz 8 garras novas pra usar como arma ou na mão secundária, mais defensores experimentais pra segurar na outra mão.\n\n🔧 Mod do Mitchy_Modding\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-aerowars",
+    "rodada": "2026-07-26 16:17",
+    "emoji": "✈️",
+    "titulo": "[MOD • JOIA] UM MOD TRAZ MINIGAME ESTILO SKYWARS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/aerowars",
+    "fonteData": "33 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 33 downloads, ninguem conhece ainda, e bom). Autor stoshe. Post pra AGENDAR na semana. MIDIA JA BAIXADA em midia/mods/aerowars/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 stoshe.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/aerowars",
+      "nota": "MIDIA JA BAIXADA em midia/mods/aerowars/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 stoshe."
+    },
+    "twitter": "✈️ UM MOD TRAZ MINIGAME ESTILO SKYWARS PRO HYTALE\n\nO AeroWars monta um minigame competitivo de arena no céu, com modo solo e em time, placar, ranking e cosmético de kill e vitória. Já vem pronto pra rodar no servidor.\n\n🔧 Mod do stoshe\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "✈️ UM MOD TRAZ MINIGAME ESTILO SKYWARS PRO HYTALE\n\nO AeroWars monta um minigame competitivo de arena no céu, com modo solo e em time, placar, ranking e cosmético de kill e vitória. Já vem pronto pra rodar no servidor.\n\n🔧 Mod do stoshe\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-soulstone",
+    "rodada": "2026-07-26 16:17",
+    "emoji": "💠",
+    "titulo": "[MOD • JOIA] UM MOD DEIXA VOCÊ ROUBAR A ALMA DOS INIMIGOS NO HYTA",
+    "fonte": "https://www.curseforge.com/hytale/mods/soulstone",
+    "fonteData": "64 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 64 downloads, ninguem conhece ainda, e bom). Autor WindSkull. Post pra AGENDAR na semana. MIDIA JA BAIXADA em midia/mods/soulstone/ (1 arquivos). Escolher e postar no Insta e Face. Credito 🔧 WindSkull.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/soulstone",
+      "nota": "MIDIA JA BAIXADA em midia/mods/soulstone/ (1 arquivos). Escolher e postar no Insta e Face. Credito 🔧 WindSkull."
+    },
+    "twitter": "💠 UM MOD DEIXA VOCÊ ROUBAR A ALMA DOS INIMIGOS NO HYTALE\n\nNo SoulStone você derrota um inimigo elite, captura a alma dele, prende esse poder numa Pedra de Alma e depois invoca de volta quando precisar.\n\n🔧 Mod do WindSkull\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💠 UM MOD DEIXA VOCÊ ROUBAR A ALMA DOS INIMIGOS NO HYTALE\n\nNo SoulStone você derrota um inimigo elite, captura a alma dele, prende esse poder numa Pedra de Alma e depois invoca de volta quando precisar.\n\n🔧 Mod do WindSkull\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-octa-wings",
+    "rodada": "2026-07-26 16:17",
+    "emoji": "🦋",
+    "titulo": "[MOD • JOIA] UM MOD DÁ ASA DE BORBOLETA NEON PRO PERSONAGEM NO HY",
+    "fonte": "https://www.curseforge.com/hytale/mods/octas-monarch-butterfly-wings-cosmetics",
+    "fonteData": "64 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 64 downloads, ninguem conhece ainda, e bom). Autor Octarock. Post pra AGENDAR na semana. MIDIA JA BAIXADA em midia/mods/octas-monarch-butterfly-wings-cosmetics/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Octarock.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/octas-monarch-butterfly-wings-cosmetics",
+      "nota": "MIDIA JA BAIXADA em midia/mods/octas-monarch-butterfly-wings-cosmetics/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Octarock."
+    },
+    "twitter": "🦋 UM MOD DÁ ASA DE BORBOLETA NEON PRO PERSONAGEM NO HYTALE\n\nO Octa’s Monarch Butterfly Wings adiciona 20 cores de asa de borboleta monarca com brilho neon pra colocar no seu personagem pela wardrobe.\n\n🔧 Mod do Octarock\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🦋 UM MOD DÁ ASA DE BORBOLETA NEON PRO PERSONAGEM NO HYTALE\n\nO Octa’s Monarch Butterfly Wings adiciona 20 cores de asa de borboleta monarca com brilho neon pra colocar no seu personagem pela wardrobe.\n\n🔧 Mod do Octarock\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "mod-pyretale-empires",
     "rodada": "2026-07-26 01:34",
     "emoji": "🏛️",
