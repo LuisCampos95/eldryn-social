@@ -6,6 +6,108 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-yungs-dungeons",
+    "rodada": "2026-07-25 23:42",
+    "emoji": "🏰",
+    "titulo": "[MOD • JOIA] UM MOD ENCHE O HYTALE DE MASMORRA PROCEDURAL",
+    "fonte": "https://www.curseforge.com/hytale/mods/yungs-hydungeons",
+    "fonteData": "168 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (168 mil downloads, otimo mas fora dos famosoes). Autor YUNGNICKYOUNG. Post pra AGENDAR na semana. Midia JA BAIXADA em midia/mods/yungs-hydungeons/ (5 arquivos). Pagina, https://www.curseforge.com/hytale/mods/yungs-hydungeons.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/yungs-hydungeons",
+      "nota": "MIDIA JA BAIXADA em midia/mods/yungs-hydungeons/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 YUNGNICKYOUNG."
+    },
+    "twitter": "🏰 UM MOD ENCHE O HYTALE DE MASMORRA PROCEDURAL\n\nO YUNG’s HyDungeons gera masmorras instanciadas novas de forma procedural, cada uma diferente da outra pra você explorar e saquear. É do YUNG, conhecido por criar masmorra em jogo de bloco há anos.\n\n🔧 Mod do YUNGNICKYOUNG\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏰 UM MOD ENCHE O HYTALE DE MASMORRA PROCEDURAL\n\nO YUNG’s HyDungeons gera masmorras instanciadas novas de forma procedural, cada uma diferente da outra pra você explorar e saquear. É do YUNG, conhecido por criar masmorra em jogo de bloco há anos.\n\n🔧 Mod do YUNGNICKYOUNG\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-kebs-katanas",
+    "rodada": "2026-07-25 23:42",
+    "emoji": "🗡️",
+    "titulo": "[MOD • JOIA] UM MOD ADICIONA 9 KATANAS CRAFTÁVEIS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/kebs-katanas",
+    "fonteData": "148 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (148 mil downloads, otimo mas fora dos famosoes). Autor Kebuki. Post pra AGENDAR na semana. Midia JA BAIXADA em midia/mods/kebs-katanas/ (6 arquivos). Pagina, https://www.curseforge.com/hytale/mods/kebs-katanas.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/kebs-katanas",
+      "nota": "MIDIA JA BAIXADA em midia/mods/kebs-katanas/ (6 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Kebuki."
+    },
+    "twitter": "🗡️ UM MOD ADICIONA 9 KATANAS CRAFTÁVEIS NO HYTALE\n\nAs Keb’s Katanas trazem 9 katanas pra fabricar, cada uma com o próprio conjunto de golpes, e vêm balanceadas pra progressão normal do jogo.\n\n🔧 Mod do Kebuki\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ UM MOD ADICIONA 9 KATANAS CRAFTÁVEIS NO HYTALE\n\nAs Keb’s Katanas trazem 9 katanas pra fabricar, cada uma com o próprio conjunto de golpes, e vêm balanceadas pra progressão normal do jogo.\n\n🔧 Mod do Kebuki\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-reforged-weapons",
+    "rodada": "2026-07-25 23:42",
+    "emoji": "⚔️",
+    "titulo": "[MOD • JOIA] UM MOD DEIXA REFORJAR ARMA LENDÁRIA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/reforged-weapons",
+    "fonteData": "118 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (118 mil downloads, otimo mas fora dos famosoes). Autor Paraste. Post pra AGENDAR na semana. Midia JA BAIXADA em midia/mods/reforged-weapons/ (4 arquivos). Pagina, https://www.curseforge.com/hytale/mods/reforged-weapons.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/reforged-weapons",
+      "nota": "MIDIA JA BAIXADA em midia/mods/reforged-weapons/ (4 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Paraste."
+    },
+    "twitter": "⚔️ UM MOD DEIXA REFORJAR ARMA LENDÁRIA NO HYTALE\n\nO Reforged Weapons espalha fragmentos elementais pelo mundo e com eles você reforja armas lendárias, cada uma saindo com o próprio efeito.\n\n🔧 Mod do Paraste\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD DEIXA REFORJAR ARMA LENDÁRIA NO HYTALE\n\nO Reforged Weapons espalha fragmentos elementais pelo mundo e com eles você reforja armas lendárias, cada uma saindo com o próprio efeito.\n\n🔧 Mod do Paraste\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-aures-horse",
+    "rodada": "2026-07-25 23:42",
+    "emoji": "🐴",
+    "titulo": "[MOD • JOIA] UM MOD DÁ VÁRIAS APARÊNCIAS NOVAS PROS CAVALOS DO HY",
+    "fonte": "https://www.curseforge.com/hytale/mods/aures-horse-skins",
+    "fonteData": "179 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (179 mil downloads, otimo mas fora dos famosoes). Autor BlackAuresArt. Post pra AGENDAR na semana. Midia JA BAIXADA em midia/mods/aures-horse-skins/ (5 arquivos). Pagina, https://www.curseforge.com/hytale/mods/aures-horse-skins.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/aures-horse-skins",
+      "nota": "MIDIA JA BAIXADA em midia/mods/aures-horse-skins/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 BlackAuresArt."
+    },
+    "twitter": "🐴 UM MOD DÁ VÁRIAS APARÊNCIAS NOVAS PROS CAVALOS DO HYTALE\n\nO Aures Horse Skins traz variação aleatória de cavalo e ainda muda um pouco o modelo e a animação deles, então cada cavalo que você acha fica diferente.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐴 UM MOD DÁ VÁRIAS APARÊNCIAS NOVAS PROS CAVALOS DO HYTALE\n\nO Aures Horse Skins traz variação aleatória de cavalo e ainda muda um pouco o modelo e a animação deles, então cada cavalo que você acha fica diferente.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-violets-wardrobe",
+    "rodada": "2026-07-25 23:42",
+    "emoji": "👗",
+    "titulo": "[MOD • JOIA] UM MOD ENCHE O HYTALE DE COSMÉTICO PRA CRAFTAR",
+    "fonte": "https://www.curseforge.com/hytale/mods/violets-wardrobe",
+    "fonteData": "176 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (176 mil downloads, otimo mas fora dos famosoes). Autor VioletsWorkshop. Post pra AGENDAR na semana. Midia JA BAIXADA em midia/mods/violets-wardrobe/ (2 arquivos). Pagina, https://www.curseforge.com/hytale/mods/violets-wardrobe.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/violets-wardrobe",
+      "nota": "MIDIA JA BAIXADA em midia/mods/violets-wardrobe/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 VioletsWorkshop."
+    },
+    "twitter": "👗 UM MOD ENCHE O HYTALE DE COSMÉTICO PRA CRAFTAR\n\nO Violet’s Wardrobe adiciona um monte de opção de customização em forma de cosmético craftável pra você deixar o personagem do seu jeito.\n\n🔧 Mod do VioletsWorkshop\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👗 UM MOD ENCHE O HYTALE DE COSMÉTICO PRA CRAFTAR\n\nO Violet’s Wardrobe adiciona um monte de opção de customização em forma de cosmético craftável pra você deixar o personagem do seu jeito.\n\n🔧 Mod do VioletsWorkshop\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-macaws-lights",
+    "rodada": "2026-07-25 23:42",
+    "emoji": "💡",
+    "titulo": "[MOD • JOIA] UM MOD ENCHE O HYTALE DE ILUMINAÇÃO PRA DECORAR",
+    "fonte": "https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps",
+    "fonteData": "128 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (128 mil downloads, otimo mas fora dos famosoes). Autor sketch_macaw. Post pra AGENDAR na semana. Midia JA BAIXADA em midia/mods/macaws-hy-lights-and-lamps/ (5 arquivos). Pagina, https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps",
+      "nota": "MIDIA JA BAIXADA em midia/mods/macaws-hy-lights-and-lamps/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 sketch_macaw."
+    },
+    "twitter": "💡 UM MOD ENCHE O HYTALE DE ILUMINAÇÃO PRA DECORAR\n\nO Macaw’s Lights and Lamps traz lâmpada, tocha tiki, castiçal, luz de teto, poste de rua e mais pra iluminar e enfeitar suas construções.\n\n🔧 Mod do sketch_macaw\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💡 UM MOD ENCHE O HYTALE DE ILUMINAÇÃO PRA DECORAR\n\nO Macaw’s Lights and Lamps traz lâmpada, tocha tiki, castiçal, luz de teto, poste de rua e mais pra iluminar e enfeitar suas construções.\n\n🔧 Mod do sketch_macaw\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x25-simon-worldgen-v2",
     "rodada": "2026-07-25 14:50",
     "emoji": "🌍",
