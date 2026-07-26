@@ -118,7 +118,13 @@
     "https://www.curseforge.com/hytale/mods/reforged-weapons",
     "https://www.curseforge.com/hytale/mods/aures-horse-skins",
     "https://www.curseforge.com/hytale/mods/violets-wardrobe",
-    "https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps"
+    "https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps",
+    "https://www.curseforge.com/hytale/mods/pyretale-empires",
+    "https://www.curseforge.com/hytale/mods/venspolearms",
+    "https://www.curseforge.com/hytale/mods/glymeravehicles",
+    "https://www.curseforge.com/hytale/mods/averion-mounts",
+    "https://www.curseforge.com/hytale/mods/cultivation",
+    "https://www.curseforge.com/hytale/mods/not-enough-skeletons"
   ],
   "knownPages": [
     "https://hytale.com/game",
@@ -209,5 +215,5 @@
     "https://hytale.com/news/2026/7/first-look-chapter-1-and-more"
   ],
   "ultimoPatchVisto": "2026-07-24 (hotfix, revertida transparencia por perf/estabilidade)",
-  "lastRun": "2026-07-25T23:42:22-03:00"
+  "lastRun": "2026-07-26T01:34:33-03:00"
 }
