@@ -17,7 +17,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/wake-up-horror-npc",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/wake-up-horror-npc/gallery) pra postar no Insta e Face. Credito 🔧 vonfoxy."
+      "nota": "MIDIA JA BAIXADA em midia/mods/wake-up-horror-npc/ (1 arquivos). Escolher e postar no Insta e Face. Credito 🔧 vonfoxy."
     },
     "twitter": "👁️ UM MOD BOTA UM NPC DE TERROR QUE APARECE À NOITE NO HYTALE\n\nO Wake Up traz um NPC misterioso que surge nas planícies quando a noite cai. Feito pra dar aquele susto em quem tá explorando sozinho.\n\n🔧 Mod do vonfoxy\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "👁️ UM MOD BOTA UM NPC DE TERROR QUE APARECE À NOITE NO HYTALE\n\nO Wake Up traz um NPC misterioso que surge nas planícies quando a noite cai. Feito pra dar aquele susto em quem tá explorando sozinho.\n\n🔧 Mod do vonfoxy\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -34,7 +34,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/wraith-busters",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/wraith-busters/gallery) pra postar no Insta e Face. Credito 🔧 Hexvane."
+      "nota": "MIDIA JA BAIXADA em midia/mods/wraith-busters/ (1 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Hexvane."
     },
     "twitter": "👻 UM MOD TRAZ PIQUE-ESCONDE DE TERROR EM MULTIPLAYER NO HYTALE\n\nO Wraith Busters é um esconde-esconde de terror pra jogar com os amigos dentro de uma mansão assombrada.\n\n🔧 Mod do Hexvane\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "👻 UM MOD TRAZ PIQUE-ESCONDE DE TERROR EM MULTIPLAYER NO HYTALE\n\nO Wraith Busters é um esconde-esconde de terror pra jogar com os amigos dentro de uma mansão assombrada.\n\n🔧 Mod do Hexvane\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -68,7 +68,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/below-every-heaven",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/below-every-heaven/gallery) pra postar no Insta e Face. Credito 🔧 StonefallStudio."
+      "nota": "MIDIA JA BAIXADA em midia/mods/below-every-heaven/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 StonefallStudio."
     },
     "twitter": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -119,7 +119,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/storm-serpent-atoll",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/storm-serpent-atoll/gallery) pra postar no Insta e Face. Credito 🔧 SAMPL3R."
+      "nota": "MIDIA JA BAIXADA em midia/mods/storm-serpent-atoll/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 SAMPL3R."
     },
     "twitter": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -136,7 +136,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/soulslike-bosses",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/soulslike-bosses/gallery) pra postar no Insta e Face. Credito 🔧 Bananaph0ne."
+      "nota": "MIDIA JA BAIXADA em midia/mods/soulslike-bosses/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Bananaph0ne."
     },
     "twitter": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -153,7 +153,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/void-asylum",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/void-asylum/gallery) pra postar no Insta e Face. Credito 🔧 Adathan."
+      "nota": "MIDIA JA BAIXADA em midia/mods/void-asylum/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Adathan."
     },
     "twitter": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -238,7 +238,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world/gallery) pra postar no Insta e Face. Credito 🔧 Iced_Fox_Studios."
+      "nota": "MIDIA JA BAIXADA em midia/mods/veil-islands-a-thrones-and-merchants-world/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Iced_Fox_Studios."
     },
     "twitter": "🏝️ UM MOD ADICIONA UM MUNDO MÁGICO DE ILHAS NO HYTALE\n\nO Veil Islands traz um mundo mágico cheio de ilhas, com tronos e mercadores pra você descobrir.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🏝️ UM MOD ADICIONA UM MUNDO MÁGICO DE ILHAS NO HYTALE\n\nO Veil Islands traz um mundo mágico cheio de ilhas, com tronos e mercadores pra você descobrir.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -306,7 +306,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/more-structure",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/more-structure/gallery) pra postar no Insta e Face. Credito 🔧 joszza."
+      "nota": "MIDIA JA BAIXADA em midia/mods/more-structure/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 joszza."
     },
     "twitter": "🏛️ UM MOD ESPALHA MASMORRAS E ESTRUTURAS PELO MUNDO DO HYTALE\n\nO Dungeons and more Structures enche o mundo normal com masmorras e várias estruturas novas pra achar explorando.\n\n🔧 Mod do joszza\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🏛️ UM MOD ESPALHA MASMORRAS E ESTRUTURAS PELO MUNDO DO HYTALE\n\nO Dungeons and more Structures enche o mundo normal com masmorras e várias estruturas novas pra achar explorando.\n\n🔧 Mod do joszza\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -425,7 +425,7 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/orbis-dungeons",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/orbis-dungeons/gallery) pra postar no Insta e Face. Credito 🔧 garra400."
+      "nota": "MIDIA JA BAIXADA em midia/mods/orbis-dungeons/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 garra400."
     },
     "twitter": "🛡️ UM MOD TRAZ CLASSES DE RPG E MASMORRAS PRO HYTALE\n\nO Orbis & Dungeons adiciona um sistema modular de classe de RPG junto com masmorras pra encarar.\n\n🔧 Mod do garra400\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🛡️ UM MOD TRAZ CLASSES DE RPG E MASMORRAS PRO HYTALE\n\nO Orbis & Dungeons adiciona um sistema modular de classe de RPG junto com masmorras pra encarar.\n\n🔧 Mod do garra400\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
