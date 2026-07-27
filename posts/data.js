@@ -6,6 +6,516 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-wake-up-npc",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "👁️",
+    "titulo": "[MOD • TERROR] UM MOD BOTA UM NPC DE TERROR QUE APARECE À NOITE N",
+    "fonte": "https://www.curseforge.com/hytale/mods/wake-up-horror-npc",
+    "fonteData": "460 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema TERROR, 460 downloads, abaixo de 50k). Autor vonfoxy. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/wake-up-horror-npc/gallery) pra postar no Insta e Face. Credito 🔧 vonfoxy.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/wake-up-horror-npc",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/wake-up-horror-npc/gallery) pra postar no Insta e Face. Credito 🔧 vonfoxy."
+    },
+    "twitter": "👁️ UM MOD BOTA UM NPC DE TERROR QUE APARECE À NOITE NO HYTALE\n\nO Wake Up traz um NPC misterioso que surge nas planícies quando a noite cai. Feito pra dar aquele susto em quem tá explorando sozinho.\n\n🔧 Mod do vonfoxy\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👁️ UM MOD BOTA UM NPC DE TERROR QUE APARECE À NOITE NO HYTALE\n\nO Wake Up traz um NPC misterioso que surge nas planícies quando a noite cai. Feito pra dar aquele susto em quem tá explorando sozinho.\n\n🔧 Mod do vonfoxy\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-wraith-busters",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "👻",
+    "titulo": "[MOD • TERROR] UM MOD TRAZ PIQUE-ESCONDE DE TERROR EM MULTIPLAYER",
+    "fonte": "https://www.curseforge.com/hytale/mods/wraith-busters",
+    "fonteData": "90 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema TERROR, 90 downloads, abaixo de 50k). Autor Hexvane. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/wraith-busters/gallery) pra postar no Insta e Face. Credito 🔧 Hexvane.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/wraith-busters",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/wraith-busters/gallery) pra postar no Insta e Face. Credito 🔧 Hexvane."
+    },
+    "twitter": "👻 UM MOD TRAZ PIQUE-ESCONDE DE TERROR EM MULTIPLAYER NO HYTALE\n\nO Wraith Busters é um esconde-esconde de terror pra jogar com os amigos dentro de uma mansão assombrada.\n\n🔧 Mod do Hexvane\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👻 UM MOD TRAZ PIQUE-ESCONDE DE TERROR EM MULTIPLAYER NO HYTALE\n\nO Wraith Busters é um esconde-esconde de terror pra jogar com os amigos dentro de uma mansão assombrada.\n\n🔧 Mod do Hexvane\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-kweebec-nightmares",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🌲",
+    "titulo": "[MOD • TERROR] UM MOD TRAZ MINIGAME DE TERROR COOP NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/kweebec-nightmares",
+    "fonteData": "89 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema TERROR, 89 downloads, abaixo de 50k). Autor ziggfreed. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/kweebec-nightmares/gallery) pra postar no Insta e Face. Credito 🔧 ziggfreed.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/kweebec-nightmares",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/kweebec-nightmares/gallery) pra postar no Insta e Face. Credito 🔧 ziggfreed."
+    },
+    "twitter": "🌲 UM MOD TRAZ MINIGAME DE TERROR COOP NO HYTALE\n\nO Kweebec Nightmares é um minigame de terror pra jogar em dupla ou grupo, onde vocês precisam reacender o bosque juntos enquanto algo persegue.\n\n🔧 Mod do ziggfreed\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌲 UM MOD TRAZ MINIGAME DE TERROR COOP NO HYTALE\n\nO Kweebec Nightmares é um minigame de terror pra jogar em dupla ou grupo, onde vocês precisam reacender o bosque juntos enquanto algo persegue.\n\n🔧 Mod do ziggfreed\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-below-every-heaven",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🕳️",
+    "titulo": "[MOD • TERROR] UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO ",
+    "fonte": "https://www.curseforge.com/hytale/mods/below-every-heaven",
+    "fonteData": "6,4 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema TERROR, 6,4 mil downloads, abaixo de 50k). Autor StonefallStudio. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/below-every-heaven/gallery) pra postar no Insta e Face. Credito 🔧 StonefallStudio.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/below-every-heaven",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/below-every-heaven/gallery) pra postar no Insta e Face. Credito 🔧 StonefallStudio."
+    },
+    "twitter": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-x17-nightmare",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🌑",
+    "titulo": "[MOD • TERROR] UM MOD DE TERROR BOTA UMA CRIATURA QUE TE PERSEGUE",
+    "fonte": "https://www.curseforge.com/hytale/mods/x-17-the-nightmare",
+    "fonteData": "3 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema TERROR, 3 mil downloads, abaixo de 50k). Autor hayato_kun_ofc. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/x-17-the-nightmare/gallery) pra postar no Insta e Face. Credito 🔧 hayato_kun_ofc.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/x-17-the-nightmare",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/x-17-the-nightmare/gallery) pra postar no Insta e Face. Credito 🔧 hayato_kun_ofc."
+    },
+    "twitter": "🌑 UM MOD DE TERROR BOTA UMA CRIATURA QUE TE PERSEGUE SEM PARAR NO HYTALE\n\nO X-17 The Nightmare parte de uma ideia simples, você nunca está sozinho. Uma criatura implacável fica no seu encalço o tempo todo.\n\n🔧 Mod do hayato_kun_ofc\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌑 UM MOD DE TERROR BOTA UMA CRIATURA QUE TE PERSEGUE SEM PARAR NO HYTALE\n\nO X-17 The Nightmare parte de uma ideia simples, você nunca está sozinho. Uma criatura implacável fica no seu encalço o tempo todo.\n\n🔧 Mod do hayato_kun_ofc\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-horror-icons",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🔪",
+    "titulo": "[MOD • TERROR] UM MOD DEIXA VOCÊ VESTIR ÍCONES DO TERROR NO HYTAL",
+    "fonte": "https://www.curseforge.com/hytale/mods/horror-icons",
+    "fonteData": "335 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema TERROR, 335 downloads, abaixo de 50k). Autor Donald1duck50. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/horror-icons/gallery) pra postar no Insta e Face. Credito 🔧 Donald1duck50.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/horror-icons",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/horror-icons/gallery) pra postar no Insta e Face. Credito 🔧 Donald1duck50."
+    },
+    "twitter": "🔪 UM MOD DEIXA VOCÊ VESTIR ÍCONES DO TERROR NO HYTALE\n\nO Horror Icons traz personagens clássicos de terror como roupa vestível pro seu personagem.\n\n🔧 Mod do Donald1duck50\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔪 UM MOD DEIXA VOCÊ VESTIR ÍCONES DO TERROR NO HYTALE\n\nO Horror Icons traz personagens clássicos de terror como roupa vestível pro seu personagem.\n\n🔧 Mod do Donald1duck50\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-storm-serpent",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "⚡",
+    "titulo": "[MOD • BOSS] UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE",
+    "fonte": "https://www.curseforge.com/hytale/mods/storm-serpent-atoll",
+    "fonteData": "737 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 737 downloads, abaixo de 50k). Autor SAMPL3R. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/storm-serpent-atoll/gallery) pra postar no Insta e Face. Credito 🔧 SAMPL3R.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/storm-serpent-atoll",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/storm-serpent-atoll/gallery) pra postar no Insta e Face. Credito 🔧 SAMPL3R."
+    },
+    "twitter": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-soulslike-bosses",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "⚔️",
+    "titulo": "[MOD • BOSS] UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/soulslike-bosses",
+    "fonteData": "6,9 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 6,9 mil downloads, abaixo de 50k). Autor Bananaph0ne. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/soulslike-bosses/gallery) pra postar no Insta e Face. Credito 🔧 Bananaph0ne.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/soulslike-bosses",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/soulslike-bosses/gallery) pra postar no Insta e Face. Credito 🔧 Bananaph0ne."
+    },
+    "twitter": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-void-asylum",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🏚️",
+    "titulo": "[MOD • BOSS] UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCI",
+    "fonte": "https://www.curseforge.com/hytale/mods/void-asylum",
+    "fonteData": "6 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 6 mil downloads, abaixo de 50k). Autor Adathan. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/void-asylum/gallery) pra postar no Insta e Face. Credito 🔧 Adathan.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/void-asylum",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/void-asylum/gallery) pra postar no Insta e Face. Credito 🔧 Adathan."
+    },
+    "twitter": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-ultimate-boss",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "👹",
+    "titulo": "[MOD • BOSS] UM MOD ENCHE O HYTALE DE CHEFES NOVOS",
+    "fonte": "https://www.curseforge.com/hytale/mods/ultimate-boss-fights",
+    "fonteData": "3 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 3 mil downloads, abaixo de 50k). Autor HytaleZX. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/ultimate-boss-fights/gallery) pra postar no Insta e Face. Credito 🔧 HytaleZX.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/ultimate-boss-fights",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/ultimate-boss-fights/gallery) pra postar no Insta e Face. Credito 🔧 HytaleZX."
+    },
+    "twitter": "👹 UM MOD ENCHE O HYTALE DE CHEFES NOVOS\n\nO Ultimate Boss Fights adiciona vários NPCs de chefe novos pra enfrentar pelo jogo.\n\n🔧 Mod do HytaleZX\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👹 UM MOD ENCHE O HYTALE DE CHEFES NOVOS\n\nO Ultimate Boss Fights adiciona vários NPCs de chefe novos pra enfrentar pelo jogo.\n\n🔧 Mod do HytaleZX\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-forerunner-boss",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🥈",
+    "titulo": "[MOD • BOSS] UM MOD DE CHEFE GANHOU O 2º LUGAR DO MODJAM DO HYT",
+    "fonte": "https://www.curseforge.com/hytale/mods/the-forerunner-boss",
+    "fonteData": "1,3 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 1,3 mil downloads, abaixo de 50k). Autor Light06. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/the-forerunner-boss/gallery) pra postar no Insta e Face. Credito 🔧 Light06.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/the-forerunner-boss",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/the-forerunner-boss/gallery) pra postar no Insta e Face. Credito 🔧 Light06."
+    },
+    "twitter": "🥈 UM MOD DE CHEFE GANHOU O 2º LUGAR DO MODJAM DO HYTALE\n\nO The Forerunner é uma luta de chefe que ficou em segundo lugar no ModJam do Hytale, com mecânica caprichada.\n\n🔧 Mod do Light06\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🥈 UM MOD DE CHEFE GANHOU O 2º LUGAR DO MODJAM DO HYTALE\n\nO The Forerunner é uma luta de chefe que ficou em segundo lugar no ModJam do Hytale, com mecânica caprichada.\n\n🔧 Mod do Light06\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-random-boss",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "💀",
+    "titulo": "[MOD • BOSS] UM MOD FAZ CHEFE APARECER DE SURPRESA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/random-boss-encounter",
+    "fonteData": "1,9 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 1,9 mil downloads, abaixo de 50k). Autor LoordHenry. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/random-boss-encounter/gallery) pra postar no Insta e Face. Credito 🔧 LoordHenry.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/random-boss-encounter",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/random-boss-encounter/gallery) pra postar no Insta e Face. Credito 🔧 LoordHenry."
+    },
+    "twitter": "💀 UM MOD FAZ CHEFE APARECER DE SURPRESA NO HYTALE\n\nO Random Boss Encounter transforma o zumbi aberrante do jogo num chefe que aparece de surpresa enquanto você explora.\n\n🔧 Mod do LoordHenry\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💀 UM MOD FAZ CHEFE APARECER DE SURPRESA NO HYTALE\n\nO Random Boss Encounter transforma o zumbi aberrante do jogo num chefe que aparece de surpresa enquanto você explora.\n\n🔧 Mod do LoordHenry\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-hydra-storm-bosses",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🐉",
+    "titulo": "[MOD • BOSS] UM MOD TRAZ CHEFES DE TEMPESTADE COM PROGRESSÃO NO",
+    "fonte": "https://www.curseforge.com/hytale/mods/hydra-storm-bosses",
+    "fonteData": "163 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema BOSS, 163 downloads, abaixo de 50k). Autor Hydrada. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hydra-storm-bosses/gallery) pra postar no Insta e Face. Credito 🔧 Hydrada.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/hydra-storm-bosses",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hydra-storm-bosses/gallery) pra postar no Insta e Face. Credito 🔧 Hydrada."
+    },
+    "twitter": "🐉 UM MOD TRAZ CHEFES DE TEMPESTADE COM PROGRESSÃO NO HYTALE\n\nO Hydra Storm Bosses adiciona uma progressão de chefes de tempestade, com núcleos de chefe e itens pra invocar eles.\n\n🔧 Mod do Hydrada\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐉 UM MOD TRAZ CHEFES DE TEMPESTADE COM PROGRESSÃO NO HYTALE\n\nO Hydra Storm Bosses adiciona uma progressão de chefes de tempestade, com núcleos de chefe e itens pra invocar eles.\n\n🔧 Mod do Hydrada\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-veil-islands",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🏝️",
+    "titulo": "[MOD • MUNDO] UM MOD ADICIONA UM MUNDO MÁGICO DE ILHAS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world",
+    "fonteData": "2,2 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MUNDO, 2,2 mil downloads, abaixo de 50k). Autor Iced_Fox_Studios. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world/gallery) pra postar no Insta e Face. Credito 🔧 Iced_Fox_Studios.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world/gallery) pra postar no Insta e Face. Credito 🔧 Iced_Fox_Studios."
+    },
+    "twitter": "🏝️ UM MOD ADICIONA UM MUNDO MÁGICO DE ILHAS NO HYTALE\n\nO Veil Islands traz um mundo mágico cheio de ilhas, com tronos e mercadores pra você descobrir.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏝️ UM MOD ADICIONA UM MUNDO MÁGICO DE ILHAS NO HYTALE\n\nO Veil Islands traz um mundo mágico cheio de ilhas, com tronos e mercadores pra você descobrir.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-unknown-worlds",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🌌",
+    "titulo": "[MOD • MUNDO] UM MOD LEVA VOCÊ PRA ALÉM DO HORIZONTE NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/unknown-worlds",
+    "fonteData": "612 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MUNDO, 612 downloads, abaixo de 50k). Autor Harizon. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/unknown-worlds/gallery) pra postar no Insta e Face. Credito 🔧 Harizon.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/unknown-worlds",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/unknown-worlds/gallery) pra postar no Insta e Face. Credito 🔧 Harizon."
+    },
+    "twitter": "🌌 UM MOD LEVA VOCÊ PRA ALÉM DO HORIZONTE NO HYTALE\n\nO Unknown Worlds convida você a passar do horizonte e descobrir o desconhecido, com geração de mundo nova.\n\n🔧 Mod do Harizon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌌 UM MOD LEVA VOCÊ PRA ALÉM DO HORIZONTE NO HYTALE\n\nO Unknown Worlds convida você a passar do horizonte e descobrir o desconhecido, com geração de mundo nova.\n\n🔧 Mod do Harizon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mithril-world",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "⛏️",
+    "titulo": "[MOD • MUNDO] UM MOD ADICIONA UMA DIMENSÃO NOVA COM MINÉRIO RARO",
+    "fonte": "https://www.curseforge.com/hytale/mods/mithril-world",
+    "fonteData": "2,1 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MUNDO, 2,1 mil downloads, abaixo de 50k). Autor LowkeyShehz. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/mithril-world/gallery) pra postar no Insta e Face. Credito 🔧 LowkeyShehz.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mithril-world",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/mithril-world/gallery) pra postar no Insta e Face. Credito 🔧 LowkeyShehz."
+    },
+    "twitter": "⛏️ UM MOD ADICIONA UMA DIMENSÃO NOVA COM MINÉRIO RARO NO HYTALE\n\nO Mithril Dimension abre uma dimensão nova cheia de minério de Mithril raro pra minerar.\n\n🔧 Mod do LowkeyShehz\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛏️ UM MOD ADICIONA UMA DIMENSÃO NOVA COM MINÉRIO RARO NO HYTALE\n\nO Mithril Dimension abre uma dimensão nova cheia de minério de Mithril raro pra minerar.\n\n🔧 Mod do LowkeyShehz\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-portal-world",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🌀",
+    "titulo": "[MOD • MUNDO] UM MOD DEIXA VOCÊ CRIAR PORTAIS PRA OUTROS MUNDOS ",
+    "fonte": "https://www.curseforge.com/hytale/mods/portal-world",
+    "fonteData": "5,2 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MUNDO, 5,2 mil downloads, abaixo de 50k). Autor SaimusGaming. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/portal-world/gallery) pra postar no Insta e Face. Credito 🔧 SaimusGaming.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/portal-world",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/portal-world/gallery) pra postar no Insta e Face. Credito 🔧 SaimusGaming."
+    },
+    "twitter": "🌀 UM MOD DEIXA VOCÊ CRIAR PORTAIS PRA OUTROS MUNDOS NO HYTALE\n\nO Portal World deixa montar portais configuráveis que te levam pra mundos diferentes.\n\n🔧 Mod do SaimusGaming\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌀 UM MOD DEIXA VOCÊ CRIAR PORTAIS PRA OUTROS MUNDOS NO HYTALE\n\nO Portal World deixa montar portais configuráveis que te levam pra mundos diferentes.\n\n🔧 Mod do SaimusGaming\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-more-structure",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🏛️",
+    "titulo": "[MOD • MUNDO] UM MOD ESPALHA MASMORRAS E ESTRUTURAS PELO MUNDO D",
+    "fonte": "https://www.curseforge.com/hytale/mods/more-structure",
+    "fonteData": "9,9 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MUNDO, 9,9 mil downloads, abaixo de 50k). Autor joszza. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/more-structure/gallery) pra postar no Insta e Face. Credito 🔧 joszza.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/more-structure",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/more-structure/gallery) pra postar no Insta e Face. Credito 🔧 joszza."
+    },
+    "twitter": "🏛️ UM MOD ESPALHA MASMORRAS E ESTRUTURAS PELO MUNDO DO HYTALE\n\nO Dungeons and more Structures enche o mundo normal com masmorras e várias estruturas novas pra achar explorando.\n\n🔧 Mod do joszza\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏛️ UM MOD ESPALHA MASMORRAS E ESTRUTURAS PELO MUNDO DO HYTALE\n\nO Dungeons and more Structures enche o mundo normal com masmorras e várias estruturas novas pra achar explorando.\n\n🔧 Mod do joszza\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-zens-arcanum",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🔮",
+    "titulo": "[MOD • MAGIA] UM MOD DEIXA VOCÊ CRIAR SUA PRÓPRIA MAGIA NO HYTAL",
+    "fonte": "https://www.curseforge.com/hytale/mods/zens-arcanum",
+    "fonteData": "9,6 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MAGIA, 9,6 mil downloads, abaixo de 50k). Autor zenkuro. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/zens-arcanum/gallery) pra postar no Insta e Face. Credito 🔧 zenkuro.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/zens-arcanum",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/zens-arcanum/gallery) pra postar no Insta e Face. Credito 🔧 zenkuro."
+    },
+    "twitter": "🔮 UM MOD DEIXA VOCÊ CRIAR SUA PRÓPRIA MAGIA NO HYTALE\n\nO Zen’s Arcanum vai além de bola de fogo e deixa você montar a sua própria magia do jeito que quiser.\n\n🔧 Mod do zenkuro\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔮 UM MOD DEIXA VOCÊ CRIAR SUA PRÓPRIA MAGIA NO HYTALE\n\nO Zen’s Arcanum vai além de bola de fogo e deixa você montar a sua própria magia do jeito que quiser.\n\n🔧 Mod do zenkuro\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-kamis-magical",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "✨",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ ARMAS MÁGICAS COM CARA DE VANILLA NO H",
+    "fonte": "https://www.curseforge.com/hytale/mods/kamis-magical-items",
+    "fonteData": "29 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MAGIA, 29 mil downloads, abaixo de 50k). Autor CouldBeKami. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/kamis-magical-items/gallery) pra postar no Insta e Face. Credito 🔧 CouldBeKami.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/kamis-magical-items",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/kamis-magical-items/gallery) pra postar no Insta e Face. Credito 🔧 CouldBeKami."
+    },
+    "twitter": "✨ UM MOD TRAZ ARMAS MÁGICAS COM CARA DE VANILLA NO HYTALE\n\nO Kami’s Magical Items adiciona um punhado de armas e itens mágicos que combinam com o estilo original do jogo.\n\n🔧 Mod do CouldBeKami\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "✨ UM MOD TRAZ ARMAS MÁGICAS COM CARA DE VANILLA NO HYTALE\n\nO Kami’s Magical Items adiciona um punhado de armas e itens mágicos que combinam com o estilo original do jogo.\n\n🔧 Mod do CouldBeKami\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-magic-machines",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "⚙️",
+    "titulo": "[MOD • MAGIA] UM MOD JUNTA MAGIA E MÁQUINAS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/magic-and-machines",
+    "fonteData": "11 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MAGIA, 11 mil downloads, abaixo de 50k). Autor b3b0p. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/magic-and-machines/gallery) pra postar no Insta e Face. Credito 🔧 b3b0p.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/magic-and-machines",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/magic-and-machines/gallery) pra postar no Insta e Face. Credito 🔧 b3b0p."
+    },
+    "twitter": "⚙️ UM MOD JUNTA MAGIA E MÁQUINAS NO HYTALE\n\nO Magic and Machines adiciona magia, máquinas, peças que giram e engenhocas pra você automatizar e construir.\n\n🔧 Mod do b3b0p\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚙️ UM MOD JUNTA MAGIA E MÁQUINAS NO HYTALE\n\nO Magic and Machines adiciona magia, máquinas, peças que giram e engenhocas pra você automatizar e construir.\n\n🔧 Mod do b3b0p\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-hexcode",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🧪",
+    "titulo": "[MOD • MAGIA] UM MOD TRATA MAGIA COMO CIÊNCIA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/hexcode",
+    "fonteData": "6,6 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MAGIA, 6,6 mil downloads, abaixo de 50k). Autor ItsRiprod. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hexcode/gallery) pra postar no Insta e Face. Credito 🔧 ItsRiprod.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/hexcode",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hexcode/gallery) pra postar no Insta e Face. Credito 🔧 ItsRiprod."
+    },
+    "twitter": "🧪 UM MOD TRATA MAGIA COMO CIÊNCIA NO HYTALE\n\nO Hexcode parte da ideia de que magia é ciência não explicada, e deixa você montar feitiço juntando as peças certas.\n\n🔧 Mod do ItsRiprod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧪 UM MOD TRATA MAGIA COMO CIÊNCIA NO HYTALE\n\nO Hexcode parte da ideia de que magia é ciência não explicada, e deixa você montar feitiço juntando as peças certas.\n\n🔧 Mod do ItsRiprod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-rpg-magic",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🪄",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ MAGIA DE MMORPG PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/rpg-magic",
+    "fonteData": "21 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MAGIA, 21 mil downloads, abaixo de 50k). Autor OQR. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/rpg-magic/gallery) pra postar no Insta e Face. Credito 🔧 OQR.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/rpg-magic",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/rpg-magic/gallery) pra postar no Insta e Face. Credito 🔧 OQR."
+    },
+    "twitter": "🪄 UM MOD TRAZ MAGIA DE MMORPG PRO HYTALE\n\nO RPG Magic é um mod inspirado em MMORPG que traz um sistema de magia pra instalar e sair jogando.\n\n🔧 Mod do OQR\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪄 UM MOD TRAZ MAGIA DE MMORPG PRO HYTALE\n\nO RPG Magic é um mod inspirado em MMORPG que traz um sistema de magia pra instalar e sair jogando.\n\n🔧 Mod do OQR\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-rpg-aspects",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🌟",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ HABILIDADES MÁGICAS DE RPG PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/rpg-aspects",
+    "fonteData": "25 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema MAGIA, 25 mil downloads, abaixo de 50k). Autor Aspect_Ascension. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/rpg-aspects/gallery) pra postar no Insta e Face. Credito 🔧 Aspect_Ascension.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/rpg-aspects",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/rpg-aspects/gallery) pra postar no Insta e Face. Credito 🔧 Aspect_Ascension."
+    },
+    "twitter": "🌟 UM MOD TRAZ HABILIDADES MÁGICAS DE RPG PRO HYTALE\n\nO Magical Hytale Aspectro adiciona um monte de habilidade com tema mágico e de RPG pra deixar o combate mais variado.\n\n🔧 Mod do Aspect_Ascension\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌟 UM MOD TRAZ HABILIDADES MÁGICAS DE RPG PRO HYTALE\n\nO Magical Hytale Aspectro adiciona um monte de habilidade com tema mágico e de RPG pra deixar o combate mais variado.\n\n🔧 Mod do Aspect_Ascension\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-orbis-dungeons",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🛡️",
+    "titulo": "[MOD • DUNGEON] UM MOD TRAZ CLASSES DE RPG E MASMORRAS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/orbis-dungeons",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema DUNGEON, 17 mil downloads, abaixo de 50k). Autor garra400. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/orbis-dungeons/gallery) pra postar no Insta e Face. Credito 🔧 garra400.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/orbis-dungeons",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/orbis-dungeons/gallery) pra postar no Insta e Face. Credito 🔧 garra400."
+    },
+    "twitter": "🛡️ UM MOD TRAZ CLASSES DE RPG E MASMORRAS PRO HYTALE\n\nO Orbis & Dungeons adiciona um sistema modular de classe de RPG junto com masmorras pra encarar.\n\n🔧 Mod do garra400\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛡️ UM MOD TRAZ CLASSES DE RPG E MASMORRAS PRO HYTALE\n\nO Orbis & Dungeons adiciona um sistema modular de classe de RPG junto com masmorras pra encarar.\n\n🔧 Mod do garra400\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-marsi-dungeon",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🎲",
+    "titulo": "[MOD • DUNGEON] UM MOD TRAZ MASMORRAS SEMPRE DIFERENTES PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/marsi-dungeon",
+    "fonteData": "1,4 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema DUNGEON, 1,4 mil downloads, abaixo de 50k). Autor MarsiMods. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/marsi-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 MarsiMods.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/marsi-dungeon",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/marsi-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 MarsiMods."
+    },
+    "twitter": "🎲 UM MOD TRAZ MASMORRAS SEMPRE DIFERENTES PRO HYTALE\n\nO Marsi Dungeon monta masmorras variadas a partir de peças aleatórias, então nunca vem uma igual à outra.\n\n🔧 Mod do MarsiMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎲 UM MOD TRAZ MASMORRAS SEMPRE DIFERENTES PRO HYTALE\n\nO Marsi Dungeon monta masmorras variadas a partir de peças aleatórias, então nunca vem uma igual à outra.\n\n🔧 Mod do MarsiMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-warland-dungeon",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "♾️",
+    "titulo": "[MOD • DUNGEON] UM MOD ADICIONA UMA MASMORRA INFINITA NUMA DIMENSÃ",
+    "fonte": "https://www.curseforge.com/hytale/mods/warland-dungeon",
+    "fonteData": "1 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema DUNGEON, 1 mil downloads, abaixo de 50k). Autor Ramoneur. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/warland-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 Ramoneur.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/warland-dungeon",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/warland-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 Ramoneur."
+    },
+    "twitter": "♾️ UM MOD ADICIONA UMA MASMORRA INFINITA NUMA DIMENSÃO NO HYTALE\n\nO Warland Dungeon abre uma dimensão com uma masmorra sem fim pra você descer o quanto aguentar.\n\n🔧 Mod do Ramoneur\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "♾️ UM MOD ADICIONA UMA MASMORRA INFINITA NUMA DIMENSÃO NO HYTALE\n\nO Warland Dungeon abre uma dimensão com uma masmorra sem fim pra você descer o quanto aguentar.\n\n🔧 Mod do Ramoneur\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-dungeons-and-more",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🗿",
+    "titulo": "[MOD • DUNGEON] UM MOD TRAZ UM MUNDO EM RUÍNAS COM MASMORRAS ANTIG",
+    "fonte": "https://www.curseforge.com/hytale/mods/dungeons-and-more",
+    "fonteData": "5,3 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema DUNGEON, 5,3 mil downloads, abaixo de 50k). Autor Puzambus. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/dungeons-and-more/gallery) pra postar no Insta e Face. Credito 🔧 Puzambus.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/dungeons-and-more",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/dungeons-and-more/gallery) pra postar no Insta e Face. Credito 🔧 Puzambus."
+    },
+    "twitter": "🗿 UM MOD TRAZ UM MUNDO EM RUÍNAS COM MASMORRAS ANTIGAS NO HYTALE\n\nO Dungeons And More te joga num mundo decadente cheio de masmorras antigas pra explorar.\n\n🔧 Mod do Puzambus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗿 UM MOD TRAZ UM MUNDO EM RUÍNAS COM MASMORRAS ANTIGAS NO HYTALE\n\nO Dungeons And More te joga num mundo decadente cheio de masmorras antigas pra explorar.\n\n🔧 Mod do Puzambus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-land1-endgame",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🔥",
+    "titulo": "[MOD • DUNGEON] UM MOD TRAZ MASMORRAS DE ENDGAME DIFÍCEIS PRO HYTA",
+    "fonte": "https://www.curseforge.com/hytale/mods/land1s-endgame-dungeons",
+    "fonteData": "3,1 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema DUNGEON, 3,1 mil downloads, abaixo de 50k). Autor LAND1. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/land1s-endgame-dungeons/gallery) pra postar no Insta e Face. Credito 🔧 LAND1.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/land1s-endgame-dungeons",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/land1s-endgame-dungeons/gallery) pra postar no Insta e Face. Credito 🔧 LAND1."
+    },
+    "twitter": "🔥 UM MOD TRAZ MASMORRAS DE ENDGAME DIFÍCEIS PRO HYTALE\n\nO LAND1’s Endgame Dungeons foca em conteúdo de fim de jogo, com masmorras de alta dificuldade pra quem já é forte.\n\n🔧 Mod do LAND1\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔥 UM MOD TRAZ MASMORRAS DE ENDGAME DIFÍCEIS PRO HYTALE\n\nO LAND1’s Endgame Dungeons foca em conteúdo de fim de jogo, com masmorras de alta dificuldade pra quem já é forte.\n\n🔧 Mod do LAND1\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-noxious-halberd",
+    "rodada": "2026-07-27 11:26",
+    "emoji": "🕷️",
+    "titulo": "[MOD • ARMA] UM MOD ADICIONA UMA ALABARDA VENENOSA DE ARANHA NO",
+    "fonte": "https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion",
+    "fonteData": "273 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE (tema ARMA, 273 downloads, abaixo de 50k). Autor LordReptilia. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion/gallery) pra postar no Insta e Face. Credito 🔧 LordReptilia.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion",
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion/gallery) pra postar no Insta e Face. Credito 🔧 LordReptilia."
+    },
+    "twitter": "🕷️ UM MOD ADICIONA UMA ALABARDA VENENOSA DE ARANHA NO HYTALE\n\nO Noxious Halberd traz uma alabarda com tema de corrosão de aranha, inspirada em arma de MMO clássico.\n\n🔧 Mod do LordReptilia\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🕷️ UM MOD ADICIONA UMA ALABARDA VENENOSA DE ARANHA NO HYTALE\n\nO Noxious Halberd traz uma alabarda com tema de corrosão de aranha, inspirada em arma de MMO clássico.\n\n🔧 Mod do LordReptilia\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x26-slikey-fluid-rework",
     "rodada": "2026-07-27 02:02",
     "emoji": "💧",

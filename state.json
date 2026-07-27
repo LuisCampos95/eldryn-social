@@ -134,7 +134,37 @@
     "https://www.curseforge.com/hytale/mods/backrooms",
     "https://www.curseforge.com/hytale/mods/wayside-shrines",
     "https://www.curseforge.com/hytale/mods/field-medic",
-    "https://www.curseforge.com/hytale/mods/the-armor-stands"
+    "https://www.curseforge.com/hytale/mods/the-armor-stands",
+    "https://www.curseforge.com/hytale/mods/wake-up-horror-npc",
+    "https://www.curseforge.com/hytale/mods/wraith-busters",
+    "https://www.curseforge.com/hytale/mods/kweebec-nightmares",
+    "https://www.curseforge.com/hytale/mods/below-every-heaven",
+    "https://www.curseforge.com/hytale/mods/x-17-the-nightmare",
+    "https://www.curseforge.com/hytale/mods/horror-icons",
+    "https://www.curseforge.com/hytale/mods/storm-serpent-atoll",
+    "https://www.curseforge.com/hytale/mods/soulslike-bosses",
+    "https://www.curseforge.com/hytale/mods/void-asylum",
+    "https://www.curseforge.com/hytale/mods/ultimate-boss-fights",
+    "https://www.curseforge.com/hytale/mods/the-forerunner-boss",
+    "https://www.curseforge.com/hytale/mods/random-boss-encounter",
+    "https://www.curseforge.com/hytale/mods/hydra-storm-bosses",
+    "https://www.curseforge.com/hytale/mods/veil-islands-a-thrones-and-merchants-world",
+    "https://www.curseforge.com/hytale/mods/unknown-worlds",
+    "https://www.curseforge.com/hytale/mods/mithril-world",
+    "https://www.curseforge.com/hytale/mods/portal-world",
+    "https://www.curseforge.com/hytale/mods/more-structure",
+    "https://www.curseforge.com/hytale/mods/zens-arcanum",
+    "https://www.curseforge.com/hytale/mods/kamis-magical-items",
+    "https://www.curseforge.com/hytale/mods/magic-and-machines",
+    "https://www.curseforge.com/hytale/mods/hexcode",
+    "https://www.curseforge.com/hytale/mods/rpg-magic",
+    "https://www.curseforge.com/hytale/mods/rpg-aspects",
+    "https://www.curseforge.com/hytale/mods/orbis-dungeons",
+    "https://www.curseforge.com/hytale/mods/marsi-dungeon",
+    "https://www.curseforge.com/hytale/mods/warland-dungeon",
+    "https://www.curseforge.com/hytale/mods/dungeons-and-more",
+    "https://www.curseforge.com/hytale/mods/land1s-endgame-dungeons",
+    "https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion"
   ],
   "knownPages": [
     "https://hytale.com/game",
@@ -225,5 +255,5 @@
     "https://hytale.com/news/2026/7/first-look-chapter-1-and-more"
   ],
   "ultimoPatchVisto": "2026-07-24 (hotfix, revertida transparencia por perf/estabilidade)",
-  "lastRun": "2026-07-27T02:02:31-03:00"
+  "lastRun": "2026-07-27T11:26:20-03:00"
 }
