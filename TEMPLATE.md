@@ -140,6 +140,8 @@ O Luis tem um servidor de Hytale de MINIGAMES chamado **Eldryn**. Isso é pano d
 ## Tópicos (🔹 ⚔️ 🚪 etc.) — SEMPRE inicial MAIÚSCULA
 Todo item de lista/tópico começa com letra maiúscula depois do emoji. Ex certo: "🔹 Vão existir runas de suporte". Ex ERRADO: "🔹 vão existir runas de suporte". Vale pra Twitter e Meta, todos os bullets. EXCEÇÃO: a linha de crédito "🎥 u/fulano" / "📷 u/fulano" mantém o u/ MINÚSCULO (é username do reddit, não vira U/).
 
+**💠 USAR MAIS O 🔹 (e o laranja 🔸) — regra do Luis, 27/07/2026.** O losango 🔹 (azul) dá muito destaque e o Luis gosta demais. Tem o irmão laranja 🔸. SEMPRE que o post tiver uma lista de itens (vários mods, vários pontos, várias novidades), usar 🔹 no começo de cada linha em vez de texto corrido. Dá pra alternar 🔹/🔸 pra variar o destaque. Não é só pro resumão do Simon, é pra qualquer post com lista (mods da semana do CurseForge, várias features de um patch, etc.).
+
 ## Conteúdo denso — postar por postar NÃO
 - Todo post precisa de CONTEÚDO REAL. Puxar o máximo de detalhe concreto DO PRÓPRIO texto-fonte (nada inventado): números, nomes, como funciona, o porquê, o que muda pro jogador.
 - Post vago ("ficou lindo, olha") é proibido, mesmo com mídia boa. Se a fonte tem 3 parágrafos sobre o assunto, o post reflete essa riqueza.
@@ -262,6 +264,22 @@ Toda varredura, checar `https://www.curseforge.com/hytale/mods` (curl dá 403, u
 - **Galeria pra baixar mídia:** a aba `/gallery` do mod (`.../mods/<slug>/gallery`) é o lugar certo, imagens em `media.forgecdn.net/attachments/`. Baixar pra `midia/mods/<slug>/`. GIF de moveset (tipo o Reforged) é ouro pro Insta.
 - A aba Mods é pra ENCHER e AGENDAR ao longo da semana (1 por dia), então pode trazer vários de uma vez.
 - **CONTA @CurseForge no Twitter (regra do Luis, 27/07/2026):** o @CurseForge posta um VÍDEO dos "mods da semana" do Hytale toda semana (ex "Three pretty epic Hytale mods you should try out" + 3 links). SEMPRE que sair, virar post. Baixar o vídeo do tweet com `yt-dlp <url do tweet>` (guest funciona, sem cookie), salvar em `midia/curseforge-semana/`, e montar card com crédito `🎥 CurseForge`. O card cai na aba Mods (categoria() põe fonte com "curseforge" em Mods, mesmo sendo x.com/CurseForge). Checar o @CurseForge em toda varredura junto com Simon/devs.
+  **FORMATO EXATO do post (modelo do Luis, usar sempre nesses vídeos):**
+  ```
+  🔧 MODS DA SEMANA DO HYTALE
+
+  Toda semana o CurseForge solta um vídeo com alguns mods do Hytale pra você experimentar.
+
+  🔹<Mod 1>, <o que faz numa frase>.
+  🔹<Mod 2>, <o que faz numa frase>.
+  🔹<Mod 3>, <o que faz numa frase>.
+
+  🎥 CurseForge
+
+  ⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale
+
+  #Hytale #HytaleBrasil #HytaleGame #HytaleNews
+  ```
 
 **Formato do card de mod:** manchete CAPS ("um mod faz X no Hytale") + 1 parágrafo do que ele faz + linha `🔧 Mod do <Autor>` + código + hashtags. Slug real via os links `/hytale/mods/<slug>` da página. Mídia = print/vídeo da galeria do CurseForge (avisar na nota); se tiver trailer no YouTube, dá pra baixar como fez o Orbitech.
 
