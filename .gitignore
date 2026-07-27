@@ -1,1 +1,5 @@
 config.json
+
+# videos de mod (pesados, ficam locais pra postar)
+midia/**/*.mp4
+midia/**/*.webm

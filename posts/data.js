@@ -68,7 +68,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/below-every-heaven",
-      "nota": "MIDIA JA BAIXADA em midia/mods/below-every-heaven/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 StonefallStudio."
+      "nota": "MIDIA JA BAIXADA em midia/mods/below-every-heaven/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 StonefallStudio. VIDEO (trailer oficial do autor) baixado em midia/mods/below-every-heaven/below-every-heaven_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/below-every-heaven/below-every-heaven_trailer.mp4"
     },
     "twitter": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -85,7 +86,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/x-17-the-nightmare",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/x-17-the-nightmare/gallery) pra postar no Insta e Face. Credito 🔧 hayato_kun_ofc."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/x-17-the-nightmare/gallery) pra postar no Insta e Face. Credito 🔧 hayato_kun_ofc. VIDEO (trailer oficial do autor) baixado em midia/mods/x-17-the-nightmare/x-17-the-nightmare_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/x-17-the-nightmare/x-17-the-nightmare_trailer.mp4"
     },
     "twitter": "🌑 UM MOD DE TERROR BOTA UMA CRIATURA QUE TE PERSEGUE SEM PARAR NO HYTALE\n\nO X-17 The Nightmare parte de uma ideia simples, você nunca está sozinho. Uma criatura implacável fica no seu encalço o tempo todo.\n\n🔧 Mod do hayato_kun_ofc\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🌑 UM MOD DE TERROR BOTA UMA CRIATURA QUE TE PERSEGUE SEM PARAR NO HYTALE\n\nO X-17 The Nightmare parte de uma ideia simples, você nunca está sozinho. Uma criatura implacável fica no seu encalço o tempo todo.\n\n🔧 Mod do hayato_kun_ofc\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -119,7 +121,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/storm-serpent-atoll",
-      "nota": "MIDIA JA BAIXADA em midia/mods/storm-serpent-atoll/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 SAMPL3R."
+      "nota": "MIDIA JA BAIXADA em midia/mods/storm-serpent-atoll/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 SAMPL3R. VIDEO (trailer oficial do autor) baixado em midia/mods/storm-serpent-atoll/storm-serpent-atoll_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/storm-serpent-atoll/storm-serpent-atoll_trailer.mp4"
     },
     "twitter": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -136,7 +139,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/soulslike-bosses",
-      "nota": "MIDIA JA BAIXADA em midia/mods/soulslike-bosses/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Bananaph0ne."
+      "nota": "MIDIA JA BAIXADA em midia/mods/soulslike-bosses/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Bananaph0ne. VIDEO (trailer oficial do autor) baixado em midia/mods/soulslike-bosses/soulslike-bosses_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/soulslike-bosses/soulslike-bosses_trailer.mp4"
     },
     "twitter": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -153,7 +157,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/void-asylum",
-      "nota": "MIDIA JA BAIXADA em midia/mods/void-asylum/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Adathan."
+      "nota": "MIDIA JA BAIXADA em midia/mods/void-asylum/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Adathan. VIDEO (trailer oficial do autor) baixado em midia/mods/void-asylum/void-asylum_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/void-asylum/void-asylum_trailer.mp4"
     },
     "twitter": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -170,7 +175,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/ultimate-boss-fights",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/ultimate-boss-fights/gallery) pra postar no Insta e Face. Credito 🔧 HytaleZX."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/ultimate-boss-fights/gallery) pra postar no Insta e Face. Credito 🔧 HytaleZX. VIDEO (trailer oficial do autor) baixado em midia/mods/ultimate-boss-fights/ultimate-boss-fights_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/ultimate-boss-fights/ultimate-boss-fights_trailer.mp4"
     },
     "twitter": "👹 UM MOD ENCHE O HYTALE DE CHEFES NOVOS\n\nO Ultimate Boss Fights adiciona vários NPCs de chefe novos pra enfrentar pelo jogo.\n\n🔧 Mod do HytaleZX\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "👹 UM MOD ENCHE O HYTALE DE CHEFES NOVOS\n\nO Ultimate Boss Fights adiciona vários NPCs de chefe novos pra enfrentar pelo jogo.\n\n🔧 Mod do HytaleZX\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -187,7 +193,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/the-forerunner-boss",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/the-forerunner-boss/gallery) pra postar no Insta e Face. Credito 🔧 Light06."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/the-forerunner-boss/gallery) pra postar no Insta e Face. Credito 🔧 Light06. VIDEO (trailer oficial do autor) baixado em midia/mods/the-forerunner-boss/the-forerunner-boss_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/the-forerunner-boss/the-forerunner-boss_trailer.mp4"
     },
     "twitter": "🥈 UM MOD DE CHEFE GANHOU O 2º LUGAR DO MODJAM DO HYTALE\n\nO The Forerunner é uma luta de chefe que ficou em segundo lugar no ModJam do Hytale, com mecânica caprichada.\n\n🔧 Mod do Light06\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🥈 UM MOD DE CHEFE GANHOU O 2º LUGAR DO MODJAM DO HYTALE\n\nO The Forerunner é uma luta de chefe que ficou em segundo lugar no ModJam do Hytale, com mecânica caprichada.\n\n🔧 Mod do Light06\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -255,7 +262,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/unknown-worlds",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/unknown-worlds/gallery) pra postar no Insta e Face. Credito 🔧 Harizon."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/unknown-worlds/gallery) pra postar no Insta e Face. Credito 🔧 Harizon. VIDEO (trailer oficial do autor) baixado em midia/mods/unknown-worlds/unknown-worlds_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/unknown-worlds/unknown-worlds_trailer.mp4"
     },
     "twitter": "🌌 UM MOD LEVA VOCÊ PRA ALÉM DO HORIZONTE NO HYTALE\n\nO Unknown Worlds convida você a passar do horizonte e descobrir o desconhecido, com geração de mundo nova.\n\n🔧 Mod do Harizon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🌌 UM MOD LEVA VOCÊ PRA ALÉM DO HORIZONTE NO HYTALE\n\nO Unknown Worlds convida você a passar do horizonte e descobrir o desconhecido, com geração de mundo nova.\n\n🔧 Mod do Harizon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -323,7 +331,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/zens-arcanum",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/zens-arcanum/gallery) pra postar no Insta e Face. Credito 🔧 zenkuro."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/zens-arcanum/gallery) pra postar no Insta e Face. Credito 🔧 zenkuro. VIDEO (trailer oficial do autor) baixado em midia/mods/zens-arcanum/zens-arcanum_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/zens-arcanum/zens-arcanum_trailer.mp4"
     },
     "twitter": "🔮 UM MOD DEIXA VOCÊ CRIAR SUA PRÓPRIA MAGIA NO HYTALE\n\nO Zen’s Arcanum vai além de bola de fogo e deixa você montar a sua própria magia do jeito que quiser.\n\n🔧 Mod do zenkuro\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🔮 UM MOD DEIXA VOCÊ CRIAR SUA PRÓPRIA MAGIA NO HYTALE\n\nO Zen’s Arcanum vai além de bola de fogo e deixa você montar a sua própria magia do jeito que quiser.\n\n🔧 Mod do zenkuro\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -357,7 +366,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/magic-and-machines",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/magic-and-machines/gallery) pra postar no Insta e Face. Credito 🔧 b3b0p."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/magic-and-machines/gallery) pra postar no Insta e Face. Credito 🔧 b3b0p. VIDEO (trailer oficial do autor) baixado em midia/mods/magic-and-machines/magic-and-machines_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/magic-and-machines/magic-and-machines_trailer.mp4"
     },
     "twitter": "⚙️ UM MOD JUNTA MAGIA E MÁQUINAS NO HYTALE\n\nO Magic and Machines adiciona magia, máquinas, peças que giram e engenhocas pra você automatizar e construir.\n\n🔧 Mod do b3b0p\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⚙️ UM MOD JUNTA MAGIA E MÁQUINAS NO HYTALE\n\nO Magic and Machines adiciona magia, máquinas, peças que giram e engenhocas pra você automatizar e construir.\n\n🔧 Mod do b3b0p\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -374,7 +384,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/hexcode",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hexcode/gallery) pra postar no Insta e Face. Credito 🔧 ItsRiprod."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hexcode/gallery) pra postar no Insta e Face. Credito 🔧 ItsRiprod. VIDEO (trailer oficial do autor) baixado em midia/mods/hexcode/hexcode_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/hexcode/hexcode_trailer.mp4"
     },
     "twitter": "🧪 UM MOD TRATA MAGIA COMO CIÊNCIA NO HYTALE\n\nO Hexcode parte da ideia de que magia é ciência não explicada, e deixa você montar feitiço juntando as peças certas.\n\n🔧 Mod do ItsRiprod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🧪 UM MOD TRATA MAGIA COMO CIÊNCIA NO HYTALE\n\nO Hexcode parte da ideia de que magia é ciência não explicada, e deixa você montar feitiço juntando as peças certas.\n\n🔧 Mod do ItsRiprod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -442,7 +453,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/marsi-dungeon",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/marsi-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 MarsiMods."
+      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/marsi-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 MarsiMods. VIDEO (trailer oficial do autor) baixado em midia/mods/marsi-dungeon/marsi-dungeon_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/marsi-dungeon/marsi-dungeon_trailer.mp4"
     },
     "twitter": "🎲 UM MOD TRAZ MASMORRAS SEMPRE DIFERENTES PRO HYTALE\n\nO Marsi Dungeon monta masmorras variadas a partir de peças aleatórias, então nunca vem uma igual à outra.\n\n🔧 Mod do MarsiMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🎲 UM MOD TRAZ MASMORRAS SEMPRE DIFERENTES PRO HYTALE\n\nO Marsi Dungeon monta masmorras variadas a partir de peças aleatórias, então nunca vem uma igual à outra.\n\n🔧 Mod do MarsiMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -562,7 +574,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/wayside-shrines",
-      "nota": "MIDIA JA BAIXADA em midia/mods/wayside-shrines/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mertie."
+      "nota": "MIDIA JA BAIXADA em midia/mods/wayside-shrines/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mertie. VIDEO (trailer oficial do autor) baixado em midia/mods/wayside-shrines/wayside-shrines_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/wayside-shrines/wayside-shrines_trailer.mp4"
     },
     "twitter": "⛩️ UM MOD ESPALHA SANTUÁRIOS DE BÊNÇÃO PELO HYTALE\n\nO Wayside Shrines coloca santuários raros e enigmáticos pelo mundo, e quem decifra eles ganha uma bênção. Recompensa boa pra quem gosta de explorar.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⛩️ UM MOD ESPALHA SANTUÁRIOS DE BÊNÇÃO PELO HYTALE\n\nO Wayside Shrines coloca santuários raros e enigmáticos pelo mundo, e quem decifra eles ganha uma bênção. Recompensa boa pra quem gosta de explorar.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -749,7 +762,8 @@ window.ELDRYN_POSTS = [
     "midia": {
       "tipo": "imagem",
       "url": "https://www.curseforge.com/hytale/mods/averion-mounts",
-      "nota": "MIDIA JA BAIXADA em midia/mods/averion-mounts/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 NoSensey."
+      "nota": "MIDIA JA BAIXADA em midia/mods/averion-mounts/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 NoSensey. VIDEO (trailer oficial do autor) baixado em midia/mods/averion-mounts/averion-mounts_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "video": "midia/mods/averion-mounts/averion-mounts_trailer.mp4"
     },
     "twitter": "🐉 UM MOD TRAZ MONTARIA E PET COMPLETO PRO HYTALE\n\nO Averion Mounts adiciona montaria pra cavalgar, incluindo dragão, lobo e gato, mais um sistema de pet companheiro e uma roda rápida pra trocar na hora.\n\n🔧 Mod do NoSensey\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🐉 UM MOD TRAZ MONTARIA E PET COMPLETO PRO HYTALE\n\nO Averion Mounts adiciona montaria pra cavalgar, incluindo dragão, lobo e gato, mais um sistema de pet companheiro e uma roda rápida pra trocar na hora.\n\n🔧 Mod do NoSensey\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
