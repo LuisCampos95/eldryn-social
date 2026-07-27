@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "cf-mods-semana-2026-07-27",
+    "rodada": "2026-07-27 15:46",
+    "emoji": "🔧",
+    "titulo": "[CURSEFORGE] Mods da semana em vídeo (Dungeons+Structures, Sudoku, Fishing)",
+    "fonte": "https://x.com/CurseForge/status/2081737205295251512",
+    "fonteData": "27/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CONTA @CurseForge (oficial da loja de mods). Vídeo semanal dos mods da semana do Hytale. Dessa vez, Dungeons and more Structures, Trigger Sudoku e Cozy Tales Fishing (2 deles nós ja temos card proprio). VIDEO baixado em midia/curseforge-semana/curseforge_2026-07-27_semana.mp4 -- postar o video. No X, quote/RT do @CurseForge. Toda semana sai um desses, sempre virar post.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/CurseForge/status/2081737205295251512",
+      "video": "midia/curseforge-semana/curseforge_2026-07-27_semana.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/curseforge-semana/curseforge_2026-07-27_semana.mp4. Postar o video no Insta e Face. No X, dá pra citar/RT o post do @CurseForge. Credito 🎥 CurseForge."
+    },
+    "twitter": "🔧 O CURSEFORGE ESCOLHEU OS MODS DA SEMANA DO HYTALE\n\nToda semana o CurseForge solta um vídeo com uns mods do Hytale pra você experimentar. Dessa vez foram três, o Dungeons and more Structures, que enche o mundo de masmorra e estrutura nova, o Trigger Sudoku, um mapa que testa a ferramenta de volume de gatilho com um sudoku no meio, e o Cozy Tales Fishing, um mod de pesca tranquila.\n\n🎥 CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔧 O CURSEFORGE ESCOLHEU OS MODS DA SEMANA DO HYTALE\n\nToda semana o CurseForge solta um vídeo com uns mods do Hytale pra você experimentar. Dessa vez foram três, o Dungeons and more Structures, que enche o mundo de masmorra e estrutura nova, o Trigger Sudoku, um mapa que testa a ferramenta de volume de gatilho com um sudoku no meio, e o Cozy Tales Fishing, um mod de pesca tranquila.\n\n🎥 CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "mod-wake-up-npc",
     "rodada": "2026-07-27 11:26",
     "emoji": "👁️",

@@ -164,7 +164,8 @@
     "https://www.curseforge.com/hytale/mods/warland-dungeon",
     "https://www.curseforge.com/hytale/mods/dungeons-and-more",
     "https://www.curseforge.com/hytale/mods/land1s-endgame-dungeons",
-    "https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion"
+    "https://www.curseforge.com/hytale/mods/noxious-halberd-axe-blade-of-the-spiders-corrosion",
+    "https://x.com/CurseForge/status/2081737205295251512"
   ],
   "knownPages": [
     "https://hytale.com/game",
@@ -255,5 +256,5 @@
     "https://hytale.com/news/2026/7/first-look-chapter-1-and-more"
   ],
   "ultimoPatchVisto": "2026-07-24 (hotfix, revertida transparencia por perf/estabilidade)",
-  "lastRun": "2026-07-27T11:26:20-03:00"
+  "lastRun": "2026-07-27T15:46:32-03:00"
 }
