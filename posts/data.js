@@ -6,6 +6,92 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x26-slikey-fluid-rework",
+    "rodada": "2026-07-27 02:02",
+    "emoji": "💧",
+    "titulo": "[OFICIAL] Slikey vai refazer o sistema de água do Hytale (Simon repostou)",
+    "fonte": "https://x.com/slikey/status/2081561734930640913",
+    "fonteData": "26/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "OFICIAL, Slikey (diretor tecnico), REPOSTADO PELO SIMON (10 mil views, 311 curtidas). Anuncia o retrabalho de fluidos/agua do Hytale e pede opiniao da comunidade. Literal, \"I am currently gathering together the scope of our fluid rework for @Hytale... the gaps left in water when using a bucket or removing blocks need to be fixed. How about your opinion on finite vs infinite water? Fluid spreading? Fluid physics (effect on entities such as mobs and items)? Fluid interactions such as water vs lava vs mud? Also looking for feedback from Modders when adding new fluids. I have seen ideas such as waterfalls and river currents... weather affecting water visuals such as calm/stormy... fluids for steam which would invert gravity and disperse into air. Do you prefer the blocky fluids or prefer smoothing visuals? I will use your ideas to figure out a roadmap.\" No X, quote/RT do Slikey. No Meta, print traduzido.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": false,
+      "nota": "Tweet do Slikey repostado pelo Simon. No X, quote/RT do post do Slikey. No Meta, print traduzido do tweet dele."
+    },
+    "twitter": "💧 O DIRETOR TÉCNICO DO HYTALE TÁ REFAZENDO A ÁGUA DO JOGO E QUER A OPINIÃO DA COMUNIDADE\n\nO Slikey contou que está montando o escopo do retrabalho de fluidos do Hytale e pediu a opinião do pessoal pra acertar os requisitos do motor. Ele começou pelo básico, consertar os buracos que sobram na água quando você usa balde ou quebra bloco.\n\nAí abriu várias perguntas pra galera. Água finita ou infinita, como o fluido se espalha, física de fluido afetando mob e item, e interação entre água, lava e lama. Também quer feedback de quem faz mod pra adicionar fluido novo.\n\nEle já viu ideias que curtiu, tipo cachoeira e correnteza de rio, clima mudando o visual da água entre calma e agitada, e até vapor que inverte a gravidade e se espalha no ar. E perguntou se o pessoal prefere o fluido em bloco ou com visual mais suave. Disse que vai usar as ideias pra montar um roadmap.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💧 O DIRETOR TÉCNICO DO HYTALE TÁ REFAZENDO A ÁGUA DO JOGO E QUER A OPINIÃO DA COMUNIDADE\n\nO Slikey contou que está montando o escopo do retrabalho de fluidos do Hytale e pediu a opinião do pessoal pra acertar os requisitos do motor. Ele começou pelo básico, consertar os buracos que sobram na água quando você usa balde ou quebra bloco.\n\nAí abriu várias perguntas pra galera. Água finita ou infinita, como o fluido se espalha, física de fluido afetando mob e item, e interação entre água, lava e lama. Também quer feedback de quem faz mod pra adicionar fluido novo.\n\nEle já viu ideias que curtiu, tipo cachoeira e correnteza de rio, clima mudando o visual da água entre calma e agitada, e até vapor que inverte a gravidade e se espalha no ar. E perguntou se o pessoal prefere o fluido em bloco ou com visual mais suave. Disse que vai usar as ideias pra montar um roadmap.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-backrooms",
+    "rodada": "2026-07-27 02:02",
+    "emoji": "🚪",
+    "titulo": "[MOD • JOIA] UM MOD ADICIONA OS BACKROOMS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/backrooms",
+    "fonteData": "73 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 73 downloads, ninguem conhece ainda, e bom). Autor Leico. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/backrooms/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Leico.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/backrooms",
+      "nota": "MIDIA JA BAIXADA em midia/mods/backrooms/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Leico."
+    },
+    "twitter": "🚪 UM MOD ADICIONA OS BACKROOMS NO HYTALE\n\nO Backrooms deixa você criar um portal pros backrooms e andar por essa dimensão de ambiente perturbador. Pra quem curte exploração meio assustadora.\n\n🔧 Mod do Leico\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚪 UM MOD ADICIONA OS BACKROOMS NO HYTALE\n\nO Backrooms deixa você criar um portal pros backrooms e andar por essa dimensão de ambiente perturbador. Pra quem curte exploração meio assustadora.\n\n🔧 Mod do Leico\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-wayside-shrines",
+    "rodada": "2026-07-27 02:02",
+    "emoji": "⛩️",
+    "titulo": "[MOD • JOIA] UM MOD ESPALHA SANTUÁRIOS DE BÊNÇÃO PELO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/wayside-shrines",
+    "fonteData": "26 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 26 downloads, ninguem conhece ainda, e bom). Autor Mertie. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/wayside-shrines/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mertie.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/wayside-shrines",
+      "nota": "MIDIA JA BAIXADA em midia/mods/wayside-shrines/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mertie."
+    },
+    "twitter": "⛩️ UM MOD ESPALHA SANTUÁRIOS DE BÊNÇÃO PELO HYTALE\n\nO Wayside Shrines coloca santuários raros e enigmáticos pelo mundo, e quem decifra eles ganha uma bênção. Recompensa boa pra quem gosta de explorar.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛩️ UM MOD ESPALHA SANTUÁRIOS DE BÊNÇÃO PELO HYTALE\n\nO Wayside Shrines coloca santuários raros e enigmáticos pelo mundo, e quem decifra eles ganha uma bênção. Recompensa boa pra quem gosta de explorar.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-field-medic",
+    "rodada": "2026-07-27 02:02",
+    "emoji": "🩹",
+    "titulo": "[MOD • JOIA] UM MOD TRAZ SISTEMA DE CURATIVO PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/field-medic",
+    "fonteData": "84 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 84 downloads, ninguem conhece ainda, e bom). Autor Geminiz1978. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/field-medic/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Geminiz1978.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/field-medic",
+      "nota": "MIDIA JA BAIXADA em midia/mods/field-medic/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Geminiz1978."
+    },
+    "twitter": "🩹 UM MOD TRAZ SISTEMA DE CURATIVO PRO HYTALE\n\nO Field Medic é um mod de cura com 8 tipos de bandagem diferentes pra você se tratar durante o combate e a exploração.\n\n🔧 Mod do Geminiz1978\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🩹 UM MOD TRAZ SISTEMA DE CURATIVO PRO HYTALE\n\nO Field Medic é um mod de cura com 8 tipos de bandagem diferentes pra você se tratar durante o combate e a exploração.\n\n🔧 Mod do Geminiz1978\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-armor-stands",
+    "rodada": "2026-07-27 02:02",
+    "emoji": "🛡️",
+    "titulo": "[MOD • JOIA] UM MOD ADICIONA SUPORTE DE ARMADURA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/the-armor-stands",
+    "fonteData": "229 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA ESCONDIDA do CurseForge (SO 229 downloads, ninguem conhece ainda, e bom). Autor LadyPaladra. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/the-armor-stands/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 LadyPaladra.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/the-armor-stands",
+      "nota": "MIDIA JA BAIXADA em midia/mods/the-armor-stands/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 LadyPaladra."
+    },
+    "twitter": "🛡️ UM MOD ADICIONA SUPORTE DE ARMADURA NO HYTALE\n\nO The Armor Stands traz um suporte craftável em mais de 48 cores pra você exibir sua armadura e seus itens na base.\n\n🔧 Mod do LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛡️ UM MOD ADICIONA SUPORTE DE ARMADURA NO HYTALE\n\nO The Armor Stands traz um suporte craftável em mais de 48 cores pra você exibir sua armadura e seus itens na base.\n\n🔧 Mod do LadyPaladra\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "mod-cozy-fishing",
     "rodada": "2026-07-26 16:17",
     "emoji": "🎣",
