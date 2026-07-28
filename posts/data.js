@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-crystalized",
+    "rodada": "2026-07-28 11:32",
+    "emoji": "💎",
+    "titulo": "[MOD • JOIA] OS CRISTAIS DO HYTALE MUITO MAIS BONITOS",
+    "fonte": "https://www.curseforge.com/hytale/mods/crystalized",
+    "fonteData": "68 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (criado 26/07, 68 downloads mas 1364 upvotes no Reddit - bombou). Resource pack que refaz os cristais. Autor Reijvi. Midia JA BAIXADA em midia/mods/crystalized/ (5 imagens). Post pra AGENDAR.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/crystalized",
+      "nota": "MIDIA JA BAIXADA em midia/mods/crystalized/ (5 imagens). Escolher e postar no Insta e Face. Credito 🔧 Reijvi."
+    },
+    "twitter": "💎 UM MOD DEIXA OS CRISTAIS DO HYTALE MUITO MAIS BONITOS\n\nO Crystalized refaz o visual dos cristais do jogo, deixando eles com um acabamento bem mais detalhado. É o primeiro mod do Reijvi e já bombou na comunidade, passou de mil upvotes no Reddit.\n\n🔧 Mod do Reijvi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💎 UM MOD DEIXA OS CRISTAIS DO HYTALE MUITO MAIS BONITOS\n\nO Crystalized refaz o visual dos cristais do jogo, deixando eles com um acabamento bem mais detalhado. É o primeiro mod do Reijvi e já bombou na comunidade, passou de mil upvotes no Reddit.\n\n🔧 Mod do Reijvi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x27-conductor-boss",
     "rodada": "2026-07-28 11:27",
     "emoji": "⚔️",
