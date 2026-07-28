@@ -6,6 +6,69 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x27-conductor-boss",
+    "rodada": "2026-07-28 11:27",
+    "emoji": "⚔️",
+    "titulo": "[X] Teaser de chefe novo, The Conductor (Bananaphone)",
+    "fonte": "https://x.com/69bananaphone/status/2081876912641634614",
+    "fonteData": "27/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE (Twitter). Autor @69bananaphone. VIDEO baixado em midia/twitter/conductor_boss_bananaphone.mp4. No X, RT/quote do post original. No Meta, postar o video com a legenda. Crédito 🎥 @69bananaphone.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/69bananaphone/status/2081876912641634614",
+      "tweetId": "2081876912641634614",
+      "tweetAutor": "@69bananaphone",
+      "tweetTexto": "One of the new bosses you'll encounter in the Curse Plagued City: The Conductor #Hytale #HytaleModding",
+      "video": "midia/twitter/conductor_boss_bananaphone.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/conductor_boss_bananaphone.mp4. No X, RT ou quote do post do @69bananaphone. No Meta, postar o video baixado com a legenda. Crédito 🎥 @69bananaphone."
+    },
+    "twitter": "⚔️ SAIU O TEASER DE UM CHEFE NOVO PRO HYTALE, O CONDUCTOR\n\nO Bananaphone mostrou um dos chefes novos que vão aparecer na Curse Plagued City, chamado The Conductor. É do mesmo criador do mod Souls Like Bosses.\n\n🎥 @69bananaphone\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ SAIU O TEASER DE UM CHEFE NOVO PRO HYTALE, O CONDUCTOR\n\nO Bananaphone mostrou um dos chefes novos que vão aparecer na Curse Plagued City, chamado The Conductor. É do mesmo criador do mod Souls Like Bosses.\n\n🎥 @69bananaphone\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x27-triggerfleets",
+    "rodada": "2026-07-28 11:27",
+    "emoji": "🚢",
+    "titulo": "[X] Batalha Naval feito com Trigger Volumes, lançado (Foxy)",
+    "fonte": "https://x.com/foxy_cca/status/2082030091698110583",
+    "fonteData": "27/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE (Twitter). Autor @foxy_cca. VIDEO baixado em midia/twitter/triggerfleets_foxy.mp4. No X, RT/quote do post original. No Meta, postar o video com a legenda. Crédito 🎥 @foxy_cca.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/foxy_cca/status/2082030091698110583",
+      "tweetId": "2082030091698110583",
+      "tweetAutor": "@foxy_cca",
+      "tweetTexto": "Triggerfleets, the recreation of the Battleship game, entirely done with Trigger Volumes, is finally released on @CurseForge! Grab a friend and try it out!",
+      "video": "midia/twitter/triggerfleets_foxy.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/triggerfleets_foxy.mp4. No X, RT ou quote do post do @foxy_cca. No Meta, postar o video baixado com a legenda. Crédito 🎥 @foxy_cca."
+    },
+    "twitter": "🚢 FIZERAM O JOGO DE BATALHA NAVAL DENTRO DO HYTALE\n\nO Foxy recriou o Batalha Naval inteirinho usando só Trigger Volumes e acabou de lançar no CurseForge. Dá pra chamar um amigo e jogar dentro do jogo.\n\n🎥 @foxy_cca\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚢 FIZERAM O JOGO DE BATALHA NAVAL DENTRO DO HYTALE\n\nO Foxy recriou o Batalha Naval inteirinho usando só Trigger Volumes e acabou de lançar no CurseForge. Dá pra chamar um amigo e jogar dentro do jogo.\n\n🎥 @foxy_cca\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x27-scarakhive-build",
+    "rodada": "2026-07-28 11:27",
+    "emoji": "🏜️",
+    "titulo": "[X] Build gigante ScarakHive Entrance (Kirschdieb)",
+    "fonte": "https://x.com/Kirschdieb/status/2082039940544610654",
+    "fonteData": "27/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIAÇÃO DA COMUNIDADE (Twitter). Autor @Kirschdieb. VIDEO baixado em midia/twitter/scarakhive_kirschdieb.mp4. No X, RT/quote do post original. No Meta, postar o video com a legenda. Crédito 🎥 @Kirschdieb.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/Kirschdieb/status/2082039940544610654",
+      "tweetId": "2082039940544610654",
+      "tweetAutor": "@Kirschdieb",
+      "tweetTexto": "ScarakHive Entrance @Simon_Hypixel 's weekly Challenge 8 #Hytale #HytaleModding",
+      "video": "midia/twitter/scarakhive_kirschdieb.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/scarakhive_kirschdieb.mp4. No X, RT ou quote do post do @Kirschdieb. No Meta, postar o video baixado com a legenda. Crédito 🎥 @Kirschdieb."
+    },
+    "twitter": "🏜️ OLHA QUE BUILD MONSTRUOSA FIZERAM NO HYTALE\n\nO Kirschdieb construiu a ScarakHive Entrance, uma entrada de colmeia gigante com cara de monstro no meio do deserto, pra um desafio de build da comunidade.\n\n🎥 @Kirschdieb\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏜️ OLHA QUE BUILD MONSTRUOSA FIZERAM NO HYTALE\n\nO Kirschdieb construiu a ScarakHive Entrance, uma entrada de colmeia gigante com cara de monstro no meio do deserto, pra um desafio de build da comunidade.\n\n🎥 @Kirschdieb\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "cf-mods-semana-2026-07-27",
     "rodada": "2026-07-27 15:46",
     "emoji": "🔧",
