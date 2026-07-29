@@ -6,6 +6,27 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x29-airijko-otimizacao",
+    "rodada": "2026-07-29 18:19",
+    "emoji": "🚀",
+    "titulo": "[X] Modder doou codigo de otimizacao pro time do Hytale (Airijko + Simon reagiu)",
+    "fonte": "https://x.com/airijko/status/2082294147281527107",
+    "fonteData": "29/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "Airijko (autor do Endless Leveling) enviou codigo de otimizacao pro time oficial do Hytale, melhora performance pra todos, mostrado em Boss Raid (43 mil views, 554 curtidas). Simon respondeu com GIF de reacao emocionada. VIDEO baixado em midia/twitter/airijko_otimizacao_boss.mp4. No X, RT/quote do Airijko. No Meta, postar o video. Credito 🎥 @airijko.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/airijko/status/2082294147281527107",
+      "tweetId": "2082294147281527107",
+      "tweetAutor": "@airijko",
+      "tweetTexto": "Recently, we submitted some of our optimization code to Hytale’s dev team to help improve performance for everyone. Here’s our optimization work in action during Boss Raids!",
+      "video": "midia/twitter/airijko_otimizacao_boss.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/airijko_otimizacao_boss.mp4. No X, RT/quote do @airijko. No Meta, postar o video. Credito 🎥 @airijko."
+    },
+    "twitter": "🚀 UM MODDER DA COMUNIDADE MANDOU CÓDIGO DE OTIMIZAÇÃO PRO TIME DO HYTALE\n\nO Airijko, criador do mod Endless Leveling, contou que a equipe dele enviou parte do código de otimização deles pro time do Hytale, pra melhorar a performance do jogo pra todo mundo. Ele mostrou o trabalho rodando numa Boss Raid, segurando bem mais tranquilo.\n\nO Simon respondeu no post com uma reação de quem ficou tocado com o gesto.\n\n🎥 @airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🚀 UM MODDER DA COMUNIDADE MANDOU CÓDIGO DE OTIMIZAÇÃO PRO TIME DO HYTALE\n\nO Airijko, criador do mod Endless Leveling, contou que a equipe dele enviou parte do código de otimização deles pro time do Hytale, pra melhorar a performance do jogo pra todo mundo. Ele mostrou o trabalho rodando numa Boss Raid, segurando bem mais tranquilo.\n\nO Simon respondeu no post com uma reação de quem ficou tocado com o gesto.\n\n🎥 @airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "mod-crystalized",
     "rodada": "2026-07-28 11:32",
     "emoji": "💎",
