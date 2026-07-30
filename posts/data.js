@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "site-prerelease-part10",
+    "rodada": "2026-07-30 11:54",
+    "emoji": "🛠️",
+    "titulo": "[SITE] Pre-Release Update 6 Parte 10 (prefab holograma, servidor auto-recupera, fix de seguranca)",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "30/07/2026",
+    "confiabilidade": "oficial",
+    "resumo": "PATCH NOVO, Pre-Release Update 6 Parte 10 (30/07/2026). Destaques, holograma de preview de prefab (/prefabpreview, revela camada por camada), servidor dedicado se recupera sozinho de crash do mundo, fix de vulnerabilidade de seguranca (asset key maliciosa sobrescrevia arquivo do servidor), retrato 2D do jogador na UI custom (PlayerPortrait), politica de CrashRecovery configuravel, fix de fluido no mapa, buraco no Forgotten Temple, som empilhando no ataque, precisao de shader, varios crashes (particula/container/entidade), plugin colhe farming por posicao, PreventEmotes por game mode, /fragment sub-comandos, bloco Patterned connected. POST LONGO no X, condensado no Meta, com bullets 🔹/🔸.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+      "nota": "Post de texto (a lista ja e o conteudo). Se quiser imagem, usar uma arte oficial do Hytale ou um print da pagina de patch notes."
+    },
+    "twitter": "🛠️ SAIU A PARTE 10 DO PRE-RELEASE DO UPDATE 6 DO HYTALE\n\nMais uma leva de novidade e conserto no pre-release. O que interessa dessa vez.\n\n🔸 Chegou o holograma de preview de prefab. Com o comando /prefabpreview você cospe um fantasma de qualquer prefab no lugar onde está, e dá pra revelar ele camada por camada de baixo pra cima, ótimo pra construir com guia.\n\n🔸 Servidor dedicado agora se recupera sozinho quando o mundo principal crasha. Antes um crash deixava o servidor sem ninguém conseguir entrar e chutava todo mundo até um operador recarregar o mundo na mão.\n\n🔸 Taparam uma falha de segurança séria, onde um usuário com permissão conseguia mandar uma asset key maliciosa pra gravar arquivo fora da pasta certa e sobrescrever arquivo do servidor.\n\n🔹 A interface customizada agora mostra retrato 2D do jogador, o rosto ou o corpo inteiro do avatar a partir do UUID.\n\n🔹 Dá pra configurar uma política de recuperação de crash no servidor, escolhendo recarregar ou desligar o mundo sozinho.\n\n🔹 Consertos que dão gosto, renderização de fluido no mapa, um buraco no Templo Esquecido que prendia jogador, som que empilhava e spammava no ataque, e mais precisão nos detalhes de shader.\n\n🔹 Vários crashes corrigidos, cena cheia de partícula, container de bloco reconstruindo, entidade removida na hora errada e outros.\n\n🔹 Pro pessoal de mod, plugin agora colhe bloco de plantação por posição e dá pra bloquear emote por modo de jogo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛠️ SAIU A PARTE 10 DO PRE-RELEASE DO UPDATE 6 DO HYTALE\n\nMais novidade e conserto no pre-release. Os destaques.\n\n🔸 Holograma de preview de prefab, o comando /prefabpreview cospe um fantasma de qualquer prefab no lugar e revela camada por camada, ótimo pra construir com guia.\n\n🔸 Servidor dedicado agora se recupera sozinho quando o mundo crasha, antes chutava todo mundo até um operador arrumar na mão.\n\n🔸 Taparam uma falha de segurança séria que deixava gravar e sobrescrever arquivo do servidor.\n\n🔹 Interface customizada mostra retrato 2D do jogador, rosto ou corpo inteiro do avatar.\n\n🔹 Correção de fluido no mapa, um buraco no Templo Esquecido que prendia gente, som que spammava no ataque e vários crashes tapados.\n\n🔹 Pro pessoal de mod, plugin colhe plantação por posição e dá pra bloquear emote por modo de jogo.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x29-airijko-otimizacao",
     "rodada": "2026-07-29 18:19",
     "emoji": "🚀",
