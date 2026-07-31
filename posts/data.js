@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-jimothy",
+    "rodada": "2026-07-31 10:44",
+    "emoji": "🦝",
+    "titulo": "[MOD • JOIA] UM GUAXINIM NOVO NO HYTALE (Jimothy)",
+    "fonte": "https://www.curseforge.com/hytale/mods/jimothy",
+    "fonteData": "7 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (criado ha 6h, 7 downloads, joia fresca). Mob mod que adiciona o Jimothy the Raccoon (guaxinim). Autor darlak97, disse que foi treino pra animar quadrupede. Midia JA BAIXADA em midia/mods/jimothy/ (3 imagens). Post pra AGENDAR.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/jimothy",
+      "nota": "MIDIA JA BAIXADA em midia/mods/jimothy/ (3 imagens). Escolher e postar no Insta e Face. Credito 🔧 darlak97."
+    },
+    "twitter": "🦝 UM MOD ADICIONA UM GUAXINIM NO HYTALE\n\nO Jimothy coloca o Jimothy the Raccoon, um guaxinim, dentro do jogo. O criador contou que foi um bom treino pra ele aprender a animar um bicho de quatro patas. Recém-saído do forno, foi criado agora.\n\n🔧 Mod do darlak97\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🦝 UM MOD ADICIONA UM GUAXINIM NO HYTALE\n\nO Jimothy coloca o Jimothy the Raccoon, um guaxinim, dentro do jogo. O criador contou que foi um bom treino pra ele aprender a animar um bicho de quatro patas. Recém-saído do forno, foi criado agora.\n\n🔧 Mod do darlak97\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x30-cyberslade-stagger",
     "rodada": "2026-07-31 00:20",
     "emoji": "⚔️",
