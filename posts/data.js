@@ -6,6 +6,856 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-zets-mystic",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "⚔️",
+    "titulo": "[MOD • ARMA] UM MOD TRAZ ARMAS MÁGICAS COM PODER ESPECIAL PRO",
+    "fonte": "https://www.curseforge.com/hytale/mods/zets-mystic-weapons",
+    "fonteData": "49 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (49 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (49 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/zets-mystic-weapons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zetkut05.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/zets-mystic-weapons",
+      "nota": "Faixa 3k-50k (49 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/zets-mystic-weapons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zetkut05."
+    },
+    "twitter": "⚔️ UM MOD TRAZ ARMAS MÁGICAS COM PODER ESPECIAL PRO HYTALE\n\nO Zet’s Mystic Weapons adiciona armas mágicas, cada uma com uma habilidade e mecânica própria pra usar no combate.\n\n🔧 Mod do Zetkut05\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD TRAZ ARMAS MÁGICAS COM PODER ESPECIAL PRO HYTALE\n\nO Zet’s Mystic Weapons adiciona armas mágicas, cada uma com uma habilidade e mecânica própria pra usar no combate.\n\n🔧 Mod do Zetkut05\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-elemental-swords",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🗡️",
+    "titulo": "[MOD • ARMA] UM MOD ADICIONA ESPADAS ELEMENTAIS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/elemental-swords",
+    "fonteData": "48 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (48 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/elemental-swords/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Iced_Fox_Studios.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/elemental-swords",
+      "nota": "Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/elemental-swords/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Iced_Fox_Studios."
+    },
+    "twitter": "🗡️ UM MOD ADICIONA ESPADAS ELEMENTAIS NO HYTALE\n\nO Elemental Swords traz espadas forjadas da essência de Gelo, Natureza, Luz, Água e Vazio, cada uma com o próprio efeito.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ UM MOD ADICIONA ESPADAS ELEMENTAIS NO HYTALE\n\nO Elemental Swords traz espadas forjadas da essência de Gelo, Natureza, Luz, Água e Vazio, cada uma com o próprio efeito.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-perfect-dodges",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🌀",
+    "titulo": "[MOD • COMBATE] UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/perfect-dodges",
+    "fonteData": "48 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (48 mil downloads, entre 3k e 50k). Tema COMBATE. Post pra AGENDAR. Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/perfect-dodges/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 narwhals.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/perfect-dodges",
+      "nota": "Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/perfect-dodges/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 narwhals."
+    },
+    "twitter": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-void-scythe",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🌑",
+    "titulo": "[MOD • ARMA] UM MOD ADICIONA UMA FOICE DO VAZIO NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/void-scythe-by-maxos",
+    "fonteData": "41 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (41 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (41 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/void-scythe-by-maxos/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Maxos.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/void-scythe-by-maxos",
+      "nota": "Faixa 3k-50k (41 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/void-scythe-by-maxos/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Maxos."
+    },
+    "twitter": "🌑 UM MOD ADICIONA UMA FOICE DO VAZIO NO HYTALE\n\nO Void Scythe traz uma foice do vazio com poder próprio pra ceifar os inimigos.\n\n🔧 Mod do Maxos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌑 UM MOD ADICIONA UMA FOICE DO VAZIO NO HYTALE\n\nO Void Scythe traz uma foice do vazio com poder próprio pra ceifar os inimigos.\n\n🔧 Mod do Maxos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-battle-gauntlets",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🥊",
+    "titulo": "[MOD • ARMA] UM MOD DEIXA VOCÊ LUTAR DE MANOPLA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/battle-gauntlets",
+    "fonteData": "38 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/battle-gauntlets/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/battle-gauntlets",
+      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/battle-gauntlets/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🥊 UM MOD DEIXA VOCÊ LUTAR DE MANOPLA NO HYTALE\n\nO Battle Gauntlets adiciona manoplas de combate pra quem quer partir pra briga no soco.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🥊 UM MOD DEIXA VOCÊ LUTAR DE MANOPLA NO HYTALE\n\nO Battle Gauntlets adiciona manoplas de combate pra quem quer partir pra briga no soco.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-starky-mjolnir",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "⚡",
+    "titulo": "[MOD • ARMA] UM MOD BOTA O MJOLNIR, O MARTELO DO THOR, NO HYT",
+    "fonte": "https://www.curseforge.com/hytale/mods/starky-mjolnir",
+    "fonteData": "38 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/starky-mjolnir/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 StarkyMods.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/starky-mjolnir",
+      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/starky-mjolnir/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 StarkyMods."
+    },
+    "twitter": "⚡ UM MOD BOTA O MJOLNIR, O MARTELO DO THOR, NO HYTALE\n\nO Starky Mjolnir traz o martelo do Thor, com poder de raio e movimento, e só quem é digno consegue erguer.\n\n🔧 Mod do StarkyMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚡ UM MOD BOTA O MJOLNIR, O MARTELO DO THOR, NO HYTALE\n\nO Starky Mjolnir traz o martelo do Thor, com poder de raio e movimento, e só quem é digno consegue erguer.\n\n🔧 Mod do StarkyMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-bleach-reiryoku",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🌸",
+    "titulo": "[MOD • ARMA] UM MOD TRAZ PODERES ESPIRITUAIS ESTILO BLEACH PR",
+    "fonte": "https://www.curseforge.com/hytale/mods/bleach-reiryoku",
+    "fonteData": "34 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (34 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (34 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/bleach-reiryoku/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/bleach-reiryoku",
+      "nota": "Faixa 3k-50k (34 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/bleach-reiryoku/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🌸 UM MOD TRAZ PODERES ESPIRITUAIS ESTILO BLEACH PRO HYTALE\n\nO Bleach Reiryoku adiciona poder de energia espiritual no estilo do anime Bleach, pra quem curte a série.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌸 UM MOD TRAZ PODERES ESPIRITUAIS ESTILO BLEACH PRO HYTALE\n\nO Bleach Reiryoku adiciona poder de energia espiritual no estilo do anime Bleach, pra quem curte a série.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-dark-souls-weapons",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "💀",
+    "titulo": "[MOD • ARMA] UM MOD TRAZ ARMAS DE DARK SOULS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/dark-souls-weapons",
+    "fonteData": "33 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (33 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (33 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/dark-souls-weapons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/dark-souls-weapons",
+      "nota": "Faixa 3k-50k (33 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/dark-souls-weapons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "💀 UM MOD TRAZ ARMAS DE DARK SOULS PRO HYTALE\n\nO Dark Souls Weapons adiciona armas inspiradas na série Dark Souls pra encarar o combate difícil.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💀 UM MOD TRAZ ARMAS DE DARK SOULS PRO HYTALE\n\nO Dark Souls Weapons adiciona armas inspiradas na série Dark Souls pra encarar o combate difícil.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-darkin-blade",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "😈",
+    "titulo": "[MOD • ARMA] UM MOD ADICIONA UMA LÂMINA AMALDIÇOADA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/the-darkin-blade",
+    "fonteData": "30 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (30 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (30 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/the-darkin-blade/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/the-darkin-blade",
+      "nota": "Faixa 3k-50k (30 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/the-darkin-blade/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "😈 UM MOD ADICIONA UMA LÂMINA AMALDIÇOADA NO HYTALE\n\nO The Darkin Blade traz uma espada amaldiçoada estilo Darkin, que ganha poder conforme você luta.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "😈 UM MOD ADICIONA UMA LÂMINA AMALDIÇOADA NO HYTALE\n\nO The Darkin Blade traz uma espada amaldiçoada estilo Darkin, que ganha poder conforme você luta.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-zagons-archery",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🏹",
+    "titulo": "[MOD • ARMA] UM MOD EXPANDE A ARQUEARIA DO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/zagons-archery",
+    "fonteData": "22 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (22 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (22 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/zagons-archery/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zagon.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/zagons-archery",
+      "nota": "Faixa 3k-50k (22 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/zagons-archery/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zagon."
+    },
+    "twitter": "🏹 UM MOD EXPANDE A ARQUEARIA DO HYTALE\n\nO Zagon’s Archery traz arco e flecha novos pra deixar quem joga de arqueiro com mais opção.\n\n🔧 Mod do Zagon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏹 UM MOD EXPANDE A ARQUEARIA DO HYTALE\n\nO Zagon’s Archery traz arco e flecha novos pra deixar quem joga de arqueiro com mais opção.\n\n🔧 Mod do Zagon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-drays-spellbooks",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "📖",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ GRIMÓRIOS DE MAGIA NOVOS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/drays-better-spellbooks",
+    "fonteData": "43 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (43 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (43 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/drays-better-spellbooks/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DrayDeveloper.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/drays-better-spellbooks",
+      "nota": "Faixa 3k-50k (43 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/drays-better-spellbooks/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DrayDeveloper."
+    },
+    "twitter": "📖 UM MOD TRAZ GRIMÓRIOS DE MAGIA NOVOS PRO HYTALE\n\nO Dray’s Better Spellbooks expande a progressão de magia com grimórios novos pra você aprender feitiço.\n\n🔧 Mod do DrayDeveloper\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "📖 UM MOD TRAZ GRIMÓRIOS DE MAGIA NOVOS PRO HYTALE\n\nO Dray’s Better Spellbooks expande a progressão de magia com grimórios novos pra você aprender feitiço.\n\n🔧 Mod do DrayDeveloper\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-wolf-spellbook",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🐺",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ UM GRIMÓRIO DA IRMANDADE DO LOBO NO ",
+    "fonte": "https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook",
+    "fonteData": "32 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (32 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook",
+      "nota": "Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🐺 UM MOD TRAZ UM GRIMÓRIO DA IRMANDADE DO LOBO NO HYTALE\n\nO Brotherhood of the Wolf Spellbook adiciona um grimório temático com magia própria.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐺 UM MOD TRAZ UM GRIMÓRIO DA IRMANDADE DO LOBO NO HYTALE\n\nO Brotherhood of the Wolf Spellbook adiciona um grimório temático com magia própria.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-heal-spellbook",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "💚",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ UM GRIMÓRIO DE CURA PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/heal-spellbook",
+    "fonteData": "22 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (22 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (22 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/heal-spellbook/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/heal-spellbook",
+      "nota": "Faixa 3k-50k (22 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/heal-spellbook/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "💚 UM MOD TRAZ UM GRIMÓRIO DE CURA PRO HYTALE\n\nO Heal Spellbook foca em magia de cura, bom pra quem joga de suporte no grupo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💚 UM MOD TRAZ UM GRIMÓRIO DE CURA PRO HYTALE\n\nO Heal Spellbook foca em magia de cura, bom pra quem joga de suporte no grupo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-endless-elite-mobs",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "👹",
+    "titulo": "[MOD • MOB] UM MOD ENCHE O HYTALE DE MOBS ELITE DE RPG",
+    "fonte": "https://www.curseforge.com/hytale/mods/endless-elite-mobs",
+    "fonteData": "44 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (44 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (44 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/endless-elite-mobs/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zbeve.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/endless-elite-mobs",
+      "nota": "Faixa 3k-50k (44 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/endless-elite-mobs/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zbeve."
+    },
+    "twitter": "👹 UM MOD ENCHE O HYTALE DE MOBS ELITE DE RPG\n\nO Endless Elite Mobs adiciona mobs elite com 13 habilidades diferentes, interações e efeitos visuais caprichados.\n\n🔧 Mod do Zbeve\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👹 UM MOD ENCHE O HYTALE DE MOBS ELITE DE RPG\n\nO Endless Elite Mobs adiciona mobs elite com 13 habilidades diferentes, interações e efeitos visuais caprichados.\n\n🔧 Mod do Zbeve\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-petsplus",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🐾",
+    "titulo": "[MOD • PET] UM MOD TRAZ UM SISTEMA DE PETS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/petsplus",
+    "fonteData": "42 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (42 mil downloads, entre 3k e 50k). Tema PET. Post pra AGENDAR. Faixa 3k-50k (42 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/petsplus/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/petsplus",
+      "nota": "Faixa 3k-50k (42 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/petsplus/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🐾 UM MOD TRAZ UM SISTEMA DE PETS PRO HYTALE\n\nO Pets Plus deixa você ter bicho de estimação te acompanhando pelo mundo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐾 UM MOD TRAZ UM SISTEMA DE PETS PRO HYTALE\n\nO Pets Plus deixa você ter bicho de estimação te acompanhando pelo mundo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mountabledinos",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🦖",
+    "titulo": "[MOD • MOB] UM MOD DEIXA VOCÊ MONTAR EM DINOSSAUROS NO HYTAL",
+    "fonte": "https://www.curseforge.com/hytale/mods/mountabledinos",
+    "fonteData": "38 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mountabledinos/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mountabledinos",
+      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mountabledinos/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🦖 UM MOD DEIXA VOCÊ MONTAR EM DINOSSAUROS NO HYTALE\n\nO Mountable Dinos coloca dinossauros que dá pra cavalgar e sair explorando montado.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🦖 UM MOD DEIXA VOCÊ MONTAR EM DINOSSAUROS NO HYTALE\n\nO Mountable Dinos coloca dinossauros que dá pra cavalgar e sair explorando montado.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mermaids",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🧜",
+    "titulo": "[MOD • MOB] UM MOD ADICIONA SEREIAS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/mermaids",
+    "fonteData": "38 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mermaids/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mermaids",
+      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mermaids/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🧜 UM MOD ADICIONA SEREIAS NO HYTALE\n\nO Mermaids traz sereias pro mundo do Hytale, pra quem quer criatura nova no mar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧜 UM MOD ADICIONA SEREIAS NO HYTALE\n\nO Mermaids traz sereias pro mundo do Hytale, pra quem quer criatura nova no mar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-more-mounts",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🐴",
+    "titulo": "[MOD • MOB] UM MOD TRAZ MAIS MONTARIAS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/more-mounts",
+    "fonteData": "37 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (37 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (37 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/more-mounts/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/more-mounts",
+      "nota": "Faixa 3k-50k (37 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/more-mounts/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🐴 UM MOD TRAZ MAIS MONTARIAS PRO HYTALE\n\nO More Mounts adiciona várias montarias novas pra você cavalgar pelo mundo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐴 UM MOD TRAZ MAIS MONTARIAS PRO HYTALE\n\nO More Mounts adiciona várias montarias novas pra você cavalgar pelo mundo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-aures-rare-monsters",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "👾",
+    "titulo": "[MOD • MOB] UM MOD ESPALHA MONSTROS RAROS PELO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/aures-rare-monsters",
+    "fonteData": "36 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (36 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (36 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/aures-rare-monsters/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 BlackAuresArt.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/aures-rare-monsters",
+      "nota": "Faixa 3k-50k (36 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/aures-rare-monsters/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 BlackAuresArt."
+    },
+    "twitter": "👾 UM MOD ESPALHA MONSTROS RAROS PELO HYTALE\n\nO Aures Rare Monsters adiciona monstros raros novos pra você achar de vez em quando explorando.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👾 UM MOD ESPALHA MONSTROS RAROS PELO HYTALE\n\nO Aures Rare Monsters adiciona monstros raros novos pra você achar de vez em quando explorando.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-better-mob-expansion",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🐗",
+    "titulo": "[MOD • MOB] UM MOD ENCHE O MUNDO DO HYTALE DE MOB NOVO",
+    "fonte": "https://www.curseforge.com/hytale/mods/better-mob-expansion",
+    "fonteData": "34 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (34 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (34 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/better-mob-expansion/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/better-mob-expansion",
+      "nota": "Faixa 3k-50k (34 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/better-mob-expansion/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🐗 UM MOD ENCHE O MUNDO DO HYTALE DE MOB NOVO\n\nO Better Mob Expansion adiciona várias criaturas novas pra deixar o mundo mais vivo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐗 UM MOD ENCHE O MUNDO DO HYTALE DE MOB NOVO\n\nO Better Mob Expansion adiciona várias criaturas novas pra deixar o mundo mais vivo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mob-capture",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🎯",
+    "titulo": "[MOD • MOB] UM MOD DEIXA VOCÊ CAPTURAR MOBS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/mob-capture",
+    "fonteData": "32 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (32 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mob-capture/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mob-capture",
+      "nota": "Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mob-capture/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🎯 UM MOD DEIXA VOCÊ CAPTURAR MOBS NO HYTALE\n\nO Mob Capture deixa você prender um mob e carregar com você, tipo capturar bicho pra soltar depois.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎯 UM MOD DEIXA VOCÊ CAPTURAR MOBS NO HYTALE\n\nO Mob Capture deixa você prender um mob e carregar com você, tipo capturar bicho pra soltar depois.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-cats",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🐱",
+    "titulo": "[MOD • PET] UM MOD ADICIONA GATOS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/cats",
+    "fonteData": "32 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (32 mil downloads, entre 3k e 50k). Tema PET. Post pra AGENDAR. Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/cats/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/cats",
+      "nota": "Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/cats/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🐱 UM MOD ADICIONA GATOS NO HYTALE\n\nO Cats traz gatos pro jogo pra você ter um felino de estimação.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐱 UM MOD ADICIONA GATOS NO HYTALE\n\nO Cats traz gatos pro jogo pra você ter um felino de estimação.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-tower-of-shiva",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🗼",
+    "titulo": "[MOD • DUNGEON] UM MOD ADICIONA A TORRE DE SHIVA COMO DESAFIO NO",
+    "fonte": "https://www.curseforge.com/hytale/mods/tower-of-shiva",
+    "fonteData": "26 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (26 mil downloads, entre 3k e 50k). Tema DUNGEON. Post pra AGENDAR. Faixa 3k-50k (26 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/tower-of-shiva/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/tower-of-shiva",
+      "nota": "Faixa 3k-50k (26 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/tower-of-shiva/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🗼 UM MOD ADICIONA A TORRE DE SHIVA COMO DESAFIO NO HYTALE\n\nO Tower of Shiva traz um desafio em torre cheio de inimigo pra você subir e encarar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗼 UM MOD ADICIONA A TORRE DE SHIVA COMO DESAFIO NO HYTALE\n\nO Tower of Shiva traz um desafio em torre cheio de inimigo pra você subir e encarar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-spark-lantern-pets",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🏮",
+    "titulo": "[MOD • PET] UM MOD TRAZ PETS LANTERNA QUE ILUMINAM NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/spark-lantern-pets",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema PET. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/spark-lantern-pets/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/spark-lantern-pets",
+      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/spark-lantern-pets/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🏮 UM MOD TRAZ PETS LANTERNA QUE ILUMINAM NO HYTALE\n\nO Spark Lantern Pets adiciona pets em forma de lanterna que te seguem e iluminam o caminho.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏮 UM MOD TRAZ PETS LANTERNA QUE ILUMINAM NO HYTALE\n\nO Spark Lantern Pets adiciona pets em forma de lanterna que te seguem e iluminam o caminho.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-cellys-wildlife",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🦌",
+    "titulo": "[MOD • MOB] UM MOD DÁ SKINS NOVAS PROS BICHOS SELVAGENS DO H",
+    "fonte": "https://www.curseforge.com/hytale/mods/cellys-wildlife-skins",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/cellys-wildlife-skins/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/cellys-wildlife-skins",
+      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/cellys-wildlife-skins/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🦌 UM MOD DÁ SKINS NOVAS PROS BICHOS SELVAGENS DO HYTALE\n\nO Celly’s Wildlife Skins traz variações de aparência pros animais selvagens, deixando cada um diferente.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🦌 UM MOD DÁ SKINS NOVAS PROS BICHOS SELVAGENS DO HYTALE\n\nO Celly’s Wildlife Skins traz variações de aparência pros animais selvagens, deixando cada um diferente.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-fly-ring",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "💍",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ ANÉIS MÁGICOS DE VOO PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/fly-ring",
+    "fonteData": "45 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (45 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (45 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/fly-ring/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Tiffy321.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/fly-ring",
+      "nota": "Faixa 3k-50k (45 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/fly-ring/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Tiffy321."
+    },
+    "twitter": "💍 UM MOD TRAZ ANÉIS MÁGICOS DE VOO PRO HYTALE\n\nO Fly Ring é um conjunto de anéis mágicos que dá voo e outros poderes quando você equipa.\n\n🔧 Mod do Tiffy321\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💍 UM MOD TRAZ ANÉIS MÁGICOS DE VOO PRO HYTALE\n\nO Fly Ring é um conjunto de anéis mágicos que dá voo e outros poderes quando você equipa.\n\n🔧 Mod do Tiffy321\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-glider",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🪂",
+    "titulo": "[MOD • MOVIMENTO] UM MOD ADICIONA PLANADOR NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/glider",
+    "fonteData": "41 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (41 mil downloads, entre 3k e 50k). Tema MOVIMENTO. Post pra AGENDAR. Faixa 3k-50k (41 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/glider/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/glider",
+      "nota": "Faixa 3k-50k (41 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/glider/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🪂 UM MOD ADICIONA PLANADOR NO HYTALE\n\nO Glider deixa você planar pelo mundo, ótimo pra descer de lugar alto sem se machucar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪂 UM MOD ADICIONA PLANADOR NO HYTALE\n\nO Glider deixa você planar pelo mundo, ótimo pra descer de lugar alto sem se machucar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-not-enough-gliders",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🪁",
+    "titulo": "[MOD • MOVIMENTO] UM MOD ENCHE O HYTALE DE PLANADOR",
+    "fonte": "https://www.curseforge.com/hytale/mods/not-enough-gliders",
+    "fonteData": "30 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (30 mil downloads, entre 3k e 50k). Tema MOVIMENTO. Post pra AGENDAR. Faixa 3k-50k (30 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/not-enough-gliders/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/not-enough-gliders",
+      "nota": "Faixa 3k-50k (30 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/not-enough-gliders/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🪁 UM MOD ENCHE O HYTALE DE PLANADOR\n\nO Not Enough Gliders traz vários tipos de planador pra você escolher como voar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪁 UM MOD ENCHE O HYTALE DE PLANADOR\n\nO Not Enough Gliders traz vários tipos de planador pra você escolher como voar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-restored-ruins",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🏛️",
+    "titulo": "[MOD • MUNDO] UM MOD ESPALHA RUÍNAS PRA EXPLORAR PELO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/restored-ruins",
+    "fonteData": "33 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (33 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (33 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/restored-ruins/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/restored-ruins",
+      "nota": "Faixa 3k-50k (33 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/restored-ruins/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🏛️ UM MOD ESPALHA RUÍNAS PRA EXPLORAR PELO HYTALE\n\nO Restored Ruins gera ruínas pelo mundo pra você achar e explorar enquanto anda por aí.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏛️ UM MOD ESPALHA RUÍNAS PRA EXPLORAR PELO HYTALE\n\nO Restored Ruins gera ruínas pelo mundo pra você achar e explorar enquanto anda por aí.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-more-to-explore",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🗺️",
+    "titulo": "[MOD • MUNDO] UM MOD DÁ MAIS COISA PRA EXPLORAR NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/more-to-explore",
+    "fonteData": "38 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/more-to-explore/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/more-to-explore",
+      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/more-to-explore/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🗺️ UM MOD DÁ MAIS COISA PRA EXPLORAR NO HYTALE\n\nO More to Explore enche o mundo de estrutura e ponto de interesse novo pra recompensar quem explora.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗺️ UM MOD DÁ MAIS COISA PRA EXPLORAR NO HYTALE\n\nO More to Explore enche o mundo de estrutura e ponto de interesse novo pra recompensar quem explora.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-greenhouse",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🌿",
+    "titulo": "[MOD • MUNDO] UM MOD TRAZ ESTUFA E JARDIM PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/guardians-garden-greenhouse",
+    "fonteData": "32 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (32 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/guardians-garden-greenhouse/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/guardians-garden-greenhouse",
+      "nota": "Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/guardians-garden-greenhouse/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🌿 UM MOD TRAZ ESTUFA E JARDIM PRO HYTALE\n\nO Guardian’s Garden Greenhouse deixa você montar estufa e jardim pra cultivar planta protegida.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌿 UM MOD TRAZ ESTUFA E JARDIM PRO HYTALE\n\nO Guardian’s Garden Greenhouse deixa você montar estufa e jardim pra cultivar planta protegida.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-lotr",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "💍",
+    "titulo": "[MOD • MUNDO] UM MOD TRAZ UM PROJETO DE SENHOR DOS ANÉIS PRO H",
+    "fonte": "https://www.curseforge.com/hytale/mods/lord-of-the-rings-project",
+    "fonteData": "25 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (25 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (25 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/lord-of-the-rings-project/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/lord-of-the-rings-project",
+      "nota": "Faixa 3k-50k (25 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/lord-of-the-rings-project/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🧝 UM MOD TRAZ UM PROJETO DE SENHOR DOS ANÉIS PRO HYTALE\n\nO Lord of the Rings Project traz conteúdo temático da Terra-média pra quem é fã da saga.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧝 UM MOD TRAZ UM PROJETO DE SENHOR DOS ANÉIS PRO HYTALE\n\nO Lord of the Rings Project traz conteúdo temático da Terra-média pra quem é fã da saga.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-tritale-zelda",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🗡️",
+    "titulo": "[MOD • MUNDO] UM MOD TRAZ TEMA DE ZELDA PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule",
+      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🗡️ UM MOD TRAZ TEMA DE ZELDA PRO HYTALE\n\nO Tritale Echoes of Hyrule adiciona conteúdo com cara de Zelda, referência a Hyrule pra quem curte a série.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🗡️ UM MOD TRAZ TEMA DE ZELDA PRO HYTALE\n\nO Tritale Echoes of Hyrule adiciona conteúdo com cara de Zelda, referência a Hyrule pra quem curte a série.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-terraria-accessories",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🪙",
+    "titulo": "[MOD • RPG] UM MOD TRAZ ACESSÓRIOS ESTILO TERRARIA PRO HYTAL",
+    "fonte": "https://www.curseforge.com/hytale/mods/terraria-accessories",
+    "fonteData": "23 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (23 mil downloads, entre 3k e 50k). Tema RPG. Post pra AGENDAR. Faixa 3k-50k (23 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/terraria-accessories/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/terraria-accessories",
+      "nota": "Faixa 3k-50k (23 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/terraria-accessories/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🪙 UM MOD TRAZ ACESSÓRIOS ESTILO TERRARIA PRO HYTALE\n\nO Terraria Accessories adiciona acessórios inspirados em Terraria que dão bônus e habilidade extra.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪙 UM MOD TRAZ ACESSÓRIOS ESTILO TERRARIA PRO HYTALE\n\nO Terraria Accessories adiciona acessórios inspirados em Terraria que dão bônus e habilidade extra.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-conveyor-belts",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "⚙️",
+    "titulo": "[MOD • TECH] UM MOD TRAZ ESTEIRAS PRA AUTOMATIZAR O HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/conveyor-belts",
+    "fonteData": "26 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (26 mil downloads, entre 3k e 50k). Tema TECH. Post pra AGENDAR. Faixa 3k-50k (26 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/conveyor-belts/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/conveyor-belts",
+      "nota": "Faixa 3k-50k (26 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/conveyor-belts/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "⚙️ UM MOD TRAZ ESTEIRAS PRA AUTOMATIZAR O HYTALE\n\nO Conveyor Belts adiciona esteiras transportadoras pra você mover item sozinho e montar produção.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚙️ UM MOD TRAZ ESTEIRAS PRA AUTOMATIZAR O HYTALE\n\nO Conveyor Belts adiciona esteiras transportadoras pra você mover item sozinho e montar produção.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-metallurgy",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "⛏️",
+    "titulo": "[MOD • TECH] UM MOD EXPANDE A METALURGIA DO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/metallurgy",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema TECH. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/metallurgy/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/metallurgy",
+      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/metallurgy/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "⛏️ UM MOD EXPANDE A METALURGIA DO HYTALE\n\nO Metallurgy adiciona minério e liga de metal novos pra você fundir e criar equipamento.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛏️ UM MOD EXPANDE A METALURGIA DO HYTALE\n\nO Metallurgy adiciona minério e liga de metal novos pra você fundir e criar equipamento.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-hyprotech",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🔧",
+    "titulo": "[MOD • TECH] UM MOD TRAZ TECNOLOGIA E MÁQUINAS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/hyprotech",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema TECH. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/hyprotech/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/hyprotech",
+      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/hyprotech/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🔧 UM MOD TRAZ TECNOLOGIA E MÁQUINAS PRO HYTALE\n\nO HyProtech adiciona máquina e tecnologia pra automatizar tarefa dentro do jogo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔧 UM MOD TRAZ TECNOLOGIA E MÁQUINAS PRO HYTALE\n\nO HyProtech adiciona máquina e tecnologia pra automatizar tarefa dentro do jogo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-emerald-armor",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "💚",
+    "titulo": "[MOD • ARMA] UM MOD ADICIONA ARMADURA DE ESMERALDA NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/emerald-armor",
+    "fonteData": "32 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (32 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/emerald-armor/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/emerald-armor",
+      "nota": "Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/emerald-armor/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "💚 UM MOD ADICIONA ARMADURA DE ESMERALDA NO HYTALE\n\nO Emerald Armor traz um conjunto de armadura de esmeralda pra quem quer um visual e defesa novos.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "💚 UM MOD ADICIONA ARMADURA DE ESMERALDA NO HYTALE\n\nO Emerald Armor traz um conjunto de armadura de esmeralda pra quem quer um visual e defesa novos.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-the-armory",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🛡️",
+    "titulo": "[MOD • ARMA] UM MOD ENCHE O HYTALE DE ARMA E ARMADURA",
+    "fonte": "https://www.curseforge.com/hytale/mods/the-armory",
+    "fonteData": "23 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (23 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (23 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/the-armory/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/the-armory",
+      "nota": "Faixa 3k-50k (23 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/the-armory/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🛡️ UM MOD ENCHE O HYTALE DE ARMA E ARMADURA\n\nO The Armory adiciona um arsenal com várias armas e armaduras novas pra equipar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🛡️ UM MOD ENCHE O HYTALE DE ARMA E ARMADURA\n\nO The Armory adiciona um arsenal com várias armas e armaduras novas pra equipar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-exarkys-gear",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🎽",
+    "titulo": "[MOD • ARMA] UM MOD TRAZ EQUIPAMENTO EXTRA PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/exarkys-extra-gear",
+    "fonteData": "19 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (19 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (19 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/exarkys-extra-gear/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/exarkys-extra-gear",
+      "nota": "Faixa 3k-50k (19 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/exarkys-extra-gear/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🎽 UM MOD TRAZ EQUIPAMENTO EXTRA PRO HYTALE\n\nO Exarky’s Extra Gear adiciona equipamento novo pra você evoluir o personagem.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎽 UM MOD TRAZ EQUIPAMENTO EXTRA PRO HYTALE\n\nO Exarky’s Extra Gear adiciona equipamento novo pra você evoluir o personagem.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-pixel-paintings",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🖼️",
+    "titulo": "[MOD • DECORACAO] UM MOD ENCHE O HYTALE DE QUADROS PRA DECORAR",
+    "fonte": "https://www.curseforge.com/hytale/mods/pixel-paintings",
+    "fonteData": "45 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (45 mil downloads, entre 3k e 50k). Tema DECORACAO. Post pra AGENDAR. Faixa 3k-50k (45 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/pixel-paintings/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DarkhaxDev.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/pixel-paintings",
+      "nota": "Faixa 3k-50k (45 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/pixel-paintings/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DarkhaxDev."
+    },
+    "twitter": "🖼️ UM MOD ENCHE O HYTALE DE QUADROS PRA DECORAR\n\nO Pixel Paintings traz um monte de quadro feito por artistas de verdade pra você pendurar e decorar a base.\n\n🔧 Mod do DarkhaxDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🖼️ UM MOD ENCHE O HYTALE DE QUADROS PRA DECORAR\n\nO Pixel Paintings traz um monte de quadro feito por artistas de verdade pra você pendurar e decorar a base.\n\n🔧 Mod do DarkhaxDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-not-enough-potions",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🧪",
+    "titulo": "[MOD • RPG] UM MOD ENCHE O HYTALE DE POÇÃO NOVA",
+    "fonte": "https://www.curseforge.com/hytale/mods/not-enough-potions",
+    "fonteData": "19 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (19 mil downloads, entre 3k e 50k). Tema RPG. Post pra AGENDAR. Faixa 3k-50k (19 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/not-enough-potions/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/not-enough-potions",
+      "nota": "Faixa 3k-50k (19 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/not-enough-potions/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🧪 UM MOD ENCHE O HYTALE DE POÇÃO NOVA\n\nO Not Enough Potions adiciona vários tipos de poção com efeito novo pra você preparar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧪 UM MOD ENCHE O HYTALE DE POÇÃO NOVA\n\nO Not Enough Potions adiciona vários tipos de poção com efeito novo pra você preparar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-aures-dragon-paintings",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🐉",
+    "titulo": "[MOD • DECORACAO] UM MOD TRAZ QUADROS DE DRAGÃO PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/aures-paintings-with-dragons",
+    "fonteData": "38 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema DECORACAO. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/aures-paintings-with-dragons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 BlackAuresArt.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/aures-paintings-with-dragons",
+      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/aures-paintings-with-dragons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 BlackAuresArt."
+    },
+    "twitter": "🐉 UM MOD TRAZ QUADROS DE DRAGÃO PRO HYTALE\n\nO Aures Paintings with Dragons adiciona quadros com tema de dragão pra decorar sua construção.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐉 UM MOD TRAZ QUADROS DE DRAGÃO PRO HYTALE\n\nO Aures Paintings with Dragons adiciona quadros com tema de dragão pra decorar sua construção.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-armor-weapon-var",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🎨",
+    "titulo": "[MOD • ARMA] UM MOD TRAZ VARIAÇÕES DE ARMADURA E ARMA NO HYTA",
+    "fonte": "https://www.curseforge.com/hytale/mods/armor-weapon-variations",
+    "fonteData": "18 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (18 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (18 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/armor-weapon-variations/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/armor-weapon-variations",
+      "nota": "Faixa 3k-50k (18 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/armor-weapon-variations/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🎨 UM MOD TRAZ VARIAÇÕES DE ARMADURA E ARMA NO HYTALE\n\nO Armor Weapon Variations adiciona versões visuais diferentes de armadura e arma pra você variar o estilo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎨 UM MOD TRAZ VARIAÇÕES DE ARMADURA E ARMA NO HYTALE\n\nO Armor Weapon Variations adiciona versões visuais diferentes de armadura e arma pra você variar o estilo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-craftable-mithril",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "✨",
+    "titulo": "[MOD • TECH] UM MOD DEIXA VOCÊ CRAFTAR MITHRIL NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/craftable-mithril",
+    "fonteData": "18 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (18 mil downloads, entre 3k e 50k). Tema TECH. Post pra AGENDAR. Faixa 3k-50k (18 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/craftable-mithril/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/craftable-mithril",
+      "nota": "Faixa 3k-50k (18 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/craftable-mithril/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "✨ UM MOD DEIXA VOCÊ CRAFTAR MITHRIL NO HYTALE\n\nO Craftable Mithril deixa você fabricar mithril pra criar equipamento forte com esse material raro.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "✨ UM MOD DEIXA VOCÊ CRAFTAR MITHRIL NO HYTALE\n\nO Craftable Mithril deixa você fabricar mithril pra criar equipamento forte com esse material raro.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-one-handed-lanterns",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🏮",
+    "titulo": "[MOD • QOL] UM MOD DEIXA VOCÊ SEGURAR LANTERNA COM UMA MÃO S",
+    "fonte": "https://www.curseforge.com/hytale/mods/one-handed-lanterns",
+    "fonteData": "25 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (25 mil downloads, entre 3k e 50k). Tema QOL. Post pra AGENDAR. Faixa 3k-50k (25 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/one-handed-lanterns/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/one-handed-lanterns",
+      "nota": "Faixa 3k-50k (25 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/one-handed-lanterns/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🏮 UM MOD DEIXA VOCÊ SEGURAR LANTERNA COM UMA MÃO SÓ NO HYTALE\n\nO One-handed Lanterns deixa você segurar a lanterna numa mão e a arma na outra, iluminando sem largar o combate.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏮 UM MOD DEIXA VOCÊ SEGURAR LANTERNA COM UMA MÃO SÓ NO HYTALE\n\nO One-handed Lanterns deixa você segurar a lanterna numa mão e a arma na outra, iluminando sem largar o combate.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-metallurgy-2",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🔥",
+    "titulo": "[MOD • MOB] UM MOD CONTINUA A METALURGIA DO HYTALE COM MOBS",
+    "fonte": "https://www.curseforge.com/hytale/mods/metallurgy-2",
+    "fonteData": "17 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/metallurgy-2/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/metallurgy-2",
+      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/metallurgy-2/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🔥 UM MOD CONTINUA A METALURGIA DO HYTALE COM MOBS\n\nO Metallurgy 2 expande o mod de metalurgia com criatura ligada aos metais.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔥 UM MOD CONTINUA A METALURGIA DO HYTALE COM MOBS\n\nO Metallurgy 2 expande o mod de metalurgia com criatura ligada aos metais.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-mighty-staffs",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🪄",
+    "titulo": "[MOD • MAGIA] UM MOD TRAZ CAJADOS PODEROSOS PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/mighty-staffs",
+    "fonteData": "50 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (50 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (50 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mighty-staffs/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/mighty-staffs",
+      "nota": "Faixa 3k-50k (50 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mighty-staffs/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🪄 UM MOD TRAZ CAJADOS PODEROSOS PRO HYTALE\n\nO Mighty Staffs adiciona cajados mágicos com poder pra quem joga de mago.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪄 UM MOD TRAZ CAJADOS PODEROSOS PRO HYTALE\n\nO Mighty Staffs adiciona cajados mágicos com poder pra quem joga de mago.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-fullmetal-labyrinth",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🏰",
+    "titulo": "[MOD • DUNGEON] UM MOD TRAZ UM LABIRINTO DE METAL PRO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/fullmetal-labyrinth",
+    "fonteData": "50 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (50 mil downloads, entre 3k e 50k). Tema DUNGEON. Post pra AGENDAR. Faixa 3k-50k (50 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/fullmetal-labyrinth/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/fullmetal-labyrinth",
+      "nota": "Faixa 3k-50k (50 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/fullmetal-labyrinth/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🏰 UM MOD TRAZ UM LABIRINTO DE METAL PRO HYTALE\n\nO Fullmetal Labyrinth adiciona um labirinto desafiador pra você se perder e achar recompensa.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏰 UM MOD TRAZ UM LABIRINTO DE METAL PRO HYTALE\n\nO Fullmetal Labyrinth adiciona um labirinto desafiador pra você se perder e achar recompensa.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-morts-merchant",
+    "rodada": "2026-07-31 16:10",
+    "emoji": "🧳",
+    "titulo": "[MOD • MOB] UM MOD ADICIONA UM MERCADOR ANDARILHO NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/morts-wandering-merchant",
+    "fonteData": "50 mil downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "MOD DO CURSEFORGE, faixa boa (50 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (50 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/morts-wandering-merchant/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/morts-wandering-merchant",
+      "nota": "Faixa 3k-50k (50 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/morts-wandering-merchant/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+    },
+    "twitter": "🧳 UM MOD ADICIONA UM MERCADOR ANDARILHO NO HYTALE\n\nO Mort’s Wandering Merchant traz um vendedor que aparece pelo mundo com item pra trocar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🧳 UM MOD ADICIONA UM MERCADOR ANDARILHO NO HYTALE\n\nO Mort’s Wandering Merchant traz um vendedor que aparece pelo mundo com item pra trocar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "x30-cyberslade-stagger",
     "rodada": "2026-07-31 00:20",
     "emoji": "⚔️",
