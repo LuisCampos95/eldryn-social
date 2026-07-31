@@ -6,6 +6,27 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x30-cyberslade-stagger",
+    "rodada": "2026-07-31 00:20",
+    "emoji": "⚔️",
+    "titulo": "[X] Sistema de stagger no combate (CyberSlade)",
+    "fonte": "https://x.com/TheCyberSlade/status/2082976769423142959",
+    "fonteData": "30/07/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CyberSlade (modder de combate, tá no Combat Update com StarkyMods) mostrou stagger hit reactions, inimigo cambaleia ao levar golpe, cada acerto vai reagir diferente. VIDEO baixado em midia/twitter/cyberslade_stagger.mp4. No X, RT/quote. No Meta, postar o video. Credito 🎥 @TheCyberSlade.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/TheCyberSlade/status/2082976769423142959",
+      "tweetId": "2082976769423142959",
+      "tweetAutor": "@TheCyberSlade",
+      "tweetTexto": "Stagger Hit Reactions. Now I need to do some balance, so every hit will stagger differently.",
+      "video": "midia/twitter/cyberslade_stagger.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/cyberslade_stagger.mp4. No X, RT/quote do @TheCyberSlade. No Meta, postar o video. Credito 🎥 @TheCyberSlade."
+    },
+    "twitter": "⚔️ UM MOD TÁ DEIXANDO O COMBATE DO HYTALE COM REAÇÃO DE IMPACTO\n\nO CyberSlade mostrou o sistema de stagger que ele tá fazendo, onde o inimigo cambaleia ao levar o golpe. A ideia é que cada tipo de acerto faça o bicho reagir de um jeito diferente, e ele ainda tá balanceando isso.\n\n🎥 @TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD TÁ DEIXANDO O COMBATE DO HYTALE COM REAÇÃO DE IMPACTO\n\nO CyberSlade mostrou o sistema de stagger que ele tá fazendo, onde o inimigo cambaleia ao levar o golpe. A ideia é que cada tipo de acerto faça o bicho reagir de um jeito diferente, e ele ainda tá balanceando isso.\n\n🎥 @TheCyberSlade\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "site-prerelease-part10",
     "rodada": "2026-07-30 11:54",
     "emoji": "🛠️",
