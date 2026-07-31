@@ -15,9 +15,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (49 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (49 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/zets-mystic-weapons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zetkut05.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/zets-mystic-weapons",
-      "nota": "Faixa 3k-50k (49 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/zets-mystic-weapons/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zetkut05."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/zets-mystic-weapons/zets-mystic-weapons_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Zetkut05.",
+      "video": "midia/mods/zets-mystic-weapons/zets-mystic-weapons_trailer.mp4"
     },
     "twitter": "⚔️ UM MOD TRAZ ARMAS MÁGICAS COM PODER ESPECIAL PRO HYTALE\n\nO Zet’s Mystic Weapons adiciona armas mágicas, cada uma com uma habilidade e mecânica própria pra usar no combate.\n\n🔧 Mod do Zetkut05\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "⚔️ UM MOD TRAZ ARMAS MÁGICAS COM PODER ESPECIAL PRO HYTALE\n\nO Zet’s Mystic Weapons adiciona armas mágicas, cada uma com uma habilidade e mecânica própria pra usar no combate.\n\n🔧 Mod do Zetkut05\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -32,9 +33,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (48 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/elemental-swords/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Iced_Fox_Studios.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/elemental-swords",
-      "nota": "Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/elemental-swords/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Iced_Fox_Studios."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/elemental-swords/elemental-swords_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Iced_Fox_Studios.",
+      "video": "midia/mods/elemental-swords/elemental-swords_trailer.mp4"
     },
     "twitter": "🗡️ UM MOD ADICIONA ESPADAS ELEMENTAIS NO HYTALE\n\nO Elemental Swords traz espadas forjadas da essência de Gelo, Natureza, Luz, Água e Vazio, cada uma com o próprio efeito.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🗡️ UM MOD ADICIONA ESPADAS ELEMENTAIS NO HYTALE\n\nO Elemental Swords traz espadas forjadas da essência de Gelo, Natureza, Luz, Água e Vazio, cada uma com o próprio efeito.\n\n🔧 Mod do Iced_Fox_Studios\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -49,9 +51,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (48 mil downloads, entre 3k e 50k). Tema COMBATE. Post pra AGENDAR. Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/perfect-dodges/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 narwhals.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/perfect-dodges",
-      "nota": "Faixa 3k-50k (48 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/perfect-dodges/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 narwhals."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/perfect-dodges/perfect-dodges_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 narwhals.",
+      "video": "midia/mods/perfect-dodges/perfect-dodges_trailer.mp4"
     },
     "twitter": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -83,9 +86,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/battle-gauntlets/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/battle-gauntlets",
-      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/battle-gauntlets/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/battle-gauntlets/battle-gauntlets_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/battle-gauntlets/battle-gauntlets_trailer.mp4"
     },
     "twitter": "🥊 UM MOD DEIXA VOCÊ LUTAR DE MANOPLA NO HYTALE\n\nO Battle Gauntlets adiciona manoplas de combate pra quem quer partir pra briga no soco.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🥊 UM MOD DEIXA VOCÊ LUTAR DE MANOPLA NO HYTALE\n\nO Battle Gauntlets adiciona manoplas de combate pra quem quer partir pra briga no soco.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -185,9 +189,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (43 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (43 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/drays-better-spellbooks/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DrayDeveloper.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/drays-better-spellbooks",
-      "nota": "Faixa 3k-50k (43 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/drays-better-spellbooks/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DrayDeveloper."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/drays-better-spellbooks/drays-better-spellbooks_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 DrayDeveloper.",
+      "video": "midia/mods/drays-better-spellbooks/drays-better-spellbooks_trailer.mp4"
     },
     "twitter": "📖 UM MOD TRAZ GRIMÓRIOS DE MAGIA NOVOS PRO HYTALE\n\nO Dray’s Better Spellbooks expande a progressão de magia com grimórios novos pra você aprender feitiço.\n\n🔧 Mod do DrayDeveloper\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "📖 UM MOD TRAZ GRIMÓRIOS DE MAGIA NOVOS PRO HYTALE\n\nO Dray’s Better Spellbooks expande a progressão de magia com grimórios novos pra você aprender feitiço.\n\n🔧 Mod do DrayDeveloper\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -202,9 +207,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (32 mil downloads, entre 3k e 50k). Tema MAGIA. Post pra AGENDAR. Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook",
-      "nota": "Faixa 3k-50k (32 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/brotherhood-of-the-wolf-spellbook/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/brotherhood-of-the-wolf-spellbook/brotherhood-of-the-wolf-spellbook_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/brotherhood-of-the-wolf-spellbook/brotherhood-of-the-wolf-spellbook_trailer.mp4"
     },
     "twitter": "🐺 UM MOD TRAZ UM GRIMÓRIO DA IRMANDADE DO LOBO NO HYTALE\n\nO Brotherhood of the Wolf Spellbook adiciona um grimório temático com magia própria.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🐺 UM MOD TRAZ UM GRIMÓRIO DA IRMANDADE DO LOBO NO HYTALE\n\nO Brotherhood of the Wolf Spellbook adiciona um grimório temático com magia própria.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -236,9 +242,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (44 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (44 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/endless-elite-mobs/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zbeve.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/endless-elite-mobs",
-      "nota": "Faixa 3k-50k (44 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/endless-elite-mobs/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 Zbeve."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/endless-elite-mobs/endless-elite-mobs_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Zbeve.",
+      "video": "midia/mods/endless-elite-mobs/endless-elite-mobs_trailer.mp4"
     },
     "twitter": "👹 UM MOD ENCHE O HYTALE DE MOBS ELITE DE RPG\n\nO Endless Elite Mobs adiciona mobs elite com 13 habilidades diferentes, interações e efeitos visuais caprichados.\n\n🔧 Mod do Zbeve\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "👹 UM MOD ENCHE O HYTALE DE MOBS ELITE DE RPG\n\nO Endless Elite Mobs adiciona mobs elite com 13 habilidades diferentes, interações e efeitos visuais caprichados.\n\n🔧 Mod do Zbeve\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -270,9 +277,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mountabledinos/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/mountabledinos",
-      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mountabledinos/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/mountabledinos/mountabledinos_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/mountabledinos/mountabledinos_trailer.mp4"
     },
     "twitter": "🦖 UM MOD DEIXA VOCÊ MONTAR EM DINOSSAUROS NO HYTALE\n\nO Mountable Dinos coloca dinossauros que dá pra cavalgar e sair explorando montado.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🦖 UM MOD DEIXA VOCÊ MONTAR EM DINOSSAUROS NO HYTALE\n\nO Mountable Dinos coloca dinossauros que dá pra cavalgar e sair explorando montado.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -287,9 +295,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (38 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mermaids/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/mermaids",
-      "nota": "Faixa 3k-50k (38 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/mermaids/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/mermaids/mermaids_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/mermaids/mermaids_trailer.mp4"
     },
     "twitter": "🧜 UM MOD ADICIONA SEREIAS NO HYTALE\n\nO Mermaids traz sereias pro mundo do Hytale, pra quem quer criatura nova no mar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🧜 UM MOD ADICIONA SEREIAS NO HYTALE\n\nO Mermaids traz sereias pro mundo do Hytale, pra quem quer criatura nova no mar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -321,9 +330,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (36 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (36 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/aures-rare-monsters/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 BlackAuresArt.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/aures-rare-monsters",
-      "nota": "Faixa 3k-50k (36 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/aures-rare-monsters/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 BlackAuresArt."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/aures-rare-monsters/aures-rare-monsters_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 BlackAuresArt.",
+      "video": "midia/mods/aures-rare-monsters/aures-rare-monsters_trailer.mp4"
     },
     "twitter": "👾 UM MOD ESPALHA MONSTROS RAROS PELO HYTALE\n\nO Aures Rare Monsters adiciona monstros raros novos pra você achar de vez em quando explorando.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "👾 UM MOD ESPALHA MONSTROS RAROS PELO HYTALE\n\nO Aures Rare Monsters adiciona monstros raros novos pra você achar de vez em quando explorando.\n\n🔧 Mod do BlackAuresArt\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -338,9 +348,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (34 mil downloads, entre 3k e 50k). Tema MOB. Post pra AGENDAR. Faixa 3k-50k (34 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/better-mob-expansion/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/better-mob-expansion",
-      "nota": "Faixa 3k-50k (34 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/better-mob-expansion/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/better-mob-expansion/better-mob-expansion_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/better-mob-expansion/better-mob-expansion_trailer.mp4"
     },
     "twitter": "🐗 UM MOD ENCHE O MUNDO DO HYTALE DE MOB NOVO\n\nO Better Mob Expansion adiciona várias criaturas novas pra deixar o mundo mais vivo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🐗 UM MOD ENCHE O MUNDO DO HYTALE DE MOB NOVO\n\nO Better Mob Expansion adiciona várias criaturas novas pra deixar o mundo mais vivo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -474,9 +485,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (30 mil downloads, entre 3k e 50k). Tema MOVIMENTO. Post pra AGENDAR. Faixa 3k-50k (30 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/not-enough-gliders/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/not-enough-gliders",
-      "nota": "Faixa 3k-50k (30 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/not-enough-gliders/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/not-enough-gliders/not-enough-gliders_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/not-enough-gliders/not-enough-gliders_trailer.mp4"
     },
     "twitter": "🪁 UM MOD ENCHE O HYTALE DE PLANADOR\n\nO Not Enough Gliders traz vários tipos de planador pra você escolher como voar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🪁 UM MOD ENCHE O HYTALE DE PLANADOR\n\nO Not Enough Gliders traz vários tipos de planador pra você escolher como voar.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -491,9 +503,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (33 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (33 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/restored-ruins/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/restored-ruins",
-      "nota": "Faixa 3k-50k (33 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/restored-ruins/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/restored-ruins/restored-ruins_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/restored-ruins/restored-ruins_trailer.mp4"
     },
     "twitter": "🏛️ UM MOD ESPALHA RUÍNAS PRA EXPLORAR PELO HYTALE\n\nO Restored Ruins gera ruínas pelo mundo pra você achar e explorar enquanto anda por aí.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🏛️ UM MOD ESPALHA RUÍNAS PRA EXPLORAR PELO HYTALE\n\nO Restored Ruins gera ruínas pelo mundo pra você achar e explorar enquanto anda por aí.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -542,9 +555,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (25 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (25 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/lord-of-the-rings-project/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/lord-of-the-rings-project",
-      "nota": "Faixa 3k-50k (25 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/lord-of-the-rings-project/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/lord-of-the-rings-project/lord-of-the-rings-project_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/lord-of-the-rings-project/lord-of-the-rings-project_trailer.mp4"
     },
     "twitter": "🧝 UM MOD TRAZ UM PROJETO DE SENHOR DOS ANÉIS PRO HYTALE\n\nO Lord of the Rings Project traz conteúdo temático da Terra-média pra quem é fã da saga.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🧝 UM MOD TRAZ UM PROJETO DE SENHOR DOS ANÉIS PRO HYTALE\n\nO Lord of the Rings Project traz conteúdo temático da Terra-média pra quem é fã da saga.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -559,9 +573,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema MUNDO. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule",
-      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/tritale-echoes-of-hyrule/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/tritale-echoes-of-hyrule/tritale-echoes-of-hyrule_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/tritale-echoes-of-hyrule/tritale-echoes-of-hyrule_trailer.mp4"
     },
     "twitter": "🗡️ UM MOD TRAZ TEMA DE ZELDA PRO HYTALE\n\nO Tritale Echoes of Hyrule adiciona conteúdo com cara de Zelda, referência a Hyrule pra quem curte a série.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🗡️ UM MOD TRAZ TEMA DE ZELDA PRO HYTALE\n\nO Tritale Echoes of Hyrule adiciona conteúdo com cara de Zelda, referência a Hyrule pra quem curte a série.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -627,9 +642,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (17 mil downloads, entre 3k e 50k). Tema TECH. Post pra AGENDAR. Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/hyprotech/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/hyprotech",
-      "nota": "Faixa 3k-50k (17 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/hyprotech/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/hyprotech/hyprotech_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/hyprotech/hyprotech_trailer.mp4"
     },
     "twitter": "🔧 UM MOD TRAZ TECNOLOGIA E MÁQUINAS PRO HYTALE\n\nO HyProtech adiciona máquina e tecnologia pra automatizar tarefa dentro do jogo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🔧 UM MOD TRAZ TECNOLOGIA E MÁQUINAS PRO HYTALE\n\nO HyProtech adiciona máquina e tecnologia pra automatizar tarefa dentro do jogo.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -678,9 +694,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (19 mil downloads, entre 3k e 50k). Tema ARMA. Post pra AGENDAR. Faixa 3k-50k (19 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/exarkys-extra-gear/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/exarkys-extra-gear",
-      "nota": "Faixa 3k-50k (19 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/exarkys-extra-gear/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 o autor no CurseForge."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/exarkys-extra-gear/exarkys-extra-gear_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 o autor no CurseForge.",
+      "video": "midia/mods/exarkys-extra-gear/exarkys-extra-gear_trailer.mp4"
     },
     "twitter": "🎽 UM MOD TRAZ EQUIPAMENTO EXTRA PRO HYTALE\n\nO Exarky’s Extra Gear adiciona equipamento novo pra você evoluir o personagem.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🎽 UM MOD TRAZ EQUIPAMENTO EXTRA PRO HYTALE\n\nO Exarky’s Extra Gear adiciona equipamento novo pra você evoluir o personagem.\n\n🔧 Mod do CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -695,9 +712,10 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE, faixa boa (45 mil downloads, entre 3k e 50k). Tema DECORACAO. Post pra AGENDAR. Faixa 3k-50k (45 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/pixel-paintings/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DarkhaxDev.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/pixel-paintings",
-      "nota": "Faixa 3k-50k (45 mil downloads). PEGAR MIDIA da galeria (https://www.curseforge.com/hytale/mods/pixel-paintings/gallery) e, se tiver, o TRAILER do YouTube (melhor pra postar). Credito 🔧 DarkhaxDev."
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/pixel-paintings/pixel-paintings_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 DarkhaxDev.",
+      "video": "midia/mods/pixel-paintings/pixel-paintings_trailer.mp4"
     },
     "twitter": "🖼️ UM MOD ENCHE O HYTALE DE QUADROS PRA DECORAR\n\nO Pixel Paintings traz um monte de quadro feito por artistas de verdade pra você pendurar e decorar a base.\n\n🔧 Mod do DarkhaxDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
     "meta": "🖼️ UM MOD ENCHE O HYTALE DE QUADROS PRA DECORAR\n\nO Pixel Paintings traz um monte de quadro feito por artistas de verdade pra você pendurar e decorar a base.\n\n🔧 Mod do DarkhaxDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
@@ -1073,9 +1091,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema TERROR, 6,4 mil downloads, abaixo de 50k). Autor StonefallStudio. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/below-every-heaven/gallery) pra postar no Insta e Face. Credito 🔧 StonefallStudio.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/below-every-heaven",
-      "nota": "MIDIA JA BAIXADA em midia/mods/below-every-heaven/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 StonefallStudio. VIDEO (trailer oficial do autor) baixado em midia/mods/below-every-heaven/below-every-heaven_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/below-every-heaven/below-every-heaven_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 StonefallStudio.",
       "video": "midia/mods/below-every-heaven/below-every-heaven_trailer.mp4"
     },
     "twitter": "🕳️ UM MOD DE TERROR FAZ VOCÊ DESCER PRO DESCONHECIDO NO HYTALE\n\nO Below Every Heaven é um mod de terror onde você desce cada vez mais fundo num lugar sombrio. Clima pesado do começo ao fim.\n\n🔧 Mod do StonefallStudio\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1091,9 +1109,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema TERROR, 3 mil downloads, abaixo de 50k). Autor hayato_kun_ofc. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/x-17-the-nightmare/gallery) pra postar no Insta e Face. Credito 🔧 hayato_kun_ofc.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/x-17-the-nightmare",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/x-17-the-nightmare/gallery) pra postar no Insta e Face. Credito 🔧 hayato_kun_ofc. VIDEO (trailer oficial do autor) baixado em midia/mods/x-17-the-nightmare/x-17-the-nightmare_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/x-17-the-nightmare/x-17-the-nightmare_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 hayato_kun_ofc.",
       "video": "midia/mods/x-17-the-nightmare/x-17-the-nightmare_trailer.mp4"
     },
     "twitter": "🌑 UM MOD DE TERROR BOTA UMA CRIATURA QUE TE PERSEGUE SEM PARAR NO HYTALE\n\nO X-17 The Nightmare parte de uma ideia simples, você nunca está sozinho. Uma criatura implacável fica no seu encalço o tempo todo.\n\n🔧 Mod do hayato_kun_ofc\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1126,9 +1144,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema BOSS, 737 downloads, abaixo de 50k). Autor SAMPL3R. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/storm-serpent-atoll/gallery) pra postar no Insta e Face. Credito 🔧 SAMPL3R.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/storm-serpent-atoll",
-      "nota": "MIDIA JA BAIXADA em midia/mods/storm-serpent-atoll/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 SAMPL3R. VIDEO (trailer oficial do autor) baixado em midia/mods/storm-serpent-atoll/storm-serpent-atoll_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/storm-serpent-atoll/storm-serpent-atoll_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 SAMPL3R.",
       "video": "midia/mods/storm-serpent-atoll/storm-serpent-atoll_trailer.mp4"
     },
     "twitter": "⚡ UM MOD ADICIONA UM CHEFE SERPENTE ELÉTRICA GIGANTE NO HYTALE\n\nNo Storm Serpent’s Atoll você encara uma serpente elétrica colossal numa luta de chefe num atol no meio do mar.\n\n🔧 Mod do SAMPL3R\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1144,9 +1162,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema BOSS, 6,9 mil downloads, abaixo de 50k). Autor Bananaph0ne. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/soulslike-bosses/gallery) pra postar no Insta e Face. Credito 🔧 Bananaph0ne.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/soulslike-bosses",
-      "nota": "MIDIA JA BAIXADA em midia/mods/soulslike-bosses/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Bananaph0ne. VIDEO (trailer oficial do autor) baixado em midia/mods/soulslike-bosses/soulslike-bosses_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/soulslike-bosses/soulslike-bosses_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Bananaph0ne.",
       "video": "midia/mods/soulslike-bosses/soulslike-bosses_trailer.mp4"
     },
     "twitter": "⚔️ UM MOD TRAZ CHEFES ESTILO SOULS PRO HYTALE\n\nO Souls Like Bosses adiciona lutas de chefe difíceis, cada uma com recompensa própria pra quem consegue vencer.\n\n🔧 Mod do Bananaph0ne\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1162,9 +1180,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema BOSS, 6 mil downloads, abaixo de 50k). Autor Adathan. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/void-asylum/gallery) pra postar no Insta e Face. Credito 🔧 Adathan.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/void-asylum",
-      "nota": "MIDIA JA BAIXADA em midia/mods/void-asylum/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Adathan. VIDEO (trailer oficial do autor) baixado em midia/mods/void-asylum/void-asylum_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/void-asylum/void-asylum_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Adathan.",
       "video": "midia/mods/void-asylum/void-asylum_trailer.mp4"
     },
     "twitter": "🏚️ UM MOD ADICIONA UMA MASMORRA DE CHEFES EM SEQUÊNCIA NO HYTALE\n\nO Void Asylum é uma masmorra de raide difícil, com vários chefes em sequência pra encarar em grupo.\n\n🔧 Mod do Adathan\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1180,9 +1198,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema BOSS, 3 mil downloads, abaixo de 50k). Autor HytaleZX. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/ultimate-boss-fights/gallery) pra postar no Insta e Face. Credito 🔧 HytaleZX.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/ultimate-boss-fights",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/ultimate-boss-fights/gallery) pra postar no Insta e Face. Credito 🔧 HytaleZX. VIDEO (trailer oficial do autor) baixado em midia/mods/ultimate-boss-fights/ultimate-boss-fights_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/ultimate-boss-fights/ultimate-boss-fights_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 HytaleZX.",
       "video": "midia/mods/ultimate-boss-fights/ultimate-boss-fights_trailer.mp4"
     },
     "twitter": "👹 UM MOD ENCHE O HYTALE DE CHEFES NOVOS\n\nO Ultimate Boss Fights adiciona vários NPCs de chefe novos pra enfrentar pelo jogo.\n\n🔧 Mod do HytaleZX\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1198,9 +1216,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema BOSS, 1,3 mil downloads, abaixo de 50k). Autor Light06. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/the-forerunner-boss/gallery) pra postar no Insta e Face. Credito 🔧 Light06.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/the-forerunner-boss",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/the-forerunner-boss/gallery) pra postar no Insta e Face. Credito 🔧 Light06. VIDEO (trailer oficial do autor) baixado em midia/mods/the-forerunner-boss/the-forerunner-boss_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/the-forerunner-boss/the-forerunner-boss_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Light06.",
       "video": "midia/mods/the-forerunner-boss/the-forerunner-boss_trailer.mp4"
     },
     "twitter": "🥈 UM MOD DE CHEFE GANHOU O 2º LUGAR DO MODJAM DO HYTALE\n\nO The Forerunner é uma luta de chefe que ficou em segundo lugar no ModJam do Hytale, com mecânica caprichada.\n\n🔧 Mod do Light06\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1267,9 +1285,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema MUNDO, 612 downloads, abaixo de 50k). Autor Harizon. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/unknown-worlds/gallery) pra postar no Insta e Face. Credito 🔧 Harizon.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/unknown-worlds",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/unknown-worlds/gallery) pra postar no Insta e Face. Credito 🔧 Harizon. VIDEO (trailer oficial do autor) baixado em midia/mods/unknown-worlds/unknown-worlds_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/unknown-worlds/unknown-worlds_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Harizon.",
       "video": "midia/mods/unknown-worlds/unknown-worlds_trailer.mp4"
     },
     "twitter": "🌌 UM MOD LEVA VOCÊ PRA ALÉM DO HORIZONTE NO HYTALE\n\nO Unknown Worlds convida você a passar do horizonte e descobrir o desconhecido, com geração de mundo nova.\n\n🔧 Mod do Harizon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1336,9 +1354,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema MAGIA, 9,6 mil downloads, abaixo de 50k). Autor zenkuro. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/zens-arcanum/gallery) pra postar no Insta e Face. Credito 🔧 zenkuro.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/zens-arcanum",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/zens-arcanum/gallery) pra postar no Insta e Face. Credito 🔧 zenkuro. VIDEO (trailer oficial do autor) baixado em midia/mods/zens-arcanum/zens-arcanum_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/zens-arcanum/zens-arcanum_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 zenkuro.",
       "video": "midia/mods/zens-arcanum/zens-arcanum_trailer.mp4"
     },
     "twitter": "🔮 UM MOD DEIXA VOCÊ CRIAR SUA PRÓPRIA MAGIA NO HYTALE\n\nO Zen’s Arcanum vai além de bola de fogo e deixa você montar a sua própria magia do jeito que quiser.\n\n🔧 Mod do zenkuro\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1371,9 +1389,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema MAGIA, 11 mil downloads, abaixo de 50k). Autor b3b0p. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/magic-and-machines/gallery) pra postar no Insta e Face. Credito 🔧 b3b0p.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/magic-and-machines",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/magic-and-machines/gallery) pra postar no Insta e Face. Credito 🔧 b3b0p. VIDEO (trailer oficial do autor) baixado em midia/mods/magic-and-machines/magic-and-machines_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/magic-and-machines/magic-and-machines_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 b3b0p.",
       "video": "midia/mods/magic-and-machines/magic-and-machines_trailer.mp4"
     },
     "twitter": "⚙️ UM MOD JUNTA MAGIA E MÁQUINAS NO HYTALE\n\nO Magic and Machines adiciona magia, máquinas, peças que giram e engenhocas pra você automatizar e construir.\n\n🔧 Mod do b3b0p\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1389,9 +1407,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema MAGIA, 6,6 mil downloads, abaixo de 50k). Autor ItsRiprod. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hexcode/gallery) pra postar no Insta e Face. Credito 🔧 ItsRiprod.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/hexcode",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/hexcode/gallery) pra postar no Insta e Face. Credito 🔧 ItsRiprod. VIDEO (trailer oficial do autor) baixado em midia/mods/hexcode/hexcode_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/hexcode/hexcode_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 ItsRiprod.",
       "video": "midia/mods/hexcode/hexcode_trailer.mp4"
     },
     "twitter": "🧪 UM MOD TRATA MAGIA COMO CIÊNCIA NO HYTALE\n\nO Hexcode parte da ideia de que magia é ciência não explicada, e deixa você montar feitiço juntando as peças certas.\n\n🔧 Mod do ItsRiprod\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1458,9 +1476,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "MOD DO CURSEFORGE (tema DUNGEON, 1,4 mil downloads, abaixo de 50k). Autor MarsiMods. Post pra AGENDAR. Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/marsi-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 MarsiMods.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/marsi-dungeon",
-      "nota": "Pegar a arte/print da galeria do mod (https://www.curseforge.com/hytale/mods/marsi-dungeon/gallery) pra postar no Insta e Face. Credito 🔧 MarsiMods. VIDEO (trailer oficial do autor) baixado em midia/mods/marsi-dungeon/marsi-dungeon_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/marsi-dungeon/marsi-dungeon_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 MarsiMods.",
       "video": "midia/mods/marsi-dungeon/marsi-dungeon_trailer.mp4"
     },
     "twitter": "🎲 UM MOD TRAZ MASMORRAS SEMPRE DIFERENTES PRO HYTALE\n\nO Marsi Dungeon monta masmorras variadas a partir de peças aleatórias, então nunca vem uma igual à outra.\n\n🔧 Mod do MarsiMods\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1579,9 +1597,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "JOIA ESCONDIDA do CurseForge (SO 26 downloads, ninguem conhece ainda, e bom). Autor Mertie. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/wayside-shrines/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mertie.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/wayside-shrines",
-      "nota": "MIDIA JA BAIXADA em midia/mods/wayside-shrines/ (3 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Mertie. VIDEO (trailer oficial do autor) baixado em midia/mods/wayside-shrines/wayside-shrines_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/wayside-shrines/wayside-shrines_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 Mertie.",
       "video": "midia/mods/wayside-shrines/wayside-shrines_trailer.mp4"
     },
     "twitter": "⛩️ UM MOD ESPALHA SANTUÁRIOS DE BÊNÇÃO PELO HYTALE\n\nO Wayside Shrines coloca santuários raros e enigmáticos pelo mundo, e quem decifra eles ganha uma bênção. Recompensa boa pra quem gosta de explorar.\n\n🔧 Mod do Mertie\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
@@ -1767,9 +1785,9 @@ window.ELDRYN_POSTS = [
     "confiabilidade": "comunidade",
     "resumo": "JOIA ESCONDIDA do CurseForge (SO 137 downloads, ninguem conhece ainda, e bom). Autor NoSensey. Post pra AGENDAR na semana. MIDIA JA BAIXADA em midia/mods/averion-mounts/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 NoSensey.",
     "midia": {
-      "tipo": "imagem",
+      "tipo": "video",
       "url": "https://www.curseforge.com/hytale/mods/averion-mounts",
-      "nota": "MIDIA JA BAIXADA em midia/mods/averion-mounts/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 NoSensey. VIDEO (trailer oficial do autor) baixado em midia/mods/averion-mounts/averion-mounts_trailer.mp4 -- usar o video no post, fica melhor que imagem.",
+      "nota": "TEM VIDEO (trailer oficial) baixado em midia/mods/averion-mounts/averion-mounts_trailer.mp4 -- POSTAR O VIDEO, e o Luis prefere assim. 🔧 NoSensey.",
       "video": "midia/mods/averion-mounts/averion-mounts_trailer.mp4"
     },
     "twitter": "🐉 UM MOD TRAZ MONTARIA E PET COMPLETO PRO HYTALE\n\nO Averion Mounts adiciona montaria pra cavalgar, incluindo dragão, lobo e gato, mais um sistema de pet companheiro e uma roda rápida pra trocar na hora.\n\n🔧 Mod do NoSensey\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
