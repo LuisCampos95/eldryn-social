@@ -6,6 +6,108 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "mod-glymeraunder",
+    "rodada": "2026-07-31 15:21",
+    "emoji": "🌌",
+    "titulo": "[MOD • MUNDO] UM MOD ADICIONA UMA DIMENSÃO NOVA DE ILHAS FLUTU",
+    "fonte": "https://www.curseforge.com/hytale/mods/glymeraunder",
+    "fonteData": "32 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (SO 32 downloads, fresco, ninguem conhece). Autor GlymeraCraft. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/glymeraunder/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 GlymeraCraft.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/glymeraunder",
+      "nota": "MIDIA JA BAIXADA em midia/mods/glymeraunder/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 GlymeraCraft."
+    },
+    "twitter": "🌌 UM MOD ADICIONA UMA DIMENSÃO NOVA DE ILHAS FLUTUANTES NO HYTALE\n\nO GlymeraUnder deixa você construir um portal pra The Under, uma dimensão de ilhas flutuantes pra explorar. Pra quem sente falta de um lugar tipo o End.\n\n🔧 Mod do GlymeraCraft\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌌 UM MOD ADICIONA UMA DIMENSÃO NOVA DE ILHAS FLUTUANTES NO HYTALE\n\nO GlymeraUnder deixa você construir um portal pra The Under, uma dimensão de ilhas flutuantes pra explorar. Pra quem sente falta de um lugar tipo o End.\n\n🔧 Mod do GlymeraCraft\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-pathforge",
+    "rodada": "2026-07-31 15:21",
+    "emoji": "🌟",
+    "titulo": "[MOD • RPG] UM MOD TRAZ PROGRESSÃO DE RPG COM ÁRVORE DE HABI",
+    "fonte": "https://www.curseforge.com/hytale/mods/pathforge",
+    "fonteData": "9 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (SO 9 downloads, fresco, ninguem conhece). Autor baileys_88. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/pathforge/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 baileys_88.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/pathforge",
+      "nota": "MIDIA JA BAIXADA em midia/mods/pathforge/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 baileys_88."
+    },
+    "twitter": "🌟 UM MOD TRAZ PROGRESSÃO DE RPG COM ÁRVORE DE HABILIDADE PRO HYTALE\n\nO PathForge adiciona um sistema de evolução no estilo dos ARPGs, com nível, habilidade e árvore de progressão pra você montar o seu personagem do jeito que quiser.\n\n🔧 Mod do baileys_88\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🌟 UM MOD TRAZ PROGRESSÃO DE RPG COM ÁRVORE DE HABILIDADE PRO HYTALE\n\nO PathForge adiciona um sistema de evolução no estilo dos ARPGs, com nível, habilidade e árvore de progressão pra você montar o seu personagem do jeito que quiser.\n\n🔧 Mod do baileys_88\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-more-arrows-zeto",
+    "rodada": "2026-07-31 15:21",
+    "emoji": "🏹",
+    "titulo": "[MOD • ARMA] UM MOD ENCHE O HYTALE DE FLECHA NOVA",
+    "fonte": "https://www.curseforge.com/hytale/mods/more-arrows-by-zeto",
+    "fonteData": "36 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (SO 36 downloads, fresco, ninguem conhece). Autor Zeto_Glitch. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/more-arrows-by-zeto/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Zeto_Glitch.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/more-arrows-by-zeto",
+      "nota": "MIDIA JA BAIXADA em midia/mods/more-arrows-by-zeto/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Zeto_Glitch."
+    },
+    "twitter": "🏹 UM MOD ENCHE O HYTALE DE FLECHA NOVA\n\nO More Arrows by Zeto expande a arquearia com vários tipos de flecha novos, pra quem gosta de jogar de arco ter mais opção na hora do combate.\n\n🔧 Mod do Zeto_Glitch\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🏹 UM MOD ENCHE O HYTALE DE FLECHA NOVA\n\nO More Arrows by Zeto expande a arquearia com vários tipos de flecha novos, pra quem gosta de jogar de arco ter mais opção na hora do combate.\n\n🔧 Mod do Zeto_Glitch\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-wayfarers-kit",
+    "rodada": "2026-07-31 15:21",
+    "emoji": "🎒",
+    "titulo": "[MOD • SOBREVIVENCIA] UM MOD TRAZ KIT DE SOBREVIVÊNCIA PRO COMEÇO DO H",
+    "fonte": "https://www.curseforge.com/hytale/mods/wayfarers-kit",
+    "fonteData": "41 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (SO 41 downloads, fresco, ninguem conhece). Autor aPowerhouse84. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/wayfarers-kit/ (4 arquivos). Escolher e postar no Insta e Face. Credito 🔧 aPowerhouse84.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/wayfarers-kit",
+      "nota": "MIDIA JA BAIXADA em midia/mods/wayfarers-kit/ (4 arquivos). Escolher e postar no Insta e Face. Credito 🔧 aPowerhouse84."
+    },
+    "twitter": "🎒 UM MOD TRAZ KIT DE SOBREVIVÊNCIA PRO COMEÇO DO HYTALE\n\nO Wayfarer’s Kit dá equipamento rústico de início de jogo pro andarilho, tipo funda de pedra, bastão bo e um cogumelo que serve de lanterna.\n\n🔧 Mod do aPowerhouse84\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎒 UM MOD TRAZ KIT DE SOBREVIVÊNCIA PRO COMEÇO DO HYTALE\n\nO Wayfarer’s Kit dá equipamento rústico de início de jogo pro andarilho, tipo funda de pedra, bastão bo e um cogumelo que serve de lanterna.\n\n🔧 Mod do aPowerhouse84\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-cozy-orechard",
+    "rodada": "2026-07-31 15:21",
+    "emoji": "🍎",
+    "titulo": "[MOD • COZY] UM MOD DEIXA O HYTALE MAIS COZY E RELAXANTE",
+    "fonte": "https://www.curseforge.com/hytale/mods/my-lil-cozy-orechard",
+    "fonteData": "7 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (SO 7 downloads, fresco, ninguem conhece). Autor Kryyss. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/my-lil-cozy-orechard/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Kryyss.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/my-lil-cozy-orechard",
+      "nota": "MIDIA JA BAIXADA em midia/mods/my-lil-cozy-orechard/ (2 arquivos). Escolher e postar no Insta e Face. Credito 🔧 Kryyss."
+    },
+    "twitter": "🍎 UM MOD DEIXA O HYTALE MAIS COZY E RELAXANTE\n\nO My Lil Cozy Orechard transforma a progressão do jogo numa experiência mais tranquila e casual, pra quem curte jogar de boa sem pressa.\n\n🔧 Mod do Kryyss\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🍎 UM MOD DEIXA O HYTALE MAIS COZY E RELAXANTE\n\nO My Lil Cozy Orechard transforma a progressão do jogo numa experiência mais tranquila e casual, pra quem curte jogar de boa sem pressa.\n\n🔧 Mod do Kryyss\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "mod-gamq-signs",
+    "rodada": "2026-07-31 15:21",
+    "emoji": "🪧",
+    "titulo": "[MOD • QOL] UM MOD ADICIONA PLACAS EDITÁVEIS NO HYTALE",
+    "fonte": "https://www.curseforge.com/hytale/mods/gamq-signs",
+    "fonteData": "5 downloads",
+    "confiabilidade": "comunidade",
+    "resumo": "JOIA do CurseForge (SO 5 downloads, fresco, ninguem conhece). Autor KouztoGAMQ. Post pra AGENDAR. MIDIA JA BAIXADA em midia/mods/gamq-signs/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 KouztoGAMQ.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://www.curseforge.com/hytale/mods/gamq-signs",
+      "nota": "MIDIA JA BAIXADA em midia/mods/gamq-signs/ (5 arquivos). Escolher e postar no Insta e Face. Credito 🔧 KouztoGAMQ."
+    },
+    "twitter": "🪧 UM MOD ADICIONA PLACAS EDITÁVEIS NO HYTALE\n\nO GAMQ Signs traz placa craftável que você escreve e fica salva no mundo, boa pra sinalizar base, loja e caminho.\n\n🔧 Mod do KouztoGAMQ\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪧 UM MOD ADICIONA PLACAS EDITÁVEIS NO HYTALE\n\nO GAMQ Signs traz placa craftável que você escreve e fica salva no mundo, boa pra sinalizar base, loja e caminho.\n\n🔧 Mod do KouztoGAMQ\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "mod-jimothy",
     "rodada": "2026-07-31 10:44",
     "emoji": "🦝",
