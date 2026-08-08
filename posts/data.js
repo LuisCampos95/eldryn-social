@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "cf-mods-semana-2026-08-05",
+    "rodada": "2026-08-08 09:40",
+    "emoji": "🔧",
+    "titulo": "[CURSEFORGE] Mods da semana em video (Lost Garden, Moto, Smithing Stones)",
+    "fonte": "https://x.com/CurseForge/status/2084988461057032398",
+    "fonteData": "05/08/2026",
+    "confiabilidade": "oficial",
+    "resumo": "CONTA @CurseForge, video semanal dos mods do Hytale (5/08). The Lost Garden (sigyn_laufeyson, reino de flores/cha/zumbi), Vergel’s Motorcycle (Vergelsxtn, moto craftavel), Smithing Stones (Vonox_YT, refino de arma com risco). VIDEO baixado em midia/curseforge-semana/curseforge_2026-08-05_semana.mp4. Postar o video. No X, quote/RT do @CurseForge. Credito 🎥 CurseForge.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/CurseForge/status/2084988461057032398",
+      "video": "midia/curseforge-semana/curseforge_2026-08-05_semana.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/curseforge-semana/curseforge_2026-08-05_semana.mp4. Postar o video no Insta e Face. No X, quote/RT do @CurseForge. Credito 🎥 CurseForge."
+    },
+    "twitter": "🔧 MODS DA SEMANA DO HYTALE\n\nToda semana o CurseForge solta um vídeo com alguns mods do Hytale pra você experimentar.\n\n🔹The Lost Garden, um reino cheio de flor pra colher, com chá pra preparar e zumbi pra encarar.\n🔹Vergel’s Motorcycle, uma moto totalmente craftável com peça e receita própria.\n🔹Smithing Stones, um sistema de refino que melhora a sua arma, com chance de sucesso que fica mais arriscada a cada nível.\n\n🎥 CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔧 MODS DA SEMANA DO HYTALE\n\nToda semana o CurseForge solta um vídeo com alguns mods do Hytale pra você experimentar.\n\n🔹The Lost Garden, um reino cheio de flor pra colher, com chá pra preparar e zumbi pra encarar.\n🔹Vergel’s Motorcycle, uma moto totalmente craftável com peça e receita própria.\n🔹Smithing Stones, um sistema de refino que melhora a sua arma, com chance de sucesso que fica mais arriscada a cada nível.\n\n🎥 CurseForge\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "site-resumao-volta-ferias",
     "rodada": "2026-08-08 09:35",
     "emoji": "🌍",
