@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x-mobile-console-oficial",
+    "rodada": "2026-08-08 11:01",
+    "emoji": "📱",
+    "titulo": "[OFICIAL] Simon responde sobre mobile e console (pergunta recorrente)",
+    "fonte": "https://x.com/Simon_Hypixel/status/1992067172785684924",
+    "fonteData": "22/11/2025 (mobile) + 14/05/2026 (console)",
+    "confiabilidade": "oficial",
+    "resumo": "POST DE REFERENCIA pra parar de responder a mesma pergunta toda hora. MOBILE, Simon respondeu direto \"Mobile version? Not gonna happen for a while unfortunately\" (22/11/2025, 21 mil views, 413 curtidas, https://x.com/Simon_Hypixel/status/1992067172785684924). CONSOLE, resposta mais longa (14/05/2026, https://x.com/Simon_Hypixel/status/2054942504324157499), \"Unfortunately, consoles are currently low-priority as we need to make the game engine solid, make the game actually good, and do a huge UI rework before any of that happens. Just adding controllers has already been a huge amount of work... Console work is actually a massive undertaking for us, not as simple as other games.\" E outra resposta correlata (https://x.com/Simon_Hypixel/status/2055007047557451796) falando que console importa a longo prazo mas atrasaria o desenvolvimento agora. RESUMO, sem previsao de mobile, console e prioridade baixa por enquanto, foco total em PC. Post fixavel/linkavel pra responder duvida recorrente.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "",
+      "semRT": true,
+      "nota": "Post de texto com a resposta oficial. No X, pode ser print traduzido das respostas do Simon junto. Sem RT de um tweet só, é um resumo combinando 2-3 respostas dele."
+    },
+    "twitter": "📱🎮 HYTALE VAI SAIR PRA CELULAR E CONSOLE? A RESPOSTA OFICIAL DO SIMON\n\nEssa é a pergunta que mais chega aqui todo santo dia, então vale deixar registrado com fonte oficial pra acabar com a dúvida de uma vez.\n\n🔸 Celular. Perguntaram direto pro Simon se vem versão mobile, e ele respondeu, \"não vai acontecer tão cedo, infelizmente\". Ou seja, não tá nos planos por enquanto.\n🔸 Console. Ele explicou que console hoje é baixa prioridade, porque antes precisam deixar o motor do jogo sólido, fazer o jogo ficar realmente bom e passar por um retrabalho grande de interface. Ele contou que só adicionar suporte a controle já tomou bastante trabalho da equipe.\n🔹 Nas palavras dele, lançar em console é uma empreitada gigante pra eles, nada simples como em outros jogos, porque também significa aumentar o time e lidar com mais problema.\n🔹 Ele deixou claro que console importa pro longo prazo, só que agora o foco 100% é PC.\n\nResumindo, por enquanto o Hytale é só PC, sem previsão de celular e com console de olho lá na frente, não agora.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "📱🎮 HYTALE VAI SAIR PRA CELULAR E CONSOLE? A RESPOSTA OFICIAL DO SIMON\n\nPergunta que chega toda hora, então vale registrar com fonte oficial.\n\n🔸 Celular, perguntaram direto pro Simon e ele respondeu que não vai acontecer tão cedo.\n🔸 Console, ele disse que hoje é baixa prioridade, porque antes precisam deixar o motor do jogo sólido e passar por um retrabalho grande de interface. Só o suporte a controle já tomou bastante trabalho da equipe.\n🔹 Pra ele, console é uma empreitada gigante, não simples como em outros jogos, e importa pro longo prazo, mas agora o foco é 100% PC.\n\nResumindo, por enquanto é só PC, sem previsão de celular e console de olho lá na frente.\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "site-worldgen-v2-explicado",
     "rodada": "2026-08-08 09:46",
     "emoji": "🌍",
