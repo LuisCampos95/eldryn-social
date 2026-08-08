@@ -6,6 +6,48 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "x06-airijko-arena",
+    "rodada": "2026-08-08 09:42",
+    "emoji": "⚔️",
+    "titulo": "[X] Arena Infinita nova do Endless Leveling (Airijko)",
+    "fonte": "https://x.com/airijko/status/2085852807211463015",
+    "fonteData": "06/08/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIACAO DA COMUNIDADE (Twitter). Autor @airijko. VIDEO baixado em midia/twitter/airijko_infinite_arena.mp4. No X, RT/quote. No Meta, postar o video. Credito 🎥 @airijko.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/airijko/status/2085852807211463015",
+      "tweetId": "2085852807211463015",
+      "tweetAutor": "@airijko",
+      "tweetTexto": "Infinite Arena Test - Endless Leveling. Gameplay footage of our new Infinite Arena",
+      "video": "midia/twitter/airijko_infinite_arena.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/airijko_infinite_arena.mp4. No X, RT/quote do @airijko. No Meta, postar o video. Credito 🎥 @airijko."
+    },
+    "twitter": "⚔️ UM MOD GANHOU UMA ARENA INFINITA DE COMBATE NO HYTALE\n\nO Airijko mostrou a Infinite Arena nova do mod Endless Leveling, uma arena sem fim pra você encarar onda atrás de onda de inimigo e testar o seu build.\n\n🎥 @airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ UM MOD GANHOU UMA ARENA INFINITA DE COMBATE NO HYTALE\n\nO Airijko mostrou a Infinite Arena nova do mod Endless Leveling, uma arena sem fim pra você encarar onda atrás de onda de inimigo e testar o seu build.\n\n🎥 @airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "x06-digubigule-transmog",
+    "rodada": "2026-08-08 09:42",
+    "emoji": "👕",
+    "titulo": "[X] Sistema de transmog feito por modder (digubigule)",
+    "fonte": "https://x.com/digubigule/status/2085861970176049512",
+    "fonteData": "06/08/2026",
+    "confiabilidade": "comunidade",
+    "resumo": "CRIACAO DA COMUNIDADE (Twitter). Autor @digubigule. VIDEO baixado em midia/twitter/digubigule_transmog.mp4. No X, RT/quote. No Meta, postar o video. Credito 🎥 @digubigule.",
+    "midia": {
+      "tipo": "tweet",
+      "url": "https://x.com/digubigule/status/2085861970176049512",
+      "tweetId": "2085861970176049512",
+      "tweetAutor": "@digubigule",
+      "tweetTexto": "Recently, I built a Transmog system! Now you can wear the look you want.",
+      "video": "midia/twitter/digubigule_transmog.mp4",
+      "nota": "VIDEO JA BAIXADO em midia/twitter/digubigule_transmog.mp4. No X, RT/quote do @digubigule. No Meta, postar o video. Credito 🎥 @digubigule."
+    },
+    "twitter": "👕 UM MODDER FEZ UM SISTEMA DE TRANSMOG PRO HYTALE\n\nO digubigule construiu um sistema de transmog, onde você usa a aparência de um equipamento mantendo o poder de outro, pra deixar o personagem com o visual que quiser sem perder status.\n\n🎥 @digubigule\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "👕 UM MODDER FEZ UM SISTEMA DE TRANSMOG PRO HYTALE\n\nO digubigule construiu um sistema de transmog, onde você usa a aparência de um equipamento mantendo o poder de outro, pra deixar o personagem com o visual que quiser sem perder status.\n\n🎥 @digubigule\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "cf-mods-semana-2026-08-05",
     "rodada": "2026-08-08 09:40",
     "emoji": "🔧",
