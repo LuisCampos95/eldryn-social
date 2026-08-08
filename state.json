@@ -229,7 +229,8 @@
     "https://www.curseforge.com/hytale/mods/metallurgy-2",
     "https://www.curseforge.com/hytale/mods/mighty-staffs",
     "https://www.curseforge.com/hytale/mods/fullmetal-labyrinth",
-    "https://www.curseforge.com/hytale/mods/morts-wandering-merchant"
+    "https://www.curseforge.com/hytale/mods/morts-wandering-merchant",
+    "https://hytale.com/news/2026/7/community-spotlight-worldgen-v2"
   ],
   "knownPages": [
     "https://hytale.com/game",
@@ -317,8 +318,9 @@
     "https://hytale.com/news/2026/5/hytale-new-worlds-modding-contest-retrospective",
     "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
     "https://hytale.com/news/2026/5/update-5-patch-notes",
-    "https://hytale.com/news/2026/7/first-look-chapter-1-and-more"
+    "https://hytale.com/news/2026/7/first-look-chapter-1-and-more",
+    "https://hytale.com/news/2026/7/community-spotlight-worldgen-v2"
   ],
-  "ultimoPatchVisto": "2026-07-30 (Update 6 Parte 10, prefab holograma + auto-recuperacao de servidor + fix de seguranca)",
-  "lastRun": "2026-07-31T16:10:19-03:00"
+  "ultimoPatchVisto": "2026-08-06 (Update 6 Parte 11, 5 modos hardcore/Nine Lives + rotacao prefab + marcador escondido + Trig worldgen)",
+  "lastRun": "2026-08-08T09:35:50-03:00"
 }
